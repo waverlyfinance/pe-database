@@ -1,0 +1,1889 @@
+{
+  "WorkWave": {
+    "country": "United States",
+    "entryDate": "2020-08-14",
+    "url": "https://eqtgroup.com/current-portfolio/workwave/",
+    "sector": "Technology",
+    "fund": [
+      "EQT IX",
+      "EQT VIII"
+    ]
+  },
+  "Karo Healthcare": {
+    "country": "Sweden",
+    "entryDate": "2019-01-16",
+    "url": "https://eqtgroup.com/current-portfolio/karo-healthcare/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "World Freight Company": {
+    "country": "Pan-Asia",
+    "entryDate": "2018-08-02",
+    "url": "https://eqtgroup.com/current-portfolio/world-freight-company/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "AGS Health": {
+    "country": "India",
+    "entryDate": "2019-04-25",
+    "url": "https://eqtgroup.com/current-portfolio/ags-health/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Kuoni Group / VFS Global": {
+    "country": "Switzerland",
+    "entryDate": "2016-05-18",
+    "url": "https://eqtgroup.com/current-portfolio/kuoni-group-vfs-global/",
+    "sector": "Services",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Ariceum Therapeutics": {
+    "country": "Germany",
+    "entryDate": "2021-03-06",
+    "url": "https://eqtgroup.com/current-portfolio/ariceum-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Fundamental VR": {
+    "country": "United Kingdom",
+    "entryDate": "2022-03-15",
+    "url": "https://eqtgroup.com/current-portfolio/fundamental-vr/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "HMI Group": {
+    "country": "Singapore",
+    "entryDate": "2019-12-11",
+    "url": "https://eqtgroup.com/current-portfolio/hmi-group/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Osmose Utilities Services, Inc.": {
+    "country": "United States",
+    "entryDate": "2019-01-09",
+    "url": "https://eqtgroup.com/current-portfolio/osmose-utilities-services-inc/",
+    "sector": "Energy & Environmental",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "IGT Solutions": {
+    "country": "India",
+    "entryDate": "2022-06-22",
+    "url": "https://eqtgroup.com/current-portfolio/igt-solutions/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VIII"
+    ]
+  },
+  "Cypress Creek": {
+    "country": "United States",
+    "entryDate": "2021-10-08",
+    "url": "https://eqtgroup.com/current-portfolio/cypress-creek/",
+    "sector": "Energy",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "MHC Asia": {
+    "country": "Singapore",
+    "entryDate": "2019-03-06",
+    "url": "https://eqtgroup.com/current-portfolio/mhc-asia/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Pioneer": {
+    "country": "Japan",
+    "entryDate": "2019-03-08",
+    "url": "https://eqtgroup.com/current-portfolio/pioneer/",
+    "sector": "Industrial Tech",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI",
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Vivasure": {
+    "country": "Ireland",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/vivasure/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1"
+    ]
+  },
+  "Solarpack": {
+    "country": "Spain",
+    "entryDate": "2021-12-23",
+    "url": "https://eqtgroup.com/current-portfolio/solarpack/",
+    "sector": "Energy",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Beijer Ref": {
+    "country": "Sweden",
+    "entryDate": "2020-12-07",
+    "url": "https://eqtgroup.com/current-portfolio/beijer-ref/",
+    "sector": "Services",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Cast & Crew": {
+    "country": "United States",
+    "entryDate": "2018-12-12",
+    "url": "https://eqtgroup.com/current-portfolio/cast-and-crew/",
+    "sector": "Services",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Kodiak Gas Services": {
+    "country": "United States",
+    "entryDate": "2019-02-13",
+    "url": "https://eqtgroup.com/current-portfolio/kodiak-gas-services/",
+    "sector": "Energy & Environmental",
+    "fund": [
+      "EQT Infrastructure III"
+    ]
+  },
+  "Icon Group": {
+    "country": "Australia",
+    "entryDate": "2022-03-31",
+    "url": "https://eqtgroup.com/current-portfolio/icon-group/",
+    "sector": "Healthcare ",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Perfuze": {
+    "country": "Ireland",
+    "entryDate": "2022-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/perfuze/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "AviadoBio": {
+    "country": "United Kingdom",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/aviadobio/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP Dementia"
+    ]
+  },
+  "Nobi": {
+    "country": "Belgium",
+    "entryDate": "2022-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/nobi/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2",
+      "LSP Dementia"
+    ]
+  },
+  "Muna Therapeutics": {
+    "country": "Denmark",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/muna-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP Dementia"
+    ]
+  },
+  "Egle Therapeutics": {
+    "country": "France",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/egle-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Evommune": {
+    "country": "United States",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/evommune/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "DOTS Technology": {
+    "country": "United States",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/dots-technology/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "Concept ": {
+    "country": "France",
+    "entryDate": "2018-12-12",
+    "url": "https://eqtgroup.com/current-portfolio/concept/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "Saturn": {
+    "country": "United Kingdom",
+    "entryDate": "2020-09-09",
+    "url": "https://eqtgroup.com/current-portfolio/saturn/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "ManyPets": {
+    "country": "United Kingdom",
+    "entryDate": "2021-06-01",
+    "url": "https://eqtgroup.com/current-portfolio/manypets/",
+    "sector": "Insurance",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Azelis": {
+    "country": "Luxembourg",
+    "entryDate": "2018-11-08",
+    "url": "https://eqtgroup.com/current-portfolio/azelis/",
+    "sector": "Services",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Lumeon": {
+    "country": "United Kingdom",
+    "entryDate": "2018-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/lumeon/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "Nkarta": {
+    "country": "United States",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/nkarta/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "UTA": {
+    "country": "United States",
+    "entryDate": "2022-08-11",
+    "url": "https://eqtgroup.com/current-portfolio/uta/",
+    "sector": "Services",
+    "fund": []
+  },
+  "Dellner Couplers": {
+    "country": "Sweden",
+    "entryDate": "2019-06-12",
+    "url": "https://eqtgroup.com/current-portfolio/dellner-couplers/",
+    "sector": "Industrial Technology",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "WS Audiology": {
+    "country": "Denmark",
+    "entryDate": "2019-02-13",
+    "url": "https://eqtgroup.com/current-portfolio/ws-audiology/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT VII",
+      "EQT VIII"
+    ]
+  },
+  "Solera": {
+    "country": "Cross Border",
+    "entryDate": "2016-03-01",
+    "url": "https://eqtgroup.com/current-portfolio/solera/",
+    "sector": "Technology",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "Idealista": {
+    "country": "Spain",
+    "entryDate": "2020-11-18",
+    "url": "https://eqtgroup.com/current-portfolio/idealista/",
+    "sector": "Technology",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "IFS": {
+    "country": "Sweden",
+    "entryDate": "2020-09-16",
+    "url": "https://eqtgroup.com/current-portfolio/ifs-world/",
+    "sector": "Technology",
+    "fund": [
+      "EQT IX",
+      "EQT VIII"
+    ]
+  },
+  "Waystar": {
+    "country": "United States",
+    "entryDate": "2019-10-16",
+    "url": "https://eqtgroup.com/current-portfolio/waystar/",
+    "sector": "Technology",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Zayo": {
+    "country": "United States",
+    "entryDate": "2020-03-11",
+    "url": "https://eqtgroup.com/current-portfolio/zayo/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "Nexon Asia Pacific": {
+    "country": "Australia",
+    "entryDate": "2019-07-10",
+    "url": "https://eqtgroup.com/current-portfolio/nexon-asia-pacific/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Billtrust": {
+    "country": "United States",
+    "entryDate": "2022-12-16",
+    "url": "https://eqtgroup.com/current-portfolio/billtrust/",
+    "sector": "Technology",
+    "fund": []
+  },
+  "Imcyse": {
+    "country": "Belgium",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/imcyse/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Zeus": {
+    "country": "United States",
+    "entryDate": "2024-02-28",
+    "url": "https://eqtgroup.com/current-portfolio/zeus/",
+    "sector": "Healthcare",
+    "fund": []
+  },
+  "Encyclis": {
+    "country": "UK and Ireland",
+    "entryDate": "2021-11-16",
+    "url": "https://eqtgroup.com/current-portfolio/encyclis/",
+    "sector": "Environmental",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Recover": {
+    "country": "Norway",
+    "entryDate": "2020-03-18",
+    "url": "https://eqtgroup.com/current-portfolio/recover/",
+    "sector": "Services",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Oterra": {
+    "country": "Denmark",
+    "entryDate": "2021-03-17",
+    "url": "https://eqtgroup.com/current-portfolio/oterra/",
+    "sector": "Industrial Technology",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "ILA Vietnam": {
+    "country": "Vietnam",
+    "entryDate": "2017-07-12",
+    "url": "https://eqtgroup.com/current-portfolio/ila-vietnam/",
+    "sector": "Services",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Colisee": {
+    "country": "France",
+    "entryDate": "2020-11-18",
+    "url": "https://eqtgroup.com/current-portfolio/colisee/",
+    "sector": "Social",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Vico Therapeutics": {
+    "country": "Belgium",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/vico-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Binx Health": {
+    "country": "United Kingdom",
+    "entryDate": "2011-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/binx-health/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 4",
+      "LSP 6"
+    ]
+  },
+  "Ottobock": {
+    "country": "Germany",
+    "entryDate": "2017-11-08",
+    "url": "https://eqtgroup.com/current-portfolio/ottobock/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Lazer Logistics": {
+    "country": "United States ",
+    "entryDate": "2023-05-15",
+    "url": "https://eqtgroup.com/current-portfolio/lazer-logistics/",
+    "sector": "Transport and Logistics",
+    "fund": []
+  },
+  "Neurent Medical": {
+    "country": "Ireland",
+    "entryDate": "2020-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/neurent-medical/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "Freepik": {
+    "country": "Spain",
+    "entryDate": "2020-07-08",
+    "url": "https://eqtgroup.com/current-portfolio/freepik/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "Minerva": {
+    "country": "Italy",
+    "entryDate": "2021-03-17",
+    "url": "https://eqtgroup.com/current-portfolio/minerva/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "3Shape": {
+    "country": "Denmark",
+    "entryDate": "2022-01-19",
+    "url": "https://eqtgroup.com/current-portfolio/3shape/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Endotronix": {
+    "country": "United States",
+    "entryDate": "2018-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/endotronix/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "SNIPR Biome": {
+    "country": "Denmark",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/snipr-biome/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Orphazyme": {
+    "country": "Denmark",
+    "entryDate": "2017-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/orphazyme/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "O2 Power": {
+    "country": "India",
+    "entryDate": "2020-01-08",
+    "url": "https://eqtgroup.com/current-portfolio/o2-power/",
+    "sector": "Energy",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "Vinted": {
+    "country": "Lithuania",
+    "entryDate": "2021-05-03",
+    "url": "https://eqtgroup.com/current-portfolio/vinted/",
+    "sector": "Consumer",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Pharvaris": {
+    "country": "Germany",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/pharvaris/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "AM-Pharma": {
+    "country": "Netherlands",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/am-pharma/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Sequana Medical": {
+    "country": "Belgium",
+    "entryDate": "2014-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/sequana-medical/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1"
+    ]
+  },
+  "Artios Pharma": {
+    "country": "United Kingdom",
+    "entryDate": "2018-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/artios-pharma/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Guardian Shanghai Hygiene Service Ltd.": {
+    "country": "China",
+    "entryDate": "2022-03-22",
+    "url": "https://eqtgroup.com/current-portfolio/guardian-shanghai-hygiene-service-ltd/",
+    "sector": "Services",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "iStar Medical": {
+    "country": "Belgium",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/istar-medical/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "FoRx Therapeutics": {
+    "country": "Switzerland",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/forx-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Vicentra": {
+    "country": "Netherlands",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/vicentra/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2",
+      "LSP 5",
+      "LSP HEF 1"
+    ]
+  },
+  "HotSpot Therapeutics": {
+    "country": "United States",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/hotspot-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Campus ": {
+    "country": "Spain",
+    "entryDate": "2021-05-12",
+    "url": "https://eqtgroup.com/current-portfolio/campus/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "Immunic": {
+    "country": "Germany",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/immunic/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "OxThera": {
+    "country": "Sweden",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/oxthera/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Parques Reunidos": {
+    "country": "Spain",
+    "entryDate": "2019-09-18",
+    "url": "https://eqtgroup.com/current-portfolio/parques-reunidos/",
+    "sector": "Social",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "InstaVolt": {
+    "country": "United Kingdom",
+    "entryDate": "2022-03-09",
+    "url": "https://eqtgroup.com/current-portfolio/instavolt/",
+    "sector": "Energy",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Merus": {
+    "country": "Netherlands",
+    "entryDate": "2010-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/merus/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 4"
+    ]
+  },
+  "Illuminoss": {
+    "country": "United States",
+    "entryDate": "2012-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/illuminoss/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1"
+    ]
+  },
+  "Cerba Healthcare": {
+    "country": "France",
+    "entryDate": "2021-06-08",
+    "url": "https://eqtgroup.com/current-portfolio/cerba-healthcare/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Anticimex": {
+    "country": "Sweden",
+    "entryDate": "2021-10-13",
+    "url": "https://eqtgroup.com/current-portfolio/anticimex-future/",
+    "sector": "Services",
+    "fund": []
+  },
+  "ImCheck": {
+    "country": "France",
+    "entryDate": "2017-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/imcheck/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Eloxx Pharma": {
+    "country": "United States/Israel",
+    "entryDate": "2017-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/eloxx-pharma/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Vectura (Activaero)": {
+    "country": "Germany",
+    "entryDate": "2011-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/vectura-activaero/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 4"
+    ]
+  },
+  "Smart Parc": {
+    "country": "France",
+    "entryDate": "2016-07-06",
+    "url": "https://eqtgroup.com/current-portfolio/smart-parc/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "ONWARD": {
+    "country": "Netherlands",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/onward/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "XyloCor Therapeutics": {
+    "country": "United States",
+    "entryDate": "2018-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/xylocor-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Innovative Molecules": {
+    "country": "Germany ",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/innovative-molecules/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Long-Spring Education Group": {
+    "country": "China",
+    "entryDate": "2016-11-16",
+    "url": "https://eqtgroup.com/current-portfolio/long-spring-education-group/",
+    "sector": "Services",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Kuros": {
+    "country": "Switzerland",
+    "entryDate": "2015-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/kuros/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "T-Knife": {
+    "country": "Germany",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/t-knife/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Svenska Verksamhetsfastigheter": {
+    "country": "Sweden",
+    "entryDate": "2019-07-17",
+    "url": "https://eqtgroup.com/current-portfolio/svenska-verksamhetsfastigheter/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "eTheRNA": {
+    "country": "Belgium",
+    "entryDate": "2016-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/etherna/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Arvelle Therapeutics": {
+    "country": "Netherlands",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/arvelle-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Xilis": {
+    "country": "United States",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/xilis/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Amolyt Pharma": {
+    "country": "France",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/amolyt-pharma/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Nest": {
+    "country": "France",
+    "entryDate": "2019-03-06",
+    "url": "https://eqtgroup.com/current-portfolio/nest/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "Medeye": {
+    "country": "Netherlands",
+    "entryDate": "2014-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/medeye/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1"
+    ]
+  },
+  "Atricom and Le B\u00fcro": {
+    "country": "Germany",
+    "entryDate": "2017-10-06",
+    "url": "https://eqtgroup.com/current-portfolio/atricom-and-le-buero/",
+    "sector": "Consumer",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "Visus Therapeutics": {
+    "country": "United States",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/visus-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "Cardiac dimensions": {
+    "country": "United States",
+    "entryDate": "2015-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/cardiac-dimensions/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1"
+    ]
+  },
+  "Nouscom": {
+    "country": "Switzerland",
+    "entryDate": "2015-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/nouscom/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "VarmX": {
+    "country": "Netherlands",
+    "entryDate": "2020-01-03",
+    "url": "https://eqtgroup.com/current-portfolio/varmx/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "IVC Evidensia": {
+    "country": "United Kingdom",
+    "entryDate": "2014-10-15",
+    "url": "https://eqtgroup.com/current-portfolio/ivc-evidensia/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT VII",
+      "EQT IX"
+    ]
+  },
+  "Trescal": {
+    "country": "France",
+    "entryDate": "2023-05-04",
+    "url": "https://eqtgroup.com/current-portfolio/trescal/",
+    "sector": "Transport and Logistics",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Eyesense": {
+    "country": "Switzerland",
+    "entryDate": "2006-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/eyesense/",
+    "sector": "Healthcare",
+    "fund": []
+  },
+  "Vivoryon Therapeutics": {
+    "country": "Germany",
+    "entryDate": "2009-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/vivoryon-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 4"
+    ]
+  },
+  "China Shine": {
+    "country": "China",
+    "entryDate": "2019-01-09",
+    "url": "https://eqtgroup.com/current-portfolio/china-shine/",
+    "sector": "Services",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Artwall": {
+    "country": "China",
+    "entryDate": "2018-11-08",
+    "url": "https://eqtgroup.com/current-portfolio/artwall/",
+    "sector": "Consumer",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "One Projects": {
+    "country": "Ireland/Germany",
+    "entryDate": "2020-01-03",
+    "url": "https://eqtgroup.com/current-portfolio/one-projects/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "DNA Script": {
+    "country": "France",
+    "entryDate": "2019-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/dna-script/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 6"
+    ]
+  },
+  "New Amsterdam Pharma": {
+    "country": "Netherlands",
+    "entryDate": "2021-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/new-amsterdam-pharma/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP Dementia"
+    ]
+  },
+  "SK Shieldus": {
+    "country": "South Korea ",
+    "entryDate": "2023-07-20",
+    "url": "https://eqtgroup.com/current-portfolio/sk-shieldus/",
+    "sector": "Technology ",
+    "fund": []
+  },
+  "Covanta": {
+    "country": "United States",
+    "entryDate": "2021-11-30",
+    "url": "https://eqtgroup.com/current-portfolio/covanta/",
+    "sector": "Environmental",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Eton": {
+    "country": "Sweden",
+    "entryDate": "2016-01-06",
+    "url": "https://eqtgroup.com/current-portfolio/eton/",
+    "sector": "Consumer goods",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Cardior": {
+    "country": "Germany",
+    "entryDate": "2017-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/cardior/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Atlantic Therapeutics": {
+    "country": "Ireland",
+    "entryDate": "2018-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/atlantic-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 2"
+    ]
+  },
+  "Zealand Pharma": {
+    "country": "Denmark",
+    "entryDate": "2005-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/zealand-pharma/",
+    "sector": "Healthcare",
+    "fund": []
+  },
+  "IntegrityNext": {
+    "country": "Germany",
+    "entryDate": "2023-03-23",
+    "url": "https://eqtgroup.com/current-portfolio/integritynext/",
+    "sector": "Climate",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Parcel2Go": {
+    "country": "United Kingdom ",
+    "entryDate": "2021-07-01",
+    "url": "https://eqtgroup.com/current-portfolio/parcel2go/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "SAUR": {
+    "country": "France",
+    "entryDate": "2018-11-14",
+    "url": "https://eqtgroup.com/current-portfolio/saur/",
+    "sector": "Environmental",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "BLOOM Fresh International": {
+    "country": "United Kingdom",
+    "entryDate": "2023-08-16",
+    "url": "https://eqtgroup.com/current-portfolio/bloom-fresh-international/",
+    "sector": "Food Technology",
+    "fund": []
+  },
+  "Allee Center": {
+    "country": "Germany",
+    "entryDate": "2018-08-07",
+    "url": "https://eqtgroup.com/current-portfolio/alleecenter/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "Mambu": {
+    "country": "The Netherlands",
+    "entryDate": "2021-12-15",
+    "url": "https://eqtgroup.com/current-portfolio/mambu/",
+    "sector": "Fintech",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "DELTA Fiber": {
+    "country": "Netherlands",
+    "entryDate": "2022-02-15",
+    "url": "https://eqtgroup.com/current-portfolio/delta-fiber/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Metlifecare": {
+    "country": "New Zealand",
+    "entryDate": "2020-11-18",
+    "url": "https://eqtgroup.com/current-portfolio/metlifecare/",
+    "sector": "Social",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "Galderma": {
+    "country": "Switzerland",
+    "entryDate": "2019-10-16",
+    "url": "https://eqtgroup.com/current-portfolio/galderma/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Indesso": {
+    "country": "Indonesia",
+    "entryDate": "2021-05-21",
+    "url": "https://eqtgroup.com/current-portfolio/indesso/",
+    "sector": "Industrial Technology",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Open Systems": {
+    "country": "Switzerland",
+    "entryDate": "2017-06-14",
+    "url": "https://eqtgroup.com/current-portfolio/open-systems/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "CYE": {
+    "country": "Israel",
+    "entryDate": "2021-02-10",
+    "url": "https://eqtgroup.com/current-portfolio/cye/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "thinkproject": {
+    "country": "Germany",
+    "entryDate": "2020-12-15",
+    "url": "https://eqtgroup.com/current-portfolio/thinkproject/",
+    "sector": "Technology",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Recipharm": {
+    "country": "Sweden",
+    "entryDate": "2021-02-10",
+    "url": "https://eqtgroup.com/current-portfolio/recipharm/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Impro Precision": {
+    "country": "Greater China",
+    "entryDate": "2011-11-28",
+    "url": "https://eqtgroup.com/current-portfolio/impro-precision/",
+    "sector": "Industrial",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "CMS Info Systems": {
+    "country": "India",
+    "entryDate": "2015-08-27",
+    "url": "https://eqtgroup.com/current-portfolio/cms-info-systems/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "Shengmu Organic Milk": {
+    "country": "Greater China",
+    "entryDate": "2014-01-07",
+    "url": "https://eqtgroup.com/current-portfolio/shengmu-organic-milk/",
+    "sector": "Consumer",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "Acuon Capital": {
+    "country": "Korea",
+    "entryDate": "2019-08-01",
+    "url": "https://eqtgroup.com/current-portfolio/acuon-capital/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Tricor": {
+    "country": "Pan-Asia",
+    "entryDate": "2022-06-22",
+    "url": "https://eqtgroup.com/current-portfolio/tricor/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VIII"
+    ]
+  },
+  "Straive": {
+    "country": "Southeast Asia/India",
+    "entryDate": "2021-10-28",
+    "url": "https://eqtgroup.com/current-portfolio/straive/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Ginko": {
+    "country": "Greater China",
+    "entryDate": "2022-04-14",
+    "url": "https://eqtgroup.com/current-portfolio/ginko/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Lumenis": {
+    "country": "Cross Border",
+    "entryDate": "2020-02-14",
+    "url": "https://eqtgroup.com/current-portfolio/lumenis/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "RBL Bank": {
+    "country": "India",
+    "entryDate": "2020-11-12",
+    "url": "https://eqtgroup.com/current-portfolio/rbl-bank/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "WASH": {
+    "country": "United States",
+    "entryDate": "2015-05-06",
+    "url": "https://eqtgroup.com/current-portfolio/wash/",
+    "sector": "Services",
+    "fund": [
+      "EQT Infrastructure II"
+    ]
+  },
+  "Radius": {
+    "country": "United States",
+    "entryDate": "2023-09-01",
+    "url": "https://eqtgroup.com/current-portfolio/radius/",
+    "sector": "Technology",
+    "fund": []
+  },
+  "Magnit": {
+    "country": "United States ",
+    "entryDate": "2021-10-20",
+    "url": "https://eqtgroup.com/current-portfolio/magnit/",
+    "sector": "Services",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Dunlop": {
+    "country": "The Netherlands",
+    "entryDate": "2018-06-13",
+    "url": "https://eqtgroup.com/current-portfolio/dunlop/",
+    "sector": "Industrial Technology ",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "MinervaX": {
+    "country": "Denmark",
+    "entryDate": "2023-12-01",
+    "url": "https://eqtgroup.com/current-portfolio/minervax/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Statera": {
+    "country": "United Kingdom",
+    "entryDate": "2024-01-08",
+    "url": "https://eqtgroup.com/current-portfolio/statera/",
+    "sector": "Energy",
+    "fund": []
+  },
+  "Epidemic Sound": {
+    "country": "Sweden",
+    "entryDate": "2017-12-06",
+    "url": "https://eqtgroup.com/current-portfolio/epidemic-sound/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "GotPhoto": {
+    "country": "Germany",
+    "entryDate": "2023-05-22",
+    "url": "https://eqtgroup.com/current-portfolio/gotphoto/",
+    "sector": "Consumer",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Madison Energy Infrastructure": {
+    "country": "United States",
+    "entryDate": "2023-10-01",
+    "url": "https://eqtgroup.com/current-portfolio/madison-energy/",
+    "sector": "Energy",
+    "fund": []
+  },
+  "EC-Council": {
+    "country": "Singapore",
+    "entryDate": "2021-10-04",
+    "url": "https://eqtgroup.com/current-portfolio/ec-council/",
+    "sector": "Services",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "SHL Medical": {
+    "country": "Switzerland",
+    "entryDate": "2023-01-03",
+    "url": "https://eqtgroup.com/current-portfolio/shl-medical/",
+    "sector": "Healthcare",
+    "fund": []
+  },
+  "Rich Healthcare": {
+    "country": "Greater China",
+    "entryDate": "2014-09-30",
+    "url": "https://eqtgroup.com/current-portfolio/rich-healthcare/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "Parexel": {
+    "country": "United States ",
+    "entryDate": "2021-11-15",
+    "url": "https://eqtgroup.com/current-portfolio/parexel/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "SPT Labtech": {
+    "country": "United Kingdom",
+    "entryDate": "2022-08-10",
+    "url": "https://eqtgroup.com/current-portfolio/spt-labtech/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Shinobi Therapeutics": {
+    "country": "USA/Japan",
+    "entryDate": "2023-11-01",
+    "url": "https://eqtgroup.com/current-portfolio/shinobi-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Tion Renewables": {
+    "country": "Germany",
+    "entryDate": "2023-12-01",
+    "url": "https://eqtgroup.com/current-portfolio/tion-renewables-ag/",
+    "sector": "Energy",
+    "fund": []
+  },
+  "Agomab Therapeutics": {
+    "country": "Belgium",
+    "entryDate": "2023-11-01",
+    "url": "https://eqtgroup.com/current-portfolio/agomab-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 7"
+    ]
+  },
+  "Banking Circle": {
+    "country": "Luxembourg",
+    "entryDate": "2018-07-09",
+    "url": "https://eqtgroup.com/current-portfolio/banking-circle/",
+    "sector": "Technology",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Southside": {
+    "country": "Sweden",
+    "entryDate": "2018-06-06",
+    "url": "https://eqtgroup.com/current-portfolio/southside/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "Aelin Therapeutics": {
+    "country": "Belgium",
+    "entryDate": "2017-01-04",
+    "url": "https://eqtgroup.com/current-portfolio/aelin-therapeutics/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP 5"
+    ]
+  },
+  "Unum": {
+    "country": "Sweden",
+    "entryDate": "2016-11-16",
+    "url": "https://eqtgroup.com/current-portfolio/unum/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate I"
+    ]
+  },
+  "Stend\u00f6rren": {
+    "country": "Sweden",
+    "entryDate": "2018-12-12",
+    "url": "https://eqtgroup.com/current-portfolio/stendoerren/",
+    "sector": "Real Estate",
+    "fund": [
+      "EQT Real Estate II"
+    ]
+  },
+  "Deutsche Glasfaser": {
+    "country": "Germany",
+    "entryDate": "2019-11-06",
+    "url": "https://eqtgroup.com/current-portfolio/deutsche-glasfaser/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "TELUS International": {
+    "country": "Southeast Asia",
+    "entryDate": "2016-05-31",
+    "url": "https://eqtgroup.com/current-portfolio/telus-international/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "Gympass": {
+    "country": "United States",
+    "entryDate": "2023-08-23",
+    "url": "https://eqtgroup.com/current-portfolio/gympass/",
+    "sector": "HealthTech",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Hantverksdata": {
+    "country": "Sweden",
+    "entryDate": "2024-03-01",
+    "url": "https://eqtgroup.com/current-portfolio/hantverksdata/",
+    "sector": "Technology",
+    "fund": []
+  },
+  "Mollie": {
+    "country": "Netherlands",
+    "entryDate": "2021-06-01",
+    "url": "https://eqtgroup.com/current-portfolio/mollie/",
+    "sector": "Fintech",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "Nord Anglia": {
+    "country": "Cross Border",
+    "entryDate": "2017-09-01",
+    "url": "https://eqtgroup.com/current-portfolio/nord-anglia/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "TBS Energi (fka Toba Bara)": {
+    "country": "Indonesia",
+    "entryDate": "2012-07-04",
+    "url": "https://eqtgroup.com/current-portfolio/tbs-energi-fka-toba-bara/",
+    "sector": "Resources & Construction",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "Wall Street English": {
+    "country": "Greater China",
+    "entryDate": "2018-08-02",
+    "url": "https://eqtgroup.com/current-portfolio/wall-street-english/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "AIG Hospitals": {
+    "country": "India",
+    "entryDate": "2022-04-12",
+    "url": "https://eqtgroup.com/current-portfolio/aig-hospitals/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Codemao": {
+    "country": "Greater China",
+    "entryDate": "2020-11-17",
+    "url": "https://eqtgroup.com/current-portfolio/codemao/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Hutchmed": {
+    "country": "Greater China",
+    "entryDate": "2021-04-14",
+    "url": "https://eqtgroup.com/current-portfolio/hutchmed/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "The CrownX": {
+    "country": "Southeast Asia",
+    "entryDate": "2021-06-11",
+    "url": "https://eqtgroup.com/current-portfolio/the-crownx/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Cue": {
+    "country": "Greater China",
+    "entryDate": "2021-11-15",
+    "url": "https://eqtgroup.com/current-portfolio/cue/",
+    "sector": "Technology",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Citius Tech": {
+    "country": "India",
+    "entryDate": "2019-09-25",
+    "url": "https://eqtgroup.com/current-portfolio/citius-tech/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Melita": {
+    "country": "Malta",
+    "entryDate": "2019-07-10",
+    "url": "https://eqtgroup.com/current-portfolio/melita/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure IV"
+    ]
+  },
+  "SUSE": {
+    "country": "Germany",
+    "entryDate": "2019-03-13",
+    "url": "https://eqtgroup.com/current-portfolio/suse/",
+    "sector": "Technology",
+    "fund": [
+      "EQT VIII"
+    ]
+  },
+  "Nordic Ferry Infrastructure": {
+    "country": "Norway, Denmark, Sweden",
+    "entryDate": "2021-02-01",
+    "url": "https://eqtgroup.com/current-portfolio/nordic-ferry-infrastructure/",
+    "sector": "Transport & Logistics",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "Kyobo Life Insurance": {
+    "country": "Korea",
+    "entryDate": "2012-09-05",
+    "url": "https://eqtgroup.com/current-portfolio/kyobo-life-insurance/",
+    "sector": "Financial Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "AstronautX": {
+    "country": "United Kingdom",
+    "entryDate": "2023-11-01",
+    "url": "https://eqtgroup.com/current-portfolio/astronautx/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP Dementia"
+    ]
+  },
+  "Euclid": {
+    "country": "Greater China",
+    "entryDate": "2022-02-08",
+    "url": "https://eqtgroup.com/current-portfolio/euclid/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Ardoq": {
+    "country": "Norway",
+    "entryDate": "2022-03-15",
+    "url": "https://eqtgroup.com/current-portfolio/ardoq/",
+    "sector": "Enterprise Tech",
+    "fund": [
+      "EQT Growth"
+    ]
+  },
+  "JD Health": {
+    "country": "Greater China",
+    "entryDate": "2019-06-28",
+    "url": "https://eqtgroup.com/current-portfolio/jd-health/",
+    "sector": "Technology",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Sagility": {
+    "country": "India",
+    "entryDate": "2022-01-06",
+    "url": "https://eqtgroup.com/current-portfolio/sagility/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VIII"
+    ]
+  },
+  "Xeltis": {
+    "country": "Switzerland",
+    "entryDate": "2014-01-01",
+    "url": "https://eqtgroup.com/current-portfolio/xeltis/",
+    "sector": "Healthcare",
+    "fund": [
+      "LSP HEF 1",
+      "LSP HEF 2"
+    ]
+  },
+  "Acumatica": {
+    "country": "United States",
+    "entryDate": "2019-08-14",
+    "url": "https://eqtgroup.com/current-portfolio/acumatica/",
+    "sector": "Technology",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Heritage Environmental Services": {
+    "country": "United States",
+    "entryDate": "2023-12-01",
+    "url": "https://eqtgroup.com/current-portfolio/heritage-environmental-services/",
+    "sector": "Environmental ",
+    "fund": []
+  },
+  "Indira IVF": {
+    "country": "India",
+    "entryDate": "2023-11-01",
+    "url": "https://eqtgroup.com/current-portfolio/indira-ivf/",
+    "sector": "Healthcare",
+    "fund": [
+      "The Baring Asia Private Equity Fund VIII"
+    ]
+  },
+  "Coforge": {
+    "country": "India",
+    "entryDate": "2019-05-17",
+    "url": "https://eqtgroup.com/current-portfolio/coforge/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Evidia": {
+    "country": "Germany / Scandinavia",
+    "entryDate": "2021-08-31",
+    "url": "https://eqtgroup.com/current-portfolio/evidia/",
+    "sector": "Healthcare",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "RIMES Technologies": {
+    "country": "United Kingdom",
+    "entryDate": "2020-03-18",
+    "url": "https://eqtgroup.com/current-portfolio/rimes-technologies/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Europe"
+    ]
+  },
+  "Fiberklaar": {
+    "country": "Belgium",
+    "entryDate": "2021-03-17",
+    "url": "https://eqtgroup.com/current-portfolio/fiberklaar/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "GlobalConnect": {
+    "country": "Sweden",
+    "entryDate": "2017-02-15",
+    "url": "https://eqtgroup.com/current-portfolio/globalconnect/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure III",
+      "EQT Infrastructure IV"
+    ]
+  },
+  "Bluestep Bank": {
+    "country": "Sweden",
+    "entryDate": "2017-11-13",
+    "url": "https://eqtgroup.com/current-portfolio/bluestep-bank/",
+    "sector": "Services",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Virtusa": {
+    "country": "India",
+    "entryDate": "2021-02-10",
+    "url": "https://eqtgroup.com/current-portfolio/virtusa/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Vietnam-USA Society English Centers (\u201cVUS\u201d)": {
+    "country": "Southeast Asia",
+    "entryDate": "2019-12-13",
+    "url": "https://eqtgroup.com/current-portfolio/vietnam-usa-society-english-centers-vus/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "VBill": {
+    "country": "China",
+    "entryDate": "2019-11-13",
+    "url": "https://eqtgroup.com/current-portfolio/vbill/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Mid Market Asia III"
+    ]
+  },
+  "Horizon Robotics": {
+    "country": "Greater China",
+    "entryDate": "2021-06-11",
+    "url": "https://eqtgroup.com/current-portfolio/horizon-robotics/",
+    "sector": "Industrial Tech",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "TRYT": {
+    "country": "Japan",
+    "entryDate": "2018-12-20",
+    "url": "https://eqtgroup.com/current-portfolio/tryt/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Sitecore": {
+    "country": "Denmark",
+    "entryDate": "2016-05-11",
+    "url": "https://eqtgroup.com/current-portfolio/sitecore/",
+    "sector": "Technology",
+    "fund": [
+      "EQT VII"
+    ]
+  },
+  "Shinhan Financial Group": {
+    "country": "Korea",
+    "entryDate": "2020-09-23",
+    "url": "https://eqtgroup.com/current-portfolio/shinhan-financial-group/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Envirotainer": {
+    "country": "Sweden",
+    "entryDate": "2022-07-29",
+    "url": "https://eqtgroup.com/current-portfolio/envirotainer/",
+    "sector": "Healthcare",
+    "fund": []
+  },
+  "CFC": {
+    "country": "United Kingdom",
+    "entryDate": "2022-05-17",
+    "url": "https://eqtgroup.com/current-portfolio/cfc/",
+    "sector": "Services",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "Virtuos": {
+    "country": "Southeast Asia",
+    "entryDate": "2021-09-02",
+    "url": "https://eqtgroup.com/current-portfolio/virtuos/",
+    "sector": "Technology ",
+    "fund": [
+      "The Baring Asia Private Equity Fund VII"
+    ]
+  },
+  "Levande": {
+    "country": "Australia",
+    "entryDate": "2022-07-29",
+    "url": "https://eqtgroup.com/current-portfolio/levande/",
+    "sector": "Social ",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "First Student and First Transit": {
+    "country": "United States",
+    "entryDate": "2021-07-01",
+    "url": "https://eqtgroup.com/current-portfolio/first-student-and-first-transit/",
+    "sector": "Transport and logistics",
+    "fund": [
+      "EQT Infrastructure V"
+    ]
+  },
+  "SEGRA": {
+    "country": "United States",
+    "entryDate": "2017-11-15",
+    "url": "https://eqtgroup.com/current-portfolio/segra/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure III"
+    ]
+  },
+  "Vistra": {
+    "country": "Cross Border",
+    "entryDate": "2015-10-25",
+    "url": "https://eqtgroup.com/current-portfolio/vistra/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI",
+      "The Baring Asia Private Equity Fund V"
+    ]
+  },
+  "Prometric": {
+    "country": "Cross Border",
+    "entryDate": "2018-01-29",
+    "url": "https://eqtgroup.com/current-portfolio/prometric/",
+    "sector": "Services",
+    "fund": [
+      "The Baring Asia Private Equity Fund VI"
+    ]
+  },
+  "Storable": {
+    "country": "United States",
+    "entryDate": "2021-04-07",
+    "url": "https://eqtgroup.com/current-portfolio/storable/",
+    "sector": "Technology",
+    "fund": [
+      "EQT IX"
+    ]
+  },
+  "EdgeConneX": {
+    "country": "United States",
+    "entryDate": "2020-11-18",
+    "url": "https://eqtgroup.com/current-portfolio/edgeconnex/",
+    "sector": "Technology",
+    "fund": [
+      "EQT Infrastructure IV",
+      "EQT Infrastructure V"
+    ]
+  }
+}

@@ -1,3 +1,4 @@
+import os
 import requests
 from collections import defaultdict
 import json
@@ -85,8 +86,115 @@ def kkr_portcos():
     with open("kkr_portcos_extracted.json", "w") as outfile:
         json.dump(output_dict, outfile, indent=2)
 
+    return output_dict
 
 
+# FOR PERMIRA
+def permira_portcos():
+    # STEP 1: Permira has a JSON file spread across 6 pages. The following code combines them into 1 page 
+    urls = [f"https://www.permira.com/api/portfolio?page={i}&sort=a_z" for i in range(0,5)]
+    headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+    }
+
+    combined_list = []
+
+    for url in urls: 
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            combined_list.extend(data.get("data"))
+        else:
+            print(f"failed to fetch data from {url}")
+
+    # output the JSON file into the "permira_portcos sub-folder"
+    filename = os.path.join("permira_portcos", "permira_portcos.json") 
+    with open(filename, "w") as outfile:
+        json.dump(combined_list, outfile, indent=2)
+
+    # STEP 2: now extract only the fields we care about
+    output_dict = {}
+
+    keys_to_extract = ["name", "description", ]
+
+    # extracts the Name, Description, and the URL
+    for company in combined_list:
+        name = company["name"]
+        output_dict[name] = {
+            "description": company["description"],
+            "url": "https://www.permira.com" + company["cta"]["link"]["url"]
+        }
+
+    filename = os.path.join("permira_portcos", "permira_portcos_extracted.json") 
+    with open(filename, "w") as outfile:
+        json.dump(output_dict, outfile, indent=2)
+
+    #pprint(output_dict)
+
+    # STEP 3: Now send a GET request to each portco's URL. Returns HTML files 
+    portco_urls = [values["url"] for values in output_dict.values()]
+    
+    for url in portco_urls[:5]:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            response = response.text
+            
+            filename_part = url.split('/')[-2] + ".html"
+            filename = os.path.join("permira_portcos\html", filename_part) 
+            with open(filename, "w", encoding="utf-8") as file:
+                file.write(response)
+        else:
+            print(f"failed to fetch data from {url}")
+
+    # TODO: Extract the relevant fields from the HTML files
+
+
+# FOR EQT
+def eqt_portcos():
+    # STEP 1: EQT has a JSON file containing the paths for each portco. NOTE: This is only for CURRENT portcos 
+    url = "https://eqtgroup.com/page-data/current-portfolio/page-data.json"
+    headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+    }
+
+    data = requests.get(url, headers=headers).json()["result"]["data"]["allSanityCompanyPage"]
+
+    # output the JSON file into the subfolder 
+    filename = os.path.join("eqt_portcos", "eqt_portcos.json")
+    with open(filename, "w") as outfile:
+        json.dump(data, outfile, indent=2)
+
+    # STEP 2: Extract the relevant fields
+    output_dict = {}
+
+    for node in data["nodes"]:
+        name = node["title"]
+
+        output_dict[name] = {
+            "country": node["country"],
+            "entryDate": node.get("entryDate"),
+            "url": "https://eqtgroup.com" + node["path"],
+            "sector": node["sector"],
+            "fund": []
+        }
+
+        # there can be 1, 2, 3, or multiple entries for "fund" if there are multiple investments. So need to handle that here: 
+        if node["fund"]:
+            for item in node["fund"]:
+                output_dict[name]["fund"].append(item["title"])
+    
+    # confirm that there are 212 companies, which matches the nodes per Tree Viewer 
+    #len(output_dict.keys()))
+
+    # output as a JSON file
+    filename = os.path.join("eqt_portcos", "eqt_portcos_extracted.json")
+    with open(filename, "w") as outfile:
+        json.dump(output_dict, outfile, indent=2)
+
+
+
+
+
+# Carlyle only has HTML 
 
 
 # TODO: Grabbing press releases from TPG's website is probably not the best approach. 492 articles. Not a good way to search through them based on company
@@ -102,3 +210,7 @@ def grab_releases():
 
 
 
+def main():
+    eqt_portcos()
+
+main()

@@ -1,0 +1,3575 @@
+{
+  "nodes": [
+    {
+      "_id": "2ad70473-2924-4d48-9e09-938ee2926b69",
+      "country": "United States",
+      "entryDate": "2020-08-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/workwave/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "WorkWave",
+      "topic": null
+    },
+    {
+      "_id": "1108b4d9-6102-497c-b1b9-21b51b63dcc9",
+      "country": "Sweden",
+      "entryDate": "2019-01-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/karo-healthcare/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Karo Healthcare",
+      "topic": null
+    },
+    {
+      "_id": "ebba2fec-44af-4b10-8d22-36d8da8d1aef",
+      "country": "Pan-Asia",
+      "entryDate": "2018-08-02",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/world-freight-company/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "World Freight Company",
+      "topic": null
+    },
+    {
+      "_id": "b3011d61-f372-4a9f-b509-1cd6f64c43b4",
+      "country": "India",
+      "entryDate": "2019-04-25",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/ags-health/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "AGS Health",
+      "topic": null
+    },
+    {
+      "_id": "befc0548-22be-4b7d-9bdd-a09dbccb164a",
+      "country": "Switzerland",
+      "entryDate": "2016-05-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/kuoni-group-vfs-global/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Kuoni Group / VFS Global",
+      "topic": null
+    },
+    {
+      "_id": "b133af2d-27dd-4a0c-b41e-a13994aa76f6",
+      "country": "Germany",
+      "entryDate": "2021-03-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/ariceum-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Ariceum Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "6c656c93-c6be-46ed-b6e6-4d605dda93b0",
+      "country": "United Kingdom",
+      "entryDate": "2022-03-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/fundamental-vr/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Fundamental VR",
+      "topic": null
+    },
+    {
+      "_id": "df5a239b-dca3-4a3c-a8cb-2bdebb3e7114",
+      "country": "Singapore",
+      "entryDate": "2019-12-11",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/hmi-group/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "HMI Group",
+      "topic": null
+    },
+    {
+      "_id": "b6390b9e-f102-473b-b41b-f4ce0a96b14e",
+      "country": "United States",
+      "entryDate": "2019-01-09",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/osmose-utilities-services-inc/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy & Environmental",
+      "title": "Osmose Utilities Services, Inc.",
+      "topic": null
+    },
+    {
+      "_id": "cab580ab-8947-42f6-b802-e8c6a1c3affb",
+      "country": "India",
+      "entryDate": "2022-06-22",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-viii/",
+          "title": "The Baring Asia Private Equity Fund VIII"
+        }
+      ],
+      "path": "/current-portfolio/igt-solutions/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "IGT Solutions",
+      "topic": null
+    },
+    {
+      "_id": "53ddeecc-ebc9-4096-a209-7234f2e76c0b",
+      "country": "United States",
+      "entryDate": "2021-10-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/cypress-creek/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "Cypress Creek",
+      "topic": null
+    },
+    {
+      "_id": "6c2f0e44-e95f-4c9a-a9ed-2e881657db77",
+      "country": "Singapore",
+      "entryDate": "2019-03-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/mhc-asia/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "MHC Asia",
+      "topic": null
+    },
+    {
+      "_id": "08448f8e-1fad-433a-9ffc-b3322820775b",
+      "country": "Japan",
+      "entryDate": "2019-03-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        },
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/pioneer/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Tech",
+      "title": "Pioneer",
+      "topic": null
+    },
+    {
+      "_id": "3a6dc8f9-e7c7-4ad5-b4ae-13dd8d015441",
+      "country": "Ireland",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/vivasure/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Vivasure",
+      "topic": null
+    },
+    {
+      "_id": "e3acee1a-0690-44a2-aca9-dec73615bc6d",
+      "country": "Spain",
+      "entryDate": "2021-12-23",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/solarpack/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "Solarpack",
+      "topic": null
+    },
+    {
+      "_id": "24be51fe-5821-4ad4-9fe8-2fb4eb3cac1e",
+      "country": "Sweden",
+      "entryDate": "2020-12-07",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/beijer-ref/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Beijer Ref",
+      "topic": null
+    },
+    {
+      "_id": "8d194c3d-732d-475e-8122-b744628d4ba1",
+      "country": "United States",
+      "entryDate": "2018-12-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/cast-and-crew/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Cast & Crew",
+      "topic": null
+    },
+    {
+      "_id": "ea464bb3-7c0d-47c8-a253-ad8d2a17491f",
+      "country": "United States",
+      "entryDate": "2019-02-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iii/",
+          "title": "EQT Infrastructure III"
+        }
+      ],
+      "path": "/current-portfolio/kodiak-gas-services/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy & Environmental",
+      "title": "Kodiak Gas Services",
+      "topic": null
+    },
+    {
+      "_id": "4a832751-4490-4b20-92ef-a853a183d82b",
+      "country": "Australia",
+      "entryDate": "2022-03-31",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/icon-group/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare ",
+      "title": "Icon Group",
+      "topic": null
+    },
+    {
+      "_id": "f2a8e03d-0186-4a57-8fb9-741d7284b22f",
+      "country": "Ireland",
+      "entryDate": "2022-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/perfuze/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Perfuze",
+      "topic": null
+    },
+    {
+      "_id": "4d848b25-9b53-41e6-97f4-1a2c8405ba56",
+      "country": "United Kingdom",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-dementia/",
+          "title": "LSP Dementia"
+        }
+      ],
+      "path": "/current-portfolio/aviadobio/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "AviadoBio",
+      "topic": null
+    },
+    {
+      "_id": "e560d729-94d3-410a-9160-d1749fe157bb",
+      "country": "Belgium",
+      "entryDate": "2022-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        },
+        {
+          "path": "/current-portfolio/funds/lsp-dementia/",
+          "title": "LSP Dementia"
+        }
+      ],
+      "path": "/current-portfolio/nobi/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Nobi",
+      "topic": null
+    },
+    {
+      "_id": "72e36326-ee2f-4891-9fac-dca9a99f542f",
+      "country": "Denmark",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-dementia/",
+          "title": "LSP Dementia"
+        }
+      ],
+      "path": "/current-portfolio/muna-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Muna Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "8f877bdf-f8d2-4dce-99ae-212a291a1bf5",
+      "country": "France",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/egle-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Egle Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "25601fa4-9241-425a-9fdc-b5bd01b4bc70",
+      "country": "United States",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/evommune/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Evommune",
+      "topic": null
+    },
+    {
+      "_id": "d2d502b4-e138-481d-b4fa-fe4d2de61d2f",
+      "country": "United States",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/dots-technology/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "DOTS Technology",
+      "topic": null
+    },
+    {
+      "_id": "b7b1b7ea-175a-47db-88ca-fc9293734863",
+      "country": "France",
+      "entryDate": "2018-12-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/concept/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Concept ",
+      "topic": null
+    },
+    {
+      "_id": "b73a8fe8-4eea-45a4-8e15-066ac16bd573",
+      "country": "United Kingdom",
+      "entryDate": "2020-09-09",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/saturn/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Saturn",
+      "topic": null
+    },
+    {
+      "_id": "452c79ee-b547-4f3b-af61-57e494736fb0",
+      "country": "United Kingdom",
+      "entryDate": "2021-06-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/manypets/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Insurance",
+      "title": "ManyPets",
+      "topic": null
+    },
+    {
+      "_id": "828c9b9c-fa66-4f94-b94b-6ed2c7996b47",
+      "country": "Luxembourg",
+      "entryDate": "2018-11-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/azelis/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Azelis",
+      "topic": null
+    },
+    {
+      "_id": "54f7165e-44b4-403d-985e-d1deedb37f79",
+      "country": "United Kingdom",
+      "entryDate": "2018-01-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/lumeon/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Lumeon",
+      "topic": null
+    },
+    {
+      "_id": "03403db1-9ca9-4578-bde6-eb5f8e38eb71",
+      "country": "United States",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/nkarta/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Nkarta",
+      "topic": null
+    },
+    {
+      "_id": "cb56cad0-6cb8-4745-b752-fbecc270c1f8",
+      "country": "United States",
+      "entryDate": "2022-08-11",
+      "fund": [],
+      "path": "/current-portfolio/uta/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "UTA",
+      "topic": null
+    },
+    {
+      "_id": "d0f0d8ae-bd2e-47a9-bae9-a3425fe3e4ab",
+      "country": "Sweden",
+      "entryDate": "2019-06-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/dellner-couplers/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Technology",
+      "title": "Dellner Couplers",
+      "topic": null
+    },
+    {
+      "_id": "48768422-d0df-4b3e-bfb8-814636539bcc",
+      "country": "Denmark",
+      "entryDate": "2019-02-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/ws-audiology/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "WS Audiology",
+      "topic": null
+    },
+    {
+      "_id": "647fd052-8096-48d9-90b1-48449d873c39",
+      "country": "Cross Border",
+      "entryDate": "2016-03-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/solera/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Solera",
+      "topic": null
+    },
+    {
+      "_id": "997ddf10-0865-476e-93d6-b4b28550bec2",
+      "country": "Spain",
+      "entryDate": "2020-11-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/idealista/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Idealista",
+      "topic": null
+    },
+    {
+      "_id": "804929f9-eaf1-4581-97ac-c4501456275e",
+      "country": "Sweden",
+      "entryDate": "2020-09-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/ifs-world/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "IFS",
+      "topic": null
+    },
+    {
+      "_id": "ad597a63-adca-4b63-82dc-222edceb272d",
+      "country": "United States",
+      "entryDate": "2019-10-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/waystar/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Waystar",
+      "topic": null
+    },
+    {
+      "_id": "de93132d-4b7d-455b-a5e4-70d91964ee1d",
+      "country": "United States",
+      "entryDate": "2020-03-11",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/zayo/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Zayo",
+      "topic": null
+    },
+    {
+      "_id": "46199e05-1d87-439c-b52d-044175f2cea7",
+      "country": "Australia",
+      "entryDate": "2019-07-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/nexon-asia-pacific/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Nexon Asia Pacific",
+      "topic": null
+    },
+    {
+      "_id": "968eee08-702f-4fb1-a727-774c2a1be74f",
+      "country": "United States",
+      "entryDate": "2022-12-16",
+      "fund": [],
+      "path": "/current-portfolio/billtrust/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Billtrust",
+      "topic": null
+    },
+    {
+      "_id": "791d9034-42db-408e-85d5-2a445906721f",
+      "country": "Belgium",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/imcyse/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Imcyse",
+      "topic": null
+    },
+    {
+      "_id": "9426a836-1c56-4d70-b52f-19f24a6fd003",
+      "country": "United States",
+      "entryDate": "2024-02-28",
+      "fund": [],
+      "path": "/current-portfolio/zeus/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Zeus",
+      "topic": null
+    },
+    {
+      "_id": "cca1ae0a-07ca-473d-9558-396272160977",
+      "country": "UK and Ireland",
+      "entryDate": "2021-11-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/encyclis/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Environmental",
+      "title": "Encyclis",
+      "topic": null
+    },
+    {
+      "_id": "40ee9dd0-b9e2-4aae-994c-fb385e417193",
+      "country": "Norway",
+      "entryDate": "2020-03-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/recover/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Recover",
+      "topic": null
+    },
+    {
+      "_id": "938ef959-17c6-4b2e-b06e-3e5e0f6ea5fc",
+      "country": "Denmark",
+      "entryDate": "2021-03-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/oterra/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Technology",
+      "title": "Oterra",
+      "topic": null
+    },
+    {
+      "_id": "ce074a6c-1408-493a-b032-434497ec5aa4",
+      "country": "Vietnam",
+      "entryDate": "2017-07-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/ila-vietnam/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "ILA Vietnam",
+      "topic": null
+    },
+    {
+      "_id": "914f2217-3e0d-4a44-8ad2-901ea321739a",
+      "country": "France",
+      "entryDate": "2020-11-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/colisee/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Social",
+      "title": "Colisee",
+      "topic": null
+    },
+    {
+      "_id": "8eae32f7-3d86-4bc0-8cb4-8a4a537850fc",
+      "country": "Belgium",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/vico-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Vico Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "5534e82a-1009-45b5-832e-c242052bbb81",
+      "country": "United Kingdom",
+      "entryDate": "2011-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 4"
+        },
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/binx-health/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Binx Health",
+      "topic": null
+    },
+    {
+      "_id": "beeeed3c-6070-4203-8d1b-f54a3ad051d8",
+      "country": "Germany",
+      "entryDate": "2017-11-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/ottobock/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Ottobock",
+      "topic": null
+    },
+    {
+      "_id": "1004d564-cf8a-4e73-b4dc-beb2340d9c0f",
+      "country": "United States ",
+      "entryDate": "2023-05-15",
+      "fund": [],
+      "path": "/current-portfolio/lazer-logistics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Transport and Logistics",
+      "title": "Lazer Logistics",
+      "topic": null
+    },
+    {
+      "_id": "f1635189-5d9e-490b-8718-769b7510bfe5",
+      "country": "Ireland",
+      "entryDate": "2020-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/neurent-medical/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Neurent Medical",
+      "topic": null
+    },
+    {
+      "_id": "3da87c1c-4e99-4a94-b1f6-7cd746eda6a3",
+      "country": "Spain",
+      "entryDate": "2020-07-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/freepik/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Freepik",
+      "topic": null
+    },
+    {
+      "_id": "f57bf69d-340a-410b-97d8-dffe155c3382",
+      "country": "Italy",
+      "entryDate": "2021-03-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/minerva/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Minerva",
+      "topic": null
+    },
+    {
+      "_id": "1fd03434-5cc7-44ba-bbef-0963a825bf0f",
+      "country": "Denmark",
+      "entryDate": "2022-01-19",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/3shape/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "3Shape",
+      "topic": null
+    },
+    {
+      "_id": "bccd396e-72c4-438a-a369-c7750dc5687a",
+      "country": "United States",
+      "entryDate": "2018-01-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/endotronix/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Endotronix",
+      "topic": null
+    },
+    {
+      "_id": "be422501-4a8c-47ab-9464-61fe66b9e869",
+      "country": "Denmark",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/snipr-biome/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "SNIPR Biome",
+      "topic": null
+    },
+    {
+      "_id": "a21d763b-ae1c-4336-b499-a530d31864b8",
+      "country": "Denmark",
+      "entryDate": "2017-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/orphazyme/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Orphazyme",
+      "topic": null
+    },
+    {
+      "_id": "7be47f25-02b2-4482-8cfc-9b88aac6c91d",
+      "country": "India",
+      "entryDate": "2020-01-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/o2-power/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "O2 Power",
+      "topic": null
+    },
+    {
+      "_id": "120aada6-5f10-433a-bed6-1b2cdf6af6f7",
+      "country": "Lithuania",
+      "entryDate": "2021-05-03",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/vinted/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer",
+      "title": "Vinted",
+      "topic": null
+    },
+    {
+      "_id": "1f52ecfc-f1d4-4d44-89ea-f3e88154a5ef",
+      "country": "Germany",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/pharvaris/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Pharvaris",
+      "topic": null
+    },
+    {
+      "_id": "80605400-291c-4733-9c24-e9cbdb853072",
+      "country": "Netherlands",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/am-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "AM-Pharma",
+      "topic": null
+    },
+    {
+      "_id": "0ebf8308-ad2b-424a-ba9d-461c85c6ea8f",
+      "country": "Belgium",
+      "entryDate": "2014-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/sequana-medical/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Sequana Medical",
+      "topic": null
+    },
+    {
+      "_id": "2c91ed93-6360-45da-b0cd-0aae71456cd3",
+      "country": "United Kingdom",
+      "entryDate": "2018-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/artios-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Artios Pharma",
+      "topic": null
+    },
+    {
+      "_id": "803436c8-6213-4dd6-ae15-839d56feae58",
+      "country": "China",
+      "entryDate": "2022-03-22",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/guardian-shanghai-hygiene-service-ltd/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Guardian Shanghai Hygiene Service Ltd.",
+      "topic": null
+    },
+    {
+      "_id": "1bb8dcf8-f494-4b6a-8ab9-10216d0c57c0",
+      "country": "Belgium",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/istar-medical/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "iStar Medical",
+      "topic": null
+    },
+    {
+      "_id": "388d796d-3e19-4318-a891-2167c99c5728",
+      "country": "Switzerland",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/forx-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "FoRx Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "59e6340d-d883-44b6-96ef-99e7d3623614",
+      "country": "Netherlands",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        },
+        {
+          "path": "",
+          "title": "LSP 5"
+        },
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/vicentra/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Vicentra",
+      "topic": null
+    },
+    {
+      "_id": "9154940d-d94e-4b67-933c-47476a12d13f",
+      "country": "United States",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/hotspot-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "HotSpot Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "02ee9bf2-4cc9-4644-9ec2-0af785e5b39d",
+      "country": "Spain",
+      "entryDate": "2021-05-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/campus/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Campus ",
+      "topic": null
+    },
+    {
+      "_id": "760932d5-dd2e-454b-ac78-b00806cda0b0",
+      "country": "Germany",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/immunic/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Immunic",
+      "topic": null
+    },
+    {
+      "_id": "f16e763f-baee-4245-9d91-69b7c9210d7a",
+      "country": "Sweden",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/oxthera/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "OxThera",
+      "topic": null
+    },
+    {
+      "_id": "d8c8781d-15f2-47fb-a729-87048f2da66c",
+      "country": "Spain",
+      "entryDate": "2019-09-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/parques-reunidos/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Social",
+      "title": "Parques Reunidos",
+      "topic": null
+    },
+    {
+      "_id": "8a0eb692-4135-4c5f-8fc1-a6a899e2d923",
+      "country": "United Kingdom",
+      "entryDate": "2022-03-09",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/instavolt/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "InstaVolt",
+      "topic": null
+    },
+    {
+      "_id": "7b05ccc0-8a0f-4bb2-871f-9f718239fd63",
+      "country": "Netherlands",
+      "entryDate": "2010-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 4"
+        }
+      ],
+      "path": "/current-portfolio/merus/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Merus",
+      "topic": null
+    },
+    {
+      "_id": "9a402775-1171-447e-95e8-6894689b8fc6",
+      "country": "United States",
+      "entryDate": "2012-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/illuminoss/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Illuminoss",
+      "topic": null
+    },
+    {
+      "_id": "a9afbd97-1e76-492d-a157-d5e01c9b5778",
+      "country": "France",
+      "entryDate": "2021-06-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/cerba-healthcare/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Cerba Healthcare",
+      "topic": null
+    },
+    {
+      "_id": "dfe440e6-219f-40f1-9a34-7b00e1afd71a",
+      "country": "Sweden",
+      "entryDate": "2021-10-13",
+      "fund": [],
+      "path": "/current-portfolio/anticimex-future/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Anticimex",
+      "topic": null
+    },
+    {
+      "_id": "d1f31302-518d-4439-a731-aa4600c04c80",
+      "country": "France",
+      "entryDate": "2017-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/imcheck/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "ImCheck",
+      "topic": null
+    },
+    {
+      "_id": "84a4dbc0-88af-4939-80de-5fa7c1a8fa3f",
+      "country": "United States/Israel",
+      "entryDate": "2017-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/eloxx-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Eloxx Pharma",
+      "topic": null
+    },
+    {
+      "_id": "3ec33efc-791f-43dd-a319-5e868cdf1d5b",
+      "country": "Germany",
+      "entryDate": "2011-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 4"
+        }
+      ],
+      "path": "/current-portfolio/vectura-activaero/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Vectura (Activaero)",
+      "topic": null
+    },
+    {
+      "_id": "e16e7aee-fea9-43e9-a4bb-97529fec28cb",
+      "country": "France",
+      "entryDate": "2016-07-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/smart-parc/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Smart Parc",
+      "topic": null
+    },
+    {
+      "_id": "4ca446c1-64d4-439c-bfa8-b7f645ee8d22",
+      "country": "Netherlands",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/onward/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "ONWARD",
+      "topic": null
+    },
+    {
+      "_id": "ca936311-74b7-42e2-a008-4d19e75b694f",
+      "country": "United States",
+      "entryDate": "2018-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/xylocor-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "XyloCor Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "4eca6900-bdd7-4c0f-9460-0b096d5f9e4e",
+      "country": "Germany ",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/innovative-molecules/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Innovative Molecules",
+      "topic": null
+    },
+    {
+      "_id": "024b9a98-361a-4250-a735-9c36e18d60dd",
+      "country": "China",
+      "entryDate": "2016-11-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/long-spring-education-group/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Long-Spring Education Group",
+      "topic": null
+    },
+    {
+      "_id": "b2a887fd-ed07-4038-afc4-a79af881dbd3",
+      "country": "Switzerland",
+      "entryDate": "2015-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/kuros/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Kuros",
+      "topic": null
+    },
+    {
+      "_id": "f7f99e6c-464d-4131-b960-10e6db96f254",
+      "country": "Germany",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/t-knife/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "T-Knife",
+      "topic": null
+    },
+    {
+      "_id": "c8633229-bc94-49c7-a8fe-da3a97dfd52a",
+      "country": "Sweden",
+      "entryDate": "2019-07-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/svenska-verksamhetsfastigheter/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Svenska Verksamhetsfastigheter",
+      "topic": null
+    },
+    {
+      "_id": "c5fec922-4c33-4657-8dab-5f8a96cc4626",
+      "country": "Belgium",
+      "entryDate": "2016-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/etherna/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "eTheRNA",
+      "topic": null
+    },
+    {
+      "_id": "abba90c6-012c-4709-bc85-03661ce8887f",
+      "country": "Netherlands",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/arvelle-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Arvelle Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "c2391a31-dd24-4f71-baa2-4c9f59799423",
+      "country": "United States",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/xilis/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Xilis",
+      "topic": null
+    },
+    {
+      "_id": "57d4411a-29e8-407c-a381-67357d7e0e4e",
+      "country": "France",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/amolyt-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Amolyt Pharma",
+      "topic": null
+    },
+    {
+      "_id": "8f789cce-882e-42fe-9772-538dadce6cf0",
+      "country": "France",
+      "entryDate": "2019-03-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/nest/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Nest",
+      "topic": null
+    },
+    {
+      "_id": "1e52f19a-c94e-4663-a35f-b7febde45392",
+      "country": "Netherlands",
+      "entryDate": "2014-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/medeye/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Medeye",
+      "topic": null
+    },
+    {
+      "_id": "e0449c7f-332f-47e1-9a9d-d576e6a4f429",
+      "country": "Germany",
+      "entryDate": "2017-10-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/atricom-and-le-buero/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer",
+      "title": "Atricom and Le B\u00fcro",
+      "topic": null
+    },
+    {
+      "_id": "0201ced4-a846-436c-9715-cf81d4b971d8",
+      "country": "United States",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/visus-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Visus Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "3d98b110-d5d3-41c8-b09e-4240d559fff0",
+      "country": "United States",
+      "entryDate": "2015-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        }
+      ],
+      "path": "/current-portfolio/cardiac-dimensions/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Cardiac dimensions",
+      "topic": null
+    },
+    {
+      "_id": "4f84c375-922c-452f-ab47-585293b3702c",
+      "country": "Switzerland",
+      "entryDate": "2015-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/nouscom/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Nouscom",
+      "topic": null
+    },
+    {
+      "_id": "9e84ca88-99b5-4f21-b4f3-6e2e2c5047ee",
+      "country": "Netherlands",
+      "entryDate": "2020-01-03",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/varmx/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "VarmX",
+      "topic": null
+    },
+    {
+      "_id": "856a130e-c18f-4245-af3e-ce2520e8f92b",
+      "country": "United Kingdom",
+      "entryDate": "2014-10-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/ivc-evidensia/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "IVC Evidensia",
+      "topic": null
+    },
+    {
+      "_id": "1746daef-0c55-4763-9a93-eee9ee97701f",
+      "country": "France",
+      "entryDate": "2023-05-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/trescal/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Transport and Logistics",
+      "title": "Trescal",
+      "topic": null
+    },
+    {
+      "_id": "a4eaab0f-2271-47d6-a69c-848df01b5c32",
+      "country": "Switzerland",
+      "entryDate": "2006-01-01",
+      "fund": [],
+      "path": "/current-portfolio/eyesense/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Eyesense",
+      "topic": null
+    },
+    {
+      "_id": "c8250afe-f3c5-4883-8ddf-2c35c8aaab93",
+      "country": "Germany",
+      "entryDate": "2009-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 4"
+        }
+      ],
+      "path": "/current-portfolio/vivoryon-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Vivoryon Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "33bcfcdd-6a59-4d25-8f63-e6dd84ac5782",
+      "country": "China",
+      "entryDate": "2019-01-09",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/china-shine/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "China Shine",
+      "topic": null
+    },
+    {
+      "_id": "8f07f83a-9f4a-414e-86a4-710b5ecef262",
+      "country": "China",
+      "entryDate": "2018-11-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/artwall/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer",
+      "title": "Artwall",
+      "topic": null
+    },
+    {
+      "_id": "dd66bb8f-1bdd-4fc2-ad2b-bea5fa21deb9",
+      "country": "Ireland/Germany",
+      "entryDate": "2020-01-03",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/one-projects/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "One Projects",
+      "topic": null
+    },
+    {
+      "_id": "b966e9a1-c6ee-45e8-9b0e-3acfa15e900f",
+      "country": "France",
+      "entryDate": "2019-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 6"
+        }
+      ],
+      "path": "/current-portfolio/dna-script/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "DNA Script",
+      "topic": null
+    },
+    {
+      "_id": "82180ff1-c074-4bb9-91ef-68096d4ed96d",
+      "country": "Netherlands",
+      "entryDate": "2021-01-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-dementia/",
+          "title": "LSP Dementia"
+        }
+      ],
+      "path": "/current-portfolio/new-amsterdam-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "New Amsterdam Pharma",
+      "topic": null
+    },
+    {
+      "_id": "a35cea56-daa0-44f7-901e-d64b7c959139",
+      "country": "South Korea ",
+      "entryDate": "2023-07-20",
+      "fund": [],
+      "path": "/current-portfolio/sk-shieldus/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology ",
+      "title": "SK Shieldus",
+      "topic": null
+    },
+    {
+      "_id": "bc5b9ce6-f2ff-41eb-98de-ff3318a1cdff",
+      "country": "United States",
+      "entryDate": "2021-11-30",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/covanta/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Environmental",
+      "title": "Covanta",
+      "topic": null
+    },
+    {
+      "_id": "fdb91656-9215-44c5-9a5f-5c359a59975f",
+      "country": "Sweden",
+      "entryDate": "2016-01-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/eton/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer goods",
+      "title": "Eton",
+      "topic": null
+    },
+    {
+      "_id": "bf550488-7022-4559-9b5f-b35b2a7c521d",
+      "country": "Germany",
+      "entryDate": "2017-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/cardior/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Cardior",
+      "topic": null
+    },
+    {
+      "_id": "8452498e-e7ba-4d5a-b789-d02cf3393f98",
+      "country": "Ireland",
+      "entryDate": "2018-01-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/atlantic-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Atlantic Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "e70dd74a-5ef4-497b-80d7-7efe538db4ee",
+      "country": "Denmark",
+      "entryDate": "2005-01-01",
+      "fund": [],
+      "path": "/current-portfolio/zealand-pharma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Zealand Pharma",
+      "topic": null
+    },
+    {
+      "_id": "8489b46e-78a0-42cf-9798-15f78de46396",
+      "country": "Germany",
+      "entryDate": "2023-03-23",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/integritynext/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Climate",
+      "title": "IntegrityNext",
+      "topic": null
+    },
+    {
+      "_id": "53a6b049-3bec-4b90-90a4-9fa163146dec",
+      "country": "United Kingdom ",
+      "entryDate": "2021-07-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/parcel2go/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Parcel2Go",
+      "topic": null
+    },
+    {
+      "_id": "9a23b0f0-36d6-4a4b-a7fe-c94dac51eb10",
+      "country": "France",
+      "entryDate": "2018-11-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/saur/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Environmental",
+      "title": "SAUR",
+      "topic": null
+    },
+    {
+      "_id": "ba5500eb-c723-49b3-883b-f243d2a516af",
+      "country": "United Kingdom",
+      "entryDate": "2023-08-16",
+      "fund": [],
+      "path": "/current-portfolio/bloom-fresh-international/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Food Technology",
+      "title": "BLOOM Fresh International",
+      "topic": null
+    },
+    {
+      "_id": "9b0d05fa-5ae9-415c-97da-c849f7b9777a",
+      "country": "Germany",
+      "entryDate": "2018-08-07",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/alleecenter/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Allee Center",
+      "topic": null
+    },
+    {
+      "_id": "775042cf-134a-4197-9038-c07d93d414fb",
+      "country": "The Netherlands",
+      "entryDate": "2021-12-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/mambu/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Fintech",
+      "title": "Mambu",
+      "topic": null
+    },
+    {
+      "_id": "29c06103-65c9-4a3f-82c6-79f6e1ef02a9",
+      "country": "Netherlands",
+      "entryDate": "2022-02-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/delta-fiber/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "DELTA Fiber",
+      "topic": null
+    },
+    {
+      "_id": "dd92f68f-515d-44c3-a822-10479a164137",
+      "country": "New Zealand",
+      "entryDate": "2020-11-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/metlifecare/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Social",
+      "title": "Metlifecare",
+      "topic": null
+    },
+    {
+      "_id": "e2c987fa-21bc-485b-a760-297ca276ce25",
+      "country": "Switzerland",
+      "entryDate": "2019-10-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/galderma/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Galderma",
+      "topic": null
+    },
+    {
+      "_id": "43346e2a-f8d4-4c99-8349-331ca1d47cd6",
+      "country": "Indonesia",
+      "entryDate": "2021-05-21",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/indesso/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Technology",
+      "title": "Indesso",
+      "topic": null
+    },
+    {
+      "_id": "cf7b4163-fa06-4b1a-86b4-48f997e51111",
+      "country": "Switzerland",
+      "entryDate": "2017-06-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/open-systems/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Open Systems",
+      "topic": null
+    },
+    {
+      "_id": "79aa5ded-3072-42c8-9754-80d960e89bee",
+      "country": "Israel",
+      "entryDate": "2021-02-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/cye/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "CYE",
+      "topic": null
+    },
+    {
+      "_id": "7c67d992-676f-4cf5-8971-a60371233279",
+      "country": "Germany",
+      "entryDate": "2020-12-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/thinkproject/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "thinkproject",
+      "topic": null
+    },
+    {
+      "_id": "e0e96a5c-1d1f-477c-a1fa-09eee4eb1b72",
+      "country": "Sweden",
+      "entryDate": "2021-02-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/recipharm/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Recipharm",
+      "topic": null
+    },
+    {
+      "_id": "ffe6ce6f-8af1-4a6c-bbd0-a1de106fc3e3",
+      "country": "Greater China",
+      "entryDate": "2011-11-28",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/impro-precision/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial",
+      "title": "Impro Precision",
+      "topic": null
+    },
+    {
+      "_id": "d96fe102-ea16-4338-8a29-69f665470f42",
+      "country": "India",
+      "entryDate": "2015-08-27",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/cms-info-systems/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "CMS Info Systems",
+      "topic": null
+    },
+    {
+      "_id": "14886603-ed11-44f6-aee7-59a2f63b74cf",
+      "country": "Greater China",
+      "entryDate": "2014-01-07",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/shengmu-organic-milk/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer",
+      "title": "Shengmu Organic Milk",
+      "topic": null
+    },
+    {
+      "_id": "3adfe2a0-1679-4c09-b7fe-b62ad7933a78",
+      "country": "Korea",
+      "entryDate": "2019-08-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/acuon-capital/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Acuon Capital",
+      "topic": null
+    },
+    {
+      "_id": "2ec1c78e-12cc-498c-a30c-e3c552199d73",
+      "country": "Pan-Asia",
+      "entryDate": "2022-06-22",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-viii/",
+          "title": "The Baring Asia Private Equity Fund VIII"
+        }
+      ],
+      "path": "/current-portfolio/tricor/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Tricor",
+      "topic": null
+    },
+    {
+      "_id": "d8d5278d-8786-4905-b023-cddc3b7c9ea0",
+      "country": "Southeast Asia/India",
+      "entryDate": "2021-10-28",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/straive/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Straive",
+      "topic": null
+    },
+    {
+      "_id": "959427d4-9b98-478b-9f23-a1341fbec782",
+      "country": "Greater China",
+      "entryDate": "2022-04-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/ginko/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Ginko",
+      "topic": null
+    },
+    {
+      "_id": "a31c0689-216c-4bbf-97db-1e7965764ba2",
+      "country": "Cross Border",
+      "entryDate": "2020-02-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/lumenis/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Lumenis",
+      "topic": null
+    },
+    {
+      "_id": "9b83eddf-ce41-4f94-ba98-77ca0d981dd7",
+      "country": "India",
+      "entryDate": "2020-11-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/rbl-bank/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "RBL Bank",
+      "topic": null
+    },
+    {
+      "_id": "d594c1bf-33a4-42ea-8280-b271169f51ea",
+      "country": "United States",
+      "entryDate": "2015-05-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-ii/",
+          "title": "EQT Infrastructure II"
+        }
+      ],
+      "path": "/current-portfolio/wash/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "WASH",
+      "topic": null
+    },
+    {
+      "_id": "fb642627-0e5f-4637-aee5-27803d7d9130",
+      "country": "United States",
+      "entryDate": "2023-09-01",
+      "fund": [],
+      "path": "/current-portfolio/radius/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Radius",
+      "topic": null
+    },
+    {
+      "_id": "43a6791f-0016-4f28-8d80-93b2eacbde96",
+      "country": "United States ",
+      "entryDate": "2021-10-20",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/magnit/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Magnit",
+      "topic": null
+    },
+    {
+      "_id": "078af383-b0a2-4819-ac7a-858b40cb022e",
+      "country": "The Netherlands",
+      "entryDate": "2018-06-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/dunlop/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Technology ",
+      "title": "Dunlop",
+      "topic": null
+    },
+    {
+      "_id": "e7b2045d-9c7d-4d9b-bb78-ef4679c40abd",
+      "country": "Denmark",
+      "entryDate": "2023-12-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/minervax/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "MinervaX",
+      "topic": null
+    },
+    {
+      "_id": "c4e79354-7b2b-4cc7-beda-b9a22676b7d0",
+      "country": "United Kingdom",
+      "entryDate": "2024-01-08",
+      "fund": [],
+      "path": "/current-portfolio/statera/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "Statera",
+      "topic": null
+    },
+    {
+      "_id": "0770a848-93b4-4bbc-bd77-0830dc743f7b",
+      "country": "Sweden",
+      "entryDate": "2017-12-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/epidemic-sound/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Epidemic Sound",
+      "topic": null
+    },
+    {
+      "_id": "afe6917b-7151-4fda-9ec4-7026cbf81df9",
+      "country": "Germany",
+      "entryDate": "2023-05-22",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/gotphoto/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Consumer",
+      "title": "GotPhoto",
+      "topic": null
+    },
+    {
+      "_id": "5109ca04-893f-4d23-952f-abba4af23888",
+      "country": "United States",
+      "entryDate": "2023-10-01",
+      "fund": [],
+      "path": "/current-portfolio/madison-energy/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "Madison Energy Infrastructure",
+      "topic": null
+    },
+    {
+      "_id": "63f47e76-c6de-49d7-8196-4d0e2a0475f2",
+      "country": "Singapore",
+      "entryDate": "2021-10-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/ec-council/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "EC-Council",
+      "topic": null
+    },
+    {
+      "_id": "1eb63584-bb45-43cc-aa4b-1e35eeefe1e8",
+      "country": "Switzerland",
+      "entryDate": "2023-01-03",
+      "fund": [],
+      "path": "/current-portfolio/shl-medical/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "SHL Medical",
+      "topic": null
+    },
+    {
+      "_id": "2b5c65d1-3d82-4895-a0b9-3cdf04af1892",
+      "country": "Greater China",
+      "entryDate": "2014-09-30",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/rich-healthcare/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Rich Healthcare",
+      "topic": null
+    },
+    {
+      "_id": "a7e74923-ba88-4c81-8998-1c6ec7c452b9",
+      "country": "United States ",
+      "entryDate": "2021-11-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/parexel/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Parexel",
+      "topic": null
+    },
+    {
+      "_id": "f4160cc0-c440-4506-8f6c-2b755e3e6d3d",
+      "country": "United Kingdom",
+      "entryDate": "2022-08-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/spt-labtech/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "SPT Labtech",
+      "topic": null
+    },
+    {
+      "_id": "49f9ba23-f933-4004-aaaa-a63fc8dd6661",
+      "country": "USA/Japan",
+      "entryDate": "2023-11-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/shinobi-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Shinobi Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "d1d37f7a-4048-4b9c-a950-f2208a26b5e8",
+      "country": "Germany",
+      "entryDate": "2023-12-01",
+      "fund": [],
+      "path": "/current-portfolio/tion-renewables-ag/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Energy",
+      "title": "Tion Renewables",
+      "topic": null
+    },
+    {
+      "_id": "0279f42e-5a8f-42aa-8fc2-749abe44b9f6",
+      "country": "Belgium",
+      "entryDate": "2023-11-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-7/",
+          "title": "LSP 7"
+        }
+      ],
+      "path": "/current-portfolio/agomab-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Agomab Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "640140cf-8fc7-4425-a261-e2dc65796870",
+      "country": "Luxembourg",
+      "entryDate": "2018-07-09",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/banking-circle/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Banking Circle",
+      "topic": null
+    },
+    {
+      "_id": "13ffb189-422d-4ca7-9f2a-5e5203df5787",
+      "country": "Sweden",
+      "entryDate": "2018-06-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/southside/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Southside",
+      "topic": null
+    },
+    {
+      "_id": "851cd83b-2976-4d15-8965-7e00beb0e23d",
+      "country": "Belgium",
+      "entryDate": "2017-01-04",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP 5"
+        }
+      ],
+      "path": "/current-portfolio/aelin-therapeutics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Aelin Therapeutics",
+      "topic": null
+    },
+    {
+      "_id": "a8b56afe-32f0-448a-8b82-bfb717fe446d",
+      "country": "Sweden",
+      "entryDate": "2016-11-16",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-i/",
+          "title": "EQT Real Estate I"
+        }
+      ],
+      "path": "/current-portfolio/unum/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Unum",
+      "topic": null
+    },
+    {
+      "_id": "6fd45969-f203-40ae-a123-07069888bd95",
+      "country": "Sweden",
+      "entryDate": "2018-12-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-real-estate-ii/",
+          "title": "EQT Real Estate II"
+        }
+      ],
+      "path": "/current-portfolio/stendoerren/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Real Estate",
+      "title": "Stend\u00f6rren",
+      "topic": null
+    },
+    {
+      "_id": "a6cfbd9a-b5c3-4118-b581-194826dbdb6a",
+      "country": "Germany",
+      "entryDate": "2019-11-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/deutsche-glasfaser/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Deutsche Glasfaser",
+      "topic": null
+    },
+    {
+      "_id": "fd6501fa-9641-488f-953f-b97606eaabf7",
+      "country": "Southeast Asia",
+      "entryDate": "2016-05-31",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/telus-international/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "TELUS International",
+      "topic": null
+    },
+    {
+      "_id": "484a5a87-0c14-4daa-9319-6e1e819f71cc",
+      "country": "United States",
+      "entryDate": "2023-08-23",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/gympass/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "HealthTech",
+      "title": "Gympass",
+      "topic": null
+    },
+    {
+      "_id": "3313a8cd-dcbd-4947-b398-2c267c10bbc5",
+      "country": "Sweden",
+      "entryDate": "2024-03-01",
+      "fund": [],
+      "path": "/current-portfolio/hantverksdata/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Hantverksdata",
+      "topic": null
+    },
+    {
+      "_id": "0029d827-e3b8-481a-95bb-bc59ddf087d4",
+      "country": "Netherlands",
+      "entryDate": "2021-06-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/mollie/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Fintech",
+      "title": "Mollie",
+      "topic": null
+    },
+    {
+      "_id": "cd756f96-044f-4824-bffd-f61cb457ab19",
+      "country": "Cross Border",
+      "entryDate": "2017-09-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/nord-anglia/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Nord Anglia",
+      "topic": null
+    },
+    {
+      "_id": "2f053cc4-c3bd-403c-90b1-c58dda4f6ed9",
+      "country": "Indonesia",
+      "entryDate": "2012-07-04",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/tbs-energi-fka-toba-bara/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Resources & Construction",
+      "title": "TBS Energi (fka Toba Bara)",
+      "topic": null
+    },
+    {
+      "_id": "9656819f-59e0-4a86-a089-e61c2c47ad67",
+      "country": "Greater China",
+      "entryDate": "2018-08-02",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/wall-street-english/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Wall Street English",
+      "topic": null
+    },
+    {
+      "_id": "f29c889c-502b-4dc4-a3a6-13f9f8610da6",
+      "country": "India",
+      "entryDate": "2022-04-12",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/aig-hospitals/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "AIG Hospitals",
+      "topic": null
+    },
+    {
+      "_id": "c999dbd3-9d99-4281-9f1b-ddb2c611dcb4",
+      "country": "Greater China",
+      "entryDate": "2020-11-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/codemao/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Codemao",
+      "topic": null
+    },
+    {
+      "_id": "ce64b754-c33a-493a-ac80-23425f9ce7b9",
+      "country": "Greater China",
+      "entryDate": "2021-04-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/hutchmed/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Hutchmed",
+      "topic": null
+    },
+    {
+      "_id": "a62a955b-a812-4205-a466-e9f8669198dc",
+      "country": "Southeast Asia",
+      "entryDate": "2021-06-11",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/the-crownx/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "The CrownX",
+      "topic": null
+    },
+    {
+      "_id": "f91f93b7-1fbe-48d0-a55b-4a452b64ca3d",
+      "country": "Greater China",
+      "entryDate": "2021-11-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/cue/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Cue",
+      "topic": null
+    },
+    {
+      "_id": "2e3867b2-5c1c-4834-8613-0a2ab61b9250",
+      "country": "India",
+      "entryDate": "2019-09-25",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/citius-tech/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Citius Tech",
+      "topic": null
+    },
+    {
+      "_id": "1f93c69c-1d2b-4e0e-af00-5802bdfc8fe2",
+      "country": "Malta",
+      "entryDate": "2019-07-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/melita/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Melita",
+      "topic": null
+    },
+    {
+      "_id": "dc1017c8-64c4-4636-98df-5cccb3246cb4",
+      "country": "Germany",
+      "entryDate": "2019-03-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-viii/",
+          "title": "EQT VIII"
+        }
+      ],
+      "path": "/current-portfolio/suse/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "SUSE",
+      "topic": null
+    },
+    {
+      "_id": "c4e55d41-9088-4d89-81af-38bec1b5c857",
+      "country": "Norway, Denmark, Sweden",
+      "entryDate": "2021-02-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/nordic-ferry-infrastructure/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Transport & Logistics",
+      "title": "Nordic Ferry Infrastructure",
+      "topic": null
+    },
+    {
+      "_id": "0706ccca-7bc4-4687-b834-ba117b38e341",
+      "country": "Korea",
+      "entryDate": "2012-09-05",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/kyobo-life-insurance/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Financial Services",
+      "title": "Kyobo Life Insurance",
+      "topic": null
+    },
+    {
+      "_id": "a2c40200-b1f7-4805-b8b7-b3af4ca61eac",
+      "country": "United Kingdom",
+      "entryDate": "2023-11-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/lsp-dementia/",
+          "title": "LSP Dementia"
+        }
+      ],
+      "path": "/current-portfolio/astronautx/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "AstronautX",
+      "topic": null
+    },
+    {
+      "_id": "08bae271-3310-4ee5-8b96-0c32d7c8e803",
+      "country": "Greater China",
+      "entryDate": "2022-02-08",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/euclid/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Euclid",
+      "topic": null
+    },
+    {
+      "_id": "99941386-1542-4ff9-891d-5924866da6f6",
+      "country": "Norway",
+      "entryDate": "2022-03-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-growth/",
+          "title": "EQT Growth"
+        }
+      ],
+      "path": "/current-portfolio/ardoq/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Enterprise Tech",
+      "title": "Ardoq",
+      "topic": null
+    },
+    {
+      "_id": "7c626429-f1f3-419e-8928-e031563800b5",
+      "country": "Greater China",
+      "entryDate": "2019-06-28",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/jd-health/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "JD Health",
+      "topic": null
+    },
+    {
+      "_id": "711319ef-a1d8-4043-9da2-46b837105568",
+      "country": "India",
+      "entryDate": "2022-01-06",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-viii/",
+          "title": "The Baring Asia Private Equity Fund VIII"
+        }
+      ],
+      "path": "/current-portfolio/sagility/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Sagility",
+      "topic": null
+    },
+    {
+      "_id": "7c9f26f6-fa27-4c54-b656-bf6b5521eff3",
+      "country": "Switzerland",
+      "entryDate": "2014-01-01",
+      "fund": [
+        {
+          "path": "",
+          "title": "LSP HEF 1"
+        },
+        {
+          "path": "/current-portfolio/funds/lsp-hef-2/",
+          "title": "LSP HEF 2"
+        }
+      ],
+      "path": "/current-portfolio/xeltis/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Xeltis",
+      "topic": null
+    },
+    {
+      "_id": "aa9171d8-eb87-44df-8fbc-69b59337b6a2",
+      "country": "United States",
+      "entryDate": "2019-08-14",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/acumatica/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Acumatica",
+      "topic": null
+    },
+    {
+      "_id": "140aff65-34f8-4534-b2b3-2d6c46481eda",
+      "country": "United States",
+      "entryDate": "2023-12-01",
+      "fund": [],
+      "path": "/current-portfolio/heritage-environmental-services/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Environmental ",
+      "title": "Heritage Environmental Services",
+      "topic": null
+    },
+    {
+      "_id": "21fb477e-912b-42b1-ba4a-e64f61c11735",
+      "country": "India",
+      "entryDate": "2023-11-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-viii/",
+          "title": "The Baring Asia Private Equity Fund VIII"
+        }
+      ],
+      "path": "/current-portfolio/indira-ivf/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Indira IVF",
+      "topic": null
+    },
+    {
+      "_id": "cf4097b7-2992-42a5-be39-325e921aab4a",
+      "country": "India",
+      "entryDate": "2019-05-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/coforge/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Coforge",
+      "topic": null
+    },
+    {
+      "_id": "bec50f62-321b-4aec-a176-47ff88592755",
+      "country": "Germany / Scandinavia",
+      "entryDate": "2021-08-31",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/evidia/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Evidia",
+      "topic": null
+    },
+    {
+      "_id": "65ed402f-4b9a-4e92-bc33-a1ec9ca238ad",
+      "country": "United Kingdom",
+      "entryDate": "2020-03-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-europe/",
+          "title": "EQT Mid Market Europe"
+        }
+      ],
+      "path": "/current-portfolio/rimes-technologies/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "RIMES Technologies",
+      "topic": null
+    },
+    {
+      "_id": "b23e74ed-b39d-4086-afa9-f8c2a5157c2d",
+      "country": "Belgium",
+      "entryDate": "2021-03-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/fiberklaar/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Fiberklaar",
+      "topic": null
+    },
+    {
+      "_id": "0f2732c1-b813-4ff0-bfd7-80c803c43094",
+      "country": "Sweden",
+      "entryDate": "2017-02-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iii/",
+          "title": "EQT Infrastructure III"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        }
+      ],
+      "path": "/current-portfolio/globalconnect/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "GlobalConnect",
+      "topic": null
+    },
+    {
+      "_id": "e5917e05-225f-437b-9ae6-1a62f5c602e9",
+      "country": "Sweden",
+      "entryDate": "2017-11-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/bluestep-bank/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Bluestep Bank",
+      "topic": null
+    },
+    {
+      "_id": "153e4753-f9f7-4216-bcdc-636c1b1745a4",
+      "country": "India",
+      "entryDate": "2021-02-10",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/virtusa/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Virtusa",
+      "topic": null
+    },
+    {
+      "_id": "b872af76-c808-4bd9-b671-7f7a607c8856",
+      "country": "Southeast Asia",
+      "entryDate": "2019-12-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/vietnam-usa-society-english-centers-vus/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Vietnam-USA Society English Centers (\u201cVUS\u201d)",
+      "topic": null
+    },
+    {
+      "_id": "8deebc4b-abc5-4e32-845e-1d30fa30a61e",
+      "country": "China",
+      "entryDate": "2019-11-13",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-mid-market-asia-iii/",
+          "title": "EQT Mid Market Asia III"
+        }
+      ],
+      "path": "/current-portfolio/vbill/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "VBill",
+      "topic": null
+    },
+    {
+      "_id": "aa841b26-40de-4781-b04e-1f647624b954",
+      "country": "Greater China",
+      "entryDate": "2021-06-11",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/horizon-robotics/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Industrial Tech",
+      "title": "Horizon Robotics",
+      "topic": null
+    },
+    {
+      "_id": "f3b801b9-939f-4081-b5c1-6e704dc7312a",
+      "country": "Japan",
+      "entryDate": "2018-12-20",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/tryt/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "TRYT",
+      "topic": null
+    },
+    {
+      "_id": "1c62fe87-d914-468d-9ac4-0447946edbf6",
+      "country": "Denmark",
+      "entryDate": "2016-05-11",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-vii/",
+          "title": "EQT VII"
+        }
+      ],
+      "path": "/current-portfolio/sitecore/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Sitecore",
+      "topic": null
+    },
+    {
+      "_id": "480ab872-e91d-479e-94ea-ad54ce1fd724",
+      "country": "Korea",
+      "entryDate": "2020-09-23",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/shinhan-financial-group/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Shinhan Financial Group",
+      "topic": null
+    },
+    {
+      "_id": "20f6a170-45fd-4c1b-b76c-384c1129cf7f",
+      "country": "Sweden",
+      "entryDate": "2022-07-29",
+      "fund": [],
+      "path": "/current-portfolio/envirotainer/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Healthcare",
+      "title": "Envirotainer",
+      "topic": null
+    },
+    {
+      "_id": "02d63cb8-4501-465d-8a0b-7b435bccd1b4",
+      "country": "United Kingdom",
+      "entryDate": "2022-05-17",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/cfc/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "CFC",
+      "topic": null
+    },
+    {
+      "_id": "3a7bb89a-b902-4f9f-ac70-f32196e8a45c",
+      "country": "Southeast Asia",
+      "entryDate": "2021-09-02",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vii/",
+          "title": "The Baring Asia Private Equity Fund VII"
+        }
+      ],
+      "path": "/current-portfolio/virtuos/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology ",
+      "title": "Virtuos",
+      "topic": null
+    },
+    {
+      "_id": "0456abb5-6e70-4163-87dc-c2348e4cf9d2",
+      "country": "Australia",
+      "entryDate": "2022-07-29",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/levande/",
+      "promotedSdg": 3,
+      "sdg": [],
+      "sector": "Social ",
+      "title": "Levande",
+      "topic": null
+    },
+    {
+      "_id": "dd7dbc5c-ca59-4977-ae52-a24ccaf107ba",
+      "country": "United States",
+      "entryDate": "2021-07-01",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/first-student-and-first-transit/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Transport and logistics",
+      "title": "First Student and First Transit",
+      "topic": null
+    },
+    {
+      "_id": "083ec53d-b417-45b1-9f84-bce9688c0c24",
+      "country": "United States",
+      "entryDate": "2017-11-15",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iii/",
+          "title": "EQT Infrastructure III"
+        }
+      ],
+      "path": "/current-portfolio/segra/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "SEGRA",
+      "topic": null
+    },
+    {
+      "_id": "1d22faa5-32cd-46bf-82f6-3615365d69d2",
+      "country": "Cross Border",
+      "entryDate": "2015-10-25",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        },
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-v/",
+          "title": "The Baring Asia Private Equity Fund V"
+        }
+      ],
+      "path": "/current-portfolio/vistra/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Vistra",
+      "topic": null
+    },
+    {
+      "_id": "976ce84c-88a0-4301-88c0-222d752f5b62",
+      "country": "Cross Border",
+      "entryDate": "2018-01-29",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/the-baring-asia-private-equity-fund-vi/",
+          "title": "The Baring Asia Private Equity Fund VI"
+        }
+      ],
+      "path": "/current-portfolio/prometric/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Services",
+      "title": "Prometric",
+      "topic": null
+    },
+    {
+      "_id": "20387b0b-3645-4b58-84d3-97a63a24de3e",
+      "country": "United States",
+      "entryDate": "2021-04-07",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-ix/",
+          "title": "EQT IX"
+        }
+      ],
+      "path": "/current-portfolio/storable/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "Storable",
+      "topic": null
+    },
+    {
+      "_id": "e5be6cf7-2bb8-4514-9a2b-84563e335976",
+      "country": "United States",
+      "entryDate": "2020-11-18",
+      "fund": [
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-iv/",
+          "title": "EQT Infrastructure IV"
+        },
+        {
+          "path": "/current-portfolio/funds/eqt-infrastructure-v/",
+          "title": "EQT Infrastructure V"
+        }
+      ],
+      "path": "/current-portfolio/edgeconnex/",
+      "promotedSdg": null,
+      "sdg": [],
+      "sector": "Technology",
+      "title": "EdgeConneX",
+      "topic": null
+    }
+  ]
+}

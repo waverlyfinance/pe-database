@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "44213e55-ed04-4229-861e-6804ffc7d2d0",
+    "icon": {
+      "url": "https://media.permira.com/media/rwsj1cdo/abs-website-logo.png",
+      "alt": ""
+    },
+    "name": "ABS",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/abs/"
+      }
+    }
+  },
+  {
+    "id": "07696f66-3ca5-4944-aeb5-411162e7481d",
+    "icon": {
+      "url": "https://media.permira.com/media/o50h3h5o/acuity-logo.png",
+      "alt": ""
+    },
+    "name": "Acuity Knowledge Partners",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/acuity-knowledge-partners/"
+      }
+    }
+  },
+  {
+    "id": "b0283adf-f83d-4fc4-99ed-51703d383984",
+    "icon": {
+      "url": "https://media.permira.com/media/enklq3ym/adevinta_logo.png",
+      "alt": ""
+    },
+    "name": "Adevinta",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/adevinta/"
+      }
+    }
+  },
+  {
+    "id": "5df3da17-bfb6-4672-84dc-79fae505aa32",
+    "icon": {
+      "url": "https://media.permira.com/media/ghlmdneg/allegro_logo.png",
+      "alt": ""
+    },
+    "name": "Allegro Group",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/allegro-group/"
+      }
+    }
+  },
+  {
+    "id": "7a733987-a092-473e-8dcc-eaa27948a45f",
+    "icon": {
+      "url": "https://media.permira.com/media/oyode41x/alltrails-web-logo.png",
+      "alt": ""
+    },
+    "name": "AllTrails",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/alltrails/"
+      }
+    }
+  },
+  {
+    "id": "65606ece-eaec-421a-9560-adf4162a070d",
+    "icon": {
+      "url": "https://media.permira.com/media/wxdcbktz/altamarcam-portfolio-company.png",
+      "alt": ""
+    },
+    "name": "AltamarCAM",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/altamarcam/"
+      }
+    }
+  },
+  {
+    "id": "b73d1c6f-7801-41c9-b349-8e8a7e00ed75",
+    "icon": {
+      "url": "https://media.permira.com/media/p2ia44qb/alterdomus_logo.png",
+      "alt": ""
+    },
+    "name": "Alter Domus",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/alter-domus/"
+      }
+    }
+  },
+  {
+    "id": "bb7290f0-2d4d-4136-96a0-b20ab4eefd45",
+    "icon": {
+      "url": "https://media.permira.com/media/5sklvq3t/althea_logo.png",
+      "alt": ""
+    },
+    "name": "Althea",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/althea/"
+      }
+    }
+  },
+  {
+    "id": "9f09e400-c82d-46ec-afdc-00b4ab3b132c",
+    "icon": {
+      "url": "https://media.permira.com/media/0sannf2m/ancestry_logo.png",
+      "alt": ""
+    },
+    "name": "Ancestry",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/ancestry/"
+      }
+    }
+  },
+  {
+    "id": "7e664b10-a988-45ed-bcc8-639e26807be7",
+    "icon": {
+      "url": "https://media.permira.com/media/5k4jvvfn/arcaplanet_logo-1.png",
+      "alt": ""
+    },
+    "name": "Arcaplanet",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/arcaplanet/"
+      }
+    }
+  },
+  {
+    "id": "5b44e9a4-dcf2-4203-823c-5f0136519241",
+    "icon": {
+      "url": "https://media.permira.com/media/ownkzgfk/atrium_logo.png",
+      "alt": ""
+    },
+    "name": "Atrium",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/atrium/"
+      }
+    }
+  },
+  {
+    "id": "98a9f733-c360-460e-b7b9-621c13bb5cce",
+    "icon": {
+      "url": "https://media.permira.com/media/jrhpt5hr/axiom_logo.png",
+      "alt": ""
+    },
+    "name": "Axiom",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/axiom/"
+      }
+    }
+  },
+  {
+    "id": "ebd15890-c107-4fe4-b09d-7686887013e4",
+    "icon": {
+      "url": "https://media.permira.com/media/bnwloqcv/bestsecret_logo.png",
+      "alt": ""
+    },
+    "name": "BestSecret",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/bestsecret/"
+      }
+    }
+  },
+  {
+    "id": "3e07a246-a91d-43b8-b7f9-ac1947f80c91",
+    "icon": {
+      "url": "https://media.permira.com/media/bnobdcva/bfy_logo.png",
+      "alt": ""
+    },
+    "name": "BFY Brands",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/bfy-brands/"
+      }
+    }
+  },
+  {
+    "id": "efccf96a-1bdd-4c75-ba54-d2fe2895354b",
+    "icon": {
+      "url": "https://media.permira.com/media/m4mjidsp/biocatch-web-logo.png",
+      "alt": ""
+    },
+    "name": "BioCatch",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/biocatch/"
+      }
+    }
+  },
+  {
+    "id": "a4824b2a-7d28-44c9-ac59-fd33dc6d57ce",
+    "icon": {
+      "url": "https://media.permira.com/media/40sfk5kb/boatsgroup_logo.png",
+      "alt": ""
+    },
+    "name": "Boats Group",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/boats-group/"
+      }
+    }
+  },
+  {
+    "id": "e1c627ec-30ba-48e6-8a5f-e08be0f8be33",
+    "icon": {
+      "url": "https://media.permira.com/media/kzqdbp3t/cabb_logo.png",
+      "alt": ""
+    },
+    "name": "CABB",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/cabb/"
+      }
+    }
+  },
+  {
+    "id": "2b922be8-4b28-47b6-9d09-211d0c6855df",
+    "icon": {
+      "url": "https://media.permira.com/media/oswpmyxb/cambrex_logo.png",
+      "alt": ""
+    },
+    "name": "Cambrex",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/cambrex/"
+      }
+    }
+  },
+  {
+    "id": "f63bdc4e-f786-40ae-a3f2-2ae2e5103513",
+    "icon": {
+      "url": "https://media.permira.com/media/fwypkwx2/carta-web-logo.png",
+      "alt": ""
+    },
+    "name": "Carta",
+    "description": "Technology | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/carta/"
+      }
+    }
+  },
+  {
+    "id": "8ec871ec-33eb-4cb1-b848-8f6a7fa8720b",
+    "icon": {
+      "url": "https://media.permira.com/media/shblvbwa/catawiki_logo.png",
+      "alt": ""
+    },
+    "name": "Catawiki",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/catawiki/"
+      }
+    }
+  },
+  {
+    "id": "6c840fb1-e8f1-4ea7-bcc3-97e482a61a56",
+    "icon": {
+      "url": "https://media.permira.com/media/zq4emlrm/cielo_logo.png",
+      "alt": ""
+    },
+    "name": "Cielo",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/cielo/"
+      }
+    }
+  },
+  {
+    "id": "4decb015-eeeb-41bd-9495-554091d54ab3",
+    "icon": {
+      "url": "https://media.permira.com/media/3kcgnxqp/clearwater_logo.png",
+      "alt": ""
+    },
+    "name": "Clearwater Analytics",
+    "description": "Technology | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/clearwater-analytics/"
+      }
+    }
+  },
+  {
+    "id": "168a4e14-47b4-4806-92b8-407033411f52",
+    "icon": {
+      "url": "https://media.permira.com/media/1kllf2ek/commentsold-web.png",
+      "alt": ""
+    },
+    "name": "CommentSold",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/commentsold/"
+      }
+    }
+  },
+  {
+    "id": "c9026ee6-cbae-49bf-b3fa-214f08e22753",
+    "icon": {
+      "url": "https://media.permira.com/media/0k4nytip/corin_logo.png",
+      "alt": ""
+    },
+    "name": "Corin",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/corin/"
+      }
+    }
+  },
+  {
+    "id": "7216c0c7-237d-4259-8f43-713bb899f3fb",
+    "icon": {
+      "url": "https://media.permira.com/media/nzupkj5d/creganna-web-logos.png",
+      "alt": ""
+    },
+    "name": "Creganna",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/creganna/"
+      }
+    }
+  },
+  {
+    "id": "6e812973-e1b6-41d1-93ba-fe1d009e26df",
+    "icon": {
+      "url": "https://media.permira.com/media/mjrka3kv/curriculum_logo.png",
+      "alt": ""
+    },
+    "name": "Curriculum Associates",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/curriculum-associates/"
+      }
+    }
+  },
+  {
+    "id": "8ec4a80e-da89-41f9-bedd-a5c11f025eac",
+    "icon": {
+      "url": "https://media.permira.com/media/pwpm41v1/diversitech-web-logos.png",
+      "alt": ""
+    },
+    "name": "DiversiTech",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/diversitech/"
+      }
+    }
+  },
+  {
+    "id": "a5701a6e-edfb-42c9-b549-bfae67070e01",
+    "icon": {
+      "url": "https://media.permira.com/media/01vhpash/drmartens_logo.png",
+      "alt": ""
+    },
+    "name": "Dr. Martens",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/dr-martens/"
+      }
+    }
+  },
+  {
+    "id": "89982def-81e7-4785-b9d0-30c9b20e1468",
+    "icon": {
+      "url": "https://media.permira.com/media/w0ogwe4s/edreams_odigeo_logo.png",
+      "alt": ""
+    },
+    "name": "eDreams ODIGEO",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/edreams-odigeo/"
+      }
+    }
+  },
+  {
+    "id": "229e8ab0-d9bb-4262-b57d-aff454ed63bb",
+    "icon": {
+      "url": "https://media.permira.com/media/ttgelcsa/engels-and-volkers-logo.png",
+      "alt": ""
+    },
+    "name": "Engel & V\u00f6lkers",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/engels-volkers/"
+      }
+    }
+  },
+  {
+    "id": "ca90aafa-7a4a-435c-b0b5-e8b9aa7e65ab",
+    "icon": {
+      "url": "https://media.permira.com/media/1hkdt5so/ef-logo.png",
+      "alt": ""
+    },
+    "name": "English First Kids & Teens",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/english-first-kids-teens/"
+      }
+    }
+  },
+  {
+    "id": "e4feaf0b-329f-4421-b779-45d4d03acb74",
+    "icon": {
+      "url": "https://media.permira.com/media/3syctu4a/ergomed-web-logo.png",
+      "alt": ""
+    },
+    "name": "Ergomed",
+    "description": "Healthcare | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/ergomed/"
+      }
+    }
+  },
+  {
+    "id": "47e1ee45-6250-4d65-92b6-c3a40733c7ef",
+    "icon": {
+      "url": "https://media.permira.com/media/54rb0cla/evelyn-web-logo.png",
+      "alt": ""
+    },
+    "name": "Evelyn Partners",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/evelyn-partners/"
+      }
+    }
+  },
+  {
+    "id": "f004d02d-4bfd-42ba-abd1-02f79cee3bbb",
+    "icon": {
+      "url": "https://media.permira.com/media/dmvlb0f4/exclusive_group_logo.png",
+      "alt": ""
+    },
+    "name": "Exclusive Group",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/exclusive-group/"
+      }
+    }
+  },
+  {
+    "id": "ebb44223-7ac6-4eaa-b408-5f1e2f7d6f3d",
+    "icon": {
+      "url": "https://media.permira.com/media/wx1drof4/flixbus_logo.png",
+      "alt": ""
+    },
+    "name": "Flix",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/flix/"
+      }
+    }
+  },
+  {
+    "id": "228f353c-09f0-4604-a279-ae117a663f35",
+    "icon": {
+      "url": "https://media.permira.com/media/5gzh4k0t/fta_logo.png",
+      "alt": ""
+    },
+    "name": "Full Truck Alliance",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/full-truck-alliance/"
+      }
+    }
+  },
+  {
+    "id": "ab833bc1-8733-494a-b53d-f2efe20bbb32",
+    "icon": {
+      "url": "https://media.permira.com/media/gbvnngo4/full_story_logo.png",
+      "alt": ""
+    },
+    "name": "FullStory",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/fullstory/"
+      }
+    }
+  },
+  {
+    "id": "3be60af8-2e89-415c-90e4-bc06cf2bd76e",
+    "icon": {
+      "url": "https://media.permira.com/media/op5a3kpf/g2_logo.png",
+      "alt": ""
+    },
+    "name": "G2",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/g2/"
+      }
+    }
+  },
+  {
+    "id": "f8c07ba1-66d7-4052-af7a-530f7cc2c2d5",
+    "icon": {
+      "url": "https://media.permira.com/media/ddonti4l/genesys_logo.png",
+      "alt": ""
+    },
+    "name": "Genesys",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/genesys/"
+      }
+    }
+  },
+  {
+    "id": "986c5f5e-7c95-458b-b9b2-ea4cc1a45497",
+    "icon": {
+      "url": "https://media.permira.com/media/jgscvgo2/gocardless-web-logo.png",
+      "alt": ""
+    },
+    "name": "GoCardless",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/gocardless/"
+      }
+    }
+  },
+  {
+    "id": "fdd6d64d-00a0-4ba6-8a63-f5ccacf3dc3e",
+    "icon": {
+      "url": "https://media.permira.com/media/efwpx0ku/golden-goose-web-logo.png",
+      "alt": ""
+    },
+    "name": "Golden Goose",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/golden-goose/"
+      }
+    }
+  },
+  {
+    "id": "4edb9f32-45bd-43e3-9c49-1740a2e2d441",
+    "icon": {
+      "url": "https://media.permira.com/media/5ybj0b35/grobest_logo.png",
+      "alt": ""
+    },
+    "name": "Grobest",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/grobest/"
+      }
+    }
+  },
+  {
+    "id": "7b007675-4a1d-4f29-a22b-c8271c24ecbc",
+    "icon": {
+      "url": "https://media.permira.com/media/kuobcmeq/florence-group-portfolio-logo.png",
+      "alt": ""
+    },
+    "name": "Gruppo Florence",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/gruppo-florence/"
+      }
+    }
+  },
+  {
+    "id": "97c2bcc4-deae-498e-b06d-c359016fe310",
+    "icon": {
+      "url": "https://media.permira.com/media/0apb4fyv/gwi-web-logos.png",
+      "alt": ""
+    },
+    "name": "GWI",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/gwi/"
+      }
+    }
+  },
+  {
+    "id": "4f8dce9b-345b-45ff-8e4e-e5928dd0b7ef",
+    "icon": {
+      "url": "https://media.permira.com/media/oyzdw2ii/hana_logo.png",
+      "alt": ""
+    },
+    "name": "Hana Group",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/hana-group/"
+      }
+    }
+  },
+  {
+    "id": "5670a508-2dfe-426a-b768-a5c8277689a3",
+    "icon": {
+      "url": "https://media.permira.com/media/hhudxfrj/housecall-pro-web-logo.png",
+      "alt": ""
+    },
+    "name": "Housecall Pro ",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/housecall-pro/"
+      }
+    }
+  },
+  {
+    "id": "c6089599-0894-45d0-93f6-d137b0fcde75",
+    "icon": {
+      "url": "https://media.permira.com/media/3oanayr2/hugo-boss-web-logos.png",
+      "alt": ""
+    },
+    "name": "Hugo Boss",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/hugo-boss/"
+      }
+    }
+  },
+  {
+    "id": "1be7d913-5bf7-46e1-b375-c32d4bc63e91",
+    "icon": {
+      "url": "https://media.permira.com/media/pyyfr3bj/i-med_logo.png",
+      "alt": ""
+    },
+    "name": "I-Med Radiology Network",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/i-med-radiology-network/"
+      }
+    }
+  },
+  {
+    "id": "00f0b0f8-cab8-4d7d-99e8-7c4b505eaf9f",
+    "icon": {
+      "url": "https://media.permira.com/media/yelllozt/informatica_logo.png",
+      "alt": ""
+    },
+    "name": "Informatica",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/informatica/"
+      }
+    }
+  },
+  {
+    "id": "2752002c-341d-4307-9a90-9dbf79f2cab6",
+    "icon": {
+      "url": "https://media.permira.com/media/a3zdc2mf/intellegrated-web-logos.png",
+      "alt": ""
+    },
+    "name": "Intelligrated",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/intelligrated/"
+      }
+    }
+  },
+  {
+    "id": "883bbc17-2e69-4945-8216-340308756056",
+    "icon": {
+      "url": "https://media.permira.com/media/q0mfah0i/kedrion-bpl-web-logo.png",
+      "alt": ""
+    },
+    "name": "Kedrion and BPL",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/kedrion-and-bpl/"
+      }
+    }
+  },
+  {
+    "id": "2a9d356b-3743-4283-971d-61938cd5fdcf",
+    "icon": {
+      "url": "https://media.permira.com/media/xm5frfj1/klarna_logo.png",
+      "alt": ""
+    },
+    "name": "Klarna",
+    "description": "Technology | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/klarna/"
+      }
+    }
+  },
+  {
+    "id": "d9199107-8e45-4cac-a199-8dc1b6ed5040",
+    "icon": {
+      "url": "https://media.permira.com/media/nz2bp1yh/kroll_logo.png",
+      "alt": ""
+    },
+    "name": "Kroll",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/kroll/"
+      }
+    }
+  },
+  {
+    "id": "e569d5b0-2d9c-4bf9-aeed-4f50c758b418",
+    "icon": {
+      "url": "https://media.permira.com/media/0vldv5tv/la_paidineria_logo.png",
+      "alt": ""
+    },
+    "name": "La Piadineria",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/la-piadineria/"
+      }
+    }
+  },
+  {
+    "id": "082153aa-196c-4df1-ba07-fa3f32c465d8",
+    "icon": {
+      "url": "https://media.permira.com/media/waxdttpi/legalzoom_logo.png",
+      "alt": ""
+    },
+    "name": "LegalZoom",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/legalzoom/"
+      }
+    }
+  },
+  {
+    "id": "fcdd8776-bbbf-4df4-9a23-17b54e9c38fc",
+    "icon": {
+      "url": "https://media.permira.com/media/qa5bcu2c/lowell_logo.png",
+      "alt": ""
+    },
+    "name": "Lowell",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/lowell/"
+      }
+    }
+  },
+  {
+    "id": "7f8f272b-e28c-438f-8342-7de7d45f9be1",
+    "icon": {
+      "url": "https://media.permira.com/media/3x2pold1/lsne-web-logos.png",
+      "alt": ""
+    },
+    "name": "LSNE",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/lsne/"
+      }
+    }
+  },
+  {
+    "id": "61976d5e-76cf-4183-9ce9-e11bd220b95a",
+    "icon": {
+      "url": "https://media.permira.com/media/1eyhbgoo/lytx_logo.png",
+      "alt": ""
+    },
+    "name": "Lytx",
+    "description": "Technology | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/lytx/"
+      }
+    }
+  },
+  {
+    "id": "19b66dcf-78e1-4307-adb3-0e37ab2d2973",
+    "icon": {
+      "url": "https://media.permira.com/media/4h5lq31a/magento-web-logos.png",
+      "alt": ""
+    },
+    "name": "Magento",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/magento/"
+      }
+    }
+  },
+  {
+    "id": "70997ec6-663e-4e74-b4e8-6730d472e5dc",
+    "icon": {
+      "url": "https://media.permira.com/media/5b0govvp/mcafee-web.png",
+      "alt": ""
+    },
+    "name": "McAfee",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/mcafee/"
+      }
+    }
+  },
+  {
+    "id": "c6734089-77c7-4fef-b8b1-c4189b18a207",
+    "icon": {
+      "url": "https://media.permira.com/media/v5ub0042/mimecast-web-thumbnail.png",
+      "alt": ""
+    },
+    "name": "Mimecast",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/mimecast/"
+      }
+    }
+  },
+  {
+    "id": "12723e3d-7134-4064-8397-d6a31b020b30",
+    "icon": {
+      "url": "https://media.permira.com/media/ieeddxu3/minted_logo.png",
+      "alt": ""
+    },
+    "name": "Minted",
+    "description": "Technology | Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/minted/"
+      }
+    }
+  },
+  {
+    "id": "e97eca92-4ef2-4f3f-a3c5-4d9880b34853",
+    "icon": {
+      "url": "https://media.permira.com/media/0zujbute/mirakl_logo.png",
+      "alt": ""
+    },
+    "name": "Mirakl",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/mirakl/"
+      }
+    }
+  },
+  {
+    "id": "e60c8a14-5d3b-4a97-b49c-761db20b93ef",
+    "icon": {
+      "url": "https://media.permira.com/media/uzcbn3pi/motus-web-logos.png",
+      "alt": ""
+    },
+    "name": "Motus",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/motus/"
+      }
+    }
+  },
+  {
+    "id": "5288a5ed-8d47-4b4a-b734-3411918d39bf",
+    "icon": {
+      "url": "https://media.permira.com/media/kewcqmzu/mparticile_logo.png",
+      "alt": ""
+    },
+    "name": "mParticle",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/mparticle/"
+      }
+    }
+  },
+  {
+    "id": "cfa1838f-5c04-4841-8146-33455177e7b2",
+    "icon": {
+      "url": "https://media.permira.com/media/eusn15ap/mutant_logo.png",
+      "alt": ""
+    },
+    "name": "Mutant",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/mutant/"
+      }
+    }
+  },
+  {
+    "id": "3fd70236-e5a2-4b87-b4ca-9bd056e57dda",
+    "icon": {
+      "url": "https://media.permira.com/media/0z3lauof/nds-web-logos.png",
+      "alt": ""
+    },
+    "name": "NDS",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/nds/"
+      }
+    }
+  },
+  {
+    "id": "ae94858f-3457-4aa2-bda5-ce0976a7c2b5",
+    "icon": {
+      "url": "https://media.permira.com/media/rbxndsjo/netafim-web-logos.png",
+      "alt": ""
+    },
+    "name": "Netafim",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/netafim/"
+      }
+    }
+  },
+  {
+    "id": "4a13d9c5-e952-4a47-8908-4891af693585",
+    "icon": {
+      "url": "https://media.permira.com/media/lvwnaywl/neuraxpharm_logo.png",
+      "alt": ""
+    },
+    "name": "Neuraxpharm",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/neuraxpharm/"
+      }
+    }
+  },
+  {
+    "id": "91e1cad5-17f4-4a37-9689-7cc4e3e7012d",
+    "icon": {
+      "url": "https://media.permira.com/media/qqhlctq5/nexthink_logo.png",
+      "alt": ""
+    },
+    "name": "Nexthink",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/nexthink/"
+      }
+    }
+  },
+  {
+    "id": "8dcebaf9-7254-4ba6-9c57-a2371cb023b9",
+    "icon": {
+      "url": "https://media.permira.com/media/qkvm2p1s/pi_logo.png",
+      "alt": ""
+    },
+    "name": "P&I",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/p-i/"
+      }
+    }
+  },
+  {
+    "id": "2eb2a066-ebd9-455b-9577-38ee52005602",
+    "icon": {
+      "url": "https://media.permira.com/media/ufydumyw/pepperjam_logo.png",
+      "alt": ""
+    },
+    "name": "Pepperjam",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/pepperjam/"
+      }
+    }
+  },
+  {
+    "id": "35e111a4-36a2-4cf6-9428-a5dd7a70519f",
+    "icon": {
+      "url": "https://media.permira.com/media/yftp2dwe/pharmaq-web-logos.png",
+      "alt": ""
+    },
+    "name": "Pharmaq",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/pharmaq/"
+      }
+    }
+  },
+  {
+    "id": "ed19d303-bacb-4767-826e-8478be8215f0",
+    "icon": {
+      "url": "https://media.permira.com/media/ir0hhikv/quotient_logo.png",
+      "alt": ""
+    },
+    "name": "Quotient Sciences",
+    "description": "Healthcare",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/quotient-sciences/"
+      }
+    }
+  },
+  {
+    "id": "f41db846-27f3-46dd-bd75-abf222e2aa30",
+    "icon": {
+      "url": "https://media.permira.com/media/51kl5vy1/reformation_logo.png",
+      "alt": ""
+    },
+    "name": "Reformation",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/reformation/"
+      }
+    }
+  },
+  {
+    "id": "dd24012a-b062-4dff-9d79-39e7fc503bda",
+    "icon": {
+      "url": "https://media.permira.com/media/f2elhb5w/relativity_logo.png",
+      "alt": ""
+    },
+    "name": "Relativity",
+    "description": "Technology | Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/relativity/"
+      }
+    }
+  },
+  {
+    "id": "a0724eb8-8154-4f84-98c1-657f224fd4a0",
+    "icon": {
+      "url": "https://media.permira.com/media/xkpl34hj/renaissance-learning-web-logos.png",
+      "alt": ""
+    },
+    "name": "Renaissance Learning",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/renaissance-learning/"
+      }
+    }
+  },
+  {
+    "id": "b9e1ee73-4e2d-45d2-84b0-3bc0513c67e2",
+    "icon": {
+      "url": "https://media.permira.com/media/i0vdw3gq/reorg-web-logo.png",
+      "alt": ""
+    },
+    "name": "Reorg",
+    "description": "Services | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/reorg/"
+      }
+    }
+  },
+  {
+    "id": "b9190d54-60b2-41e0-8d43-0aea1d9207aa",
+    "icon": {
+      "url": "https://media.permira.com/media/frdhbyv0/safti_logo.png",
+      "alt": ""
+    },
+    "name": "SAFTI",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/safti/"
+      }
+    }
+  },
+  {
+    "id": "8be382d0-2108-44fd-ab25-cf78481bdd04",
+    "icon": {
+      "url": "https://media.permira.com/media/1frfiqh4/salsify-web-thumbnail.png",
+      "alt": ""
+    },
+    "name": "Salsify",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/salsify/"
+      }
+    }
+  },
+  {
+    "id": "762fe345-5371-4eb1-b6fa-48342d649e1d",
+    "icon": {
+      "url": "https://media.permira.com/media/dokli3xt/sesimic-web-logoartboard-1.png",
+      "alt": ""
+    },
+    "name": "Seismic",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/seismic/"
+      }
+    }
+  },
+  {
+    "id": "d8f448d1-aee7-4acc-bfe8-c47f7de09ad6",
+    "icon": {
+      "url": "https://media.permira.com/media/scjjwwmi/sonarsource-web-thumbnail.png",
+      "alt": ""
+    },
+    "name": "SonarSource",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/sonarsource/"
+      }
+    }
+  },
+  {
+    "id": "fb26ea09-eeed-4464-9ddb-cd08c351dc98",
+    "icon": {
+      "url": "https://media.permira.com/media/frqpqppu/sushiro-web-logos.png",
+      "alt": ""
+    },
+    "name": "Sushiro",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/sushiro/"
+      }
+    }
+  },
+  {
+    "id": "5f0c9954-dff6-41d9-af7f-08f327f1dae2",
+    "icon": {
+      "url": "https://media.permira.com/media/pbolkmcz/synamedia-web-logo.png",
+      "alt": ""
+    },
+    "name": "Synamedia",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/synamedia/"
+      }
+    }
+  },
+  {
+    "id": "5e736d4e-913c-4d90-b124-72ca6e107d07",
+    "icon": {
+      "url": "https://media.permira.com/media/tlwpko5f/sysdig-web-logo.png",
+      "alt": ""
+    },
+    "name": "Sysdig",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/sysdig/"
+      }
+    }
+  },
+  {
+    "id": "355c42c8-2633-45fd-b5a9-e26b8721f8d8",
+    "icon": {
+      "url": "https://media.permira.com/media/erfiaxdl/teamviewer_logo.png",
+      "alt": ""
+    },
+    "name": "TeamViewer",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/teamviewer/"
+      }
+    }
+  },
+  {
+    "id": "6dabb76f-c0a5-4774-ad67-4e29cd98a388",
+    "icon": {
+      "url": "https://media.permira.com/media/l5dikaok/teraco_logo.png",
+      "alt": ""
+    },
+    "name": "Teraco",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/teraco/"
+      }
+    }
+  },
+  {
+    "id": "635b1018-8a09-447e-a423-3043b0cc0413",
+    "icon": {
+      "url": "https://media.permira.com/media/zfhjuy3v/tkww_logo.png",
+      "alt": ""
+    },
+    "name": "The Knot Worldwide",
+    "description": "Consumer | Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/the-knot-worldwide/"
+      }
+    }
+  },
+  {
+    "id": "f9a8cbfe-cbf6-4900-8bcb-e9d95c917c09",
+    "icon": {
+      "url": "https://media.permira.com/media/poiduqmn/topcast-web-logo.png",
+      "alt": ""
+    },
+    "name": "Topcast",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/topcast/"
+      }
+    }
+  },
+  {
+    "id": "eac3d728-cb53-4f27-b8cf-b47beff8cfc1",
+    "icon": {
+      "url": "https://media.permira.com/media/a1vlgxut/tricor_logo.png",
+      "alt": ""
+    },
+    "name": "Tricor",
+    "description": "Services",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/tricor/"
+      }
+    }
+  },
+  {
+    "id": "68378845-ab98-471e-9e2b-340a872a2518",
+    "icon": {
+      "url": "https://media.permira.com/media/c3mm20oj/universidad-web-logos.png",
+      "alt": ""
+    },
+    "name": "Universidad Europea",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/universidad-europea/"
+      }
+    }
+  },
+  {
+    "id": "8642d578-bbd9-45a9-94af-3c875703fc5a",
+    "icon": {
+      "url": "https://media.permira.com/media/l2hplhgd/vancanceselect-web-logos.png",
+      "alt": ""
+    },
+    "name": "VacanceSelect ",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/vacanceselect/"
+      }
+    }
+  },
+  {
+    "id": "a26f9d12-f992-4203-b433-68a17b434c84",
+    "icon": {
+      "url": "https://media.permira.com/media/sfvhti02/valentino-web-logo.png",
+      "alt": ""
+    },
+    "name": "Valentino",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/valentino/"
+      }
+    }
+  },
+  {
+    "id": "5178bb6f-bd01-4bb7-9ed1-9f2a3dee311d",
+    "icon": {
+      "url": "https://media.permira.com/media/2xvhuxq4/website-logoyogiyo.png",
+      "alt": ""
+    },
+    "name": "Yogiyo",
+    "description": "Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/yogiyo/"
+      }
+    }
+  },
+  {
+    "id": "5b7cf09c-1fd7-4962-a914-dc49ec18e410",
+    "icon": {
+      "url": "https://media.permira.com/media/iz2ftxzs/zendesk-web-logo.png",
+      "alt": ""
+    },
+    "name": "Zendesk",
+    "description": "Technology",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/zendesk/"
+      }
+    }
+  },
+  {
+    "id": "09880830-9a9f-4a10-9336-34d226abb89e",
+    "icon": {
+      "url": "https://media.permira.com/media/gj1chu5w/website-logozwift.png",
+      "alt": ""
+    },
+    "name": "Zwift",
+    "description": "Technology | Consumer",
+    "cta": {
+      "text": "FIND OUT MORE",
+      "link": {
+        "target": "",
+        "url": "/portfolio/our-portfolio/zwift/"
+      }
+    }
+  }
+]

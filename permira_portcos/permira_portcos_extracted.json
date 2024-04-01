@@ -1,0 +1,386 @@
+{
+  "ABS": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/abs/"
+  },
+  "Acuity Knowledge Partners": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/acuity-knowledge-partners/"
+  },
+  "Adevinta": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/adevinta/"
+  },
+  "Allegro Group": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/allegro-group/"
+  },
+  "AllTrails": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/alltrails/"
+  },
+  "AltamarCAM": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/altamarcam/"
+  },
+  "Alter Domus": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/alter-domus/"
+  },
+  "Althea": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/althea/"
+  },
+  "Ancestry": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/ancestry/"
+  },
+  "Arcaplanet": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/arcaplanet/"
+  },
+  "Atrium": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/atrium/"
+  },
+  "Axiom": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/axiom/"
+  },
+  "BestSecret": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/bestsecret/"
+  },
+  "BFY Brands": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/bfy-brands/"
+  },
+  "BioCatch": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/biocatch/"
+  },
+  "Boats Group": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/boats-group/"
+  },
+  "CABB": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/cabb/"
+  },
+  "Cambrex": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/cambrex/"
+  },
+  "Carta": {
+    "description": "Technology | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/carta/"
+  },
+  "Catawiki": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/catawiki/"
+  },
+  "Cielo": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/cielo/"
+  },
+  "Clearwater Analytics": {
+    "description": "Technology | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/clearwater-analytics/"
+  },
+  "CommentSold": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/commentsold/"
+  },
+  "Corin": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/corin/"
+  },
+  "Creganna": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/creganna/"
+  },
+  "Curriculum Associates": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/curriculum-associates/"
+  },
+  "DiversiTech": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/diversitech/"
+  },
+  "Dr. Martens": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/dr-martens/"
+  },
+  "eDreams ODIGEO": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/edreams-odigeo/"
+  },
+  "Engel & V\u00f6lkers": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/engels-volkers/"
+  },
+  "English First Kids & Teens": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/english-first-kids-teens/"
+  },
+  "Ergomed": {
+    "description": "Healthcare | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/ergomed/"
+  },
+  "Evelyn Partners": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/evelyn-partners/"
+  },
+  "Exclusive Group": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/exclusive-group/"
+  },
+  "Flix": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/flix/"
+  },
+  "Full Truck Alliance": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/full-truck-alliance/"
+  },
+  "FullStory": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/fullstory/"
+  },
+  "G2": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/g2/"
+  },
+  "Genesys": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/genesys/"
+  },
+  "GoCardless": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/gocardless/"
+  },
+  "Golden Goose": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/golden-goose/"
+  },
+  "Grobest": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/grobest/"
+  },
+  "Gruppo Florence": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/gruppo-florence/"
+  },
+  "GWI": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/gwi/"
+  },
+  "Hana Group": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/hana-group/"
+  },
+  "Housecall Pro ": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/housecall-pro/"
+  },
+  "Hugo Boss": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/hugo-boss/"
+  },
+  "I-Med Radiology Network": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/i-med-radiology-network/"
+  },
+  "Informatica": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/informatica/"
+  },
+  "Intelligrated": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/intelligrated/"
+  },
+  "Kedrion and BPL": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/kedrion-and-bpl/"
+  },
+  "Klarna": {
+    "description": "Technology | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/klarna/"
+  },
+  "Kroll": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/kroll/"
+  },
+  "La Piadineria": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/la-piadineria/"
+  },
+  "LegalZoom": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/legalzoom/"
+  },
+  "Lowell": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/lowell/"
+  },
+  "LSNE": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/lsne/"
+  },
+  "Lytx": {
+    "description": "Technology | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/lytx/"
+  },
+  "Magento": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/magento/"
+  },
+  "McAfee": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/mcafee/"
+  },
+  "Mimecast": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/mimecast/"
+  },
+  "Minted": {
+    "description": "Technology | Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/minted/"
+  },
+  "Mirakl": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/mirakl/"
+  },
+  "Motus": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/motus/"
+  },
+  "mParticle": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/mparticle/"
+  },
+  "Mutant": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/mutant/"
+  },
+  "NDS": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/nds/"
+  },
+  "Netafim": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/netafim/"
+  },
+  "Neuraxpharm": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/neuraxpharm/"
+  },
+  "Nexthink": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/nexthink/"
+  },
+  "P&I": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/p-i/"
+  },
+  "Pepperjam": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/pepperjam/"
+  },
+  "Pharmaq": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/pharmaq/"
+  },
+  "Quotient Sciences": {
+    "description": "Healthcare",
+    "url": "https://www.permira.com/portfolio/our-portfolio/quotient-sciences/"
+  },
+  "Reformation": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/reformation/"
+  },
+  "Relativity": {
+    "description": "Technology | Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/relativity/"
+  },
+  "Renaissance Learning": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/renaissance-learning/"
+  },
+  "Reorg": {
+    "description": "Services | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/reorg/"
+  },
+  "SAFTI": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/safti/"
+  },
+  "Salsify": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/salsify/"
+  },
+  "Seismic": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/seismic/"
+  },
+  "SonarSource": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/sonarsource/"
+  },
+  "Sushiro": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/sushiro/"
+  },
+  "Synamedia": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/synamedia/"
+  },
+  "Sysdig": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/sysdig/"
+  },
+  "TeamViewer": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/teamviewer/"
+  },
+  "Teraco": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/teraco/"
+  },
+  "The Knot Worldwide": {
+    "description": "Consumer | Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/the-knot-worldwide/"
+  },
+  "Topcast": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/topcast/"
+  },
+  "Tricor": {
+    "description": "Services",
+    "url": "https://www.permira.com/portfolio/our-portfolio/tricor/"
+  },
+  "Universidad Europea": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/universidad-europea/"
+  },
+  "VacanceSelect ": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/vacanceselect/"
+  },
+  "Valentino": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/valentino/"
+  },
+  "Yogiyo": {
+    "description": "Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/yogiyo/"
+  },
+  "Zendesk": {
+    "description": "Technology",
+    "url": "https://www.permira.com/portfolio/our-portfolio/zendesk/"
+  },
+  "Zwift": {
+    "description": "Technology | Consumer",
+    "url": "https://www.permira.com/portfolio/our-portfolio/zwift/"
+  }
+}
