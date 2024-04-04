@@ -1,0 +1,1442 @@
+[
+  {
+    "companies": [
+      {
+        "company_name": "ABC Fitness Solutions",
+        "company_description": "ABC Fitness Solutions is the premier provider of software and related services for the health and fitness industry. Building on a reputation for excellence in support for clubs and their members, ABC is the trusted provider to boost performance and create a Total Fitness Experience for members of clubs of all sizes whether a national franchise, regional chain, or a local gym. Founded in 1981, ABC helps nearly 16,000 clubs and facilities globally perform better and more profitably offering a comprehensive SaaS club management solution that enables club operators to achieve optimal performance.",
+        "industry": "Healthcare IT",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Sherwood, AR",
+        "website": "abcfitness.com"
+      },
+      {
+        "company_name": "Adenza",
+        "company_description": "Adenza provides customers with end-to-end, trading, treasury, risk management and regulatory compliance platforms which can be delivered on-premise or on-cloud. Adenza enables financial institutions to consolidate and streamline their operations with front-to-back solutions integrated with data management and reporting, benefitting from a single source of truth across the business. With headquarters in London and New York, Adenza has more than 60,000 users across the world\u2019s largest financial institutions spanning global and regional banks, broker dealers, insurers, asset managers, pension funds, hedge funds, central banks, stock exchanges and clearing houses, securities services providers and corporates.",
+        "industry": "Financial Technology",
+        "date_of_investment": "2021",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "London and New York",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Aisera",
+        "company_description": "Aisera offers the world's first AI-driven service experience solution that automates operations and support for IT, sales, and customer service, making businesses and customers successful by offering consumer-like self-service resolutions to users. Aisera fast tracks the digital transformation journey with user and service behavioral intelligence that drives end-to-end automation of tasks, actions, and business processes.",
+        "industry": "AI and Machine Learning",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Palo Alto, CA",
+        "website": "aisera.com"
+      },
+      {
+        "company_name": "Alation",
+        "company_description": "Alation is the leader in enterprise data intelligence solutions, including data search & discovery, data governance, data stewardship, analytics, and digital transformation. Alation\u2019s initial offering dominates the data catalog market. Thanks to its powerful Behavioral Analysis Engine, inbuilt collaboration capabilities, and open interfaces, Alation combines machine learning with human insight to successfully tackle even the most demanding challenges in data and metadata management. Nearly 450 enterprises drive data culture, improve decision-making, and realize business outcomes with Alation.",
+        "industry": "Data Management and Analytics",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Redwood City, CA",
+        "website": "alation.com"
+      },
+      {
+        "company_name": "Alma",
+        "company_description": "Alma is on a mission to simplify access to high quality, affordable mental health care by giving providers the tools they need to build thriving in-network private practices. Alma's membership platform enables providers to manage insurance, billing, scheduling, client referrals, and continuing education, enabling them to focus on what matters most: delivering care to clients. Named one of Fast Company's Most Innovative Companies In Health, Alma's investors include Thoma Bravo, Cigna Ventures, Insight Partners, Optum Ventures, Tusk Venture Partners, First Round Capital, Primary Venture Partners, Sound Ventures, BoxGroup, Rainfall Ventures, and Able Partners.",
+        "industry": "Healthcare IT",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "New York, NY",
+        "website": "helloalma.com"
+      },
+      {
+        "company_name": "Anaplan",
+        "company_description": "Anaplan is a transformative way to see, plan, and run your business. Using our proprietary Hyperblock\u2122 technology, Anaplan lets you contextualize real-time performance, and forecast future outcomes for faster, confident decisions. Anaplan enables connected strategy and planning across your enterprise to move your business forward. Based in San Francisco, Anaplan has over 200 partners and more than 2,000 customers worldwide.",
+        "industry": "Enterprise Software",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Francisco, CA",
+        "website": "anaplan.com"
+      },
+      {
+        "company_name": "Anchorage",
+        "company_description": "Anchorage is a leading digital asset platform offering custody, trading, and financing services, as well as staking and governance. Its digital asset platform offers solutions like modern security engineering for secure crypto custody, trading, staking and governance, enabling businesses to streamline their investments through blockchain technology.",
+        "industry": "Blockchain and Crypto",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Francisco, CA",
+        "website": "anchorage.com"
+      },
+      {
+        "company_name": "Applitools",
+        "company_description": "Applitools delivers a Next Generation Test Automation Platform through Visual AI and Ultrafast Test Cloud. Applitools enables engineering teams to release high quality web and mobile apps at incredible speed and at a reduced cost. Applitools Visual AI modernizes important test automation use cases \u2013 Functional Testing, Visual Testing, Web and Mobile UI/UX Testing, Cross Browser Testing, Responsive Web Design Testing, Cross Device Testing, PDF Testing, Accessibility Testing and Compliance Testing \u2013 to transform the way organizations deliver innovation at the speed of CI/CD at a significantly lower Total Cost of Ownership (TCO). Hundreds of companies from verticals such as Tech, Banking, Insurance, Retail, Pharma, and Publishing \u2013 including 50 of the Fortune 100 \u2013 use Applitools to deliver the best possible digital experiences to millions of customers on any device and browser, and across every screen size and operating system.",
+        "industry": "Software Development",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Mateo, CA",
+        "website": "applitools.com"
+      },
+      {
+        "company_name": "AppOmni",
+        "company_description": "AppOmni is the leading provider of SaaS Security Management. AppOmni provides unprecedented data access visibility, management, and security of SaaS solutions, enabling organizations to secure mission-critical and sensitive data. AppOmni\u2019s patent-pending technology",
+        "industry": "Cybersecurity",
+        "date_of_investment": "N/A",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "AppOmni",
+        "company_description": "provides unprecedented data access visibility, management, and security of SaaS solutions, enabling organizations to secure mission-critical and sensitive data. AppOmni\u2019s patent-pending technology deeply scans APIs, security controls, and configuration settings to evaluate the current state of SaaS deployments and compare against best practices and business intent. With AppOmni, organizations can establish rules for data access, data sharing, and third-party applications that will be continuously and automatically validated. The company\u2019s leadership team brings expertise and innovation from leading SaaS providers, high tech companies, and cybersecurity vendors. Backed by Salesforce Ventures, ServiceNow Ventures, Scale Venture Partners and more, AppOmni was named a 2021 SINET16 Innovator and one of Dark Reading\u2019s \u201c11 Cybersecurity Vendors to Watch in 2021.",
+        "industry": "SaaS Security",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Salesforce Ventures, ServiceNow Ventures, Scale Venture Partners",
+        "hq": "San Francisco",
+        "website": "appomni.com"
+      },
+      {
+        "company_name": "Apryse",
+        "company_description": "is a premier global provider of high-performance digital content processing technology serving OEM and enterprise customers across a broad spectrum of industries. Apryse's market-leading SDK drives digital transformation and powers next generation software applications with dynamic document viewing, annotation, processing, and conversion capabilities, as well as advanced features such as document understanding, data extraction, and redaction. Apryse technology supports all major platforms and dozens of unique file types, including support for PDF, MS Office, and CAD formats.",
+        "industry": "Digital Content Processing",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Vancouver, British Columbia, Canada",
+        "website": "apryse.com"
+      },
+      {
+        "company_name": "Apttus",
+        "company_description": "is a leading provider of software for the \u201cmiddle office\u201d (e.g., where profit and loss is managed and customer strategies implemented) in enterprises around the world. Its comprehensive suite of quote-to-cash (QTC) software solutions address all the processes necessary to go from providing a price quote to recognizing revenue, including configure-price-quote (CPQ), contract lifecycle management (CLM), e-commerce and billing and revenue management. Apttus\u2019 solutions automate, optimize and apply artificial intelligence to the most important set of business processes for any enterprise \u2013 generating revenue and managing key commercial relationships. Its customer base includes hundreds of the Global 2000 and is expanding rapidly as enterprises of all sizes are recognizing the importance of middle office solutions to their growth and success. In May 2020, Apttus and Conga combined to create the leader in digital transformation for commercial operations.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Merged with Conga",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Aternity",
+        "company_description": "is the Digital Experience Management company. Aternity\u2019s mission is to help global enterprises optimize digital relationships for all customers, consumers and employees as they transact, collaborate and interact with technology\u2014applications and infrastructure. The Aternity Digital Experience Management (DEM) SaaS platform captures and contextualizes data, as well as actionable analytics and insights on user experience that inform remediation, drive down costs and increase productivity. Aternity is the experience optimization engine enabling every digital enterprise to understand its pulse constantly and at every endpoint, no matter how it shifts to adopt technology or change strategy.",
+        "industry": "Digital Experience Management",
+        "date_of_investment": "2020",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Acquired by Riverbed",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Aucerna",
+        "company_description": "is one of the energy industry\u2019s leading providers of solutions for integrated planning, execution and reserves. The company is a global source of technology and expertise, serving more than 500 customers from 12 global offices including Calgary, Houston, London and Singapore. Aucerna proudly serves the energy industry\u2019s largest base of customers, from super-majors and emerging operators to energy investors, consultants and education institutions. Aucerna solutions are deployed in every region of the globe, helping companies make better investment decisions by connecting the people and the data of the modern energy industry.",
+        "industry": "Energy",
+        "date_of_investment": "2019",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Merged with Quorum",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Auctane",
+        "company_description": "Navigating the complex landscape of global shipping and logistics presents new challenges for fast-growing brands every day. At Auctane, we serve and champion these businesses in everything we do. We are a team of shipping and software experts with a passion for helping businesses move their ideas, dreams, and innovations around the globe. Our software solutions power billions of shipments every year and enable businesses to manage complex logistic channels with ease, optimizing their time, energy, and resources. Auctane brands include Stamps.com, Endicia, ShipStation, ShippingEasy, ShipWorks, ShipEngine, Shipsi, GlobalPost, and Metapack, with offices in El Segundo, Austin, London, Sunnyvale, Zielona Gora, Atlanta, and St. Louis.",
+        "industry": "Shipping and Logistics",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "El Segundo, CA",
+        "website": "auctane.com"
+      },
+      {
+        "company_name": "Autodata",
+        "company_description": "Developer of software and SaaS platform intended to increase the effectiveness of the automotive sales chain. The company's software services range from back-end automation systems that enable dealer-to-OEM vehicle ordering to data-driven consumer-focused interactive marketing initiatives such as brand websites, dealer websites, dealership sales tools and mobile solutions.",
+        "industry": "Automotive",
+        "date_of_investment": "2019",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Merged with J.D. Power",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Barracuda",
+        "company_description": "At Barracuda we strive to make the world a safer place. We believe every business deserves access to cloud-enabled, enterprise-grade security solutions that are easy to buy, deploy, and use. We protect email, networks, data, and applications with innovative solutions that grow and adapt with our customers' journey. More than 200,000 organizations worldwide trust Barracuda to protect them \u2014 in ways they may not even know they are at risk \u2014 so they can focus on taking their business to the next level.",
+        "industry": "Security",
+        "date_of_investment": "2018",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Blue Coat",
+        "company_description": "Systems is a leading provider of Web security and WAN optimization solutions. Blue Coat offers solutions that provide the visibility, acceleration and security required to optimize and secure the flow of information to any user, on any network, anywhere. This application intelligence enables enterprises to tightly align network investments with business requirements, speed decision making and secure business applications for long-term competitive advantage. Blue Coat also offers service provider solutions for managed security and WAN optimization, as well as carrier-grade caching solutions to save on bandwidth and enhance the end-user Web experience. After about three years of Thoma Bravo ownership, Blue Coat was sold to Bain Capital\u00a0in May 2015. During its period of ownership, Thoma Bravo worked closely with the company\u2019s existing management to add additional operational resources; design and execute a plan that substantially reduced the company\u2019s cost structure without negatively impacting top line performance; navigate the largest appliance refresh",
+        "industry": "Web Security and WAN Optimization",
+        "date_of_investment": "Sold to Bain Capital in May 2015",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Blue Coat",
+        "company_description": "operational resources; design and execute a plan that substantially reduced the company\u2019s cost structure without negatively impacting top line performance; navigate the largest appliance refresh program in the company\u2019s history; realign the focus of the company\u2019s sales force; improve channel terms and practices; strengthen pricing discipline; and complete four strategic acquisitions in high growth sub-sectors of its markets. As the company\u2019s CEO noted at the time: with Thoma Bravo\u2019s help, \"Blue Coat has strengthened and expanded our product portfolio, leading to more value for our customers while positioning the company for the next stage of growth\u2026 We have benefitted from Thoma Bravo\u2019s insight and support.\"",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2011 EXITED 2015",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "BlueMatrix",
+        "company_description": "BlueMatrix is the industry standard and the world's largest publisher of investment research. For over two decades BlueMatrix connects the world's leading asset and wealth managers with nearly 1,000 research firms in more than 50 countries and serves internal teams across multi-national corporations from its offices located in Durham (HQ), New York, London, Edinburgh, and Timisoara. BlueMatrix facilitates the equitable exchange of critical investment insights by improving the efficiency, collaboration, and security across the complete information lifecycle. The ecosystem is designed to meet users' bespoke needs, from compliance tracking to interactive publishing, by removing friction from the publication, dissemination, consumption and application of investment research content.",
+        "industry": null,
+        "date_of_investment": "YEAR INVESTED 2024",
+        "status_current": null,
+        "fund": null,
+        "hq": "New York, NY",
+        "website": "www.bluematrix.com"
+      },
+      {
+        "company_name": "Bluesight",
+        "company_description": "Bluesight solves supply chain inefficiencies and reduces risk for hospital pharmacies by using AI and machine learning to surface actionable analytics for every step of the medication lifecycle. Through its suite of Medication Intelligence\u2122 solutions, Bluesight brings simplicity, visibility, and predictability to the complex world of medication management. More than 2,000 U.S. and Canadian hospitals use Bluesight solutions to optimize their hospital\u2019s pharmacy practices by increasing compliance and safety and improving efficiency.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2023",
+        "status_current": null,
+        "fund": null,
+        "hq": "Alexandria, VA",
+        "website": "bluesight.com"
+      },
+      {
+        "company_name": "Bomgar",
+        "company_description": "Bomgar is a leading provider of Secure Access solutions for business. Bomgar\u2019s secure access solutions enable customers to more easily support people, access and protect endpoints and defend privileged credentials to counter cyber threats and speed business performance. Organizations around the globe use Bomgar to deliver superior support services and reduce threats to valuable data and systems. Bomgar clients include some of the world\u2019s leading IT outsourcers, systems integrators, software vendors, healthcare organizations, government agencies, universities, financial institutions and retailers. Thoma Bravo\u2019s Discover Fund acquired Bomgar from another private equity firm in 2016 and, with management, quickly implemented an operating improvement plan that substantially improved the company\u2019s profit margin. This was followed by a key add-on acquisition that enhanced the company\u2019s security offerings. Bomgar was subsequently sold to an affiliate of private equity firm Francisco Partners.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2016 EXITED 2018",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "Bottomline",
+        "company_description": "Bottomline helps businesses transform the way they pay and get paid. A global leader in business payments and cash management, Bottomline\u2019s secure, comprehensive solutions modernize payments for businesses and financial institutions globally. With over 30 years of experience, moving more than $10 trillion in payments annually, Bottomline is committed to driving impactful results for customers by reimagining business payments and delivering solutions that add to the bottom line.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2022",
+        "status_current": null,
+        "fund": null,
+        "hq": "Portsmouth, NH",
+        "website": "bottomline.com"
+      },
+      {
+        "company_name": "Calabrio",
+        "company_description": "Calabrio is a leading cloud provider of contact center workforce engagement management software globally, empowering organization to engage more meaningfully with customers. The company\u2019s solution offer quality management, workforce management, analytics, and advanced reporting capabilities through its flagship Calabrio ONE suite to enable a more productive and efficient contact center.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2021",
+        "status_current": null,
+        "fund": null,
+        "hq": "Minneapolis, MN",
+        "website": "calabrio.com"
+      },
+      {
+        "company_name": "Circle Cardiovascular Imaging",
+        "company_description": "Circle Cardiovascular Imaging Inc. develops world-class, advanced reading and reporting solutions for cardiac imaging. Circle CVI is a prominent company in the global cardiac imaging community, bringing together an experienced and dedicated team of over 150 people and offering multi-language support around the globe. Circle CVI's imaging platform, cvi42, is the best-in-class cardiovascular imaging reading and reporting solution for cardiac MR, cardiac CT, cardiac interventional planning and electrophysiology. Annually, millions of cardiac exams \u2013 in over 1,000 hospitals and in more than 50 countries \u2013 are interpreted using cvi42.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2022",
+        "status_current": null,
+        "fund": null,
+        "hq": "Calgary, Canada",
+        "website": "circlecvi.com"
+      },
+      {
+        "company_name": "Command Alkon",
+        "company_description": "As the Leading Supplier Collaboration Platform for Heavy Work, Command Alkon solutions deliver supply chain integration and frictionless digital collaboration across the heavy construction ecosystem. CONNEX, a many-to-many technology platform purpose built for the industry, enables business partners to automate inter-enterprise operations, capture real-time visibility into heavy material orders and deliveries, leverage leading-edge software experiences to achieve mutually beneficial goals, and share knowledge to manage by exception and promote certainty of outcomes.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2020",
+        "status_current": null,
+        "fund": null,
+        "hq": "Birmingham, AL",
+        "website": "commandalkon.com"
+      },
+      {
+        "company_name": "Compuware",
+        "company_description": "Compuware is the largest software company in the world exclusively devoted to optimizing customers\u2019 IBM mainframe environments. Compuware empowers the world\u2019s largest companies to excel in the digital economy by fully leveraging their high-value mainframe intellectual property. The company\u2019s highly innovative mainframe application development and performance optimization solutions uniquely enable IT to drive business value.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2014 EXITED 2020",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "Condeco",
+        "company_description": "Condeco is a global leader in workspace scheduling software, providing transformational technology to improve employee experiences and manage workspaces. Condeco\u2019s solutions allow companies to quickly adapt to the ever-changing office environment and create better future outcomes by giving employees control over the flexibility to work from anywhere - whether they choose to collaborate at the office or to focus on work remotely. Today, more than 2,000 of the world's largest businesses turn to Condeco to enable their future at work.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2021 MERGED WITH IOFFICE+SPACEIQ TO FORM EPTURA 2022",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "Conga",
+        "company_description": "Conga, the global leader in commercial operations transformation, helps businesses simplify and automate their approach to the essential quotes, contracts, and documents that drive commerce. We help our customers become more agile, so they can adapt quickly to change",
+        "industry": null,
+        "date_of_investment": null,
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Conga",
+        "company_description": "businesses simplify and automate their approach to the essential quotes, contracts, and documents that drive commerce. We help our customers become more agile, so they can adapt quickly to change and create a fluid, connected customer experience. Companies choose Conga for the most comprehensive solution set in the market and expert guidance, enabling them to transform the processes and documents surrounding customer engagement, configure price quote (CPQ), contract lifecycle management (CLM), and the complete commercial operations lifecycle. With Conga, businesses evolve their commercial operations to streamline their revenue processes and derive the meaningful insights that lead to sustained growth. Conga is headquartered in San Mateo, Calif. with global operations across North America, Europe and Asia.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "San Mateo, CA",
+        "website": "conga.com"
+      },
+      {
+        "company_name": "ConnectWise",
+        "company_description": "ConnectWise is a leading provider of software solutions to the Managed Service Provider (MSP) and SMB ecosystem. The company provides the most comprehensive business automation platform in its industry. This includes Professional Services Automation (PSA); Remote Monitoring and Management (RRM); Configure, Price, Quote (CPQ), plus Remote Connection and Security offerings for more than 25,000 partners in more than 65 countries. Further, the ConnectWise platform integrates with over 200 third-party applications, helping MSPs mine new revenue streams associated with those applications. With more than 35 years of experience, ConnectWise delivers the software solutions and support MSPs and SMBs need at each step of their business journey.",
+        "industry": "Software",
+        "date_of_investment": "2019",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Tampa, FL",
+        "website": "connectwise.com"
+      },
+      {
+        "company_name": "Continuum",
+        "company_description": "Continuum is the premier global IT management platform for Managed IT Service Providers (MSPs). Continuum provides MSPs with the platform, services and processes needed to simplify IT management and deliver high quality Remote Monitoring and Management (RMM), backup and disaster recovery and security offerings to small- and medium-sized businesses (SMBs). Its vertically integrated service delivery model combines a SaaS-based technology suite with a best-in-class Network Operations Center (NOC) and Help Desk, and allows MSPs to remotely administer, backup and secure their clients\u2019 IT environments from a single screen and to scale quickly and cost-effectively.",
+        "industry": "Software",
+        "date_of_investment": "2017",
+        "status_current": "Merged",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Cority",
+        "company_description": "Cority is the most trusted environmental, health, safety, and quality (EHSQ) software for assuring client success. Cority enables organizations to utilize EHSQ software to advance their journey to sustainability and operational excellence by combining the deepest domain expertise with the most comprehensive and secure true SaaS platform. With 30+ years of innovation and experience, Cority\u2019s team of over 350 experts serve over 800 clients in 100 countries, supporting 2.5 million end users. The company enjoys the industry\u2019s highest levels of client satisfaction and has received many awards for its strong employee culture and outstanding business performance.",
+        "industry": "Software",
+        "date_of_investment": "2019",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Toronto, Ontario Canada",
+        "website": "cority.com"
+      },
+      {
+        "company_name": "Coupa",
+        "company_description": "Coupa is the cloud-based Business Spend Management (BSM) platform that unifies processes across supply chain, procurement, and finance functions. Coupa empowers organizations around the world to maximize value and operationalize purpose through their business spend.",
+        "industry": "Software",
+        "date_of_investment": "2023",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "San Mateo, CA",
+        "website": "coupa.com"
+      },
+      {
+        "company_name": "Delinea",
+        "company_description": "Delinea is a leading provider of privileged access management (PAM) solutions that make security seamless for the modern, hybrid enterprise. Our solutions empower organizations to secure critical data, devices, code, and cloud infrastructure to help reduce risk, ensure compliance, and simplify security. Delinea removes complexity and defines the boundaries of access for thousands of customers worldwide, including over half of the Fortune 100. Our customers range from small businesses to the world's largest financial institutions, intelligence agencies, and critical infrastructure companies.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Redwood City, CA",
+        "website": "delinea.com"
+      },
+      {
+        "company_name": "Deltek",
+        "company_description": "Deltek is the leading provider of project-focused enterprise software and information solutions for government contractors and professional service firms. The company\u2019s product portfolio includes a comprehensive set of financial management solutions, business organization and program management applications, and business development and customer relationship management solutions.  The company also is the largest provider of government RFP data and information, offering its customers insight into trillions of dollars of government contract opportunities. Thoma Bravo acquired Deltek, then a public company, through a take-private transaction in 2012. Operational improvements and efficiencies were implemented immediately, improving annual earnings by tens of millions of dollars. Working closely together, Thoma Bravo and management (led by the company\u2019s former CFO who was appointed CEO) improved cash flow margins by more than 60% and made six accretive acquisitions. In 2016 the company was acquired by Roper Technologies (NYSE: ROP).",
+        "industry": "Software",
+        "date_of_investment": "2012",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "DigiCert",
+        "company_description": "DigiCert is a premier, trusted provider of enterprise security solutions. As a leading Certificate Authority (CA), it provides Secure Sockets Layer (SSL) Certificates to over 115,000 customers in more than 180 countries, and is one of the few CAs dedicated solely to advancing public key infrastructure (PKI) software solutions for enterprises and networked devices. SSL technology applies complex cryptographic algorithms to secure communications between a web browser and a web servers. The Company\u2019s SSL and other digital certificates and certificate lifecycle management products are used in e-commerce, healthcare, the Internet of Things and other emerging applications.",
+        "industry": "Software",
+        "date_of_investment": "2015",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Digital Insight",
+        "company_description": "Digital Insight, formerly the Financial Services division of Intuit, Inc. (NASDAQ: INTU), helps banks and credit unions grow by offering innovative online and mobile banking solutions that make it easier for consumers and businesses to manage their money. Digital Insight provides solutions that help financial institutions achieve higher customer engagement and profitability. Thousands of banks and credit unions use Digital Insight to provide their online banking services. Thoma Bravo acquired the business from Intuit in 2013 and established it as an independent company with its own data center, back office operations and G&A functions and identified a number of cost savings opportunities. Thoma Bravo then received an offer from NCR Corporation (NYSE:NCR) to acquire the business at a price that achieved the return goals for the investment much sooner than had been anticipated. The business was sold to NCR less than six months after the Thoma Bravo investment.",
+        "industry": "Financial Services",
+        "date_of_investment": "2013",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Dynatrace",
+        "company_description": "Dynatrace is an innovator and the market leader in the new generation of application performance management (APM) solutions. The company\u2019s products help customers, both large and small, see their applications and digital channels through the lens of end users. Over 5,800 organizations use these insights to master complexity, gain operational agility, and grow revenue by delivering the highest quality user experiences. Previously a division of Compuware Corporation, Dynatrace was established as a stand-alone business by Thoma Bravo upon its acquisition of Compuware in 2014.",
+        "industry": "Technology",
+        "date_of_investment": "2015",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Linz, Austria",
+        "website": "dynatrace.com"
+      },
+      {
+        "company_name": "Elemica",
+        "company_description": "Elemica is the leading Digital Supply Network for the process manufacturing industries. Elemica accelerates digital transformation by connecting, automating, anticipating and then transforming inter-business supply chain processes for the products they buy, sell, and move. Launched in 2000, clients process over $500B in commerce annually on the network.",
+        "industry": "Manufacturing",
+        "date_of_investment": "2016",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Ellie Mae",
+        "company_description": "We\u2019re the leading cloud-based platform provider for the mortgage finance industry. Our technology solutions enable lenders to originate more loans, lower origination costs, and reduce the time to close, all while ensuring the highest levels of compliance, quality and efficiency.",
+        "industry": "Financial Services",
+        "date_of_investment": "2019",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Embarcadero",
+        "company_description": "Embarcadero provides professional grade application performance tools for improving the user experience and database management tools for designing, developing and managing databases and the data they contain. Customers worldwide rely on the company\u2019s cross-platform tools to increase productivity, reduce costs, simplify change management and compliance and accelerate innovation. Thoma Bravo acquired Embarcadero, then a public company, in 2007 through a take-private transaction and sold the company in 2015 to Idera, Inc., a portfolio company of private equity investment firm TA Associates.",
+        "industry": "Technology",
+        "date_of_investment": "2007",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Empirix",
+        "company_description": "Empirix is the recognized leader in end-to-end network performance visibility, offering the unique ability to analyze customer behaviors, by application, in real-time, through an innovative approach to enabling the build-out of the Service Operations Center model. The company helps service providers, mobile operators, contact centers and businesses master complexities to drive improvements in customer experience and user satisfaction. Through testing, monitoring, analytics and intelligence, Empirix helps customers around the world maximize their technology investments while reducing implementation and customer impact risks.",
+        "industry": "Technology",
+        "date_of_investment": "2013",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Entrust",
+        "company_description": "Entrust secures digital identities and information for consumers, enterprises and governments in thousands of organizations spanning more than 60 countries. Leveraging a layered security approach to address growing risks, Entrust solutions help secure the most common digital identity and information protection pain points in an organization, including SSL, authentication, fraud detection, shared data protection and e-mail security. After acquiring the company through a take-private transaction in 2009, Thoma Bravo worked with management to create an appropriate go-to-market strategy, optimum pricing for its offerings and improved renewals, which produced a fast growing, recurring, and consistent subscription business that made a successful transition to a Software-as-a-Service (SaaS) business. In 2013, Entrust was sold to Datacard Group, a privately owned, global issuer of secure credit and financial cards, passports, national IDs, employee badges, mobile payment applications and other credentials on behalf of financial institutions, government agencies and other enterprises. During Thoma Bravo\u2019s time with Entrust, the company\u2019s revenue and earnings increased substantially.",
+        "industry": "Security",
+        "date_of_investment": "2009",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Eptura",
+        "company_description": "Eptura\u2122 is a global worktech company that provides software solutions for people, workplaces and assets to enable everyone to reach their full potential. With 16.3 million users across 115+ countries, we are trusted by more than 16,000 of the world's leading companies to realize a better future at work.",
+        "industry": "Technology",
+        "date_of_investment": "N/A",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Atlanta, GA",
+        "website": "eptura.com"
+      },
+      {
+        "company_name": "EQS",
+        "company_description": "EQS is a leading international cloud provider in the fields of corporate compliance, investor relations and ESG. Working with EQS, more than 10,000 companies worldwide inspire trust by fulfilling complex regulatory requirements in a reliable and secure manner, minimizing risks and communicating their business success and its impact on society and the climate transparently to stakeholders. EQS\u2019s products are pooled in the cloud-based software EQS COCKPIT. This platform ensures the professional handling of compliance workflows in the fields of whistleblower protection and case management, policy management, business approvals, third party management, insider list management and disclosure obligations. Listed companies benefit from a global newswire, investor targeting and contact management, IR websites, digital reports and webcasts for efficient and secure investor communications. In addition, EQS offers software for the management of ESG (environment, social, governance) data, the fulfilment of human rights due diligence obligations along corporate supply chains and for rule-compliant sustainability reporting.",
+        "industry": "Technology",
+        "date_of_investment": "2024",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Munich, Germany",
+        "website": "www.eqs.com"
+      },
+      {
+        "company_name": "Exostar",
+        "company_description": "Exostar is the leading cloud-based identity and access management and secure collaboration software provider serving the aerospace and defense, healthcare, and life sciences industries. Exostar\u2019s platforms create exclusive communities within these highly-regulated industries where organizations can securely collaborate, share information, and operate compliantly. More than 135,000 organizations and agencies in over 150 countries trust Exostar to strengthen security, reduce expenditures, raise productivity, and help them achieve their missions.",
+        "industry": "Technology",
+        "date_of_investment": "2020",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "FalconX",
+        "company_description": "FalconX is a fully comprehensive digital asset platform that allows institutions to access and manage all of their crypto strategies through a single interface and seamless workflows, making it easy to execute trading, credit and clearing all in one place. FalconX's crypto-as-a-service offering powers leading banks, FinTech institutions and investment applications to easily add crypto to their product offerings with a goal of enabling the next billion users to enter the crypto space.",
+        "industry": "Digital Assets",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Mateo, CA",
+        "website": "falconx.io"
+      },
+      {
+        "company_name": "Figment",
+        "company_description": "Figment\u2019s purpose is to build a better Internet by increasing usage of the next generation of Proof of Stake blockchains. These efficient blockchains give people greater control of their data, more privacy, and increase financial inclusion. By eliminating intermediaries they also limit the power of centralized data monopolies, rent seeking institutions and anti-social algorithms. We bring our mission to reality by helping investors stake their tokens; earn yield and participate in securing the blockchain. Our Hubble and Prime applications as well as our governance expertise allow token holders to analyze, monitor and make informed decisions. We build Web 3 developer communities via our Learn education program and then make it simple for these developers to launch applications and manage smart contracts via our DataHub platform. And finally by building and operating The Graph based indexers we enable the efficient search and querying of blockchain data.",
+        "industry": "Blockchain",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "New York, NY",
+        "website": "figment.io"
+      },
+      {
+        "company_name": "Flexera",
+        "company_description": "Flexera helps companies turn technology into a competitive advantage, whether they make it or use it. Our Flexera division delivers IT management solutions that enable enterprises to maximize business value from their technology investments. Our Revenera division produces industry-leading solutions that help technology companies build better products, accelerate time to value and monetize what matters. Headquartered in suburban Chicago, Flexera\u2019s more than 1,300 employees are passionate about serving category-leading customers across the globe.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Itasca, IL",
+        "website": "flexera.com"
+      },
+      {
+        "company_name": "ForgeRock",
+        "company_description": "ForgeRock \u00ae helps people simply and safely access the connected world. The ForgeRock Identity Platform delivers solutions for customers, employees, and connected devices, with more than 1,300 organizations using ForgeRock's comprehensive platform to manage and secure identities with identity orchestration, dynamic access controls, governance, and APIs in any cloud or hybrid environment.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2023",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Foundation Software",
+        "company_description": "Foundation Software provides contractors with construction accounting software. In addition to their core job cost accounting product, the company also offers both project management and mobile tools that help contractors effectively run the business side of construction. Foundation also offers payroll processing and construction reporting services to the construction industry.",
+        "industry": "Software",
+        "date_of_investment": "2020",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Strongsville, Ohio",
+        "website": "foundationsoft.com"
+      },
+      {
+        "company_name": "Frontline Education",
+        "company_description": "Frontline Education is an award-winning provider of administrative and HR software solutions for more than 12,000 educational organizations representing over 80,000 schools and millions of educators, administrators and support personnel\u2014the front line of education\u2014in their efforts to develop the next generation of learners. Bringing together the best education software solutions into one unified platform, Frontline makes it possible to manage the administrative needs of the education community efficiently and effectively, including recruiting and hiring, employee absences and attendance, professional growth and special education and interventions programs.",
+        "industry": "Education Technology",
+        "date_of_investment": "2017",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "FTX",
+        "company_description": "N/A",
+        "industry": "Digital Assets",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Hong Kong SAR",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Global Healthcare Exchange (GHX)",
+        "company_description": "Global Healthcare Exchange (GHX) is a leading provider of cloud-based technology and services used for supply chain management by healthcare providers and suppliers. GHX offers its healthcare customers an open and neutral electronic trading exchange, procurement and accounts payable automation, contract and inventory management, business intelligence, and other tools and services. GHX enables the healthcare community to provide better and more cost-effective patient care by maximizing automation, efficiency and accuracy in business processes.",
+        "industry": "Healthcare",
+        "date_of_investment": "2017",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Grayshift",
+        "company_description": "Grayshift is a leading and trusted provider of digital forensics solutions. Grayshift solutions are purpose-built to help law enforcement and government investigative agencies swiftly resolve critical investigations and ensure public safety. The company's innovative GrayKey technology provides lawful access to and comprehensive data extraction from mobile devices. Designed and assembled in the United States, GrayKey is trusted by over 1200 agencies across 35 countries worldwide.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Atlanta, GA",
+        "website": "grayshift.com"
+      },
+      {
+        "company_name": "Greenphire",
+        "company_description": "Greenphire is the leader in global clinical trial financial process automation. Greenphire's best-in-class solutions optimize clinical trial performance by streamlining payment and logistical workflows from sponsors and CROs to sites and patients. Greenphire's EnvisiX, eClinicalGPS, ClinCard and ConneX solutions easily handle any type of trial design and complexity, resulting in more accurate and compliant payments and simplified travel globally for both sites and patients. The choice of industry leaders worldwide, Greenphire provides better performance and better data, resulting in better trials.",
+        "industry": "Healthcare",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "King of Prussia, PA",
+        "website": "greenphire.com"
+      },
+      {
+        "company_name": "HCSS",
+        "company_description": "HCSS is the trusted leader in construction software for estimating, field entry, project management, safety, digital plans, 3-D drone imaging, fleet management, and telematics. For 35 years, the company has used annual user's group meetings to listen to customers resulting in innovative software to manage every part of the project lifecycle. With 24/7 instant support and a proven implementation process, HCSS has helped",
+        "industry": "Software",
+        "date_of_investment": "N/A",
+        "status_current": "N/A",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "HCSS",
+        "company_description": "group meetings to listen to customers resulting in innovative software to manage every part of the project lifecycle. With 24/7 instant support and a proven implementation process, HCSS has helped improve operations for over 3,500 companies ranging from $1M to billions in revenue across the United States and Canada.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Sugar Land, Texas",
+        "website": "hcss.com"
+      },
+      {
+        "company_name": "Hyland",
+        "company_description": "Hyland is a leader in providing software solutions for managing content, processes and cases for organizations across the globe. For 30 years, we have enabled more than 20,000 organizations to digitalize their workplaces and fundamentally transform their operations. Named one of Fortune\u2019s 2019 Best Companies to Work For\u00ae, Hyland is widely known as both a great company to work for and a great company to do business with.",
+        "industry": "Software",
+        "date_of_investment": "2007",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Westlake, OH",
+        "website": "hyland.com"
+      },
+      {
+        "company_name": "Hypergene",
+        "company_description": "Hypergene is a SaaS company in the North European market for corporate performance management and project & portfolio management. The company helps streamline the customer's budget and forecasting processes, follow up their operations using advanced analysis and reporting functionality, and work with strategic management in a manner that breaks down overall plans into goals, KPIs and activities throughout the organisation. The customer can choose selected elements or opt for a comprehensive solution. Hypergene target medium and large organisations in both the private and public sectors. The typical purchaser of the product is a forward-looking CFO/finance director who wants to create better conditions for processes within corporate performance management and project & portfolio management. The users include the organisation\u2019s top management, managers and decision-makers, as well as controllers and other roles that contribute to the planning processes.",
+        "industry": "Software",
+        "date_of_investment": "2024",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Malm\u00f6, Sweden",
+        "website": "www.hypergene.com"
+      },
+      {
+        "company_name": "Idaptive",
+        "company_description": "Idaptive was formed to enhance the growth of the Identity-as-a-Service (IDaaS) business previously part of Thoma Bravo portfolio company Centrify. Idaptive delivers Next-Gen Access, a more advanced version of traditional access management technologies, to protect organizations from data breaches. Idaptive products are built on Zero Trust, an IT architecture based on the principle of \u201cnever trust, always verify.\u201d Unlike other providers of access management, Idaptive uniquely combines leading capabilities to seamlessly integrate single-sign on (SSO), multi-factor authentication (MFA), enterprise mobility management (EMM), and user behavior analytics (UBA). Its solutions intelligently determine the authenticity of a digital user and the user\u2019s device, govern access across an organization\u2019s resources, and react when risky behavior is detected.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2018",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Illumio",
+        "company_description": "Illumio, the pioneer and market leader of Zero Trust Segmentation, stops breaches from becoming cyber disasters. Illumio Core and Illumio Edge automate policy enforcement to stop cyberattacks and ransomware from spreading across applications, containers, clouds, data centers, and endpoints. By combining intelligent visibility to detect threats with security enforcement achieved in minutes, Illumio enables the world\u2019s leading organizations to strengthen their cyber resiliency and reduce risk.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2021",
+        "status_current": "Invested",
+        "fund": "Thoma Bravo",
+        "hq": "Sunnyvale, CA",
+        "website": "illumio.com"
+      },
+      {
+        "company_name": "Imperva",
+        "company_description": "Imperva is a cybersecurity leader that has built the world\u2019s first and only multi-cloud platform to protect the edge, applications, and data. Edge security protects how the world connects to customer environments and includes DDoS and CDN. Application security protects customer critical workloads and includes WAF, RASP, and Advanced Bot Protection. Data security protects customer sensitive information and includes Database Activity Monitoring and Cloud Data Security. Imperva\u2019s platform inspects more than 1T requests and blocks more than 18B attacks every month. By using machine learning to generate actionable insights via Attack Analytics and Data Risk Analytics, the company provides comprehensive visibility and risk buy-down across applications and data, saving companies more than 3M work hours every year. Imperva\u2019s products are architected and designed to protect workloads and information on-premises, in the cloud, and across multi-cloud environments.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2018",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Imply",
+        "company_description": "At Imply, we are on a mission to help developers become the new heroes of analytics. Our unique database, built from Apache Druid, enables them to develop the next generation of analytics applications. With Imply, developers can build without constraints as our database lets them create interactive data experiences on streaming and batch data with limitless scale and at the best economics. Backed by leading investors including Thoma Bravo, a16z and Bessemer Venture Partners, Imply is on a fast growth trajectory \u2013 disrupting the $100B database market \u2013 with customers including Salesforce, Atlassian, Reddit, and Intercontinental Exchange.",
+        "industry": "Software",
+        "date_of_investment": "2022",
+        "status_current": "Invested",
+        "fund": "Thoma Bravo",
+        "hq": "Burlingame, CA",
+        "website": "imply.io"
+      },
+      {
+        "company_name": "Imprivata",
+        "company_description": "Imprivata is a leading provider of authentication, identity and access solutions for healthcare organizations globally. The Imprivata platform addresses critical compliance and security challenges while improving productivity and the patient experience. The company\u2019s solutions include an authentication, single sign-on and workflow automation platform; a multi-factor authentication platform for e-prescribing controlled substances, remote access, and clinical workflows; a cloud-based secure communications and messaging platform; and a patient identification system using biometric technology. Together, they enable healthcare organizations to access, communicate, and transact patient information securely and conveniently.",
+        "industry": "Healthcare IT",
+        "date_of_investment": "2016",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Lexington, MA",
+        "website": "imprivata.com"
+      },
+      {
+        "company_name": "Infogix",
+        "company_description": "Infogix helps Fortune 1000 corporations analyze data as it moves through complex business environments to improve the customer experience, corporate profitability and operational efficiency. Through its Enterprise Data Analysis Platform, Infogix improves data quality, ensures effective transaction monitoring, provides balancing and reconciliation, and identifies and predicts fraud and customer behavior \u2013 assuring the integrity of information for hundreds of enterprise customers each day.",
+        "industry": "Software",
+        "date_of_investment": "2016",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Infovista",
+        "company_description": "Infovista, the global leader in network lifecycle automation, powers complex intelligent networks to ensure they deliver brilliant user experience, maximizing productivity and efficiency, securely. At the core of the company\u2019s approach are automation and analytics, enabling Infovista software solutions to span the entire network lifecycle. From managing service legacy networks to optimizing 5G deployments, from providing applications visibility to securing and controlling the extended edge, Infovista helps Communications Service Providers and Enterprises to fully unlock their digital business potential. More than 1,700 customers, including 350 Mobile Network Operators, around the world rely on Infovista.",
+        "industry": "Telecommunications",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Paris, France",
+        "website": "infovista.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Infovista",
+        "company_description": "Operators, around the world rely on Infovista. CEO Jos\u00e9 Duarte",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2021",
+        "status_current": null,
+        "fund": null,
+        "hq": "Paris, France",
+        "website": "infovista.com"
+      },
+      {
+        "company_name": "Instructure",
+        "company_description": "Instructure (NYSE: INST) is an education technology company dedicated to elevating student success, amplifying the power of teaching, and inspiring everyone to learn together. The Instructure Learning Management Platform is an open, reliable, and extensible learning ecosystem enabling a digital learning environment for over 30 million educators and students across more than 6,000 institutions around the world. CEO Steve Daly",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2020",
+        "status_current": null,
+        "fund": null,
+        "hq": "Salt Lake City, Utah",
+        "website": "instructure.com"
+      },
+      {
+        "company_name": "Intel 471",
+        "company_description": "Intel 471 empowers enterprises, government agencies, and other organizations to win the cybersecurity war using near-real-time insights into the latest malicious actors, relationships, threat patterns, and imminent attacks relevant to their businesses. The company's TITAN platform collects, interprets, structures, and validates human-led, automation-enhanced results. Clients across the globe leverage this threat intelligence with Intel 471's proprietary framework to map the criminal underground, zero in on key activity, and align their resources and reporting to business requirements. Intel 471 serves as a trusted advisor to security teams, offering ongoing trend analysis and supporting their use of the platform. CEO Jason Passwaters",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2021",
+        "status_current": null,
+        "fund": null,
+        "hq": "Dallas, TX",
+        "website": "intel471.com"
+      },
+      {
+        "company_name": "iOFFICE",
+        "company_description": "iOFFICE creates the most responsive, frictionless workplaces everywhere through space planning, employee experience, and asset management SaaS solutions. Our cloud-based, open-API platforms and mobile apps help businesses of all sizes connect data, people, and things wherever work takes place. Through our marketplace of smart building and IoT connectors and global partner network, iOFFICE enables enterprises to increase agility and scalability while streamlining their tech stack. More than 8,000 organizations in 85 countries choose iOFFICE to make their workforces more productive, create exceptional experiences, and simplify facility and equipment management. SpaceIQ makes your workplaces smarter and your employee experiences better. If you need centralized data-driven platform to make better informed decisions about your real estate, we've got you. If you want to plan and manage a more productive and efficient work environment, you've come to the right place. And if you want to give your employees a frictionless experience so they can do their best work, we do that too. Our mission is to help businesses of all sizes reach their full potential by creating great workplaces that attract and retain the talent they need to grow and succeed.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2021",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "iPipeline",
+        "company_description": "iPipeline is a leading provider of cloud-based software solutions for the life insurance industry. Through its SaaS solutions, it accelerates and simplifies insurance sales, compliance, operations and support. The company provides process automation and seamless integration between every participant in the life insurance industry including carriers, agents (such as financial advisors and independent insurance agents), distributors (such as banks, broker-dealers and general agencies) and consumers. Its innovative solutions enable automated processing for pre-sales, point-of-sale execution of applications, post-sale support, reporting, consumer delivery and agency management.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2015",
+        "status_current": "EXITED 2019",
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "J.D. Power",
+        "company_description": "J.D. Power is a global leader in consumer insights, advisory services and data and analytics. These capabilities enable J.D. Power to help its clients drive customer satisfaction, growth and profitability. Established in 1968, J.D. Power is headquartered in Troy, Mich. CEO Dave Habiger",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2019",
+        "status_current": null,
+        "fund": null,
+        "hq": "Troy, MI",
+        "website": "jdpower.com"
+      },
+      {
+        "company_name": "Kofax",
+        "company_description": "Kofax enables organizations to Work Like Tomorrow\u2122\u2014today. Kofax\u2019s Intelligent Automation software platform and solutions digitally transform document intensive workflows. Customers realize greater agility and resiliency by combining our process orchestration, cognitive capture, RPA, output management, analytics and mobile capabilities to speed time-to-value and increase competitiveness, growth and profitability while mitigating compliance risk.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2017",
+        "status_current": "EXITED 2022",
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "LANDESK Software",
+        "company_description": "LANDESK Software is a leading provider of systems lifecycle management, endpoint security and IT service management solutions for desktops, servers and mobile devices across the enterprise. LANDESK enables IT departments to gain control of end-user computing environments with a single console, light infrastructure, and ITIL solutions that deliver significant value and ROI. Thoma Bravo invested in LANDESK in 2010 by acquiring it from Emerson Electric (NYSE: EMR), where it was an operating division, and establishing it as stand-alone business. Then, working closely with management, Thoma Bravo implemented operational processes, metrics tracking and other best practices to improve cash flow margins by more than 40%, followed by a series of add-on acquisitions. Seven highly complementary technology assets were acquired to broaden the company\u2019s product offering and position it as a fully integrated, end-to-end, user-centered IT management platform. In 2016, LANDESK was sold to Clearlake Capital Group, L.P., which combined it with its portfolio company HEAT Software to create a new business using the name Ivanti.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2010",
+        "status_current": "EXITED 2017",
+        "fund": null,
+        "hq": null,
+        "website": null
+      },
+      {
+        "company_name": "LMA",
+        "company_description": "LMA operates three 100,000 watt class C radio stations serving the San Diego, CA market, the country\u2019s 17th largest radio market, with a variety of popular music formats and e-marketing opportunities. The Company also seeks additional radio broadcasting opportunities in large markets throughout the U.S. The current LMA stations are: XHRM-FM 92.5 (\u201cMagic\u201d), a \u201cRhythmic Adult Contemporary\u201d station; XHTZ-FM 90.3 (\u201cZ90\u201d), a \u201cRhythmic Contemporary Hit Radio\u201d station; and XETRA-FM 91.1 (\u201c91X\u201d), an \u201cAlternative Music\u201d station.",
+        "industry": null,
+        "date_of_investment": "ACQUIRED 2009",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "LOGEX",
+        "company_description": "LOGEX is leading the way in healthcare analytics in Europe. By turning data into actionable insights, LOGEX helps solve the complex healthcare challenge of managing costs whilst improving clinical outcomes. Headquartered in Amsterdam and with an international team of over 450 members, LOGEX helps over 700 of public and private healthcare providers make data-driven decisions that level up patient outcomes everywhere and make the best possible care more affordable for everyone.",
+        "industry": "Healthcare Analytics",
+        "date_of_investment": "2023",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Amsterdam, NL",
+        "website": "logex.com"
+      },
+      {
+        "company_name": "LogRhythm",
+        "company_description": "LogRhythm empowers more than 4,000 customers across the globe to measurably mature their security operations program. LogRhythm\u2019s award-winning Next Gen SIEM Platform delivers comprehensive security analytics; user and entity behavior analytics (UEBA); network detection and response (NDR); and security orchestration, automation, and response (SOAR) within a single, integrated platform for rapid detection, response, and neutralization of threats. Built by security professionals for security professionals, LogRhythm enables security professionals at leading organizations like Cargill, NASA, and XcelEnergy to promote visibility for their cybersecurity program and reduce risk to their organization each and every day. LogRhythm is the only provider to earn the Gartner Peer Insights\u2019 Customer Choice for SIEM designation three years in a row.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2018",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Boulder, CO",
+        "website": "logrhythm.com"
+      },
+      {
+        "company_name": "Magnet Forensics",
+        "company_description": "Founded in 2010, Magnet Forensics is a developer of digital investigation software that acquires, analyzes, reports on, and manages evidence from digital sources, including computers, mobile devices, IoT devices and cloud services. Magnet Forensics\u2019 software is used by more than 4,000 public and private sector customers in over 100 countries and helps investigators fight crime, protect assets and guard national security.",
+        "industry": "Digital Investigation",
+        "date_of_investment": "2023",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Waterloo, Canada",
+        "website": "magnetforensics.com"
+      },
+      {
+        "company_name": "Majesco",
+        "company_description": "Majesco provides technology, expertise, and leadership that helps insurers modernize, innovate and connect to build the future of their business \u2013 and the future of insurance \u2013 at speed and scale. Our platforms connect people and businesses to insurance in ways that are innovative, hyper-relevant, compelling and personal. Over 200 insurance companies worldwide in P&C, L&A and Group Benefits are transforming their businesses by modernizing, optimizing or creating new business models with Majesco. Our market-leading solutions include CloudInsurer\u00ae P&C Core Suite (Policy, Billing, Claims); CloudInsurer\u00ae LifePlus Solutions (AdminPlus, AdvicePlus, IllustratePlus, DistributionPlus); CloudInsurer\u00ae L&A and Group Core Suite (Policy, Billing, Claims); Digital1st\u00ae Insurance with Digital1st\u00ae Engagement, Digital1st\u00ae EcoExchange and Digital1st\u00ae Platform \u2013 a cloud-native, microservices and open API platform; Distribution Management, Data and Analytics and an Enterprise Data Warehouse.",
+        "industry": "Insurance Technology",
+        "date_of_investment": "2020",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Morristown, NJ",
+        "website": "majesco.com"
+      },
+      {
+        "company_name": "Manatron",
+        "company_description": "Manatron is a leading provider of integrated, enterprise-level property tax solutions for state and local governments. The company\u2019s software manages the entire property life cycle, which includes deed recording, land records, GIS (Geographic Information System) integration, valuation, assessment administration, personal property, business licenses, cashiering, tax billing and collection, delinquents and tax sales and e-government. Manatron serves customers throughout the United States and in Canada, South Africa and the U.S. Virgin Islands. Over its three-year ownership of the company, through internal growth and six strategic acquisitions, Thoma Bravo was able to help Manatron grow its earnings by a factor of almost 5x, increase its operating margin almost 6x and expand from a local provider of tax software in a few core markets to the leading provider of end-to-end property systems globally. The company was sold in 2011 to Thomson Reuters (NYSE: TRI), a $13B global information services company.",
+        "industry": "Property Tax Solutions",
+        "date_of_investment": "2008",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "McAfee",
+        "company_description": "McAfee, formerly a unit of Intel Corporation, is one of the world\u2019s leading independent cybersecurity companies. For business customers, McAfee provides market leading security products that protect endpoints, networks and data, while its enterprise solutions include Data Loss Prevention (DLP), Security Information and Event Management (SIEM), Server Protection, and NextGen Endpoint Protection. For consumers, McAfee provides protection from identity theft, phishing scams, viruses and malicious websites.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "N/A",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Medallia",
+        "company_description": "Founded in 2001, Medallia has pioneered the Experience Management market. Medallia\u2019s award-winning SaaS platform, the Medallia Experience Cloud, leads the market in the understanding and management of experience for customers, employees and citizens. Medallia\u2019s cutting-edge technology captures experience signals created on daily journeys in person, on calls and digital channels, over video and social media and IoT interactions and applies proprietary AI technology to reveal personalized and predictive insights that can drive action with tremendous business results. Using Medallia Experience Cloud, customers can reduce churn, turn detractors into promoters and buyers, create in-the-moment cross-sell and up-sell opportunities and drive revenue-impacting business decisions, providing clear and potent returns on investment.",
+        "industry": "Experience Management",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "San Francisco, CA",
+        "website": "medallia.com"
+      },
+      {
+        "company_name": "MedeAnalytics",
+        "company_description": "MedeAnalytics is a provider of cloud-based financial performance analytics for the healthcare industry. The company\u2019s analytics platform allows healthcare organizations to use the immense amount of patient data collected along the care continuum to generate intelligence that helps detect their greatest areas of risk and identify opportunities to improve their financial health. With MedeAnalytics, providers and health plans are better able to collaborate and use data to strengthen their operations and improve the quality of care. MedeAnalytics\u2019 cloud-based tools have been used to uncover business insights for healthcare organizations across the United States and United Kingdom.",
+        "industry": "Healthcare Analytics",
+        "date_of_investment": "2015",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Mediware",
+        "company_description": "Mediware is a leading provider of specialized healthcare IT solutions for automating and managing complex healthcare processes for a broad spectrum of healthcare customers, including hospitals and alternative and post-acute care treatment facilities. Mediware software systems improve efficiencies and address safety concerns, enabling healthcare organizations to improve care processes while controlling costs. After acquiring the company in 2012, Thoma Bravo and management reduced the cost structure of the business to improve profitability without impacting revenue performance. Thoma Bravo also worked with management to reposition the business from predominantly a provider to the highly competitive hospital acute care market to a leading provider of healthcare IT for areas",
+        "industry": "Healthcare IT",
+        "date_of_investment": "2012",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Mercell",
+        "company_description": "Mercell is the European market\u2019s leading e-tendering software for public buyers and tender notification software for public sector suppliers. Mercell\u2019s unique marketplace simplifies the tender and procurement process and makes it easy and secure for buyers to find relevant suppliers for their tenders and purchasing needs. The Company\u2019s platform also ensures that suppliers find relevant business opportunities and offers tools for digital receipt and handling of purchases from public and private buyers. Mercell delivers services to 30,000 customers in both the pre-award and post-award markets across 15 countries.",
+        "industry": "Software",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Oslo, Norway",
+        "website": "info.mercell.com"
+      },
+      {
+        "company_name": "MeridianLink",
+        "company_description": "MeridianLink\u00ae (NYSE: MLNK) is a leading provider of cloud-based software solutions for financial institutions, including banks, credit unions, mortgage lenders, specialty lending providers, and consumer reporting agencies. Headquartered in Costa Mesa, California, MeridianLink provides services to more than 1,900 customers, including a majority of the financial institutions on Forbes\u2019 2021 lists of America\u2019s Best Credit Unions and Banks.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Costa Mesa, CA",
+        "website": "meridianlink.com"
+      },
+      {
+        "company_name": "Motus",
+        "company_description": "Motus (which Thoma Bravo combined with Runzheimer International in 2018) is a leading, technology-driven provider of vehicle management and reimbursement solutions and other mobile workforce management tools. The company provides a sophisticated configuration engine that incorporates real-time data across hundreds of variables to drive significant cost reductions for companies reimbursing employees for business miles driven, while helping to ensure regulatory compliance.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Boston, MA",
+        "website": "motus.com"
+      },
+      {
+        "company_name": "Nasdaq",
+        "company_description": "Nasdaq (Nasdaq: NDAQ) is a leading global technology company serving corporate clients, investment managers, banks, brokers, and exchange operators as they navigate and interact with the global capital markets and the broader financial system. We aspire to deliver world-leading platforms that improve the liquidity, transparency, and integrity of the global economy. Our diverse offering of data, analytics, software, exchange capabilities, and client-centric services enables clients to optimize and execute their business vision with confidence.",
+        "industry": "Financial Services",
+        "date_of_investment": "2023",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "New York, NY",
+        "website": "nasdaq.com"
+      },
+      {
+        "company_name": "Nearmap",
+        "company_description": "Nearmap provides easy, instant access to high resolution aerial imagery, city-scale 3D content, AI data sets, and geospatial tools. Using its own patented camera systems and processing software, Nearmap captures wide-scale urban areas in Australia, New Zealand, the United States and Canada several times each year, making current content instantly available in the cloud via web app or API integration. Every day, Nearmap helps thousands of users conduct virtual site visits for deep, data driven insights \u2013 enabling informed decisions, streamlined operations and better financial performance. Nearmap was founded in Australia in 2007 and is one of the largest aerial survey companies in the world.",
+        "industry": "Technology",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Sydney, Australia",
+        "website": "nearmap.com"
+      },
+      {
+        "company_name": "Network Instruments",
+        "company_description": "Network Instruments is an industry leader in application and network troubleshooting and analysis. The company\u2019s monitoring and management tools optimize performance and speed problem resolution, helping ensure delivery of critical applications for businesses worldwide. It delivers these benefits through a seamlessly integrated line of software and hardware systems that are precision engineered for exact network monitoring and analysis. After Thoma Bravo acquired Network instruments in 2012, it worked with management to transition the company from a founder owned and operated business to a professionally managed business with improved budgeting processes, formal incentive plans and financial support for sales to build upon the company\u2019s differentiated technology in a growing market.\u00a0 This led to increased revenues and earnings, accelerated growth in new bookings and attention from larger companies in the sector. In 2014, the company was sold to JDS Uniphase Corporation (NASADAQ:JDSU), a $1.7B public provider of network management solutions.",
+        "industry": "Technology",
+        "date_of_investment": "2012",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "NextGen Healthcare, Inc.",
+        "company_description": "NextGen Healthcare, Inc. is a leading provider of innovative healthcare technology and data solutions. We are reimagining ambulatory healthcare with award-winning EHR, practice management and surround solutions that enable providers to deliver whole-person health and value-based care. Our highly integrated, intelligent, and interoperable solutions increase clinical quality and productivity, enrich the patient experience and drive superior financial performance. We are on a relentless quest to achieve better healthcare outcomes for all.",
+        "industry": "Healthcare",
+        "date_of_investment": "2023",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Atlanta, Georgia",
+        "website": "www.nextgen.com"
+      },
+      {
+        "company_name": "Nintex",
+        "company_description": "Nintex is the global standard for process management and automation. Today more than 8,000 public and private sector clients across 90 countries turn to the Nintex Platform to accelerate progress on their digital transformation journeys by quickly and easily managing, automating and optimizing business processes. Learn more by visiting www.nintex.com and experience how Nintex and its global partner network are shaping the future of Intelligent Process Automation (IPA).",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Bellevue, WA",
+        "website": "nintex.com"
+      },
+      {
+        "company_name": "N-able",
+        "company_description": "N-able (formerly SolarWinds MSP) empowers managed services providers (MSPs) to help small and medium enterprises navigate the digital evolution. With a flexible technology platform and powerful integrations, N-able makes it easy for MSPs to monitor, manage, and protect their end-customer systems, data, and networks. N-able\u2019s growing portfolio of security, automation, and backup and recovery solutions is built for IT services management professionals. N-able simplifies complex ecosystems and enables customers to solve their most pressing challenges.",
+        "industry": "Software",
+        "date_of_investment": "N/A",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "N-able",
+        "company_description": "and backup and recovery solutions is built for IT services management professionals. N-able simplifies complex ecosystems and enables customers to solve their most pressing challenges. N-able provides extensive, proactive support\u2014through enriching partner programs, hands-on training, and growth resources\u2014to help MSPs deliver exceptional value and achieve success at scale.",
+        "industry": "IT Services Management",
+        "date_of_investment": "2016",
+        "status_current": "Acquired",
+        "fund": "",
+        "hq": "Wakefield, MA",
+        "website": "n-able.com"
+      },
+      {
+        "company_name": "Paradox",
+        "company_description": "Paradox is a market leader in providing next-gen conversational AI software for HR and talent acquisition. The product is sold to HR teams for both hourly and professional HR and talent acquisition needs. The product provides a mobile-first, consumer like experience for candidates, and workflow automation tools for HR teams.",
+        "industry": "HR and Talent Acquisition",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "",
+        "hq": "Scottsdale, AZ",
+        "website": "paradox.ai"
+      },
+      {
+        "company_name": "Pathwire",
+        "company_description": "Pathwire empowers companies around the world to solve complex communication problems. Through its powerful email API and intuitive email marketing solutions, Pathwire delivers over 250 billion emails a year for companies like DHL, Wikipedia, Toast, Lyft, and Microsoft. The company provides reliable, cloud-native infrastructure, local expertise, and smart solutions based on machine learning so companies can more easily reach their customers and build connected experiences.",
+        "industry": "Communication",
+        "date_of_investment": "2019",
+        "status_current": "Exited",
+        "fund": "",
+        "hq": "Multiple Locations",
+        "website": ""
+      },
+      {
+        "company_name": "Pendo",
+        "company_description": "Pendo is a leading provider of product analytics and user engagement software, and is sold primarily to product teams. The company\u2019s solution integrates with customer applications to capture application user behavior and help prioritize features and improve the user experience.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "",
+        "hq": "Raleigh, NC",
+        "website": "pendo.io"
+      },
+      {
+        "company_name": "Personetics",
+        "company_description": "Focused on enabling proactive engagement for Financial Institutions, Personetics\u2019 AI analyzes financial data in real-time to understand customer financial behavior, anticipate customer needs and deliver a hyper-personalized experience. With solutions designed for the mass market, wealth management, and small business customers, the technology enables banks to offer day-to-day insights, financial advice, and automated wellness programs to customers. Banks use Personetics\u2019 agile tools to rapidly create their own personalization IP to serve the unique needs of their customers and differentiate themselves in a crowded market. With these advances, banks have transformed their digital banking into the center of the customers\u2019 financial lives while also delivering significant business impact.",
+        "industry": "Financial Services",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "",
+        "hq": "Tel Aviv, Israel",
+        "website": "personetics.com"
+      },
+      {
+        "company_name": "Ping Identity",
+        "company_description": "At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. That's digital freedom. We let enterprises combine our best-in-class identity solutions with third-party services they already use to remove passwords, prevent fraud, support Zero Trust, or anything in between. This can be accomplished through a simple drag-and-drop canvas. That's why more than half of the Fortune 100 choose Ping Identity to protect digital interactions from their users while making experiences frictionless.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2022",
+        "status_current": "Acquired",
+        "fund": "",
+        "hq": "Denver, CO",
+        "website": "pingidentity.com"
+      },
+      {
+        "company_name": "Planview",
+        "company_description": "Planview has one focus: enabling the transformation journey as organizations rewire strategy to delivery in today\u2019s fast-paced, highly disruptive markets. Our solutions uniquely help organizations navigate this journey and accelerate on-strategy delivery at enterprise scale. Planview\u2019s full spectrum of Portfolio Management and Work Management solutions create organizational focus on the strategic outcomes that matter and empower teams to deliver their best work, no matter how they work. The comprehensive Planview platform and enterprise success model enable customers to deliver innovative, competitive products, services, and customer experiences.",
+        "industry": "Software",
+        "date_of_investment": "2017",
+        "status_current": "Acquired",
+        "fund": "",
+        "hq": "Austin, TX",
+        "website": "planview.com"
+      },
+      {
+        "company_name": "PowerPlan",
+        "company_description": "PowerPlan, Inc. is a leading provider of corporate performance management (CPM) software to companies in asset-intensive industries, including utilities, oil & gas, public sector, telecom and transportation. PowerPlan\u2019s fully integrated cloud-based and on-premise CPM platform provides complete data visibility from forecasting and monitoring to scenario planning and analytics while maintaining financial compliance. Thoma Bravo invested in PowerPlan in February 2015 and helped management develop and utilize more advanced financial management tools in the operation of the business. In addition, sales headcount was doubled to spur growth and the company\u2019s technology was upgraded to set the foundation for a next-generation, cloud-based platform. Revenue grew at a double-digit compound annual rate and EBITDA margins expanded. Thoma Bravo also supported management in executing a highly accretive add-on acquisition of Riva Modeling Systems Inc., a leader in asset management planning and asset investment planning solutions. In June 2018, PowerPlan was acquired by Roper Technologies, a publicly-traded diversified industrial company.",
+        "industry": "Software",
+        "date_of_investment": "2015",
+        "status_current": "Exited",
+        "fund": "",
+        "hq": "Multiple Locations",
+        "website": ""
+      },
+      {
+        "company_name": "Project44",
+        "company_description": "Project44 is a market leader in providing real-time transportation visibility (RTTV) software to shippers, carriers, and 3rd party logistics (3PL) providers. The product provides visibility and insights into orders and shipments once they leave the supplier\u2019s warehouse, are transported across various modes (road, ocean, rail, air), and are delivered to the end customer (e.g., retailer or consumer).",
+        "industry": "Logistics",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "",
+        "hq": "Chicago, IL",
+        "website": "project44.com/"
+      },
+      {
+        "company_name": "Proofpoint",
+        "company_description": "Proofpoint, Inc. is a leading cybersecurity and compliance company that protects organizations\u2019 greatest assets and biggest risks: their people. With an integrated suite of cloud-based solutions, Proofpoint helps companies around the world stop targeted threats, safeguard their data, and make their users more resilient against cyber-attacks. Leading organizations of all sizes, including more than half of the Fortune 1000, rely on Proofpoint for people-centric security and compliance solutions that mitigate their most critical risks across email, the cloud, social media, and the web.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "",
+        "hq": "Sunnyvale, CA",
+        "website": "proofpoint.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "QAD",
+        "company_description": "Founded in 1979, QAD is a leader in cloud-based enterprise software solutions for global manufacturing companies. The company offers a full set of manufacturing enterprise resource planning (ERP) and supply chain management capabilities across six key verticals: automotive, life sciences, consumer products, food and beverage, high technology and industrial products. The company\u2019s architecture \u2013 the QAD Enterprise Platform \u2013 allows manufacturers to quickly upgrade existing functionality and extend or create new applications that are dependable, secure and scalable.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Santa Barbara, CA",
+        "website": "qad.com"
+      },
+      {
+        "company_name": "Qlik",
+        "company_description": "Qlik\u2019s vision is a data-literate world, where everyone can use data and analytics to improve decision-making and solve their most challenging problems. Qlik offers real-time data integration and analytics solutions, powered by Qlik Cloud, to close the gaps between data, insights and action.\u202fBy transforming data into Active Intelligence, businesses can drive better decisions, improve revenue and profitability, and optimize customer relationships.\u202fQlik serves more than 38,000 active customers in over 100 countries.",
+        "industry": "Software",
+        "date_of_investment": "2016",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "King of Prussia, PA",
+        "website": "qlik.com"
+      },
+      {
+        "company_name": "Quorum",
+        "company_description": "Quorum is a leading provider of integrated software solutions that address the core processing demands of the upstream, midstream and downstream segments of the oil and gas value chain. The company offers an industry-leading portfolio of finance, operations and accounting software that empowers energy companies of all sizes to overcome their most complex business challenges from the field to the back office. Quorum is a preferred software provider to many of the largest public energy companies worldwide, 75 percent of LNG exporters throughout North America and companies providing 80 percent of all the natural gas processed in the United States.",
+        "industry": "Software",
+        "date_of_investment": "2018",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Houston, TX",
+        "website": "quorumsoftware.com"
+      },
+      {
+        "company_name": "Raptor Technologies",
+        "company_description": "Raptor Technologies was founded in 2002 with the mission to protect every child, every school, every day. Today, Raptor has partnered with over 35,000 K-12 US schools to provide integrated visitor, volunteer, and emergency management software and services that cover the complete spectrum of school safety.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Houston, TX",
+        "website": "raptortech.com"
+      },
+      {
+        "company_name": "RealPage",
+        "company_description": "RealPage provides a technology platform that enables real estate owners and managers to change how people experience and use rental space. Clients use the platform to gain transparency in asset performance, leverage data insights and monetize space to create incremental yields. Founded in 1998 and headquartered in Richardson, Texas, RealPage currently serves over 19 million units worldwide from offices in North America, Europe and Asia.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Richardson, TX",
+        "website": "realpage.com"
+      },
+      {
+        "company_name": "Riskonnect",
+        "company_description": "Riskonnect is the leading global provider of Integrated Risk Management technology solutions. Its platform gives companies a holistic view of the various risk factors they face, along with mitigants, costs and impact for those risks. Through a unified, highly configurable set of modules, the company provides the tools and business intelligence needed to reduce losses, control risk, manage key stakeholder relationships and increase shareholder value. Riskonnect\u2019s solutions allow users from organizations of any size to easily review, analyze and report on data from web-based interfaces\u2014all within a single point of access platform.",
+        "industry": "Software",
+        "date_of_investment": "2017",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Kennesaw, GA",
+        "website": "riskonnect.com"
+      },
+      {
+        "company_name": "Riverbed",
+        "company_description": "Riverbed is the leader in Application Performance Infrastructure, delivering the most complete platform for the hybrid enterprise to ensure applications perform as expected, data is always available when needed, and performance issues can be proactively detected and resolved before impacting business performance. Riverbed enables hybrid enterprises to transform application performance into a competitive advantage by maximizing employee productivity and leveraging IT to create new forms of operational agility. Riverbed\u2019s customers include 98% of the Forbes Global 100 and 97% of the Fortune 100.",
+        "industry": "Software",
+        "date_of_investment": "2015",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "sailpoint",
+        "company_description": "SailPoint is the leading provider of identity security for the modern enterprise. Enterprise security starts and ends with identities and their access, yet the ability to manage and secure identities today has moved well beyond human capacity. Harnessing the power of our deep expertise combined with machine learning, the SailPoint Identity Security Platform delivers the right level of access to the right identities and resources at the right time\u2014matching the scale, velocity, and environmental needs of today\u2019s cloud-oriented enterprise. SailPoint\u2019s intelligent, autonomous, and integrated solutions put identity security at the core of digital business operations, enabling even the most complex organizations across the globe to build a security foundation capable of defending against today\u2019s most pressing threats.",
+        "industry": "Security",
+        "date_of_investment": "2022",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Austin, TX",
+        "website": "sailpoint.com"
+      },
+      {
+        "company_name": "segall-bryant-hamill",
+        "company_description": "Segall Bryant & Hamill (SBH) is an independent firm headquartered in Chicago, with offices in Denver, St. Louis, Philadelphia, and Naples, Florida. The firm was established in 1994. SBH offers a range of investment strategies and customized solutions for institutional, advisor and wealth management clients, including domestic, international and global equity, fixed income and alternatives. The firm has approximately $20 billion of assets under management or advisement.",
+        "industry": "Financial Services",
+        "date_of_investment": "2014",
+        "status_current": "Exited",
+        "fund": "CI Financial",
+        "hq": "Chicago, IL"
+      },
+      {
+        "company_name": "servicetitan",
+        "company_description": "ServiceTitan\u00ae is a software company built to accelerate the home and commercial service industries. The company's end-to-end software suite includes CRM, intelligent dispatch, custom reporting, marketing automation, a mobile solution for field techs, and accounting, payments and financing integrations. By bringing a fully operational modern SaaS infrastructure to an industry traditionally underserved by technology, ServiceTitan makes a direct and positive impact on the lives of thousands of entrepreneurs and their extended teams. ServiceTitan is backed by world-class investors including Thoma Bravo, Tiger Global Management, Bessemer Venture Partners and ICONIQ Growth.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Invested",
+        "fund": "Thoma Bravo",
+        "hq": "Glendale, CA",
+        "website": "servicetitan.com"
+      },
+      {
+        "company_name": "sirius",
+        "company_description": "Sirius is a national integrator of technology-based business solutions that span the enterprise, including data center and business operations. The company provides a wide variety of products and services from the world\u2019s top technology companies, making it the leading value-added reseller (VAR) in the U.S. and IBM\u2019s largest Solution Provider. Thoma Bravo helped the company diversify its revenue stream and dramatically expand its product line and geographic market through acquisitions and strategic initiatives. Five acquisitions added almost one-half billion dollars of revenue to the business and supported the diversification strategy, while continued investment in sales capability strengthened the company\u2019s competitive position even during a major recession. During Thoma Bravo ownership, revenues increased from just over $600 million annually to about $1.6 billion, profitability almost tripled and the number of employees grew more than three-fold. In 2015, Sirius was sold to private equity firm Kelso & Company.",
+        "industry": "Technology",
+        "date_of_investment": "2010",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "San Antonio, TX"
+      },
+      {
+        "company_name": "sma",
+        "company_description": "SMA Technologies is the maker of OpCon, the leading workload automation and orchestration platform for banks, credit unions, insurance companies, and other financial services businesses. The platform delivers enterprise power and scalability without the complexity or cost. OpCon enables companies to easily automate manual tasks and seamlessly orchestrate workloads across business-critical operations, saving time and reducing cost by eliminating human error and deploying IT resources on strategic initiatives. More than 1,000 clients trust SMA with their mission-critical operations.",
+        "industry": "Financial Services",
+        "date_of_investment": "2022",
+        "status_current": "Invested",
+        "fund": "Thoma Bravo",
+        "hq": "Houston, TX",
+        "website": "smatechnologies.com"
+      },
+      {
+        "company_name": "solarwinds",
+        "company_description": "SolarWinds is the leading provider of IT and infrastructure management solutions for IT professionals. Its powerful and affordable hybrid IT infrastructure management software is used by customers worldwide, from Fortune 500\u00ae enterprises to small businesses, government agencies and educational institutions. SolarWinds delivers products that are easy to find, buy, use, maintain and scale while providing the power to address all key areas of the information technology infrastructure, from on-premises to the Cloud. Users are able to interact in the company\u2019s thwack\u00ae online community to solve problems, share technology and best practices and directly participate in the product development process.",
+        "industry": "Software",
+        "date_of_investment": "2016",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Austin, TX",
+        "website": "solarwinds.com"
+      },
+      {
+        "company_name": "solifi",
+        "company_description": "Solifi delivers a global portfolio of end-to-end integrated solutions built on the Company\u2019s open finance platform, delivering applications for equipment, working capital, wholesale, and automotive finance firms. Solifi has led the way with true Software-as-a-Service (SaaS) solutions for the secured finance market, and as finance firms of all sizes continue to migrate their mission-critical systems to the cloud, Solifi continues to invest in innovation ahead of the market. Co-headquartered in Minneapolis, MN and Milton Keynes, UK the Company also has offices in Australia, Singapore, and India.",
+        "industry": "Financial Services",
+        "date_of_investment": "2019",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Minneapolis, MN and Milton Keynes, UK",
+        "website": "solifi.com"
+      },
+      {
+        "company_name": "sonicwall",
+        "company_description": "SonicWall is a leader in advanced network security, secure remote access, email security, backup and recovery, and management and reporting. The company\u2019s advanced intelligent network security and data protection solutions adapt as organizations evolve and as threats evolve. SonicWall solutions are designed to detect and control applications and protect networks from intrusions and malware attacks through hardware, software and virtual appliance-based solutions.",
+        "industry": "Security",
+        "date_of_investment": "2010",
+        "status_current": "Exited",
+        "fund": "Thoma Bravo",
+        "hq": "San Jose, CA"
+      },
+      {
+        "company_name": "sophos",
+        "company_description": "As a worldwide leader in next-generation cybersecurity, Sophos protects more than 400,000 organizations of all sizes in more than 150 countries from today's most advanced cyberthreats. Powered by SophosLabs - a global threat intelligence and data science team - Sophos' cloud-native and AI-enhanced solutions secure endpoints (laptops, servers and mobile devices) and networks against evolving cybercriminal tactics and techniques, including automated and active-adversary breaches, ransomware, malware, exploits, data exfiltration, phishing, and more. The award-winning Sophos Central cloud-based platform integrates Sophos' entire portfolio of best-of-breed products, from the Intercept X endpoint solution to the XG Firewall, into a single system called Synchronized Security. Sophos products are",
+        "industry": "Security",
+        "date_of_investment": "2020",
+        "status_current": "Acquired",
+        "fund": "Thoma Bravo",
+        "hq": "Abingdon, UK"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Sophos",
+        "company_description": "integrates Sophos' entire portfolio of best-of-breed products, from the Intercept X endpoint solution to the XG Firewall, into a single system called Synchronized Security. Sophos products are exclusively available through a global channel of more than 53,000 partners and Managed Service Providers (MSPs). Sophos also makes its innovative commercial technologies available to consumers via Sophos Home.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2020",
+        "status_current": "Acquired",
+        "fund": "N/A",
+        "hq": "Oxford, UK",
+        "website": "sophos.com"
+      },
+      {
+        "company_name": "Sparta Systems",
+        "company_description": "Sparta Systems, an industry pioneer and global leading provider of enterprise quality management solutions (EQMS), enables businesses to safely and efficiently deliver their products to market. Its TrackWise EQMS, a trusted standard among highly regulated industries, is used by quality, manufacturing and regulatory affairs professionals to manage compliance, reduce risk and improve safety across the global enterprise.",
+        "industry": "Software",
+        "date_of_investment": "2014",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "Hamilton, N.J.",
+        "website": "N/A"
+      },
+      {
+        "company_name": "SRS Health",
+        "company_description": "SRS is the healthcare industry leader in productivity-enhancing electronic health records (EHR) and healthcare IT (HCIT) solutions for specialists and other high-performance physicians. With over 5,000 providers, the EHR company has built the largest national network of high-performance practices successfully using EHR. Preeminent among orthopaedists, SRS is also the solution of choice among prominent ophthalmologists, cardiologists, and other specialists.",
+        "industry": "Healthcare IT",
+        "date_of_investment": "2013",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Starburst",
+        "company_description": "Starburst is the analytics engine for all your data. We provide the fastest, most efficient analytics engine for your data warehouse, data lake, or data mesh. We unlock the value of distributed data by making it fast and easy to access, no matter where it lives. Starburst queries data across any database, making it instantly actionable for data-driven organizations. With Starburst, teams can lower the total cost of their infrastructure and analytics investments, prevent vendor lock-in, and use the existing tools that work for their business.",
+        "industry": "Data Analytics",
+        "date_of_investment": "2022",
+        "status_current": "Invested",
+        "fund": "N/A",
+        "hq": "Boston, MA",
+        "website": "starburst.io"
+      },
+      {
+        "company_name": "Syntellis Performance Solutions",
+        "company_description": "Syntellis Performance Solutions, previously Kaufman Hall Software, provides innovative enterprise performance management software, data and analytics solutions for healthcare, higher education, and financial institutions. Syntellis\u2019 solutions include Axiom and Connected Analytics software, which help finance professionals elevate performance by acquiring insights, accelerating decisions, and advancing their business plans. With over 2,800 organizations and 450,000 users relying on its solutions, Syntellis has proven industry expertise in helping organizations transform their vision into reality.",
+        "industry": "Software",
+        "date_of_investment": "2020",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "T2 Systems",
+        "company_description": "T2 Systems is the largest parking technology provider in North America, with more than 24 years in the parking management industry and currently serving thousands of parking professionals. T2 integrates the best people, processes and technology for powerful, high performance and secure parking solutions. Its open technology and processes are used to manage more than 200 million parking transactions for over 2 billion dollars annually across all 50 states and ten provinces in Canada. Customers rely on T2 for multi-space pay stations, permit management, enforcement, LPR, PARCS, vehicle counting, citation services and event parking.",
+        "industry": "Technology",
+        "date_of_investment": "2016",
+        "status_current": "Invested",
+        "fund": "N/A",
+        "hq": "Indianapolis, IN",
+        "website": "t2systems.com"
+      },
+      {
+        "company_name": "Talend",
+        "company_description": "Talend is a leading provider of data integration solutions, enabling companies to operationalize their disparate data, wherever it may sit, to solve their most complex business problems. The company\u2019s Data Fabric platform unifies a suite of applications to collect, transform, govern and share data, allowing organizations to make better strategic decisions and drive long-term business value.",
+        "industry": "Software",
+        "date_of_investment": "2021",
+        "status_current": "Merged",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Telestream",
+        "company_description": "Telestream provides digital video tools and workflow solutions that allow consumers and businesses to transform video on the desktop and across the enterprise. Many of the world\u2019s best-known media and entertainment companies as well as users in a broad range of other business environments, rely on Telestream products. These products span the entire digital media lifecycle, including video capture and ingest; live and on-demand encoding and transcoding; playout, delivery and live streaming; and management and automation of the entire video workflow.",
+        "industry": "Digital Media",
+        "date_of_investment": "2012",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "TRADER Corporation",
+        "company_description": "TRADER Corporation is Canada\u2019s largest digital automotive marketplace and provides the most comprehensive set of marketing software solutions to Canadian automotive dealers. Its market leading online properties \u2014 autoTRADER.ca\u2122, autoHEBDO.net\u2122 and Autos.ca \u2014 bring together Canada\u2019s largest audience of in\u2010market car shoppers with Canada\u2019s most comprehensive and detailed inventory of new and used vehicle listings. The company also provides its auto dealer customers with software solutions that enable them to make smarter and faster business, inventory and marketing decisions.",
+        "industry": "Automotive",
+        "date_of_investment": "2016",
+        "status_current": "Invested",
+        "fund": "N/A",
+        "hq": "Etobicoke, Ontario, Canada",
+        "website": "go.trader.ca"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "TravelClick",
+        "company_description": "TravelClick\u2019s solutions for hotels around the globe increase revenue, reduce cost, improve performance and create a stronger brand. The company\u2019s suite of products and services includes: reservations solutions, business intelligence solutions, media solutions, web solutions and guest management, all designed to integrate seamlessly with one another to comprehensively address the needs of hotel operators. Thoma Bravo acquired the company in 2014 from another private equity firm and helped the company add key new management positions, execute strategic add-on acquisitions, and make changes in how its products were marketed. We also invested in updating and enhancing the functionality of a core product. TravelClick was sold in late 2018 to Amadeus IT Group SA, a major publicly traded Spanish provider of software for the global travel and tourism industry.",
+        "industry": "Software",
+        "date_of_investment": "2014",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Tripwire",
+        "company_description": "Tripwire provides automated compliance and security management solutions to enterprises and governments worldwide.\u00a0 The company\u2019s solutions enable customers to secure highly sensitive data within their IT environments by detecting malicious changes made to hardware and software systems housing the data and remediating the change to ensure IT compliance is maintained. Thousands of customers in 85 countries, including \u00a0US government agencies and many of the world\u2019s largest companies, rely on Tripwire daily. Thoma Bravo acquired Tripwire in 2011; subsequently, Tripwire\u2019s revenues increased 70%, profitability improved by 400%, the\u00a0 company\u2019s market share increased, and it solidified its global leadership position in cybersecurity. In 2015, Tripwire was sold to Belden Inc. (NYSE: BDC) for $710 million in cash.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2011",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      },
+      {
+        "company_name": "TRM Labs",
+        "company_description": "TRM Labs provides blockchain intelligence to help government agencies, financial institutions and cryptocurrency businesses detect, investigate and mitigate crypto-related fraud and financial crime. TRM's risk management platform includes solutions for cryptocurrency anti-money laundering (AML), transaction monitoring and wallet screening, investigative tracing and entity risk scoring including Know-Your-VASP. These tools enable organizations around the world to safely embrace cryptocurrency-related transactions, products, and partnerships.",
+        "industry": "Blockchain",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Francisco, CA",
+        "website": "trmlabs.com"
+      },
+      {
+        "company_name": "UserTesting",
+        "company_description": "UserTesting has fundamentally changed the way organizations get insights from customers with fast, opt-in feedback and experience capture technology. The UserTesting \u00ae Human Insight Platform taps into our global network of real people and generates video-based recorded experiences, so anyone in an organization can directly ask questions, hear what users say, see what they mean, and understand what it\u2019s actually like to be a customer. Unlike approaches that track user behavior then try to infer what that behavior means, UserTesting reduces guesswork and brings customer experience data to life with human insight. UserTesting has more than 2,500 customers, including more than half of the world\u2019s top 100 most valuable brands according to Forbes. UserTesting is headquartered in San Francisco, California.",
+        "industry": "Software",
+        "date_of_investment": "2023",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Francisco, CA",
+        "website": "usertesting.com"
+      },
+      {
+        "company_name": "UserZoom",
+        "company_description": "UserZoom is the leading Digital User Experience Insights System. Its all-in-one platform, participant recruitment engine and professional services provide the in-depth quantitative and qualitative insights essential to testing, measuring and improving digital product experiences at speed and scale throughout the product development lifecycle. UserZoom helps businesses connect insights to their most important performance metrics, so they can make confident, customer-focused decisions that drive growth and deliver competitive advantage. With operations in North America and Europe, the company helps global brands such as Google, Oracle, Aetna, Santander, Kimberly-Clark, and half of the Fortune 100 raise the bar for an outstanding digital experience.",
+        "industry": "Software",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "N/A",
+        "website": "N/A"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Vision Solutions",
+        "company_description": "Vision Solutions is a premier provider of high availability, disaster recovery and protection, and migration solutions for multiple platforms, including Windows, Linux, IBM\u2019s System i, AIX and Cloud. The firm\u2019s product portfolio delivers near-zero downtime data migrations, shares data in real-time across platforms, and moves, protects and restores data, applications and operating systems of any kind on any combination of physical, virtual or cloud servers. Thoma Bravo acquired the business in 2006 by completing a take-private transaction on the Johannesburg, South Africa, Stock Exchange and immediately began an industry consolidation strategy that resulted in the acquisition of two of the largest companies in the market (iTera and Lakeview Technologies), followed by the take-private acquisition of Double-Take Software, Inc. This greatly strengthened Visions market position, broadened its platform and created the largest provider of cross platform high availability software. After almost ten years of growth Vision was sold to another private equity firm.",
+        "industry": "Software",
+        "date_of_investment": "2006",
+        "status_current": "Exited",
+        "fund": "N/A",
+        "hq": "Johannesburg, South Africa",
+        "website": "N/A"
+      },
+      {
+        "company_name": "Vivian Health",
+        "company_description": "Vivian Health is the leading healthcare jobs marketplace that serves healthcare professionals first. Vivian Health empowers a broad range of healthcare professionals to find jobs they love across many types of healthcare work, including permanent roles, per-diem shifts, local contracts, and travel positions. Built on intelligent matching, transparent information, and the widest selection of job opportunities, Vivian Health offers healthcare job seekers an unrivaled solution for finding their next role. For employers, Vivian Health helps fill roles 50% faster than traditional recruiting practices and at a fraction of the cost, saving them millions of dollars, and helping alleviate labor shortages in healthcare.",
+        "industry": "Healthcare",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "San Francisco, CA",
+        "website": "vivian.com"
+      },
+      {
+        "company_name": "Zipari",
+        "company_description": "Based in Brooklyn, New York, Zipari is a healthcare technology company that develops products for health insurance carriers to engage with consumers in new and innovative ways. With unsurpassed technology, Zipari\u2019s products provide real-time insights at every touchpoint, delivering value to health insurance payers with breakthrough experiences for all of their consumers. Zipari serves more than 40 million members via their payer and TPA customers.",
+        "industry": "Healthcare Technology",
+        "date_of_investment": "2020",
+        "status_current": "Current",
+        "fund": "N/A",
+        "hq": "Brooklyn, NY",
+        "website": "zipari.com"
+      }
+    ]
+  }
+]

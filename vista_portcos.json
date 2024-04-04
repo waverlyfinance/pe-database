@@ -1,0 +1,2822 @@
+[
+  {
+    "companies": [
+      {
+        "company_name": "Accelya",
+        "company_description": "Technology products and services for the global airline industry. Accelya is a leading global provider of integrated technology platforms, software and services to the travel and transport industry. The Company\u2019s platform offers technology solutions for the travel industry to solve critical business problems including commercial planning and optimization, sales and distribution management, financial reconciliation and settlement. Accelya delivers business-critical financial, commercial, cargo, analytics and industry solutions to over 400 airlines, travel agents and shippers in over 150 countries. Accelya was founded in 1976 and is based in Barcelona, Spain. Vista Equity Perennial Fund made an equity investment in Accelya in December 2019.",
+        "industry": "Transportation",
+        "date_of_investment": "2019",
+        "status_current": "Current",
+        "fund": "Perennial",
+        "hq": "Barcelona, Spain",
+        "website": "accelya.com",
+        "follow_on": "Farelogix"
+      },
+      {
+        "company_name": "Accruent",
+        "company_description": "Real estate performance management solutions to manage the real estate and facilities lifecycle, including site selection, lease administration and maintenance for stores, branches, corporate offices and educational facilities. Since 1995, Accruent, LLC has helped real estate and facilities leaders deliver long-term, best-in-class, operational and financial performance through purpose-built industry suites that deliver greater customer value. Accruent\u2019s six product brands, Accruent, FAMIS, Siterra, 360Facility, Evoco and Expesite, are used by more than 1,000 leading organizations. These include nearly 45% of the Top 100 Retailers, 20% of the Fortune 500, 100 leading universities, all of the Top 5 Wireless Carriers and leading service providers managing more than 1.5 billion square feet of property. Accruent is headquartered in Austin, TX, and has offices in Santa Monica, CA, Evanston, IL, Calgary, AB, Canada, and Columbus, OH. Vista Foundation Fund I completed a buyout of Accruent in December 2009. TA Associates purchased a majority interest in the Company in November 2013. Genstar Capital acquired the Company from TA Associates and Vista in May 2016.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2009",
+        "status_current": "Former",
+        "fund": "Foundation",
+        "hq": "Austin, TX",
+        "website": "accruent.com"
+      },
+      {
+        "company_name": "Acquia",
+        "company_description": "Cloud-based, digital content management solutions. Acquia is a leading provider of open source web content management and digital experience solutions for enterprise to mid-market level companies. The Company\u2019s solutions are used to manage written content, images, data and experiences to help companies maintain a consistent online presence across all digital touchpoints. Built on the Drupal platform, Acquia\u2019s software and services allow companies the ability to build, operate and optimize websites, apps and other digital channels. Acquia was founded in 2007 and is based in Boston, MA, with operations worldwide. Vista Equity Partners Fund VII completed an acquisition of Acquia in November 2019.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "2019",
+        "status_current": "Current",
+        "fund": "Flagship",
+        "hq": "Boston, MA",
+        "website": "acquia.com",
+        "follow_on": "Monsido"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Acquia",
+        "company_description": "Partners Fund VII completed an acquisition of Acquia in November 2019.",
+        "industry": null,
+        "date_of_investment": "November 2019",
+        "status_current": null,
+        "fund": "Partners Fund VII",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Monsido",
+        "company_description": "Monsido is a website accessibility and optimization solution that helps businesses monitor their website performance, compliance, content quality and data privacy. Thousands of organizations worldwide, from national and local governments to educational institutions and healthcare organizations, rely on the Monisdo platform.",
+        "industry": null,
+        "date_of_investment": "January 2024",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Acquia"
+      },
+      {
+        "company_name": "Widen",
+        "company_description": "Widen provides a digital asset management platform and associated solutions, designed to support the full lifecycle of content creation, marketing and branding workflows through a central content and product information library. More than 1 million marketers, content creators and technologists from over 700 global brands choose Widen to better connect with audiences.",
+        "industry": null,
+        "date_of_investment": "September 2021",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Acquia"
+      },
+      {
+        "company_name": "AgilOne",
+        "company_description": "AgilOne is a leading provider of a Customer Data Platform, or CDP, which creates a single source of customer truth across disparate sources of online and offline data. Through machine learning and analytical algorithms, the Company\u2019s software enhances customer data leveraged through real-time APIs to help brands build authentic omni-channel customer relationships. The AgilOne CDP supports more than 150 brands worldwide.",
+        "industry": null,
+        "date_of_investment": "December 2019",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Acquia"
+      },
+      {
+        "company_name": "Active Network",
+        "company_description": "Active Network, LLC is a leading provider of activity and participant management solutions for event and activity organizers. The company\u2019s ActiveWorks SaaS platform helps organizers automate the registration and administration process, and manage participant and activity information, while also driving consumer participation in customers\u2019 events. The Active Network has ~46,000 customers and drives 92.7 million annual registrations in approximately 200,000 events and activities.",
+        "industry": "Sports, Entertainment & Recreation",
+        "date_of_investment": "2013",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund IV and Vista Equity Partners Fund III",
+        "hq": "Dallas, TX",
+        "website": "activenetwork.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Aderant",
+        "company_description": "Aderant Holdings, Inc. is a leading provider of business management applications for law firms and professional services organizations to efficiently manage operations, attract and retain clients, and maximize profitability. The company provides a suite of front and back-office applications which automate financial management, time and billing, business development, practice management, business intelligence and performance management functions.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "2014",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund III",
+        "hq": "Atlanta, GA",
+        "website": "aderant.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Advanced",
+        "company_description": "Advanced is a leading provider of healthcare, enterprise, and other business solutions and services to the public and private sectors in the U.K. The Company\u2019s healthcare portfolio includes patient care management and clinical software solutions, while its enterprise suite includes financial management, HR, payroll, CRM and document management solutions. Other focused business solutions include ticketing, fundraising and legal practice management.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2015",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund V",
+        "hq": "Slough, U.K.",
+        "website": "oneadvanced.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Decision Time",
+        "company_description": "Decision Time is a governance, risk management and compliance software provider. The Company\u2019s integrated cloud software eliminates the need for separate board portals, risk registers and objectives, and key results software. Decision Time enables customers in public, private and non-profit sectors to practice good governance, manage risk and achieve strategic objectives.",
+        "industry": "Software",
+        "date_of_investment": "June 2022",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Pellcomp",
+        "company_description": "Pellcomp provides market-leading case management system and learning management system software to 500 training and employability providers in the U.K. Pellcomp\u2019s PICS platform supports end-to-end onboarding, employer engagement, administration, learning program delivery and case management for employability contracts.",
+        "industry": "Software",
+        "date_of_investment": "June 2022",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Portt",
+        "company_description": "Portt is an Australian-based provider of workflow management solutions. The Company enables commercial teams in the public sector to streamline compliance, governance and performance management across their suppliers, contracts and procurement activities. Portt\u2019s solutions have been deployed across all levels of government to improve capabilities and create high-performing commercial teams that mitigate third-party risk, ensure compliance, deliver best value outcomes and operate with socially responsible supply chains.",
+        "industry": "Software",
+        "date_of_investment": "March 2022",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "CloudTrade",
+        "company_description": "CloudTrade is a market leader in document automation, providing e-invoicing, e-order and complex data capture services. Over 650 customers around the world trust CloudTrade to process millions of complex documents every month with patented automatic data-capture technology.",
+        "industry": "Software",
+        "date_of_investment": "October 2021",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Isosec",
+        "company_description": "Isosec is a market leader in authentication and identity management for the National Health Service (NHS). More than 120 NHS Trusts and organizations use Isosec\u2019s software to improve efficiency through rapid and secure authentication.",
+        "industry": "Software",
+        "date_of_investment": "September 2021",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Smart Apprentices",
+        "company_description": "Smart Apprentices is a market leader in apprenticeship learning technology. The Company's recruitment and management solutions help organizations handle the administration and operation of apprenticeships.",
+        "industry": "Software",
+        "date_of_investment": "May 2021",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "bksb",
+        "company_description": "bksb is a leading EdTech platform, providing cloud-based assessment tools to improve English, math and information communication technology skills. Thousands of education providers and millions of learners around the world rely on the Company\u2019s skills solutions.",
+        "industry": "Software",
+        "date_of_investment": "April 2021",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Certainty the National Will Register",
+        "company_description": "Certainty the National Will Register is the U.K.\u2019s only organized tool that allows professionals and citizens to register and search for wills. This tool serves a key role in the U.K. probate market and is used by legal professionals, PI insurers, government agencies, charities and the public.",
+        "industry": "Software",
+        "date_of_investment": "February 2021",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Clear Review",
+        "company_description": "Clear Review is a provider of Software-as-a-Service people performance management and engagement software. The software is used by managers and employees at 300 mid-market and large companies globally.",
+        "industry": "Software",
+        "date_of_investment": "October 2020",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Mitrefinch",
+        "company_description": "Mitrefinch is a global provider of workforce management solutions, including integrated time and attendance, payroll, HR, and access control software. Mitrefinch helps more than 4,400 customers in over 80 countries to increase productivity and profitability, and manage their workforce effectively, solving the complexities of managing time and people.",
+        "industry": "Software",
+        "date_of_investment": "October 2020",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Tikit",
+        "company_description": "Tikit is a top provider of practice and case management software for legal and professional service organizations, offering a connected environment comprised of proprietary software and partner applications to help customers unlock business potential. The Company focuses its solutions around four key offerings including practice and case management, time and billing, document lifecycle, and marketing and business development.",
+        "industry": "Software",
+        "date_of_investment": "March 2020",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "CareWorks",
+        "company_description": "CareWorks is a leading provider of cloud-based case management software for health and social care organizations in the U.S., U.K. and Ireland. The Company\u2019s solutions comprise a single shared information system for community nurses, mental health, social workers and therapists to record the care they provide while allowing other venues of care to access these essential electronic care records. CareWorks is used by over 50,000 professionals and clinicians and more than three million citizens worldwide.",
+        "industry": "Software",
+        "date_of_investment": "November 2019",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Modern Systems",
+        "company_description": "Modern Systems is a leading provider of legacy mainframe and application modernization, enabling the migration of legacy workloads to modern development languages and operating environments. The Company has completed more than 200 modernization projects worldwide and processed 1.5 billion lines of code in the past 30 years, delivering solutions that are scalable, cost-effective and fully managed.",
+        "industry": "Software",
+        "date_of_investment": "July 2019",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Kirona",
+        "company_description": "Kirona is a leading provider of Field Services Management (FSM) software that automates scheduling, reduces manual workflows and improves efficiency. The Company\u2019s platform delivers increased productivity and reduces costs by providing a comprehensive suite of FSM software for organizations across a variety of industries in the public and private markets.",
+        "industry": "Software",
+        "date_of_investment": "April 2019",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Oyez Professional Services",
+        "company_description": "Oyez Professional Services is a leading provider of legal forms software and services. The Company\u2019s platform facilitates the efficient and compliant completion of legal documents through its forms workflow software. Oyez Professional Services also streamlines the digital submission of data, dictation and transcription services, and professional document reproduction.",
+        "industry": "Software",
+        "date_of_investment": "March 2019",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Docman",
+        "company_description": "Docman is a cloud-based software platform that allows healthcare organizations to digitally manage clinical content. The Company is a leading supplier of electronic document management, workflow and transfer software for primary, secondary and social healthcare organizations. Docman maintains records for over 40,000,000 patients and helps manage over 3,000,000 items of patient correspondence each week.",
+        "industry": "Software",
+        "date_of_investment": "June 2018",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Information Balance",
+        "company_description": "Information Balance is a provider of application portfolio management solutions that help companies visualize and migrate legacy technology to modern platforms. The Company\u2019s clients include leading financial services, insurance, telecommunications and retail organizations.",
+        "industry": "Software",
+        "date_of_investment": "March 2018",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Science Warehouse",
+        "company_description": "Science Warehouse provides a spend management and e-Marketplace platform that streamlines procurement and enables organizations to identify cost savings opportunities for greater operating efficiency. The Company provides access to an online catalog of products and services tailored for the customer, including e-procurement, catalog management, e-invoicing and spend analysis. Science Warehouse\u2019s customers span across commercial, government, higher education, NHS and social housing industries.",
+        "industry": "Software",
+        "date_of_investment": "March 2018",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Hudman Solutions",
+        "company_description": "Hudman Solutions provides a SaaS-based ERP solution for middle-market companies in the U.K. The Company offers financial planning and management solutions with an advanced supply chain and materials planning system that allows businesses to identify significant cost savings while also streamlining business operations.",
+        "industry": "Software",
+        "date_of_investment": "July 2017",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "Advanced"
+      },
+      {
+        "company_name": "Advicent Solutions",
+        "company_description": "Advicent Solutions is the leading provider of SaaS-based technology solutions for the financial advice and planning industry. The Company\u2019s products include web-enabled marketing communications, needs assessment and financial planning tools, and are used by more than 250,000 financial professionals across more than 2,700 customers. Small and medium-sized businesses and some of the world\u2019s largest financial institutions trust Advicent\u2019s products to help grow their business.",
+        "industry": "Financial Services",
+        "date_of_investment": "November 2011",
+        "status_current": "Former",
+        "fund": null,
+        "hq": "Milwaukee, WI",
+        "website": "advicentsolutions.com",
+        "follow_on": "Figlo"
+      },
+      {
+        "company_name": "AGDATA",
+        "company_description": "AGDATA, Inc. is a leading provider of strategic data and analytical solutions to the world\u2019s largest agricultural, crop protection and animal health manufacturers. Its solutions allow the world\u2019s",
+        "industry": "Agriculture",
+        "date_of_investment": "2014",
+        "status_current": "Former",
+        "fund": null,
+        "hq": "Charlotte, NC",
+        "website": "agdata.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "AGDATA, Inc.",
+        "company_description": "AGDATA, Inc. is a leading provider of strategic data and analytical solutions to the world\u2019s largest agricultural, crop protection and animal health manufacturers. Its solutions allow the world\u2019s leading input manufacturers and trait providers to analyze complex sales data and trends, and develop and maintain marketing and seed rebate programs. The Company also offers a suite of SaaS-based solutions that allow growers to self-verify their industry profile and also allows retailers to review, report and manage transactions and licenses for growers. AGDATA connects with approximately 8,000 retail locations in the United States and Canada and receives, analyzes and reconciles more than 35 million transactions annually.",
+        "industry": "Agriculture & Animal Health",
+        "date_of_investment": "July 2014",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund II",
+        "hq": "Charlotte, NC",
+        "website": null,
+        "follow_on": "Focus Technology Group"
+      },
+      {
+        "company_name": "Focus Technology Group",
+        "company_description": "Focus Technology Group is a leading provider of database management and data warehousing solutions for the agriculture and animal health industries. FTG\u2019s solutions include supply chain data, marketing and sales force automation, analytics, reporting, supply chain activation, customer loyalty and incentive management.",
+        "industry": "Agriculture & Animal Health",
+        "date_of_investment": "March 2016",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Peppers & Rogers Group",
+        "company_description": "Peppers & Rogers Group provides services to key agricultural clients in South America, particularly in Brazil. PRG\u2019s areas of focus include customer segmentation, field sales force effectiveness, master data management, planning and forecasting, business intelligence and analysis, and data collection solutions.",
+        "industry": "Agriculture & Animal Health",
+        "date_of_investment": "March 2015",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Alegeus",
+        "company_description": "Leading provider of consumer-directed healthcare software solutions. Alegeus is a SaaS platform for the management of consumer-directed healthcare benefit accounts including FSAs, HSAs, HRAs, wellness incentives, dependent care and commuter accounts. The Company\u2019s platform helps consumers maximize savings and optimize spending for their healthcare accounts through debit cards and other engagement solutions. Alegeus has over 300 clients including health insurance plans and third-party administrators who manage benefit accounts for more than 30 million members and process more than $9.1 billion in consumer healthcare payments annually.",
+        "industry": "Healthcare",
+        "date_of_investment": "September 2018",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Waltham, MA",
+        "website": "alegeus.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "AlertMedia",
+        "company_description": "Cloud-based provider of emergency communications and threat intelligence solutions. AlertMedia is a leading provider of emergency mass notification and threat intelligence software. AlertMedia offers businesses and organizations a modern two-way emergency communication software solution with fully integrated threat warnings and employee safety monitoring. The Company\u2019s solutions allow organizations to quickly communicate with employees and other stakeholders across multiple channels to notify them about emergencies or crisis situations. AlertMedia supports critical communications for thousands of organizations in more than 130 countries.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "April 2021",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Austin, TX",
+        "website": "alertmedia.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Allocate Software",
+        "company_description": "Workforce optimization and compliance software for the healthcare industry. Allocate Software is a leading international provider of workforce solutions to the healthcare, defense and maritime sectors. With over 800 customers and one million staff rostered daily, Allocate serves the largest public and private institutions around the world by supporting the operational and administrative needs of professionals across all healthcare settings. Allocate\u2019s best-in-class solutions enable the delivery of safe and effective care at optimal cost by helping healthcare organizations have the right people in the right place at the right time.",
+        "industry": "Healthcare",
+        "date_of_investment": "May 2018",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Richmond, U.K.",
+        "website": "allocatesoftware.com",
+        "follow_on": "Selenity"
+      },
+      {
+        "company_name": "Allvue Systems",
+        "company_description": "Adaptable software for alternative investment management. Allvue Systems is a leading provider of investment management solutions for fund managers, investors and administrators in the alternative investments industry. The Company\u2019s software optimizes decision making and streamlines processes to meet the needs of investors across private equity, venture capital, private debt, structured credit and other alternative asset classes. Allvue serves customers managing over $2.5 trillion in assets on its platform.",
+        "industry": "Financial Services",
+        "date_of_investment": "July 2019",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Miami, FL",
+        "website": "allvuesystems.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Applause",
+        "company_description": "SaaS-based platform that helps clients optimize the quality and end-user experience on desktop, mobile and device apps. Applause is a leading provider of customer-driven digital testing and user feedback software for digital experiences across Web, mobile and IoT. The Company\u2019s technology platform and managed global community of over 300,000 on-demand DX experts deliver authentic, real-world human input at every phase of software development. Applause provides insight into market requirements, user feedback and software quality for the world\u2019s leading digital brands at every customer touchpoint.",
+        "industry": "Application Development",
+        "date_of_investment": "September 2017",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Framingham, MA",
+        "website": "applause.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Applied Systems",
+        "company_description": "Automation solutions for the property and casualty insurance industry. Applied Systems, Inc. was the leading provider of automation solutions for the property and casualty insurance industry. Since 1983, the Company had developed software for independent insurance agents, brokers, managing general agents and insurance companies, as well as banks and other financial institutions with insurance operations. Nearly 120,000 users comprising 10,000 agencies conducted business using Applied Systems\u2019 agency management systems, and related products and services. Nearly 300 of the largest brokers and other financial institutions with insurance operations used Applied Systems products to automate their affiliated insurance agencies. Applied Systems led the industry in agency/carrier real-time and batch communication solutions. The Company\u2019s software products were used in approximately 50 percent of interface transactions based upon ACORD standards. Applied Systems automated insurance transactions at every distribution level from consumer through carrier, also providing technical support and professional services to maximize customers\u2019 return on investment.",
+        "industry": "Insurance",
+        "date_of_investment": "September 2004",
+        "status_current": "Former",
+        "fund": "Vista Equity Fund II",
+        "hq": "University Park, IL",
+        "website": "appliedsystems.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Applied Systems",
+        "company_description": "In University Park, IL, with operations in Canada. Vista Equity Fund II completed a management buyout of Applied Systems in September of 2004. Bain Capital acquired Applied Systems in September 2006.",
+        "industry": null,
+        "date_of_investment": "September 2004",
+        "status_current": null,
+        "fund": "Vista Equity Fund II",
+        "hq": "University Park, IL",
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Apptio",
+        "company_description": "Former IT Operations Bellevue, WA Flagship Website apptio.com Year of Investment 2019 Status Former Headquarters Bellevue, WA Company Profile Leading provider of technology business management solutions for large enterprises, mid-market customers and the public sector. Apptio develops SaaS solutions that enable businesses to assess and communicate the cost of IT services for planning, budgeting and forecasting. The Company\u2019s cloud-based applications allow IT leaders to manage, plan and optimize technology investments across on-premises and cloud. With Apptio, IT leaders become strategic partners and are able to better demonstrate the value of IT investments to accelerate innovation and shift technology investments to focus on digital innovation. Apptio was founded in 2007 and is based in Bellevue, WA. Vista Equity Partners Fund VI completed a take-private of Apptio in January 2019. IBM acquired Apptio in August 2023.",
+        "industry": "IT Operations",
+        "date_of_investment": "2019",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Bellevue, WA",
+        "website": "apptio.com",
+        "follow_on": "Cloudwiry, Targetprocess, 7Park Data, SaaSLicense, Cloudability"
+      },
+      {
+        "company_name": "Aptean",
+        "company_description": "Former Enterprise Resource Planning Alpharetta, GA Foundation Website aptean.com Year of Investment 2012 Status Former Headquarters Alpharetta, GA Company Profile Industry-specific software applications to enhance processes and help businesses manage their resources, supply chain, employees and customer relationships. Aptean, Inc. is a leading global provider of mission critical, vertical-market enterprise resourcing planning software designed for the manufacturing end-market. The Company supports over 2,500 global clients by providing financial management and accounting, inventory management, sales and pricing, supply chain and PLM, and quality management solutions. Aptean has over 1,000 employees and is headquartered in Alpharetta, GA, with operations worldwide. Vista Equity Partners Fund IV completed a buyout of CDC Software in April 2012 and subsequently acquired Consona in August 2012 and combined the two businesses to form Aptean. In April 2019, Aptean received a joint investment from Vista Foundation Fund III and TA Associates. In March 2023, Vista fully exited its stake in Aptean following a strategic investment from Insight Partners and existing investor TA Associates.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2012",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund IV",
+        "hq": "Alpharetta, GA",
+        "website": "aptean.com",
+        "follow_on": "Merlin Business Software, Produce Pro, JET ERP, Systems Integration (Trading) Limited, Objective Holding, Ramsauer & Str\u00fcmer, Exenta, V-Technologies, Modula, Lascom, Open Systems Adaptable Solutions, agiles"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "OSAS",
+        "date_of_investment": "November 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "agiles",
+        "date_of_investment": "September 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Innovative Systems",
+        "date_of_investment": "August 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "DIN Solutions",
+        "date_of_investment": "June 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "WorkWise",
+        "date_of_investment": "June 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Paragon Software Systems",
+        "date_of_investment": "February 2020",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Schouw Informatisering",
+        "date_of_investment": "October 2019",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Linkfresh",
+        "date_of_investment": "October 2019",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Beck Consulting",
+        "date_of_investment": "September 2019",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Sanderson Group Plc",
+        "date_of_investment": "September 2019",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "OPTIWARE",
+        "date_of_investment": "April 2019",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "IndustryBuilt",
+        "date_of_investment": "March 2018",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "TheySay",
+        "date_of_investment": "January 2018",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "FDM Software",
+        "date_of_investment": "June 2017",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Apprise",
+        "date_of_investment": "May 2017",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "irms|360 Enterprise",
+        "date_of_investment": "February 2017",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "GQ Lifesciences",
+        "date_of_investment": "October 2016",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Government and Enterprise Management Solutions",
+        "date_of_investment": "August 2016",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Advanced Public Safety",
+        "date_of_investment": "June 2016",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "AssetPoint",
+        "date_of_investment": "December 2015",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Computron",
+        "date_of_investment": "December 2015",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Medworxx Solutions",
+        "date_of_investment": "October 2015",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "CoreTrac, Inc."
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Medworxx",
+        "company_description": "evidenced-based clinical criteria solution to improve patient experience while reducing wait times and length of stay.",
+        "industry": "Healthcare",
+        "date_of_investment": "October 2015",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "CoreTrac",
+        "company_description": "CoreTrac, Inc. is a leading provider of integrated customer relationship management (CRM) and automated sales tracking solutions designed specifically for banks and credit unions in the United States.",
+        "industry": "Software",
+        "date_of_investment": "October 2015",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Vision Information Logistics",
+        "company_description": "Vision software solutions provide cloud-based Supply Chain Inventory Management and Business Intelligence solutions for Fortune 100 clients in home entertainment, electronics and publishing.",
+        "industry": "Software",
+        "date_of_investment": "June 2015",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Verdiem",
+        "company_description": "Verdiem is a leader in energy management software for IT devices.",
+        "industry": "Software",
+        "date_of_investment": "January 2015",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "Consona Corporation",
+        "company_description": "Consona provides vertically-focused technology and services across the following software application categories: ERP, CRM, knowledge management, eService, network management and product configuration.",
+        "industry": "Software",
+        "date_of_investment": "August 2012",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aptean"
+      },
+      {
+        "company_name": "ARCOS",
+        "company_description": "SaaS solutions for utility and critical infrastructure resource management.",
+        "industry": "Software",
+        "date_of_investment": "April 2021",
+        "status_current": "Current",
+        "hq": "Columbus, OH",
+        "website": "arcos-inc.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Treverity",
+        "company_description": "Treverity is an analytics and collaboration solutions platform for utility operations.",
+        "industry": "Software",
+        "date_of_investment": "December 2022",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "ARCOS"
+      },
+      {
+        "company_name": "Aspect",
+        "company_description": "Contact center software solutions and services that enable businesses to manage and optimize customer communications.",
+        "industry": "Software",
+        "date_of_investment": "January 2003",
+        "status_current": "Former",
+        "hq": "San Jose, CA",
+        "website": "aspect.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Aspira",
+        "company_description": "Cloud-based software for campground management, hunting and fishing licensing, and recreational vehicle licensing.",
+        "industry": "Software",
+        "date_of_investment": "November 2013",
+        "status_current": "Former",
+        "hq": "Dallas, TX",
+        "website": "aspiraconnect.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Mission Management",
+        "company_description": "Mission Management is a leading provider of property management, reservation and registration software for private RV parks and campgrounds across North America.",
+        "industry": "Software",
+        "date_of_investment": "November 2018",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Aspira"
+      },
+      {
+        "company_name": "Assent Compliance",
+        "company_description": "Supply chain compliance and sustainability management solutions.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "December 2021",
+        "status_current": "Current",
+        "hq": "Ottawa, Canada",
+        "website": "assentcompliance.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Avalara",
+        "company_description": "SaaS solution for indirect tax compliance to streamline registration, calculations and returns.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "October 2022",
+        "status_current": "Current",
+        "hq": "Seattle, WA",
+        "website": "avalara.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Benchmark Gensuite",
+        "company_description": "Integrated software for environment, health and safety (EHS), and ESG reporting and management.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "April 2023",
+        "status_current": "Current",
+        "hq": "Mason, OH",
+        "website": "benchmarkgensuite.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "BetterCloud",
+        "company_description": "Leading SaaS Management Platform provider for enterprise IT teams.",
+        "industry": "IT Operations",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "hq": "New York, NY",
+        "website": "bettercloud.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "BetterCloud",
+        "company_description": "management platform helps thousands of organizations like Block (formerly Square), Oscar Health and HelloFresh automate processes and policies across their cloud application portfolio. The BetterCloud platform features capabilities in three key areas of SaaS operations management: application insights, user lifecycle management and data protection. BetterCloud was founded in 2011 and is based in New York, NY.",
+        "industry": "Management Platform",
+        "date_of_investment": "June 2022",
+        "status_current": "Acquired",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "New York, NY",
+        "website": "Null",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "BigMachines",
+        "company_description": "On-demand software solutions enabling enterprises to streamline their front-end selling processes and to better serve their customers and channel partners. BigMachines, Inc. provides on-demand software solutions enabling enterprises to streamline their front-end selling processes and better serve their customers and channel partners. BigMachines Lean Front-End\u00ae (LFE) solution streamlines the inquiry-to-order process for new products and aftermarket parts and services. The primary modules of the LFE solution are Guided Selling which includes catalog, selection and product configurator ; Commerce Processes which includes pricing, quoting, proposal generation, order management and customer service; Parts & Service; Reports & Analysis, Integration and Administration. BigMachines LFE platform has been architected and built for rapid, on-demand deployment through an intuitive web interface. BigMachines LFE solution delivers a compelling value proposition to its customers and has been implemented by leading companies in a variety of industries including industrial, medical equipment and high-tech, among others. Customers range in size from Fortune 500 leaders to small and mid-sized growth enterprises. The Company is headquartered in Deerfield, IL, with operations in Europe.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "2010",
+        "status_current": "Former",
+        "fund": "Foundation",
+        "hq": "Deerfield, IL",
+        "website": "bigmachines.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "BigTime Software",
+        "company_description": "Industry-leading time tracking, billing and project management software. BigTime Software is dedicated to developing practice management tools that help growing professional services firms track, manage and invoice their time. The Company\u2019s award-winning industry-specific solutions are designed to speak the language of consultants in all fields, from accounting, engineering and architecture to IT services. BigTime is the project management software of choice for more than 2,000 professional firms, tracking over $4 billion of billable time each year.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Endeavor",
+        "hq": "Chicago, IL",
+        "website": "bigtime.net",
+        "follow_on": "Primetric, Projector PSA"
+      },
+      {
+        "company_name": "BlueConic",
+        "company_description": "Customer data platform making first-party and zero-party data more accessible for customer and business growth. BlueConic is the leading pure-play customer data platform, liberating companies\u2019 first-party and zero-party data from disparate systems and making it accessible wherever and whenever to transform customer relationships and drive business growth. Over 300 companies worldwide, including Hearst Newspapers, Heineken and ING, use BlueConic to unify data into persistent, individual-level profiles and then activate it across customer touchpoints and systems in support of a wide range of growth-focused initiatives.",
+        "industry": "Data & Analytics",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "Endeavor",
+        "hq": "Boston, MA",
+        "website": "blueconic.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Bonterra",
+        "company_description": "Solutions to enable nonprofits and social good organizations to work more efficiently and effectively. Bonterra is the second-largest social good software company in the world. The Company believes in the exponential good that can be accomplished with the right foundation and supports the companies that power those who power social impact. Bonterra\u2019s differentiated, end-to-end solutions collectively support a unique network of over 19,000 customers, including over 15,000 nonprofit organizations and over 50 percent of Fortune 100 companies.",
+        "industry": "Nonprofit",
+        "date_of_investment": "2014",
+        "status_current": "Current",
+        "fund": "Foundation",
+        "hq": "Austin, TX",
+        "website": "bonterratech.com",
+        "follow_on": "WeSpire, Network for Good, Athena, Community TechKnowledge"
+      },
+      {
+        "company_name": "Brainware",
+        "company_description": "Intelligent data capture and search and retrieval software solutions that enable enterprises to streamline the input and retrieval of critical business information. Brainware, Inc. provides intelligent data capture, search and retrieval software solutions that enable enterprises to streamline the input and retrieval of critical business information. Its patented search and classification engine, Brainware\u2122, forms the foundation of its powerful applications. Brainware provides intelligent data capture solutions for invoice processing, order-to-cash management, document indexing, loan processing and other document-intensive processes across the enterprise. The Company\u2019s enterprise and desktop search and retrieval solutions enable the quick and effective location of structured and unstructured content that may reside within a variety of locations.",
+        "industry": "Data & Analytics",
+        "date_of_investment": "2006",
+        "status_current": "Former",
+        "fund": "Flagship",
+        "hq": "Dulles, VA",
+        "website": "brainware.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Bullhorn",
+        "company_description": "Cloud-based CRM solutions for companies in business service industries. Bullhorn, Inc. is a leading cloud-based provider of software to the global staffing and recruiting industry. Bullhorn\u2019s vertical-specific products enable its customers to better initiate, cultivate and monetize valuable relationships. Bullhorn serves over 5,700 clients and 68,000 users in more than 150 countries. Founded in 1999, the Company is headquartered in Boston, MA, with offices in London, U.K. and Sydney, Australia.",
+        "industry": "HR & Recruiting",
+        "date_of_investment": "2012",
+        "status_current": "Former",
+        "fund": "Flagship, Foundation",
+        "hq": "Boston, MA",
+        "website": "bullhorn.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Bullhorn",
+        "company_description": "Foundation Fund I and Vista Equity Partners Fund III completed a buyout of Bullhorn in June 2012. Insight Venture Partners and Genstar Capital acquired Bullhorn in November 2017.",
+        "industry": null,
+        "date_of_investment": "June 2012",
+        "status_current": null,
+        "fund": "Foundation Fund I, Vista Equity Partners Fund III",
+        "hq": null,
+        "website": null,
+        "follow_on": "Connexys, The Code Works, EASY Software Solutions, Sendouts, LLC., MaxHire Solutions"
+      },
+      {
+        "company_name": "Connexys",
+        "company_description": "Connexys is a Netherlands-based leading provider of applicant tracking solutions for the Mainland European market. The Company\u2019s recruiting software helps customers manage recruitment, internal job rotation and contingent workforce employees from a multi-tenant SaaS-based system. Connexys serves over 20,000 users and more than 300 clients in 60 countries across staffing, recruiting and other corporate segments.",
+        "industry": null,
+        "date_of_investment": "September 2017",
+        "status_current": null,
+        "fund": null,
+        "hq": "Netherlands",
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "The Code Works",
+        "company_description": "The Code Works, Inc. provides SaaS-based solutions that automate recruiting workflow in the contingent staffing market by integrating corporate procurement and vendor management systems with applicant tracking systems. The Company\u2019s products enable staffing firms to increase service levels, win more business, and improve productivity by reducing time-to-fill and data entry time.",
+        "industry": null,
+        "date_of_investment": "August 2014",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "EASY Software Solutions",
+        "company_description": "EASY Software Solutions provides SaaS timesheet, expense, invoice, and commission management solutions specifically developed for staffing and recruiting firms. EASY\u2019s products enable staffing firms to automate highly manual back office tasks and reduce administration costs, as well as increase invoicing and payroll speed and accuracy.",
+        "industry": null,
+        "date_of_investment": "July 2013",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Sendouts, LLC.",
+        "company_description": "Sendouts, LLC provides SaaS-based software to manage the entire front-office recruiting and staffing process. The software enables staffing and recruiting firms to efficiently source, market, track and place job candidates through an Applicant Tracking System (\u201cATS\u201d), as well as manage their customer and prospect relationships through an integrated CRM.",
+        "industry": null,
+        "date_of_investment": "November 2012",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "MaxHire Solutions",
+        "company_description": "MaxHire Solutions, Inc. provides SaaS-based staffing solutions to cover the front-to-back office needs of recruiting and staffing firms. The Company\u2019s software enables organizations to post vacancies to job boards, manage candidate pipelines and referrals, and communicate with candidates through social network channels.",
+        "industry": null,
+        "date_of_investment": "November 2012",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "CentralSquare Technologies",
+        "company_description": "CentralSquare Technologies is an industry leading provider of public safety and public administration software to state and local governments across the U.S. and Canada. The Company\u2019s platform meets the specialized requirements of public administration, public safety and justice, state government, federal government and nonprofit agencies. CentralSquare\u2019s solutions deliver vital safety and administrative services to three out of every four residents in the U.S. and Canada. Today, CentralSquare serves over 7,500 organizations from the largest metropolitan cities to counties and towns of every size across North America. CentralSquare was formed in 2018 and is based in Lake Mary, FL. Vista Equity Partners Fund VI acquired Superion in February 2017. Vista and Bain Capital Partners subsequently completed a merger of Superion, TriTech and the public sector and healthcare businesses of Aptean in August 2018 to form one company officially operating under the name \u201cCentralSquare Technologies.\u201d",
+        "industry": "Government",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Lake Mary, FL",
+        "website": "centralsquare.com",
+        "follow_on": "Tellus, Lucity"
+      },
+      {
+        "company_name": "Tellus",
+        "company_description": "Tellus is a leading provider of computer aided dispatch (CAD) systems used by emergency responders. The Company\u2019s platform is a standards-based information-sharing technology that connects and integrates with most independent CAD systems.",
+        "industry": null,
+        "date_of_investment": "May 2019",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Lucity",
+        "company_description": "Lucity provides enterprise asset and work management software to state and local governments. The Company\u2019s platform supports the asset and maintenance management needs of public works agencies nationwide and enables agencies to extend the life of capital assets while managing customer requests and work orders, preventative maintenance, resources and inventory, and regulatory compliance.",
+        "industry": null,
+        "date_of_investment": "December 2018",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Cloud Software Group",
+        "company_description": "Cloud Software Group is a leading provider of enterprise infrastructure software solutions encompassing virtualization, integration, data management, automation, business intelligence, collaboration, networking and security. The Company is comprised of seven best-in-class enterprise software product families and brands: Citrix, ibi, Jaspersoft, NetScaler, ShareFile, TIBCO and XenServer. Cloud Software Group serves 400,000 customers globally, including 98% of the Fortune 500. More than 100 million users around the globe rely on Cloud Software Group to help them adapt, transform and meet the challenges facing every modern enterprise across a variety of data and application environments. Cloud Software Group is based in Fort Lauderdale, FL, with operations worldwide. Vista Equity Partners Fund V completed a take-private of TIBCO in December 2014. In September 2022, Vista Equity Partners and Evergreen Coast Capital Corp. acquired Citrix via a take-private transaction and combined it with TIBCO. The combined companies rebranded under one entity, Cloud Software Group in September 2022.",
+        "industry": "IT Operations",
+        "date_of_investment": "2014",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund V",
+        "hq": "Fort Lauderdale, FL",
+        "website": "cloud.com",
+        "follow_on": "Citrix, Information Builders, Orchestra Networks, Scribe Software, Alpine Data, TIBCO Data Virtualization, nanoscale.io, Statistica, Mashery"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "COMPLY",
+        "company_description": "Compliance technology, consulting and education solutions for financial institutions. COMPLY is a leading provider of technology platforms, expert consulting and continuing education resources for compliance programs. The Company empowers private equity firms, hedge funds, RIAs and some of the world\u2019s largest financial institutions to navigate an ever-changing regulatory landscape with tailormade regulatory technology, governance, managed services, analytics and outsourcing solutions. Over 7,000 clients trust COMPLY\u2019s portfolio of firms in their corporate, employee and third-party programs. COMPLY was founded in 2003 and is based in New York, NY.",
+        "industry": "Compliance Technology",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund I",
+        "hq": "New York, NY",
+        "website": "comply.com",
+        "follow_on": "illumis, RIA in a Box, National Regulatory Services"
+      },
+      {
+        "company_name": "Critical Start",
+        "company_description": "Managed Detection and Response cybersecurity solutions. Critical Start simplifies breach prevention by helping organizations identify, assess and respond to cyber threats in real-time while analyzing threat data to inform future responses. The Company\u2019s technology and security operation center analysts leverage a deep pool of behavioral data to automatically resolve over 99% of security alerts, reduce risk acceptance and improve team productivity. Critical Start\u2019s Incident Response Team also provides hands-on readiness, response and forensic services for enterprise security teams. Critical Start was founded in 2012 and is based in Plano, TX.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Plano, TX",
+        "website": "criticalstart.com"
+      },
+      {
+        "company_name": "Cvent",
+        "company_description": "Enterprise event management platform with solutions for both the events and meetings value chain. Cvent (NASDAQ: CVT) is a leading cloud-based provider of event management technology solutions. The Company\u2019s platform offers end-to-end event management functionality, including budgeting, planning and marketing for both sides of the event ecosystem (planners and venues). Cvent\u2019s products are used by over 15,800 customers across all verticals. The Company\u2019s solutions are used to plan approximately 350,000 events each year. Cvent is headquartered in Tysons Corner, VA.",
+        "industry": "Hospitality",
+        "date_of_investment": "2016",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Tysons Corner, VA",
+        "website": "cvent.com",
+        "follow_on": "Shoflo, SummitSync, DoubleDutch, Wedding Spot, Social Tables, Kapow, QuickMobile, Lanyon"
+      },
+      {
+        "company_name": "Datto",
+        "company_description": "Complete business and technology cybersecurity solutions suite for managed and IT service providers. Datto is a leading provider of data protection, IT management software and secure connectivity solutions. The Company\u2019s suite of integrated services offers data backup and disaster recovery, professional services automation, remote monitoring and management, cloud-to-cloud backup and network continuity. Together, Datto\u2019s solutions deliver uninterrupted access to business data on site, in transit and in the cloud, and allow for the efficient and accountable management of MSP and ITSP businesses. Today, Datto serves thousands of MSPs and ITSPs at tens of thousands of small and mid-sized businesses and large enterprises around the world. Datto was founded in 2007 and is based in Norwalk, CT, with operations worldwide.",
+        "industry": "IT Operations",
+        "date_of_investment": "2017",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Norwalk, CT",
+        "website": "datto.com",
+        "follow_on": "Infocyte, BitDam, Gluh"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Gluh",
+        "company_description": "a two-minute selling or quoting feature and a user interface to streamline sales and significantly improve operational efficiency, leading to increased profitability for MSPs",
+        "industry": "Software",
+        "date_of_investment": "July 2020",
+        "status_current": "Acquired",
+        "hq": "N/A",
+        "website": "N/A",
+        "follow_on": "Datto"
+      },
+      {
+        "company_name": "Autotask",
+        "company_description": "a leading provider of end-to-end software solutions to IT service providers and managed service providers",
+        "industry": "Software",
+        "date_of_investment": "June 2014",
+        "status_current": "Merged",
+        "hq": "N/A",
+        "website": "N/A",
+        "follow_on": "Datto"
+      },
+      {
+        "company_name": "Dispatch",
+        "company_description": "Provider of SaaS field services management software",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "September 2018",
+        "status_current": "Current",
+        "hq": "Boston, MA",
+        "website": "dispatch.me",
+        "follow_on": "Youreka"
+      },
+      {
+        "company_name": "Duck Creek Technologies",
+        "company_description": "Intelligent solutions provider for the property and casualty (P&C) and general insurance industry",
+        "industry": "Insurance",
+        "date_of_investment": "March 2023",
+        "status_current": "Current",
+        "hq": "Boston, MA",
+        "website": "duckcreek.com"
+      },
+      {
+        "company_name": "EAB",
+        "company_description": "Best practices research, student success management software and data-enabled enrollment solutions for the higher education and K-12 markets",
+        "industry": "Education",
+        "date_of_investment": "November 2017",
+        "status_current": "Current",
+        "hq": "Washington, D.C.",
+        "website": "eab.com",
+        "follow_on": "Concourse, Rapid Insight, Seramount, Wisr, Starfish, Cappex, YouVisit"
+      },
+      {
+        "company_name": "EagleView",
+        "company_description": "3D roofing estimate software, geo-referenced aerial image capture and visual-centric data analytics",
+        "industry": "Insurance",
+        "date_of_investment": "July 2015",
+        "status_current": "Current",
+        "hq": "Bellevue, WA",
+        "website": "eagleview.com",
+        "follow_on": "Spookfish, OmniEarth"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "EagleView",
+        "company_description": "reports and imagery classification of land areas such as impervious surfaces or irrigated farmland. It also better identifies roof shape and condition, tree overhang, decks, pools and other notable property features.",
+        "industry": null,
+        "date_of_investment": "May 2017",
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "OmniEarth"
+      },
+      {
+        "company_name": "Ellucian",
+        "company_description": "Comprehensive next-generation solutions for the higher education industry. Ellucian is the leading provider of cloud-ready technology solutions and services for higher education institutions. With a comprehensive suite of data-rich tools, Ellucian delivers colleges and universities the solutions and information they need to lead with confidence. The Company works with more than 2,700 institutions in over 50 countries\u2014enhancing operations and enriching the experience for over 18 million students. Ellucian was founded in 1968 and is based in Reston, VA.",
+        "industry": "Education",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Perennial Fund",
+        "hq": "Reston, VA",
+        "website": "ellucian.com",
+        "follow_on": "CampusLogic"
+      },
+      {
+        "company_name": "EngageSmart",
+        "company_description": "Tailored customer engagement and payments software. EngageSmart is a leading provider of vertically-focused customer engagement SaaS and integrated payments solutions. The company operates within two main segments \u2013 SimplePractice and InvoiceCloud. Its SimplePractice business serves over a hundred thousand practices and offers an end-to-end practice management platform for health and wellness practitioners, with key functionality such as scheduling and payment processing. The InvoiceCloud business is an electronic bill presentment and payment solution that digitizes billing, client communications and collections for utility, government and financial services customers. EngageSmart was founded in 2009 and is based in Braintree, MA.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2024",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VIII",
+        "hq": "Braintree, MA",
+        "website": "engagesmart.com"
+      },
+      {
+        "company_name": "ESO Solutions",
+        "company_description": "Pioneering software to meet the changing needs of today\u2019s first responders. ESO Solutions is the largest software and data solutions provider for emergency medical services (EMS) agencies, fire departments, hospitals and state EMS offices. The Company\u2019s integrated suite of solutions transforms how first responders collect, share, report and analyze critical information, helping drive positive health and safety outcomes in the communities it serves. Collectively, ESO\u2019s customers respond to more than 13 million 911 calls annually, capturing prehospital, hospital and post-hospital data that improve first responder and community well-being. ESO was founded in 2004 and is based in Austin, TX.",
+        "industry": "Healthcare",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Austin, TX",
+        "website": "eso.com",
+        "follow_on": "Occam Technologies"
+      },
+      {
+        "company_name": "Finastra",
+        "company_description": "Global financial software solutions including retail banking, transaction banking, lending, and treasury and capital markets capabilities. Finastra is the third largest financial services technology company in the world, providing a broad portfolio of banking, capital markets, investment management and risk solutions to the financial services industry. The Company\u2019s corporate banking, retail banking, investment management, managed services, and treasury and capital markets solutions enable customers in financial services to deploy mission-critical technology that allow them to improve operations and mitigate risks. Finastra serves more than 9,000 customers in 130 countries, including 48 of the top 50 banks globally. Finastra\u00a0is headquartered in London, United Kingdom, with operations worldwide.",
+        "industry": "Financial Services",
+        "date_of_investment": "2012",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners",
+        "hq": "London",
+        "website": "finastra.com",
+        "follow_on": "Doorr"
+      },
+      {
+        "company_name": "FLASH",
+        "company_description": "Cloud parking software and mobility transformation. FLASH is the leader in urban mobility, helping businesses and cities rethink one of their most valuable assets: the parking space. The Company\u2019s award-winning cloud-born platform is configurable, secure, reliable and grows alongside customers\u2019 business requirements as consumer expectations evolve. FLASH serves over 10,000 parking locations in every major U.S. city, enabling traditional parking assets to transform into next-generation mobility hubs with future-ready hardware and software solutions, a powerful business intelligence engine and a robust partner ecosystem. FLASH was founded in 2011 and is based in Austin, TX.",
+        "industry": "Automotive",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Austin, TX",
+        "website": "flashparking.com",
+        "follow_on": "Ballparc"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "FLASH",
+        "company_description": "control technology powers over 700 valet/attended parking facilities in the New York Metropolitan area and serves real estate owners and parking operators throughout the Northeast.",
+        "industry": "Technology",
+        "date_of_investment": "April 2022",
+        "status_current": "Current",
+        "hq": "New York Metropolitan area",
+        "follow_on": "Ticketech"
+      },
+      {
+        "company_name": "Forcepoint",
+        "company_description": "Cybersecurity systems that protect against threats and provide unobstructed access to critical data and intellectual property. Forcepoint LLC is a leading provider of solutions to rapidly-growing, global commercial and government cybersecurity markets. The Company\u2019s systems enable organizations to empower employees with unobstructed access to confidential data while safeguarding valuable content and simplifying compliance. Forcepoint\u2019s solutions incorporate capabilities in cloud security, network security, data and insider threat security, and global government security. More than 20,000 organizations across 155 countries rely on Forcepoint to stop advanced persistent threats, targeted attacks, and evolving malware. Forcepoint was founded in 2015 and is headquartered in Austin, TX, with operations worldwide.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "May 2015",
+        "status_current": "Former",
+        "hq": "Austin, TX",
+        "website": "forcepoint.com",
+        "follow_on": "RedOwl Analytics, Skyfence, Stonesoft, Sidewinder"
+      },
+      {
+        "company_name": "Fusion Risk Management",
+        "company_description": "Cloud-based solutions for business continuity and risk management. Fusion Risk Management is a leading provider of cloud-based software solutions for business continuity, integrated risk management, incident management, and IT disaster recovery and crisis. Fusion\u2019s platform takes organizations beyond legacy solutions and empowers them to make data-driven decisions with a comprehensive and flexible approach. The Company is dedicated to helping companies achieve greater organizational resilience and mitigate risks within their businesses. Fusion was founded in 2007 and is based in Rolling Meadows, IL.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "September 2019",
+        "status_current": "Current",
+        "hq": "Rolling Meadows, IL",
+        "website": "fusionrm.com"
+      },
+      {
+        "company_name": "Gainsight",
+        "company_description": "Leading provider of customer success software. Gainsight is the leading provider of customer success software helping companies prevent churn by identifying at-risk customers, creating systematic processes to mitigate concerns, and efficiently ramping up engagement efforts. Gainsight\u2019s Customer Cloud offers a powerful set of solutions focused on customer success, product experience, revenue optimization and customer data, that together enable businesses to put the customer at the center of everything they do. Gainsight was founded in 2009 and is based in San Francisco, CA, with offices across the United States, United Kingdom, Israel and India.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "December 2020",
+        "status_current": "Current",
+        "hq": "San Francisco, CA",
+        "website": "gainsight.com",
+        "follow_on": "Northpass, InSided"
+      },
+      {
+        "company_name": "Gatekeeper",
+        "company_description": "Vendor and contract lifecycle management platform for enhanced data visibility. Gatekeeper is a next-generation vendor and contract lifecycle management platform designed to centralize contract data and streamline renewal, compliance and negotiation processes. Gatekeeper\u2019s suite of solutions provides customers with visibility across their vendor, contract and third-party risk management lifecycles with accompanying tools to automate associated processes, enhance compliance and monitor ROI and renewal deadlines. Gatekeeper was founded in 2010 and is based in Jersey, U.K.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "October 2023",
+        "status_current": "Current",
+        "hq": "Jersey, U.K.",
+        "website": "gatekeeperhq.com"
+      },
+      {
+        "company_name": "Granicus",
+        "company_description": "Cloud-based government transparency, legislative management and digital marketing solutions for the government and education markets. Granicus is the leading provider of cloud-based government transparency, legislative management and digital marketing solutions for government agencies across Australia, North America and the United Kingdom. The Company\u2019s software solutions empower government organizations to create better lives for their constituents by enabling better decision making, communications and engagement while driving significant organizational efficiency via the automation of daily legislative workflows. Granicus has offices in Colorado, Minnesota, Washington, D.C. and London.",
+        "industry": "Government",
+        "date_of_investment": "September 2016",
+        "status_current": "Current",
+        "hq": "Denver, CO",
+        "website": "granicus.com",
+        "follow_on": "Rock Solid, GovQA, Opencities, Bang the Table"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Bang the Table",
+        "company_description": "The Company helps local, state and federal governments and public leaders forge meaningful digital connections with citizens through online forums, surveys and polls. The Company\u2019s online engagement platform, EngagementHQ, is being used by over 850 organizations around the world, empowering more than 17 million people with an easy and secure way to participate and inform key decision making, online.",
+        "industry": "Government Technology",
+        "date_of_investment": "June 2021",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Calytera",
+        "company_description": "Calytera is a leading provider of government permitting, licensing, freedom-of-information, and compliance software, helping government agencies digitize and automate critical functions, optimize their mobile workforce, and deliver modern services to citizens. Amanda, the Company\u2019s enterprise platform, helps U.S., Canadian and Australian governments manage more than 50 types of regulatory functions.",
+        "industry": "Government Software",
+        "date_of_investment": "October 2020",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Host Compliance",
+        "company_description": "Host Compliance is the leading short-term rental (STR) compliance SaaS provider for local governments to identify STR\u2019s, monitor rental activity and enforce compliance as well as deliver STR registration, permitting and tax collection processes. The Company has helped hundreds of local communities efficiently and cost-effectively implement fair regulations, recover revenue across active STR property platforms, reduce negative impacts on housing affordability and preserve community character.",
+        "industry": "Compliance Software",
+        "date_of_investment": "November 2019",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Firmstep",
+        "company_description": "Firmstep is a U.K.-based provider of civic engagement solutions that reduce costs for governments and add convenience for residents. Its software transitions government customers from paper-based and in-person service delivery methods to user-friendly online interactions. The Company\u2019s platform has been implemented by over a third of U.K. local authorities, accelerating digital channel shift, enabling savings and improving customer service.",
+        "industry": "Civic Engagement Solutions",
+        "date_of_investment": "March 2019",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "SouthTech Systems",
+        "company_description": "SouthTech Systems provides cloud-based process automation software solutions that improve productivity for government offices. The Company\u2019s products provide records management and disclosure solutions for city and county clerks, recorders, clerk of the board of supervisors and election officials as well as state agencies and special districts.",
+        "industry": "Process Automation Software",
+        "date_of_investment": "November 2018",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "IQM2",
+        "company_description": "IQM2, previously known as Accela Legislative Management, provides end-to-end meeting management software for the public sector. IQM2 enables government agencies to manage public meetings and engage citizens in civic processes through a suite of solutions including MinuteTraq \u2122, MediaTraq \u2122, eBoardroom \u2122 and BoardTraq \u2122. The platform unifies the entire experience of preparing, deciding and sharing the results and content of public meetings online.",
+        "industry": "Meeting Management Software",
+        "date_of_investment": "March 2018",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Vision Technology Solutions",
+        "company_description": "Vision Technology Solutions is a leading provider of SaaS-based website and content management software for local, government, nonprofit and education clients in the U.S. and Canada. Vision\u2019s technology and professional services provide cost-effective solutions that increase government efficiency, build transparency and promote interactive communication with citizens. Vision has more than 800 clients in communities ranging from less than 1,000 residents to more than five million.",
+        "industry": "Website and Content Management",
+        "date_of_investment": "February 2018",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Novusolutions",
+        "company_description": "Novusolutions is a leading provider of legislative management software. The Company\u2019s flagship product, NovusAGENDA, provides meeting and agenda automation that streamlines the approval, tracking and distribution of meeting materials for government clients.",
+        "industry": "Legislative Management Software",
+        "date_of_investment": "August 2017",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Granicus"
+      },
+      {
+        "company_name": "Greenway Health",
+        "company_description": "Clinical, financial, connectivity and analytical software products and services for ambulatory physician practices. Greenway Health, LLC is a leading provider of innovative technology, quality services and strategic partnerships that help physician practices grow profitably, remain compliant, work more efficiently and improve patient outcomes. Greenway partners with over 63,000 providers across more than 40 specialties nationwide, providing solutions for millions of individuals.",
+        "industry": "Healthcare",
+        "date_of_investment": "2011",
+        "status_current": "Current",
+        "hq": "Tampa, FL",
+        "website": "greenwayhealth.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "iCIMS",
+        "company_description": "Mission-critical PaaS talent acquisition software suite. iCIMS is a leading provider of software solutions and tools that unify all aspects of talent acquisition. The Company\u2019s platform enables mid-sized and enterprise employers to engage and nurture candidates, track applicants through the hiring process and onboard new employees. iCIMS is one of the largest and fastest-growing talent acquisition solution providers and supports hiring initiatives for nearly 4,000 customers worldwide.",
+        "industry": "HR & Recruiting",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "hq": "Holmdel, NJ",
+        "website": "icims.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "iCIMS",
+        "company_description": "iCIMS acquired Jibe in June 2019.",
+        "follow_on": "Jibe"
+      },
+      {
+        "company_name": "Infoblox",
+        "company_description": "Paid enterprise DDI network automation and DNS security solutions. Infoblox, Inc. is the market leading provider of paid enterprise DDI network automation and DNS security solutions, including Domain Name System (DNS) services, Dynamic Host Configuration Protocol (DHCP) services and IP address management (IPAM). The Company\u2019s software and appliances enable users to automate the assignment of IP addresses as well as monitor and manage the traffic and security of their networks. Infoblox serves a large, loyal and blue-chip customer base of more than 8,000 customers across a broad range of industries such as financial services, government, healthcare, manufacturing, retail, technology and telecommunications. The Company was founded in 1999 and is headquartered in Santa Clara, CA. Vista Equity Partners Fund VI completed the acquisition of Infoblox in November 2016. Warburg Pincus acquired Infoblox in December 2020. Vista Equity Partners Fund VII completed a new equity investment in the Company for 50% ownership in December 2020.",
+        "industry": "Security",
+        "date_of_investment": "2016",
+        "status_current": "Current",
+        "hq": "Santa Clara, CA",
+        "website": "infoblox.com"
+      },
+      {
+        "company_name": "Innovapptive",
+        "company_description": "SaaS-based connected worker and asset management platform for industrial partners. Innovapptive is a SaaS-based collaboration, asset management and efficiency solution for industrial companies. With its end-to-end platform, Innovapptive connects frontline workers, back offices and assets to increase innovation and collaboration while keeping employees safe and production streamlined. Some of the world\u2019s largest Fortune 500 asset-intensive companies use Innovapptive across industries such as energy, mining, utilities and manufacturing. Innovapptive was founded in 2012 and is based in Houston, TX. Vista Equity Endeavor Fund II made a minority investment in Innovapptive in April 2023.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2023",
+        "status_current": "Current",
+        "hq": "Houston, TX",
+        "website": "innovapptive.com"
+      },
+      {
+        "company_name": "Integral Ad Science",
+        "company_description": "Leading independent provider of digital ad measurement and analytics for advertisers, agencies, publishers, social networks and technology platforms. Integral Ad Science (NASDAQ: IAS) measures media quality to verify and optimize the placement of digital ads through its fraud, viewability, brand safety and optimization capabilities. The Company helps advertisers and publishers ensure that every digital ad impression is effective and analyzed for its impact on consumer actions. Integral Ad Science has operations in 13 countries and partners with over 2,000 advertisers and publishers around the world. Integral Ad Science was founded in 2009 and is based in New York, NY. Vista Equity Partners Fund VI acquired Integral Ad Science in July 2018. Integral Ad Science listed on the NASDAQ on June 30, 2021. Add-on Acquisitions: Context, 2022; Publica, 2021; Amino Payments, 2021.",
+        "industry": "Media, Publishing & Advertising",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "hq": "New York, NY",
+        "website": "integralads.com",
+        "follow_on": "Context, Publica, Amino Payments"
+      },
+      {
+        "company_name": "Jamf",
+        "company_description": "Enterprise device management solutions for Apple platforms. Jamf (NASDAQ: JAMF) is a leading provider of Apple device management software, including support for MacOS devices, iOS devices and tvOS devices. The Company offers extensive functionality in package building, inventory, image management, remote imaging, remote updates, iOS mobile device management and automated support. Jamf delivers support and service solutions to more than 38,000 customers at businesses, educational institutions and government agencies. Jamf was founded in 2002 and is based in Minneapolis, MN, with operations worldwide. Vista Equity Partners Fund VI acquired Jamf in November 2017. Jamf listed on the NASDAQ on July 22, 2020. Add-on Acquisitions: dataJAR, 2023; ZecOps, 2022; Wandera, 2021; cmdReporter, 2021; Digita Security, 2019; ZuluDesk, 2019; NoMAD, 2018.",
+        "industry": "IT Operations",
+        "date_of_investment": "2017",
+        "status_current": "Current",
+        "hq": "Minneapolis, MN",
+        "website": "jamf.com",
+        "follow_on": "dataJAR, ZecOps, Wandera, cmdReporter, Digita Security, ZuluDesk, NoMAD"
+      },
+      {
+        "company_name": "Jebbit",
+        "company_description": "Zero-party data platform enabling customers to capture privacy compliant consumer data. Jebbit is a leading zero-party data platform provider. From simple lead forms or surveys to more robust experiences like product matches and personality quizzes, the Jebbit platform drives high engagement by providing consumers with immediate value in exchange for relevant information about their motivations, interests and preferences. Jebbit\u2019s clients, including Shiseido Group, ASICS, Live Nation, The Clorox Company, the NBA and Bliss, use the Company\u2019s platform to understand their consumers better and drive revenue. Jebbit was founded in 2011 and is based in Boston, MA. Vista Equity Endeavor Fund II acquired Jebbit in January 2022.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "hq": "Boston, MA",
+        "website": "jebbit.com"
+      },
+      {
+        "company_name": "Jio",
+        "company_description": "Leading provider of Indian broadband connectivity and digital services. Jio Platforms, a subsidiary of Reliance Industries, is a leading provider of broadband connectivity and digital applications building a Digital Society for India by bringing together Jio\u2019s apps, digital ecosystems and India\u2019s number one high speed connectivity platform under one umbrella. Jio has a robust portfolio of leading digital applications spanning ecommerce, video streaming, music streaming, gaming and other enterprise and SMB software solutions. Jio was founded in 2019 and is based in Mumbai, India. Vista Equity Partners Fund VII\u00a0completed a minority investment in Jio Platforms in 2020.",
+        "industry": "Telecom",
+        "date_of_investment": "2020",
+        "status_current": "Current",
+        "hq": "Mumbai, India",
+        "website": "jio.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Jio Platforms",
+        "company_description": "gaming and other enterprise and SMB software solutions",
+        "industry": "Software",
+        "date_of_investment": "July 2020",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Mumbai, India",
+        "website": "Null",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Khoros",
+        "company_description": "Social media management and online community solutions to deliver enhanced digital customer experiences",
+        "industry": "Social Media Management",
+        "date_of_investment": "2017",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Austin, TX",
+        "website": "khoros.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Flow.ai",
+        "company_description": "an innovative conversational AI platform for designing and managing chatbots",
+        "industry": "AI/Chatbots",
+        "date_of_investment": "January 2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Khoros"
+      },
+      {
+        "company_name": "Topbox",
+        "company_description": "a leading provider of omnichannel customer experience analytics software for enterprises",
+        "industry": "Customer Experience Analytics",
+        "date_of_investment": "December 2020",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Khoros"
+      },
+      {
+        "company_name": "Jive-X",
+        "company_description": "provides online community management software that engages and supports customers and partners",
+        "industry": "Community Management Software",
+        "date_of_investment": "October 2017",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Khoros"
+      },
+      {
+        "company_name": "KIBO Software",
+        "company_description": "E-commerce software, services and expertise designed specifically for branded manufacturers and retailers",
+        "industry": "E-commerce",
+        "date_of_investment": "2015",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund II",
+        "hq": "Austin, TX",
+        "website": "kibocommerce.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Monetate",
+        "company_description": "a leading personalization platform for consumer-facing brands",
+        "industry": "Personalization Platform",
+        "date_of_investment": "October 2019",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KIBO Software"
+      },
+      {
+        "company_name": "Certona",
+        "company_description": "provides real-time personalization solutions to over 600 global retailers and brands",
+        "industry": "Personalization Solutions",
+        "date_of_investment": "February 2019",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KIBO Software"
+      },
+      {
+        "company_name": "Mozu",
+        "company_description": "a leading provider of enterprise, cloud-based commerce solutions designed to help enterprises manage their entire online presence",
+        "industry": "Cloud-based Commerce Solutions",
+        "date_of_investment": "October 2016",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KIBO Software"
+      },
+      {
+        "company_name": "Baynote",
+        "company_description": "a leading provider of personalized customer experience solutions for multi-channel retailers and the travel industry",
+        "industry": "Customer Experience Solutions",
+        "date_of_investment": "September 2016",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KIBO Software"
+      },
+      {
+        "company_name": "Fiverun",
+        "company_description": "a leading provider of cloud-based mobile point-of-sale and store optimization solutions to global retailers and brands",
+        "industry": "Mobile Point-of-Sale Solutions",
+        "date_of_investment": "December 2015",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KIBO Software"
+      },
+      {
+        "company_name": "Klarna",
+        "company_description": "Financial technology solutions for consumers and retailers from online payments and social shopping to personal finances",
+        "industry": "Financial Technology",
+        "date_of_investment": "March 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Stockholm, Sweden",
+        "website": "klarna.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "PriceRunner",
+        "company_description": "the leading comparison shopping service in the Nordic region",
+        "industry": "Comparison Shopping Service",
+        "date_of_investment": "November 2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Klarna"
+      },
+      {
+        "company_name": "Inspirock",
+        "company_description": "enables users to quickly and easily explore a destination\u2019s offerings and create personalized sightseeing itineraries utilizing local expertise and cutting-edge artificial intelligence",
+        "industry": "Travel Planning",
+        "date_of_investment": "October 2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Klarna"
+      },
+      {
+        "company_name": "APPRL",
+        "company_description": "an end-to-end influencer marketing software tailored for the needs of e-commerce brands",
+        "industry": "Influencer Marketing Software",
+        "date_of_investment": "July 2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Klarna"
+      },
+      {
+        "company_name": "HERO",
+        "company_description": "makes e-commerce human with a virtual shopping platform that connects millions of shoppers with product experts via text, chat and video",
+        "industry": "E-commerce",
+        "date_of_investment": "July 2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Klarna"
+      },
+      {
+        "company_name": "KnowBe4",
+        "company_description": "Enterprise cybersecurity training and solutions that address the human element of security",
+        "industry": "Cybersecurity",
+        "date_of_investment": "March 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Clearwater, FL",
+        "website": "knowbe4.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "SecurityAdvisor",
+        "company_description": "provides the only real-time and personalized security awareness platform that delivers a measurable reduction in security incidents",
+        "industry": "Security Awareness",
+        "date_of_investment": "2021",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "KnowBe4"
+      }
+    ]
+  },
+  {
+    "tool_uses": [
+      {
+        "recipient_name": "functions.parse_html",
+        "parameters": {
+          "companies": [
+            {
+              "company_name": "KnowBe4",
+              "company_description": "platform that delivers a measurable reduction in security incidents. The Company's patented platform integrates easily with existing security infrastructure to provide customized coaching for each employee, teaching them how to identify and remediate cyberattacks and helping security teams better understand the human element of their organization's security posture.",
+              "industry": "Security",
+              "date_of_investment": "November 2021",
+              "status_current": "Current",
+              "follow_on": "SecurityAdvisor"
+            },
+            {
+              "company_name": "LifeLoop",
+              "company_description": "Comprehensive engagement software for the senior living market. LifeLoop provides person-centered digital engagement solutions for the senior living market. The Company\u2019s platform empowers staff and helps residents thrive through holistic social interaction, enrichment, therapy, memory care, family connection and facility operations solutions. LifeLoop serves a diverse range of senior living centers across the U.S. and Canada.",
+              "industry": "Healthcare",
+              "date_of_investment": "2021",
+              "status_current": "Current",
+              "hq": "Greenwood Village, CO",
+              "website": "lifeloop.com",
+              "follow_on": "iN2L"
+            },
+            {
+              "company_name": "LogicMonitor",
+              "company_description": "Performance monitoring platform for enterprise IT. LogicMonitor is a leading SaaS-based performance monitoring platform for enterprise IT, managed service providers and small and mid-sized businesses. The Company monitors infrastructures, allowing companies to focus less on problem-solving and more on evolution. LogicMonitor\u2019s automated device and resource discovery, preconfigured alert thresholds and customizable dashboards come together to give IT teams speed, flexibility and actionable insights to innovate and create additional business value in today\u2019s competitive markets.",
+              "industry": "IT Operations",
+              "date_of_investment": "May 2018",
+              "status_current": "Current",
+              "hq": "Santa Barbara, CA",
+              "website": "logicmonitor.com",
+              "follow_on": "Dexda, Airbrake, Unomaly"
+            },
+            {
+              "company_name": "Lone Wolf Real Estate Technologies Inc.",
+              "company_description": "Deal management, accounting software, lead acquisition and website design solutions for the real estate brokerage industry in North America. Lone Wolf Real Estate Technologies Inc. is the leading provider of back- and front-office solutions for residential real estate brokers and agents in North America. The Company\u2019s flagship product, BrokerWOLF, helps brokers manage all accounting and back-office functions, including listing inventory, transaction processing, agent commissions and accounts payable/receivable. Lone Wolf is headquartered in Cambridge, Ontario, with operations throughout North America.",
+              "industry": "Real Estate",
+              "date_of_investment": "April 2015",
+              "status_current": "Former",
+              "hq": "Cambridge, Ontario",
+              "website": "lwolf.com",
+              "follow_on": "zipLogix, Instanet"
+            },
+            {
+              "company_name": "Lucid",
+              "company_description": "Leading provider of cloud-based visual collaboration software. Lucid offers a Visual Collaboration Suite that helps teams see and build the future from idea to reality. With its products \u2014 Lucidchart, Lucidspark and Lucidscale \u2014 teams can turn ideas into reality, clarify complexity and collaborate visually, no matter where they\u2019re located. Top businesses use the Company\u2019s products all around the world, including customers such as Google, GE, NBC Universal and T-Mobile, and 99% of the Fortune 500. Lucid was founded in 2010 and is based in South Jordan, Utah.",
+              "industry": "Collaboration",
+              "date_of_investment": "June 2021",
+              "status_current": "Current",
+              "hq": "South Jordan, Utah",
+              "website": "lucid.co"
+            },
+            {
+              "company_name": "mabl",
+              "company_description": "Leading intelligent test automation platform for quality engineering, supporting the rapidly growing DevOps market. mabl is a next-gen, SaaS native DevOps test automation suite enabling software engineers to easily create, run, manage and analyze automated end-to-end functional tests on one integrated platform. With mabl, users may test the start-to-finish flow of applications in a low-code, easy-to-use environment. mabl has a blue-chip enterprise customer base with a fast-growing number of Fortune 2000 customers globally. mabl was founded in 2017 and is based in Boston, MA.",
+              "industry": "Application Development",
+              "date_of_investment": "November 2021",
+              "status_current": "Current",
+              "hq": "Boston, MA",
+              "website": "mabl.com"
+            },
+            {
+              "company_name": "Main Street Hub",
+              "company_description": "Marketing platform for local businesses integrating social media, customer reviews, mobile and email marketing. Main Street Hub, Inc. is the voice for more local businesses than any other company. Powered by one-of-a-kind technology, data-driven expertise and a world-class team, Main Street Hub\u2019s marketing platform integrates social media, customer reviews, mobile and email marketing to help local businesses get more customers and keep them coming back. Founded in 2010, the Company is headquartered in Austin, TX, with an additional office in New York, NY.",
+              "industry": "Sales & Marketing",
+              "date_of_investment": "July 2015",
+              "status_current": "Former",
+              "hq": "Austin, TX",
+              "website": "mainstreethub.com"
+            },
+            {
+              "company_name": "Marketo",
+              "company_description": "Marketo provides the leading marketing software and engagement platform designed to help marketers develop long-term relationships with their customers \u2013 from acquisition to advocacy. Marketo, Inc.\u2019s core solution is the Marketo Engagement Marketing Platform, which enables the execution, management and measurement of online, social and offline marketing activities and customer interactions. The Company\u2019s platform enables marketers to automate the critical processes designed to generate new customer leads, convert leads into new customers, upsell more products and services to existing customers, and has a strong and demonstrable ROI. Marketo\u2019s solutions are used by over 4,600 customers in a wide variety of industry verticals including business services, communications, education, energy, financial services, healthcare and life sciences. The Company was founded in 2006 and is headquartered in San Mateo, CA, with operations worldwide.",
+              "industry": "Sales & Marketing",
+              "date_of_investment": "August 2016",
+              "status_current": "Former",
+              "hq": "San Mateo, CA",
+              "website": "marketo.com",
+              "follow_on": "Bizible, ToutApp"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Mediaocean",
+        "company_description": "Software to manage the media buying lifecycle from planning and buying to optimization, reconciliation and reporting across every media channel. Mediaocean is the mission-critical platform for omnichannel advertising. With $150 billion in annual media spend managed through its software, Mediaocean connects brands, agencies, media, technology and data. Using AI and machine learning technology to control marketing investments and optimize business outcomes, Mediaocean powers campaigns from planning, buying and selling to analysis, invoices and payments. Mediaocean employs 1,200 people across 20 global offices. Mediaocean was formed in 2012 through the merger of Donovan Data Systems and MediaBank and is headquartered in New York, NY. Vista Equity Partners Fund V made an equity investment in Mediaocean in August 2015. CVC acquired Mediaocean in December 2021.",
+        "industry": "Former Media, Publishing & Advertising",
+        "date_of_investment": "2015",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund V",
+        "hq": "New York, NY",
+        "website": "mediaocean.com",
+        "follow_on": "Flashtalking, Symsys, 4C Insights, MBS, PIN System, Shanghai Zanthuu Technology Solutions, INVISION, ColSpace, BCC AdSystems, METIS"
+      },
+      {
+        "company_name": "MedTrainer",
+        "company_description": "Healthcare credentialing, training and compliance management software. MedTrainer is the cloud-based software solution of choice for more than 15,000 healthcare facilities and 300,000 healthcare professionals across North America. The Company provides a unique, all-in-one compliance platform that drives higher revenues, streamlines workflows and eases employee onboarding. MedTrainer was founded in 2016 and is based in Las Vegas, NV. Vista Endeavor Fund II completed an investment in MedTrainer in March 2022.",
+        "industry": "Current Healthcare",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Endeavor Fund II",
+        "hq": "Las Vegas, NV",
+        "website": "medtrainer.com"
+      },
+      {
+        "company_name": "Menlo Security",
+        "company_description": "Cloud-based secure web gateway (SWG) platform built on a differentiated remote isolation core. Menlo Security takes a Zero Trust approach to protecting organizations from cyberattacks by eliminating the threat of malware from the web, documents and email. The Company\u2019s cloud-based SWG platform scales to provide comprehensive protection across enterprises, without requiring endpoint software or impacting the end user experience. Menlo Security is trusted by government agencies and major global businesses, including Fortune 500 companies across a number of security-conscious end markets. Menlo Security was founded in 2012 and is based in Mountain View, CA. Vista Foundation Fund III made a minority investment in Menlo Security in October 2020.",
+        "industry": "Current Security",
+        "date_of_investment": "2020",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Mountain View, CA",
+        "website": "menlosecurity.com"
+      },
+      {
+        "company_name": "MicroEdge",
+        "company_description": "IT solutions for the grantmaking community, including private foundation, corporate philanthropy, employee giving programs, community foundations and various other giving organizations. MicroEdge, LLC is a leading provider of IT solutions to the grantmaking community, including private foundations, corporate philanthropy, employee giving programs, community foundations and various other giving organizations. The Company\u2019s suite of products streamlines the full grantmaking lifecycle, from upfront submission through back-end evaluation and measurement, freeing up foundation staff to focus on issues more central to their organization\u2019s mission. MicroEdge currently maintains an impressive market position among the largest independent and corporate foundations, with approximately 80% of foundations with over $500 million in assets among their client roster. Approximately 75% of the community foundation market uses the Company\u2019s FIMS solution. Over the past 25 years, the Company has developed an established base of over 2,000 customers and over 14,000 registered users in the U.S. and Europe. The Company is headquartered in New York, NY, and has offices in Minnesota. Vista Foundation Fund I acquired MicroEdge in October 2009. Blackbaud acquired MicroEdge in October 2014.",
+        "industry": "Former Nonprofit",
+        "date_of_investment": "2009",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund I",
+        "hq": "New York, NY",
+        "website": "microedge.com",
+        "follow_on": "AngelPoints"
+      },
+      {
+        "company_name": "MINDBODY",
+        "company_description": "Technology platform for the fitness, beauty and wellness services industries. MINDBODY provides business management, demand generation and integrated payment processing software to the health and wellness industries. The Company\u2019s platform enables over 67,000 boutique fitness centers, spas, salons and integrative health facilities to manage scheduling, online booking, staffing, marketing and customer relationships. MINDBODY also processes customer payments through mobile, online, on-site and recurring membership fees. MINDBODY was founded in 2001 and is based in San Luis Obispo, CA. Vista Equity Partners Fund VI and Vista Equity Partners Fund VII completed a take-private of MINDBODY in February 2019.",
+        "industry": "Current Sports, Entertainment & Recreation",
+        "date_of_investment": "2019",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI, Vista Equity Partners Fund VII",
+        "hq": "San Luis Obispo, CA",
+        "website": "mindbodyonline.com",
+        "follow_on": "ClassPass"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "ClassPass",
+        "company_description": "ClassPass is a monthly subscription service revolutionizing the fitness and wellness industry by bringing together the world's best classes and experiences into one app. The Company\u2019s app offers a variety of classes, including yoga, strength training, barre, martial arts, pilates, boxing and indoor cycling, and the use of health clubs, enabling users to get on-demand workouts from top studios around the globe.",
+        "industry": "Fitness & Wellness",
+        "date_of_investment": "October 2021",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "MINDBODY"
+      },
+      {
+        "company_name": "ZeeZor",
+        "company_description": "ZeeZor is a real-time analytics and staff management platform for appointment-based businesses. ZeeZor allows business owners to set and track goals, host and track contests, recognize performers and compare key metrics across multiple locations to optimize revenue streams while delivering high quality experiences to clients.",
+        "industry": "Software",
+        "date_of_investment": "March 2020",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "MINDBODY"
+      },
+      {
+        "company_name": "Bowtie",
+        "company_description": "Bowtie is a provider of artificial intelligence-driven virtual receptionist solutions for appointment-based businesses. The Company\u2019s software automatically books clients, answers questions and enables live chat over SMS and web through a unified dashboard and application.",
+        "industry": "Artificial Intelligence",
+        "date_of_investment": "May 2019",
+        "status_current": "Acquired",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "MINDBODY"
+      },
+      {
+        "company_name": "Mitratech",
+        "company_description": "Corporate legal automation and GRC solutions for large, global organizations. Mitratech Holdings, Inc. is the leading provider of fully integrated enterprise legal management solutions for global legal departments of all sizes, including more than 25% of the Fortune 500 and more than 230 organizations. Mitratech\u2019s offerings include the flexible and proven TeamConnect and Lawtrac product platforms, both of which offer end-to-end matter management, e-Billing, legal hold, contract management, entity management and GRC solutions. Mitratech clients can prove demonstrable value creation for their organization by automating legal workflows, improving business outcomes through actionable data and insight, increasing collaboration with external partners and reducing overall legal spend.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "October 2011",
+        "status_current": "Former",
+        "hq": "Austin, TX",
+        "website": "mitratech.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "MRI Software",
+        "company_description": "Real estate property management solutions primarily focused on the commercial real estate market. MRI Software is a leading provider of real estate software applications and hosted solutions. MRI offers business management solutions to the global property management industry as well as to corporate real estate managers. These solutions automate real estate operations (accounting, rent collections, lease obligations, etc.), reporting, budgeting and forecasting, and portfolio management. MRI serves over 6,000 worldwide customers in the top tier of commercial and residential real estate, including 9 of the top 10 global real estate service providers, as well as 44 of the top 50 managers in the National Multi-Housing Council. The Company is headquartered in Cleveland, OH, with offices worldwide.",
+        "industry": "Real Estate",
+        "date_of_investment": "January 2010",
+        "status_current": "Former",
+        "hq": "Cleveland, OH",
+        "website": "mrisoftware.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "NAVEX Global",
+        "company_description": "Global SaaS-based Ethics and Compliance software and content provider to companies of all sizes in all verticals. NAVEX is the recognized leader in risk and compliance management software-as-a-service. The company serves over 13,000 customers in more than 85 countries worldwide, including 91 of the Fortune 100. Formed in 2012 by the joining of four GRC software industry leaders with histories leading back as far as 1981, NAVEX solutions provide a unified view of risk across the business. This allows for deeper organizational insight, increased operational efficiencies, and more informed decision making. At its core, the company\u2019s mission is to help customers promote ethical, inclusive workplace cultures, protect their brands, and preserve the environment through sustainable business practices. NAVEX was founded in 1997 and is headquartered in Lake Oswego, Oregon.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "November 2014",
+        "status_current": "Current",
+        "hq": "Lake Oswego, OR",
+        "website": "navexglobal.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "NAVEX Global",
+        "company_description": "of ethics and compliance training courses. NAVEX Global acquired The Network in August 2015.",
+        "industry": null,
+        "date_of_investment": null,
+        "status_current": null,
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "The Network"
+      },
+      {
+        "company_name": "Naviga",
+        "company_description": "Technology solutions for the global news media industry, including content management, digital advertising, circulation and audience relationship management. Naviga delivers the broadest range of technology solutions for the global news media industry, including content management, digital advertising, circulation and audience relationship management. The Company\u2019s innovative solutions and professional services help media organizations engage audiences through web, print, mobile and social media channels. Naviga helps more than 2,500 clients around the world compete for audience and revenue across the entire media landscape. The company\u2019s US offices are in Florida, Maryland, Minnesota and Utah; with international offices in Australia, Canada, Denmark, Germany, Norway, Panama, Sweden and the United Kingdom. Vista Foundation Fund II completed a buyout of both Digital Technology International (DTI) and Saxotech in July 2013 to create NEWSCYCLE Solutions. The Company rebranded under the name Naviga in April 2019.",
+        "industry": "Media, Publishing & Advertising",
+        "date_of_investment": "2013",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund II",
+        "hq": "Bloomington, MN",
+        "website": "navigaglobal.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Numerator",
+        "company_description": "Market intelligence data provider for brands, agencies and retailers. Numerator is a market intelligence firm that brings together omnichannel marketing, merchandising and sales data to make pursuing new possibilities simple for brand, retail and agency clients. Numerator is the only company in the marketplace to connect omnichannel purchase data and comprehensive path data to deliver an unmatched view of the consumer shopping and purchase experience. The Company serves over 2,000 customers across a wide variety of market intelligence categories. Numerator is based in Chicago, IL, with additional operations across the USA, Canada, U.K. and Australia. Vista Equity Partners Fund VI acquired Market Track, a leading provider of global omnichannel market intelligence, in June 2017 and subsequently acquired InfoScout, America\u2019s largest omnichannel consumer purchase panel, in July 2017. The combined company rebranded under the name Numerator in October 2018. Kantar acquired Numerator in July 2021.",
+        "industry": "Media, Publishing & Advertising",
+        "date_of_investment": "2017",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Chicago, IL",
+        "website": "numerator.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "OfficeSpace",
+        "company_description": "Workplace management software for the modern, dynamic workspace. OfficeSpace simplifies the workplace for dynamic organizations. Its innovative platform, intuitive experience and invested team provide the integral, strategic tools necessary to engage in the workplace. From space management and social distancing to desk booking and employee requests, the Company provides the flexibility and agility forward-focused companies need to manage their current workspace \u2014 and create a better place for everyone. OfficeSpace was founded in 2004 and is based in Alpharetta, GA. Vista Equity Endeavor Fund II acquired OfficeSpace in January 2022.",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund II",
+        "hq": "Alpharetta, GA",
+        "website": "officespacesoftware.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Olive.AI",
+        "company_description": "Artificial intelligence and robotic processing automation solutions for the healthcare industry. Olive is a leader in healthcare innovation, delivering artificial intelligence (AI) and robotic processing automation solutions that empower organizations to improve efficiency and patient care in hospitals. The Company\u2019s AI-based platform removes silos and automates healthcare workflows, reducing errors and maintaining healthcare data security. Olive\u2019s enterprise AI is deployed in more than 900 hospitals throughout the country. Olive was founded in 2012 and is based in Columbus, OH. Vista Equity Partners Fund VII completed a private toehold investment in Olive in June 2021.",
+        "industry": "Healthcare",
+        "date_of_investment": "2021",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Columbus, OH",
+        "website": "oliveai.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Olive",
+        "company_description": "Vista Equity Partners Fund VII completed a private toehold investment in Olive in June 2021.",
+        "industry": "Healthcare",
+        "date_of_investment": "June 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Columbus, OH",
+        "website": null,
+        "follow_on": "Healthcare IP"
+      },
+      {
+        "company_name": "P2 Energy Solutions",
+        "company_description": "Vista Equity Partners Fund III completed a buyout of P2 in June of 2008. Advent International acquired P2 in November 2013.",
+        "industry": "Energy",
+        "date_of_investment": "June 2008",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund III",
+        "hq": "Denver, CO",
+        "website": "p2energysolutions.com",
+        "follow_on": "ISS Group, Ltd., Beyond Compliance, WellPoint Systems, EXPLORER Software Solutions, Wellcore"
+      },
+      {
+        "company_name": "Ping Identity",
+        "company_description": "Vista Equity Partners Fund VI completed a buyout of Ping Identity in June 2016. Ping Identity listed on the NYSE (NYSE: PING) on September 19, 2019. Vista exited Ping Identity via the take-private sale to Thoma Bravo in October 2022.",
+        "industry": "Security",
+        "date_of_investment": "June 2016",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Denver, CO",
+        "website": "pingidentity.com",
+        "follow_on": "Singular Key, SecuredTouch, Symphonic Software, ShoCard, Elastic Beam, UnboundID"
+      },
+      {
+        "company_name": "Pipedrive",
+        "company_description": "Vista Equity Partners Fund VII made a majority investment in Pipedrive in December 2020.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "December 2020",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Tallinn, Estonia",
+        "website": "pipedrive.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "PlanSource",
+        "company_description": "Vista Equity Partners Fund VII made a majority investment in PlanSource in December 2019.",
+        "industry": "HR & Recruiting",
+        "date_of_investment": "December 2019",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Orlando, FL",
+        "website": "plansource.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "PlanSource",
+        "company_description": "Cloud-based solution for benefits administration. PlanSource is a technology company that automates and simplifies every aspect of employee benefit programs so employees and HR teams can make smarter, more confident benefits decisions. More than 7.5 million consumers receive their benefits through the PlanSource platform, which provides the best experience possible for benefits communications, shopping, enrollment, billing, compliance and ongoing administration. With an end-to-end benefits platform and suite of technology-enabled services, PlanSource helps people maximize the benefits of their benefits, so they can live happier, healthier lives.",
+        "industry": "Benefits Administration",
+        "date_of_investment": "April 2019",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Partners VII",
+        "hq": "Orlando, FL",
+        "website": null
+      },
+      {
+        "company_name": "Pluralsight",
+        "company_description": "A technology workforce development company. Pluralsight is a leading provider of technology workforce development solutions, including skills intelligence, skills development and engineering management capabilities. The Company\u2019s products, Pluralsight Skills and Pluralsight Flow, are used by more than 17,000 customers, including 70% of Fortune 500 companies.",
+        "industry": "Education",
+        "date_of_investment": "April 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Draper, UT",
+        "website": "pluralsight.com",
+        "follow_on": "A Cloud Guru"
+      },
+      {
+        "company_name": "Poppulo",
+        "company_description": "Omnichannel communications platform providing a scalable and secure solution for enterprises. Poppulo is a leading provider of workplace experience and omnichannel workforce communication solutions. The Company\u2019s enterprise-grade software and data integrations enable customers to deploy and manage content and applications across digital displays, email and mobile while integrating real-time data. Poppulo delivers industry-leading functionality, integrations and services through a cloud management interface, flexible authoring tool, cross-platform support and vertically-tailored applications.",
+        "industry": "Collaboration",
+        "date_of_investment": "April 2021",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Denver, CO",
+        "website": "poppulo.com",
+        "follow_on": "SmartSpace Global"
+      },
+      {
+        "company_name": "Power Factors",
+        "company_description": "Solutions to make renewable energy the world\u2019s leading power generation source. Power Factors is a leading provider of renewable energy asset performance management, commercial asset management, work order and analytics software to utility-scale owners, operators and independent power producers and global energy majors primarily in North America and Europe. Power Factors\u2019 platform enables market constituents to manage complex portfolios of renewable energy assets (primarily wind turbines and solar panels), optimize revenue and energy output and reduce manual service and monitoring costs.",
+        "industry": "Energy",
+        "date_of_investment": "August 2021",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Costa Mesa, CA",
+        "website": "powerfactors.com",
+        "follow_on": "Inaccess"
+      },
+      {
+        "company_name": "PowerSchool",
+        "company_description": "Student information management and reporting solutions for the K-12 education industry. PowerSchool (NYSE: PWSC) is the leading K-12 education technology provider of solutions that improve the education experience for 100 million students, teachers and parents in over 70 countries around the world. PowerSchool provides the industry\u2019s first Unified Classroom experience, empowering teachers with best-in-class, secure and compliant online solutions, including student information systems, learning management and classroom collaboration, assessment, analytics, behavior and special education case management. PowerSchool streamlines school office and administration operations with online solutions for student registration, school choice and finance/HR/ERP. PowerSchool drives student growth through digital classroom capabilities and engages families through real-time communications across any device.",
+        "industry": "Education",
+        "date_of_investment": "July 2015",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners",
+        "hq": "Folsom, CA",
+        "website": "powerschool.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Hoonuit",
+        "company_description": "stakeholders with essential insights to track student performance, improve enrollment rates and learning engagement, and better manage school operations.",
+        "industry": "Education Technology",
+        "date_of_investment": "October 2020",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "Schoology",
+        "company_description": "a leading provider of cloud-based learning management and assessment solutions to over 1,700 school districts in 50 states. Schoology\u2019s products help school districts improve student performance, foster collaboration throughout their community, and personalize learning for over 6 million students.",
+        "industry": "Education Technology",
+        "date_of_investment": "October 2019",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "PeopleAdmin, Inc.",
+        "company_description": "a leading provider of cloud-based talent management solutions for the education and government markets. PeopleAdmin\u2019s software enables more than 700 clients to streamline the hiring process, onboard new employees, efficiently manage positions and employee performance, develop compliant, defensible audit trails, and utilize industry-leading reporting and metrics. The Company\u2019s integrated talent management suite, SelectSuite\u00ae, includes applicant tracking, faculty search committee management, position management, and onboarding and performance management.",
+        "industry": "Human Resources & Talent Management",
+        "date_of_investment": "March 2014",
+        "status_current": "Merged",
+        "fund": "Vista Foundation Fund II",
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "SunGard K-12",
+        "company_description": "a leading provider of on-premises and cloud-based education software solutions to K-12 school districts. The Company offers Student Information System, Enterprise Resource Planning, assessment and special education software to more than 1,300 US school districts, representing more than 8.1 million students across 44 states.",
+        "industry": "Education Technology",
+        "date_of_investment": "February 2017",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "Chalkable",
+        "company_description": "a leading provider of education data management, student achievement and professional learning solutions to the U.S. K-12 marketplace. The Company delivers its integrated student information system and learning management tools to more than 5,000 schools across 50 states, helping educators reinforce positive student behavior in the classroom to improve learning outcomes.",
+        "industry": "Education Technology",
+        "date_of_investment": "October 2016",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "SRB Education Solutions",
+        "company_description": "a leading provider of K-12 education administration software in Ontario and other Canadian provinces. School boards and districts use the Company\u2019s student information system, finance and HR solutions to maintain student records and manage other administrative tasks, including compliance reporting.",
+        "industry": "Education Technology",
+        "date_of_investment": "August 2016",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "Haiku Learning",
+        "company_description": "a leading provider of learning management system and classroom collaboration software to K-12 schools and districts. Powering learning for nearly 3 million users across the globe, Haiku\u2019s platform is known for its simple interface, flexible tools and powerful integrations with other leading cloud services.",
+        "industry": "Education Technology",
+        "date_of_investment": "June 2016",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "TIENET",
+        "company_description": "a leading solution for special education case management, response to intervention and behavior management for K-12 schools and districts in the U.S. TIENET provides a diagnostic framework for educators to identify students who are struggling, evaluate their progress, and meet their learning and behavioral needs.",
+        "industry": "Education Technology",
+        "date_of_investment": "May 2016",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "Interactive Achievement",
+        "company_description": "the leading provider of formative assessment and longitudinal data solutions to K-12 districts and schools. The Company\u2019s assessment creation and delivery capabilities allow educators to deliver personalized curriculum and assessments to make data-driven decisions that raise student achievement and align with state longitudinal test standards. Interactive Achievement\u2019s solutions are used in classrooms across 13 U.S. states, including nearly all Virginia public schools.",
+        "industry": "Education Technology",
+        "date_of_investment": "February 2016",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "InfoSnap",
+        "company_description": "the leading provider of cloud-based registration management solutions to the K-12 marketplace. Over 10,000 public, independent and charter schools worldwide use InfoSnap\u2019s tools, which include online Application, Admissions, School Choice/Lottery, New Student Enrollment, Annual Student Registration and Staff Registration. These products streamline schools\u2019 administrative processes and improve data quality, enforce compliance, and reduce costs and burdens on school administrators and parents.",
+        "industry": "Education Technology",
+        "date_of_investment": "November 2015",
+        "status_current": "Acquired",
+        "fund": null,
+        "hq": null,
+        "website": null,
+        "follow_on": "PowerSchool"
+      },
+      {
+        "company_name": "Quickbase",
+        "company_description": "SaaS-based application development platform to improve business processes. Quickbase is a leading provider of Platform-as-a-Service (\u201cPaaS\u201d) application development tools that allow both technical and non-technical users across the Company\u2019s 5,400 customers to develop and deploy their own highly customized applications that streamline and automate a variety of day-to-day functions.",
+        "industry": "Software & Technology",
+        "date_of_investment": "April 2019",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners VII",
+        "hq": "Cambridge, MA",
+        "website": "Quickbase.com",
+        "follow_on": "Merge Mobile"
+      },
+      {
+        "company_name": "RadarFirst",
+        "company_description": "SaaS-based privacy incident response management platform. RadarFirst is a privacy incident response management SaaS solution provider that simplifies and streamlines compliance with data breach laws globally. The Company\u2019s solution operationalizes the incident response management process, applying automation and best practices to bring consistency and efficiency to privacy and security incident intake, risk assessment, breach decisioning and notification so companies can ensure regulatory compliance and reduce data breach risks.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "November 2018",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund I",
+        "hq": "Portland, OR",
+        "website": "radarfirst.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Regulatory DataCorp",
+        "company_description": "Governance, Risk and Compliance software and data solutions for financial institutions and technology companies globally. Regulatory DataCorp, Inc. is a leading provider of Governance, Risk and Compliance software and data solutions to banks, insurance companies, retailers, financial institutions, and hardware and software firms globally. The Company\u2019s solutions help identify banned/suspect entities, strengthen fraud protection, ensure regulatory compliance and manage supply and distribution risk.",
+        "industry": "Financial Services",
+        "date_of_investment": "August 2016",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund III",
+        "hq": "King of Prussia, PA",
+        "website": "rdc.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Relias Learning",
+        "company_description": "Verticalized e-learning solutions through SaaS-based software and related course content. Relias Learning, LLC is a leading provider of verticalized e-learning solutions through SaaS-based software and related course content. The solutions enable organizations to remain in compliance with regulatory and accreditation requirements, and offer continuing education solutions to current employees.",
+        "industry": "Healthcare",
+        "date_of_investment": "2014",
+        "status_current": "Former",
+        "fund": null,
+        "hq": "Morrisville, NC",
+        "website": "reliaslearning.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Relias Learning",
+        "company_description": "The solutions enable organizations to remain in compliance with regulatory and accreditation requirements, and offer continuing education solutions to current employees. Relias Learning operates under the Silverchair Learning Systems and Essential Learning brands. Silverchair Learning Systems provides online education solutions for the senior care market, including skilled nursing facilities, assisted and independent living communities, continuing care retirement communities, home health agencies and hospices. Essential Learning provides online education solutions for those working in the areas of behavioral health/addictions, children, youth and family services, community health care, corrections and developmental disabilities. Relias has since expanded into the additional areas of hospice care and autism care training. Relias\u2019 solutions are used by more than 4,000 organizations and nearly 2 million professionals with over 1.5 million courses completed every month. Relias is headquartered in Cary, NC. Vista Foundation Fund I completed a buyout of Essential Learning, LLC in March 2012. In May 2012, Vista Foundation Fund I completed a buyout of Silverchair Learning Systems, LLC. The two businesses merged and the combined company was renamed Relias Learning, LLC in August 2012. Bertelsmann acquired Relias in November 2014.",
+        "industry": "Education",
+        "date_of_investment": "March 2012",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund I",
+        "hq": "Cary, NC",
+        "website": "Null",
+        "follow_on": "Autism Training Solutions, Hospice Education Network, Care2Learn, Silverchair Learning Systems"
+      },
+      {
+        "company_name": "Resilinc",
+        "company_description": "End-to-end supply chain risk management and resiliency solutions for global enterprises. Resilinc\u2019s cloud-based risk management and resiliency solutions provide deep real-time supply chain visibility, enabling organizations to proactively monitor, assess and mitigate supply chain risks related to natural disasters, geopolitical events and supplier disruptions. Powered by proprietary data and enhanced by AI, Resilinc\u2019s mapping and monitoring solutions predict delivery delays, price movements and supply constraints, and suggest preventive actions to take to minimize operational impact. Over 100,000 organizations across more than 25 industries use Resilinc to protect their supply chains and turn risks into opportunities. Resilinc was founded in 2010 and is based in Milpitas, CA.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "May 2023",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund II",
+        "hq": "Milpitas, CA",
+        "website": "resilinc.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Return Path",
+        "company_description": "Email optimization and email security solutions for enterprises, particularly those that rely on digital marketing to drive sales. Return Path, Inc. is a provider of email optimization and cybersecurity solutions for enterprises, particularly those that rely on digital marketing to drive sales. The Company\u2019s data products help customers understand how to optimize email response rates, protect their brands from phishing and fraud, and more deeply understand their consumers\u2019 buying habits. Return Path is headquartered in New York, NY with operations worldwide.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "December 2014",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Foundation Fund I",
+        "hq": "New York, NY",
+        "website": "returnpath.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Reynolds & Reynolds",
+        "company_description": "Software solutions and services to support every aspect of automotive retailing. The Reynolds and Reynolds Company delivers software solutions and services that support every aspect of automotive retailing. Serving dealers since 1927, it is a leading provider of dealer management systems, and associated products and services. Reynolds and Reynolds enables automobile dealers to sell more cars and to improve customer service. The Company\u2019s leadership is built on deep automotive industry experience, technological knowledge and the unique ability to bring both together in solutions that connect car companies, automobile retailers and consumers.",
+        "industry": "Automotive",
+        "date_of_investment": "October 2006",
+        "status_current": "Former",
+        "fund": "Vista Equity Fund II",
+        "hq": "Dayton, OH",
+        "website": "reyrey.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Salesloft",
+        "company_description": "Sales engagement platform for sales teams and sellers, designed to drive more revenue. Salesloft provides the leading sales engagement platform that helps sellers and sales teams drive more revenue. The Modern Revenue Workspace\u2122 by Salesloft is the one place for sellers to execute all of their digital selling tasks, communicate with buyers, understand what to do next, and get the coaching and insights they need to win. Thousands of the world\u2019s most successful sales teams, like those at IBM, Shopify, Square and Cisco, drive more revenue with Salesloft. Salesloft was founded in 2011 and is based in Atlanta, Georgia.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "December 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Atlanta, GA",
+        "website": "salesloft.com",
+        "follow_on": "Drift"
+      },
+      {
+        "company_name": "Schoox",
+        "company_description": "Learning management software for employee onboarding and training. Schoox is a leading learning and talent development platform built to address the operational complexities of verticals such as hospitality, retail and manufacturing. The Company\u2019s end-to-end learning management solution enables users to efficiently onboard and train employees while encouraging learning and development anytime through a mobile device application with over 10,000 courses. Schoox serves over 1,500 customers in more than 120 countries. Schoox was founded in 2012 and is headquartered in Austin, TX.",
+        "industry": "Education",
+        "date_of_investment": "June 2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund II",
+        "hq": "Austin, TX",
+        "website": "schoox.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "SecureLink",
+        "company_description": "Enterprise software platform for third-party remote support in secure, regulated industries. SecureLink is a leader in remote support software for enterprise technology vendors and their customers in highly regulated industries. The Company\u2019s secure, purpose-built platform serves over 30,000 organizations worldwide across a range of industries including healthcare, financial services, legal, government, gaming and retail. SecureLink was founded in 2003 and is headquartered in Austin, TX, with an office in San Jose, Costa Rica.",
+        "industry": "Security",
+        "date_of_investment": "August 2017",
+        "status_current": "Former",
+        "fund": "Vista Equity Endeavor Fund I",
+        "hq": "Austin, TX",
+        "website": "securelink.com",
+        "follow_on": "Maize Analytics"
+      },
+      {
+        "company_name": "Securonix",
+        "company_description": "Next-generation security analytics and operations management platform. Securonix is redefining threat detection and response for today\u2019s hybrid cloud, data-driven enterprise. The Company\u2019s next-generation security information and event management (SIEM) and extended detection and response (XDR) are powered by the most advanced analytics and built on a scalable, flexible cloud-native architecture.",
+        "industry": "Security",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Equity Flagship Fund",
+        "hq": "Addison, TX",
+        "website": "securonix.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Securonix",
+        "company_description": "Security information and event management (SIEM) and extended detection and response (XDR) are powered by the most advanced analytics and built on a scalable, flexible cloud-native architecture. Securonix leverages user and entity behavioral analytics (UEBA) technology to reduce noise, prioritize high fidelity alerts and enable fast and precise response to insider and cyber threats.",
+        "industry": "Security",
+        "date_of_investment": "April 2022",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "Addison, TX",
+        "website": "Null",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "SER Solutions",
+        "company_description": "Outbound center management software solutions to support business activities such as planned and proactive customer care, telemarketing, collections, fundraising, emergency notifications and political calling. SER Solutions, Inc. delivered unsurpassed outbound contact center management software solutions to support business activities such as planned and proactive customer care, telemarketing, collections, fundraising, emergency notifications and political calling. SER\u2019s solutions enabled enterprises to turn customers into loyal, long-term sources of recurring revenue by generating increased customer loyalty, expanding up-sell and cross-sell opportunities, maximizing agent productivity and reducing costs.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "2006",
+        "status_current": "Former",
+        "fund": "Vista Equity Fund II",
+        "hq": "Dulles, VA",
+        "website": "ser-solutions.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "SirsiDynix",
+        "company_description": "Software solutions and associated services for libraries of all types (academic, public, corporate, government, public and private K-12 schools, and special education). Sirsi Corporation is the leading provider of software solutions and associated services for libraries of all types (academic, public, corporate, government, public/private K-12 schools and special education). The Company\u2019s Integrated Library Systems (ILS) automate and optimize the entire operation of a library, as well as enhance a library\u2019s ability to serve its users and community. In addition to its core ILS software, SirsiDynix offers other value-added products that help transform library technologies from staff-focused operational solutions to end-user focused solutions. Such solutions enable libraries to leverage their strong brands, presence within the community and vast repositories of materials to remain a trusted and utilized destination for information and knowledge.",
+        "industry": "Education",
+        "date_of_investment": "2007",
+        "status_current": "Former",
+        "fund": "Vista Equity Fund II",
+        "hq": "Provo, UT",
+        "website": "sirsidynix.com",
+        "follow_on": "Electronic Online Systems International"
+      },
+      {
+        "company_name": "SmartBear",
+        "company_description": "Leading provider of software development and quality tools. SmartBear is a leading provider of Software Test Automation tools supporting the rapidly growing DevOps market. The Company\u2019s solutions include innovative technologies around API lifecycle management, test automation, test management, performance optimization and collaboration. SmartBear is used by 15 million developers, testers and operations engineers at 24,000+ organizations.",
+        "industry": "Application Development",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VII",
+        "hq": "Somerville, MA",
+        "website": "smartbear.com",
+        "follow_on": "Reflect, Stoplight, Aspecto, Pactflow, Bugsnag"
+      },
+      {
+        "company_name": "Solera",
+        "company_description": "Vehicle lifecycle management solutions. Solera is a leading global provider of integrated vehicle lifecycle and fleet management SaaS, data and services. The Company empowers customers to succeed in the digital age by providing them with a \u201cone-stop-shop\u201d solution that streamlines operations, offers data-driven analytics and enhances customer engagement. With four lines of business, Solera is home to many leading brands in the vehicle lifecycle ecosystem, including Identifix, Audatex, DealerSocket, Omnitracs, eDriving/Mentor, Explore, CAP HPI, Autodata and others.",
+        "industry": "Automotive",
+        "date_of_investment": "2016",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund V",
+        "hq": "Westlake, TX",
+        "website": "solera.com",
+        "follow_on": "Spireon, ENData, Omnitracs, DealerSocket, eDriving, InSyPro"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "PlanManager",
+        "company_description": "the Company\u2019s cloud-based, end-to-end body shop management solution, enhances the repair management process for its users and their customers by providing a digital-first management and triage solution, using apps and integrated two-way customer communications.",
+        "industry": "Automotive Repair",
+        "date_of_investment": "November 2020",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "in4mo",
+        "company_description": "a leading Nordic provider of SaaS-based software and services to the property structure insurance and repair professionals market. The Company\u2019s scalable mobile-first technology platform provides end-to-end property structural claims adjustments to insurers and repair service companies, facilitating claim processing from first notice of loss to repair fulfillment and payment.",
+        "industry": "SaaS/Insurance",
+        "date_of_investment": "February 2019",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "CESVI Brazil",
+        "company_description": "The Center for Experimentation and Road Safety (CESVI) Brazil is a leading automotive research and experimentation center in Brazil. The Company focuses on providing insight, safety guidelines and transparency, as well as training for vehicle repair facilities and their technicians, insurers, original equipment manufacturers and governmental entities.",
+        "industry": "Automotive Research",
+        "date_of_investment": "December 2018",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "RedCap",
+        "company_description": "a mobility and logistics platform that enables seamless vehicle and customer movements in and around dealerships. The Company\u2019s platform allows original equipment manufacturers and dealers to provide experiences to their service and sales customers, improving a dealership\u2019s overall vehicle and customer logistics operations and effectiveness.",
+        "industry": "Mobility and Logistics",
+        "date_of_investment": "March 2018",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Colimbra",
+        "company_description": "provides intelligent data exchange and transaction (\u201cDET\u201d) solutions for the insurance industry. The Company develops, implements and maintains software that helps facilitate integration, communication and data exchange between insurers, underwriters and intermediaries across the insurance market.",
+        "industry": "Insurance Technology",
+        "date_of_investment": "June 2017",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Digidentity",
+        "company_description": "a leading provider of next-generation technologies to secure and authenticate online identities. The Company provides end-to-end identity certification solutions for businesses and consumers to log in safely and securely online.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "January 2017",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Autodata",
+        "company_description": "a leading provider of vehicle technical information to the automotive aftermarket, covering 136 manufacturers and over 40,000 vehicle models worldwide. Autodata develops products for use in automotive workshops for the repair and servicing of cars and motorbikes.",
+        "industry": "Automotive Information",
+        "date_of_investment": "January 2017",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Enservio",
+        "company_description": "a leading provider of claim related automation tools and business process outsourcing services to the residential and commercial property insurance contents marketplace. Insurance carriers rely on the Enservio platform to achieve the highest quality business outcome for their contents programs, driving superior policyholder satisfaction and efficient workflow.",
+        "industry": "Insurance Technology",
+        "date_of_investment": "July 2016",
+        "status_current": "Acquired",
+        "fund": "Solera",
+        "hq": null,
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "Sonatype",
+        "company_description": "Integrated open-source governance and software supply chain automation. Sonatype is a leading provider of integrated open-source governance and software supply chain automation technology. The Company\u2019s platform enables DevOps teams and developers to automatically integrate security at every stage of the modern development pipeline by combining in-depth component intelligence with real-time remediation guidance. Sonatype is trusted by over 1,000 enterprise customers and millions of software developers to accelerate innovation and improve application security.",
+        "industry": "Software",
+        "date_of_investment": "November 2019",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Fulton, MD",
+        "website": "sonatype.com",
+        "follow_on": "MuseDev"
+      },
+      {
+        "company_name": "SourceNet Solutions",
+        "company_description": "Comprehensive business process outsourcing solutions for finance and accounting processes. SourceNet Solutions, Inc. provides comprehensive business process outsourcing solutions for Finance and Accounting (F&A) processes. The Company, founded in 1996 and headquartered in College Station, Texas, with operation centers in College Station and Reading, England, offered Fortune 1000 clients a complete outsourced solution for the various non-core F&A processes. These processes included corporate accounts payable, payroll and energy/utilities payment and information management. SourceNet\u2019s client portfolio included leading Fortune 1000 companies including AT&T Wireless, TXU Energy Services, BNSF, Cemex, Rite Aid, Intersil, Unilever, Doane Pet Care, Tenneco Automotive and Service Corporation International (SCI).",
+        "industry": "Business Process Outsourcing",
+        "date_of_investment": "2000",
+        "status_current": "Former",
+        "fund": "Vista Equity Fund II",
+        "hq": "College Station, TX",
+        "website": "sourcenetsolutions.com",
+        "follow_on": null
+      },
+      {
+        "company_name": "Sovos Compliance",
+        "company_description": "Tax compliance and business-to-government reporting software for businesses. Sovos Compliance, LLC is a global leader in tax compliance and regulatory reporting software that safeguards businesses from the burden and risk of compliance. The Sovos Intelligent Compliance Cloud combines regulatory analysis with a cloud software platform to create an adaptable and connected global compliance solution that helps businesses stay ahead of the changing regulatory environment. The Company supports over 4,500 customers and integrates with thousands of business applications from ERP to point-of-sale to bank backend systems.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "2012",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund IV",
+        "hq": "Boston, MA",
+        "website": "sovos.com",
+        "follow_on": "FiscalReps"
+      },
+      {
+        "company_name": "SRC Software",
+        "company_description": "Planning, budgeting and reporting solutions for mid-sized and large businesses. SRC Software, Inc. was a leader in providing planning, budgeting and reporting solutions for mid-sized and large businesses. The Company\u2019s Performance Management software combined an Excel-based user interface with the power of a relational database. The Company sold its software into a broad range of industries, with particular expertise in",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2002",
+        "status_current": "Former",
+        "fund": "Flagship",
+        "hq": "Portland, OR",
+        "website": "srcsoftware.com",
+        "follow_on": null
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "SRC",
+        "company_description": "Management software combined an Excel-based user interface with the power of a relational database. The Company sold its software into a broad range of industries, with particular expertise in healthcare and banking. SRC was founded in 1984, and installed its first system in 1987. The corporate office was in Portland, Oregon, with additional sales offices throughout the United States, Europe and Asia. The Company marketed its software through inside and outside sales, and strategic partners. Vista Equity Fund II acquired majority ownership of SRC in May of 2002. SRC was acquired by Business Objects in August of 2005 for approximately $100 million.",
+        "industry": "Management Software",
+        "date_of_investment": "May of 2002",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Fund II",
+        "hq": "Portland, Oregon",
+        "website": null,
+        "follow_on": null
+      },
+      {
+        "company_name": "StarRez",
+        "company_description": "Cloud-based student housing and residential community management. StarRez is a leading global provider of student housing and residential community management software. The Company provides highly configurable, proprietary solutions to manage the student resident experience, occupancy, customer revenue cycle, conferences and events, and more. StarRez manages over 2.5 million beds and serves over 1,000 organizations today, including some of the world\u2019s most prestigious universities, including Harvard University, Stanford University, National University of Singapore, among others, as well as other notable real estate customers such as Vail Ski Resorts and iQ Student Accommodation. StarRez was founded in 1992 and is based in Melbourne, Australia, with a United States headquarters in Greenwood Village, CO. Vista Foundation Fund IV made a majority investment in StarRez in January 2022.",
+        "industry": "Real Estate",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Melbourne, Australia",
+        "website": "starrez.com",
+        "follow_on": "RMS, Inc., Adirondack Solutions"
+      },
+      {
+        "company_name": "Stats Perform",
+        "company_description": "Sports software, data, and content platform. Stats Perform is a leading provider of data, sports research, news and video content, and artificial intelligence-powered solutions to sports media and broadcasters, technology companies, global brands, sportsbooks, teams and leagues, and fantasy sports providers. The Company powers storytelling through natural language generation for sports broadcasters and tech companies, unlocks player props and precise projections for sportsbooks, and generates predictions to improve team performance and player evaluation. Stats Perform collects more than 30 million unique data points and distributes them to more than 1,800 customers reaching over 3 billion sports fans a year. Stats Perform was founded in 1981 and is based in Chicago, IL, with operations worldwide. Vista Equity Partners completed a buyout of the STATS, LLC business from Fox and the Associated Press in June 2014 and subsequently merged STATS with Perform, a provider of B2B sports data, when Perform was acquired by STATS in July 2019 from DAZN Group.",
+        "industry": "Sports, Entertainment & Recreation",
+        "date_of_investment": "2014",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners",
+        "hq": "Chicago, IL",
+        "website": "stats.com",
+        "follow_on": "13 Strides, Thuuz Sports, TVTI Video Technologies, Amisco Prozone, Automated Insights, The Sports Network, Bloomberg Sports"
+      },
+      {
+        "company_name": "SumTotal Systems",
+        "company_description": "Strategic human capital management software solutions including talent acquisitions, talent management, talent development, workforce management and analytics. SumTotal Systems, LLC is a leading provider of Strategic Human Capital Management software solutions including talent acquisition, talent management, talent development, workforce management and analytics. The Company provides an integrated suite of talent management applications which include learning management, performance management and compensation management. SumTotal\u2019s solutions automate processes including aligning individuals\u2019 goals with business objectives, developing the individual\u2019s skills and competencies, assessing the individual\u2019s performance, providing succession planning and setting compensation based on performance. The Company has 3,500+ customers and over 43 million users worldwide, and is widely recognized by industry analysts as a leading provider in all segments of Strategic HCM. The Company is headquartered in Gainesville, FL, with operations across North America, EMEA and APAC. Vista Equity Partners Fund III completed a buyout and take-private of SumTotal in July 2009. Vista sold a majority stake in the Company in September 2014 to Skillsoft plc and retains a minority stake in the combined company.",
+        "industry": "HR & Recruiting",
+        "date_of_investment": "July 2009",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund III",
+        "hq": "Gainesville, FL",
+        "website": "sumtotalsystems.com",
+        "follow_on": "CyberShift, GeoLearning, SoftScape, Accero"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Accero",
+        "company_description": "empower users to efficiently and securely manage mission-critical HR and payroll functions",
+        "industry": "HR and Payroll",
+        "date_of_investment": "January 2008",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Partners",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "SumTotal"
+      },
+      {
+        "company_name": "SumTotal",
+        "company_description": "SumTotal later acquired Accero in July 2011 as part of their strategy to offer a complete end-to-end set of solutions for all elements of strategic human capital management",
+        "industry": "HR and Payroll",
+        "date_of_investment": "July 2011",
+        "status_current": "Acquirer",
+        "fund": "Vista Equity Partners",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Sunquest Information Systems",
+        "company_description": "Clinical and financial software solutions for the healthcare industry",
+        "industry": "Healthcare",
+        "date_of_investment": "2007",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Partners Fund III",
+        "hq": "Tucson, AZ",
+        "website": "sunquestinfo.com",
+        "follow_on": "PowerPath, PAML, Anglia"
+      },
+      {
+        "company_name": "PowerPath",
+        "company_description": "PowerPath, a diverstiture of Sweden-based Elekta AB\u2019s Anatomic Pathology Laboratory Information System business, is the software line that manages workflow for laboratories offering surgical pathology, cytology, dermatopathology and autopsy services",
+        "industry": "Healthcare",
+        "date_of_investment": "October 2011",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Sunquest Information Systems"
+      },
+      {
+        "company_name": "PAML",
+        "company_description": "Outreach Advantage (designed by Pathology Associates Medical Laboratories) provides a solution that performs hospital outreach services for other laboratories",
+        "industry": "Healthcare",
+        "date_of_investment": "December 2008",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Sunquest Information Systems"
+      },
+      {
+        "company_name": "Anglia",
+        "company_description": "Anglia specializes in laboratory information, e-requesting and order communication systems, supplying both the primary and secondary care sectors",
+        "industry": "Healthcare",
+        "date_of_investment": "November 2008",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Sunquest Information Systems"
+      },
+      {
+        "company_name": "Surgical Information Systems",
+        "company_description": "Integrated surgery management software solutions for the healthcare industry",
+        "industry": "Healthcare",
+        "date_of_investment": "2006",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Fund II",
+        "hq": "Alpharetta, GA",
+        "website": "sisfirst.com",
+        "follow_on": "Statcom Source Code"
+      },
+      {
+        "company_name": "Statcom Source Code",
+        "company_description": "The Statcom source code provides a perioperative specific solution for patient tracking and logistics management in hospitals",
+        "industry": "Healthcare",
+        "date_of_investment": "December 2008",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Surgical Information Systems"
+      },
+      {
+        "company_name": "TigerConnect",
+        "company_description": "Collaboration software for the healthcare industry",
+        "industry": "Healthcare",
+        "date_of_investment": "2022",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Santa Monica, CA",
+        "website": "tigerconnect.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Tomia",
+        "company_description": "Interconnect and roaming value-added solutions for the global telecommunications industry",
+        "industry": "Telecom",
+        "date_of_investment": "2016",
+        "status_current": "Acquired",
+        "fund": "Vista Foundation Fund II",
+        "hq": "Vienna, VA",
+        "website": "tomiaglobal.com",
+        "follow_on": "Starhome MACH"
+      },
+      {
+        "company_name": "Starhome MACH",
+        "company_description": "Starhome MACH provides SaaS and on-premise mobile roaming software solutions to telecom carriers",
+        "industry": "Telecom",
+        "date_of_investment": "November 2018",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "Tomia"
+      },
+      {
+        "company_name": "TransFirst",
+        "company_description": "Transaction processing services and payment processing technologies",
+        "industry": "Financial Services",
+        "date_of_investment": "2014",
+        "status_current": "Acquired",
+        "fund": "Vista Equity Partners Fund V",
+        "hq": "Hauppauge, NY",
+        "website": "transfirst.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "TRG Screen",
+        "company_description": "Enterprise subscription management solutions for optimizing spend and usage on market data, research and information services",
+        "industry": "Financial Services",
+        "date_of_investment": "2023",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "New York, NY",
+        "website": "trgscreen.com",
+        "follow_on": "Xpansion"
+      },
+      {
+        "company_name": "Xpansion",
+        "company_description": "Xpansion provides enterprise reference data solutions for the financial services industry",
+        "industry": "Financial Services",
+        "date_of_investment": "January 2024",
+        "status_current": "Acquired",
+        "fund": "Null",
+        "hq": "Null",
+        "website": "Null",
+        "follow_on": "TRG Screen"
+      },
+      {
+        "company_name": "Tribute Technology",
+        "company_description": "Provider of end-to-end technology and integrated e-commerce platform to the end-of-life industry in North America",
+        "industry": "Retail",
+        "date_of_investment": "2020",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund III",
+        "hq": "Middleton, WI",
+        "website": "tributetech.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Trintech",
+        "company_description": "Null",
+        "industry": "Enterprise Resource Planning",
+        "date_of_investment": "2015",
+        "status_current": "Current",
+        "fund": "Vista Foundation Fund IV",
+        "hq": "Addison, TX",
+        "website": "trintech.com",
+        "follow_on": "Null"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Tribute Technology",
+        "date_of_investment": "October 2020",
+        "fund": "Fund III",
+        "status_current": "Minority"
+      },
+      {
+        "company_name": "Trintech",
+        "date_of_investment": "2015",
+        "status_current": "Current",
+        "hq": "Addison, TX",
+        "website": "trintech.com",
+        "follow_on": "Frontier Reconciliation and Accurate Reconciliation, 2023; Adra, 2017; Chesapeake System Solutions, 2016"
+      },
+      {
+        "company_name": "TripleLift",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "hq": "New York, NY",
+        "website": "triplelift.com",
+        "follow_on": "1plusX, 2022"
+      },
+      {
+        "company_name": "Tripleseat",
+        "date_of_investment": "2017",
+        "status_current": "Current",
+        "hq": "Concord, MA",
+        "website": "tripleseat.com",
+        "follow_on": "Attendease, 2023; EVENTUp, 2018"
+      },
+      {
+        "company_name": "Upserve",
+        "date_of_investment": "2017",
+        "status_current": "Former",
+        "hq": "Providence, RI",
+        "website": "upserve.com",
+        "follow_on": "SimpleOrder, 2018"
+      },
+      {
+        "company_name": "Upside",
+        "date_of_investment": "2017",
+        "status_current": "Former",
+        "hq": "Washington, D.C.",
+        "fund": "Fund VI"
+      },
+      {
+        "company_name": "Vena Solutions",
+        "date_of_investment": "2021",
+        "status_current": "Current",
+        "hq": "Toronto, Ontario",
+        "website": "venasolutions.com"
+      },
+      {
+        "company_name": "Ventyx",
+        "date_of_investment": "2005",
+        "status_current": "Former",
+        "hq": "Atlanta, GA",
+        "website": "ventyx.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Ventyx, Inc.",
+        "company_description": "Software solutions, data, and related services for optimizing the operational and financial performance of energy, utility and other asset-intensive businesses.",
+        "industry": "Energy",
+        "date_of_investment": "2005",
+        "status_current": "Former",
+        "hq": "Atlanta, GA",
+        "website": "ventyx.com",
+        "follow_on": "Structure Group, Tech-Assist, New Energy Associates, Global Energy Decisions, Indus International"
+      },
+      {
+        "company_name": "Vertafore, Inc.",
+        "company_description": "Agency management, compliance, workflow and data solutions for the Property and Casualty insurance broker and carrier market.",
+        "industry": "Insurance",
+        "date_of_investment": "2016",
+        "status_current": "Former",
+        "hq": "Denver, CO",
+        "website": "vertafore.com",
+        "follow_on": "VUE Software, RiskMatch"
+      },
+      {
+        "company_name": "Vivid Seats",
+        "company_description": "Independent, full-service ticket marketplace for live sports, concert and theater events.",
+        "industry": "Sports, Entertainment & Recreation",
+        "date_of_investment": "2016",
+        "status_current": "Current",
+        "hq": "Chicago, IL",
+        "website": "vividseats.com",
+        "follow_on": "Wavedash, Betcha Sports, Fanxchange"
+      },
+      {
+        "company_name": "Websense, Inc.",
+        "company_description": "Integrated security solutions, including web security, email security and data security software.",
+        "industry": "Security",
+        "date_of_investment": "2013",
+        "status_current": "Former",
+        "hq": "Austin, TX",
+        "website": "forcepoint.com"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Websense",
+        "company_description": "information leaks, legal liability and productivity loss. Websense serves over 26,000 customers through its team of cybersecurity experts and global network of partners. The Company\u2019s TRITON solution prevents web-based attacks, blocks access to inappropriate content, monitors outbound email traffic and downloads to external devices for data leaks, and filters inbound email for spam and malware for its customers.",
+        "industry": "Cybersecurity",
+        "date_of_investment": "June 2013",
+        "status_current": "Former",
+        "fund": "Vista Equity Partners Fund IV",
+        "hq": "Austin, TX",
+        "website": "Null",
+        "follow_on": "Raytheon Company"
+      },
+      {
+        "company_name": "WorkTango",
+        "company_description": "SaaS Employee Experience Platform that drives engagement and business results. WorkTango revolutionizes how the world\u2019s most forward-thinking companies engage and inspire their people. The Company offers the only Employee Experience Platform that enables meaningful recognition and rewards, offers actionable insights through employee surveys, and supports alignment through goal setting and feedback.",
+        "industry": "HR & Recruiting",
+        "date_of_investment": "2018",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund I",
+        "hq": "Austin, TX",
+        "website": "worktango.com",
+        "follow_on": "Kazoo"
+      },
+      {
+        "company_name": "Wrike",
+        "company_description": "Leading provider of SaaS-based project management and collaboration software. Wrike provides a cloud-based collaborative work management platform that allows users to work within a single digital workspace. The Company\u2019s platform integrates with numerous enterprise applications and enables teams, departments and whole organizations to plan, manage and collaborate on projects and tasks in real-time, resulting in more efficient processes and executive visibility.",
+        "industry": "Collaboration",
+        "date_of_investment": "2018",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund III",
+        "hq": "San Jose, CA",
+        "website": "wrike.com",
+        "follow_on": "Citrix"
+      },
+      {
+        "company_name": "Xactly",
+        "company_description": "Cloud-based incentive compensation solutions for employee and sales performance management. Xactly Corporation develops cloud-based, enterprise-class incentive compensation solutions that enable employers to design and automate compensation plans which align employee incentives with business goals. The Company\u2019s SaaS solutions optimize sales performance, employee behavior and strategic decision making while reducing risk and error rates in compensation calculations.",
+        "industry": "Sales & Marketing",
+        "date_of_investment": "2017",
+        "status_current": "Current",
+        "fund": "Vista Equity Partners Fund VI",
+        "hq": "San Jose, CA",
+        "website": "xactlycorp.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Zapproved",
+        "company_description": "Market leader in enterprise legal hold and e-discovery software for the Global 2000 legal departments. Zapproved LLC is the market leader in delivering cloud-based legal hold and e-discovery software for corporate legal teams. Zapproved\u2019s solutions reduce risks and costs associated with litigation and are designed for scalability of processing power, data security and accessibility.",
+        "industry": "Legal, Risk & Compliance",
+        "date_of_investment": "May 2017",
+        "status_current": "Current",
+        "fund": "Vista Equity Endeavor Fund I",
+        "hq": "Portland, OR",
+        "website": "zapproved.com",
+        "follow_on": "Null"
+      },
+      {
+        "company_name": "Zego",
+        "company_description": "Mobile-centric engagement platform for the residential real estate industry. Zego (Powered by PayLease) is a leading mobile engagement platform for the residential real estate industry that unifies critical resident touchpoints into one app. The Company\u2019s mobile-first platform seamlessly integrates payments, billing and utility expense management, communications, and smart home devices to drive increased engagement and efficiency across communities.",
+        "industry": "Real Estate",
+        "date_of_investment": "2017",
+        "status_current": "Former",
+        "fund": "Vista Foundation Fund III",
+        "hq": "San Diego, CA",
+        "website": "gozego.com",
+        "follow_on": "Global Payments"
+      }
+    ]
+  },
+  {
+    "companies": [
+      {
+        "company_name": "Mobile Doorman",
+        "company_description": "Mobile Doorman is a leading mobile resident engagement and data analytics platform for the multifamily industry. The platform empowers owners and property managers to enhance operational efficiency and deliver a digitally connected resident experience.",
+        "industry": "Property Technology",
+        "date_of_investment": "February 2021",
+        "status_current": "Acquired",
+        "follow_on": "Zego"
+      },
+      {
+        "company_name": "RentTrack",
+        "company_description": "RentTrack is a property technology data company that provides rent payment processing services and credit score reporting solutions to North American properties. RentTrack provides rent reporting data to the major credit bureaus that levels the credit playing field.",
+        "industry": "Property Technology",
+        "date_of_investment": "July 2020",
+        "status_current": "Acquired",
+        "follow_on": "Zego"
+      },
+      {
+        "company_name": "Zywave",
+        "company_description": "Zywave, Inc. was a leading provider of software-as-a-service enterprise automation solutions for the employee benefits and property and casualty insurance brokerage industry. The Company\u2019s solutions included technology-enabled content and communication, agency automation, and business intelligence and analytics, designed to help insurance brokers of all sizes gain profitable market share. Zywave\u2019s applications helped brokers differentiate from the competition, enhance client services, improve efficiencies and achieve organic growth.",
+        "industry": "Software",
+        "date_of_investment": "November 2008",
+        "status_current": "Former",
+        "hq": "Milwaukee, WI",
+        "website": "zywave.com",
+        "follow_on": "EISI, Specific Software Solutions"
+      }
+    ]
+  }
+]
