@@ -5,13 +5,19 @@ import json
 from pprint import pprint
 from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
+import time
 
 
 headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"} 
 
 # pre-process html. OPTION 1: Extract ONLY the classes, links, and text
 def process_html_classes(url, scrape_id):
-    response = requests.get(url, headers=headers).text
+    
+    try:
+        response = requests.get(url, headers=headers).text
+    except requests.exceptions.RequestException as error:
+        print(f"error fetching data: {error}")
+    
     soup = BeautifulSoup(response, "html.parser")
     
     # narrow down the HTML using the given identifier. Like body. Or a div class
@@ -33,15 +39,12 @@ def process_html_classes(url, scrape_id):
         if not tag.find(True) and tag.get_text(strip=True):
             text = tag.get_text(strip=True)
             clean_html.append(text)
+    
+    # transform into string, so it can be passed to a LLM
+    processed_html = ", ".join(str(item) for item in clean_html)
 
-    print(clean_html)
-    return clean_html
-
-process_html_classes("https://www.carlyle.com/portfolio", "'div', class_='section section--content'")
-# https://www.marlinequity.com/portfolio/ #Difficult because 2 sections. 1st section is just URLs. 2nd contains actual data, but in the class tags
-# https://www.american-securities.com/en/companies/list #Difficult because only provide name, desc, and URL. Need to actually go through the URLs yourself and then further scrape
-# https://www.lcatterton.com/Investments.html #Difficult because only provide end part of URL
-
+    # print(processed_html)
+    return processed_html
 
 # pre-processing of HTML. OPTION 2: Only extracts the text
 def process_html_text(url, scrape_id):
@@ -103,6 +106,10 @@ class Portcos(BaseModel):
 companies_schema = Portcos.schema()
 
 
+
+
+
+
 # COMPANIES
 
 # For TPG
@@ -113,29 +120,26 @@ def tpg_portcos():
     nodes = response.json()["data"]["allWpPortfolio"]["nodes"] #239 nodes per the JSON file
 
     # extract relevant fields
-    output_dict = defaultdict(dict)
+    output = []
 
     for node in nodes:
-        name = node["title"] 
-
-        output_dict[name] = {
+        company = {
+            "company_name": node["title"],
             "id": node["id"],
-            "desc": node["content"].strip("\n"),
-            "geo": node["geography"]["nodes"][0]["name"] if node["geography"]["nodes"] else None,
-            "product": node["product"]["nodes"][0]["name"] if node["product"]["nodes"] else None,
-            "sector": node["sector"]["nodes"][0]["name"] if node["sector"]["nodes"] else None,
-            "status": node["status"].get("nodes")[0]["name"] if node["status"]["nodes"] else None,
+            "company_description": node["content"].strip("\n"),
+            "region": node["geography"]["nodes"][0]["name"] if node["geography"]["nodes"] else None,
+            "fund": node["product"]["nodes"][0]["name"] if node["product"]["nodes"] else None,
+            "industry": node["sector"]["nodes"][0]["name"] if node["sector"]["nodes"] else None,
+            "status_current": node["status"].get("nodes")[0]["name"] if node["status"]["nodes"] else None,
         }
-
-    # print function
-    pprint(output_dict)
+        output.append(company)
+    print(output)
     
     # export the results into a JSON file
-    with open("tpg_portcos.json", "w") as outfile:
-        json.dump(output_dict, outfile, indent=2)
+    with open("_portcos_raw/tpg_portcos.json", "w") as outfile:
+        json.dump(output, outfile, indent=2)
 
-    return output_dict
-
+    return output
 
 # FOR KKR
 def kkr_portcos():
@@ -159,24 +163,22 @@ def kkr_portcos():
 
 
     # TODO: Is the below extraction step necessary? Maybe we just use the total data, and extract at a later step? 
-    # Now, extract only the fields we're interested in
-    output_dict = {}
-    keys_to_extract = ["hq", "region", "assetClass", "industry", "yoi", "url", "description"] # these are per the kkr_portcos.json file
+    # output_dict = {}
+    # keys_to_extract = ["hq", "region", "assetClass", "industry", "yoi", "url", "description"] # these are per the kkr_portcos.json file
 
-    for company in combined_results:
-        name = company["name"]
-        update_dict = {key: company.get(key) for key in keys_to_extract}
+    # for company in combined_results:
+    #     name = company["name"]
+    #     update_dict = {key: company.get(key) for key in keys_to_extract}
         
-        if name:
-            output_dict[name] = update_dict
+    #     if name:
+    #         output_dict[name] = update_dict
 
-    pprint(output_dict)
+    # pprint(output_dict)
     
-    with open("kkr_portcos_extracted.json", "w") as outfile:
-        json.dump(output_dict, outfile, indent=2)
+    # with open("kkr_portcos_extracted.json", "w") as outfile:
+    #     json.dump(output_dict, outfile, indent=2)
 
-    return output_dict
-
+    # return output_dict
 
 
 # FOR PERMIRA
@@ -338,7 +340,7 @@ def vista_portcos():
     with open("vista_portcos2.json", "w") as outfile:
        json.dump(combined_chunks, outfile, indent=2)
 
-
+# TODO: Looks like quality is a bit low. Should redo
 # New Mountain Capital
 def new_mountain_portcos():
     url = "https://www.newmountaincapital.com/our-strategies/private-equity/portfolio/"
@@ -480,3 +482,182 @@ def lcatterton_portcos():
         
     with open("lcat_portcos2.json", "w") as outfile:
         json.dump(final_json, outfile, indent=2)
+
+# TODO: Need to finish this later
+def flexpoint_portcos():
+    url = "https://flexpointford.com/investments/"
+    scrape_id = "body"
+
+    processed_html = process_html_classes(url, scrape_id)
+    print(processed_html)
+
+    # schema = identify_schema(processed_html)
+
+    # json_output = extract_html(processed_html, schema)
+
+    # with open("flexpoint_portcos.json", "w") as outfile:
+    #     json.dump(json_output, outfile, indent=2)
+
+# flexpoint_portcos()
+
+
+def clearlake_portcos():
+    url = "https://clearlake.com/portfolio/"
+    
+    # grab all URLs
+    response = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(response, "html.parser")
+    soup = soup.find("div", id="js-grid-lightbox-gallery")
+
+    links = []
+    for a in soup("a", href=True):
+        links.append(a["href"])
+
+    # take first URL, and identify the schema
+    processed_html = process_html_classes(links[0], "body")
+    schema = identify_schema(processed_html)
+    
+    # loop through each URL, and extract the relevant data 
+    portcos = []
+    for link in links:
+        processed_html = process_html_classes(link, "body")
+        json_output = extract_html(processed_html, schema)
+        portcos.append(json_output)
+
+    with open("clearlake_portcos2.json", "w") as outfile:
+        json.dump(portcos, outfile, indent=2)
+
+
+# Use GPT-4 to write the scraping code for me:
+def clearlake_portcos_test():
+    url = "https://clearlake.com/portfolio/"
+    
+    response = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(response, "html.parser")
+    soup = soup.find("body")
+
+    portfolio_companies = []
+
+    # Iterate over each portfolio item
+    for item in soup.select('.cbp-item'):
+        company_info = {
+            'company_name': '',
+            'industry': '',
+            'status_current': '',
+            'website': ''
+        }
+    
+        # Extract company name
+        company_name = item.select_one('.cbp-caption-image img')
+        if company_name and company_name.has_attr('alt'):
+            company_info['company_name'] = company_name['alt'].upper().replace("”", "")
+        
+        # Industry and current status are embedded within the class names of '.cbp-item'
+        class_list = item.get('class', [])
+        if 'Software' in class_list:
+            company_info['industry'] = 'Software & Technology'
+        elif 'Energy' in class_list:
+            company_info['industry'] = 'Energy & Industrials'
+        elif 'Food' in class_list:
+            company_info['industry'] = 'Food & Consumer Services'
+        
+        if 'Current' in class_list:
+            company_info['status_current'] = 'Current Investment'
+        elif 'Prior' in class_list:
+            company_info['status_current'] = 'Prior Investment'
+        
+        # Extract company detail page URL
+        company_page = item.select_one('a.cbp-caption')
+        if company_page and company_page.has_attr('href'):
+            company_info['website'] = company_page['href']
+        
+        # Add the extracted info to the list
+        portfolio_companies.append(company_info)
+
+    # Assuming you would like to print or use the extracted data
+    for company in portfolio_companies:
+        print(company)
+
+
+def hig_portcos():
+    url = "https://hig.com/portfolio/?status=active"
+    
+    response = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(response, "html.parser")
+    soup = soup.find("body")
+
+    portcos = []
+
+    # GPT-4 generated the following code: 
+    # Iterate over each portfolio item in the HTML file (where the relevant details are)
+    for item in soup.select('.portfolio--item'):
+        company_info = {
+            'company_name': None,
+            'company_description': None,
+            'industry': None,
+            'region': None,
+            'status_current': None,
+            'website': None,
+            'fund': None
+        }
+        
+        # Extract company name
+        company_name = item.select_one('h4')
+        if company_name:
+            company_info['company_name'] = company_name.text.strip()
+        
+        # Extract company description
+        company_description = item.select_one('.portfolio--item-content > p:nth-of-type(1)')
+        if company_description:
+            company_info['company_description'] = company_description.text.encode().decode("unicode-escape")
+        
+        # Website URL
+        website = item.select_one('a.portfolio--item-link')
+        if website and website.has_attr('href'):
+            company_info['website'] = website['href']
+        
+        # Sector, Region, Status, and Fund are contained within the class list
+        class_list = item['class']
+        industries = ['business-services', 'chemicals', 'consumer-retail', 'healthcare', 'industrials', 'technology-media-and-telecom']
+        regions = ['north-america', 'europe', 'latin-america']
+        statuses = ['active', 'realized']
+        funds = ['private-equity-united-states', 'private-equity-europe', 'private-equity-latin-america', 'growth', 'infrastructure', 'biohealth']
+        
+        # Extract fund
+        company_info['fund'] = next((fund for fund in funds if fund in class_list), None)
+
+        # Extract sector
+        company_info['industry'] = next((industry for industry in industries if industry in class_list), None)
+        
+        # Extract region
+        company_info['region'] = next((region for region in regions if region in class_list), None)
+        
+        # Extract status
+        company_info['status'] = next((status for status in statuses if status in class_list), None)
+        
+        portcos.append(company_info)
+
+    # STEP 2: Loop through each individual website, and extract the investment date (missing from HTML from previous step)
+
+    urls = [portco.get("website") for portco in portcos]
+
+    for url in urls:
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, "html.parser")
+        soup = soup.find("div", class_="wrap", role="document")
+        soup = soup.find("strong", string="Invested") 
+        if soup:
+            date_of_investment = soup.find_next("span").text.strip() 
+        else: 
+            date_of_investment = None
+        time.sleep(1)
+
+        for portco in portcos:
+            portco.update({"date_of_investment": date_of_investment})
+    
+    print(portcos)
+
+    with open("_portcos_raw/hig_portcos.json", "w") as outfile:
+        json.dump(portcos, outfile, indent=2)
+
+hig_portcos()

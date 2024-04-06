@@ -3,7 +3,7 @@ import json
 import sqlite3
 
 # grab values from JSON file
-with open("lcat_portcos.json", "r") as file:
+with open("_portcos_processed/tpg_portcos.json", "r") as file:
     data = json.load(file)
 
 # Connect to SQLite
@@ -23,6 +23,7 @@ columns = """
     fund TEXT,
     hq TEXT,  
     website TEXT
+    follow_on 
 """
 
 column_names = [

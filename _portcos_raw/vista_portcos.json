@@ -1559,7 +1559,7 @@
     ]
   },
   {
-    "tool_uses": [
+    "companies": [
       {
         "recipient_name": "functions.parse_html",
         "parameters": {

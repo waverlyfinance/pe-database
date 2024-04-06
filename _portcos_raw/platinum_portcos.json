@@ -1,0 +1,495 @@
+[
+  {
+    "company_name": "Arrow International",
+    "industry": "Media & Telecom",
+    "date_of_investment": "December 2020",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "9900 Clinton Road, Cleveland, OH 44144, United States",
+    "website": "www.arrowinternational.com",
+    "transaction_type": "Acquired"
+  },
+  {
+    "company_name": "Aventiv",
+    "industry": "Media & Telecom",
+    "date_of_investment": "November 2017",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "4000 International Pkwy, Carrollton, TX 75007 United States",
+    "website": "www.aventiv.com",
+    "transaction_type": "Acquired from a private equity seller"
+  },
+  {
+    "company_name": "Awaze",
+    "industry": "Hospitality",
+    "date_of_investment": "May 2018",
+    "status_current": "Active",
+    "region": "Europe",
+    "fund": null,
+    "hq": "Sunway House, Raglan Road, Lowestoft, NR32 2LW United Kingdom",
+    "website": "www.awaze.com",
+    "transaction_type": "Acquisition"
+  },
+  {
+    "company_name": "Biscuit International",
+    "industry": "Consumer Food & Beverage",
+    "date_of_investment": "February 2020",
+    "status_current": "Active",
+    "region": "Europe",
+    "fund": "Private Transaction",
+    "hq": "Paris, France",
+    "website": "www.biscuitinternational.com",
+    "transaction_type": "Acquired from Qualium Investissement"
+  },
+  {
+    "company_name": "BlueCrest",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Industrials",
+    "transaction_type": "Corporate Divestiture",
+    "hq": "37 Executive Drive, Danbury, CT 06810 United States",
+    "website": "www.bluecrestinc.com",
+    "date_of_investment": "July 2018"
+  },
+  {
+    "company_name": "Cabinetworks",
+    "industry": "Industrials",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "4600 Arrowhead Drive, Ann Arbor, MI 48105, United States",
+    "website": "https://cabinetworksgroup.com",
+    "transaction_type": "Acquired"
+  },
+  {
+    "company_name": "Calderys",
+    "industry": "Industrials",
+    "date_of_investment": "January 2023",
+    "status_current": "Active",
+    "region": "Europe",
+    "fund": null,
+    "hq": null,
+    "website": null,
+    "transaction_type": "Corporate Divestiture"
+  },
+  {
+    "company_name": "Centerfield",
+    "industry": "Technology",
+    "date_of_investment": "December 2019",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "Los Angeles, CA",
+    "website": "www.centerfield.com",
+    "transaction_type": "Acquired"
+  },
+  {
+    "company_name": "Cision",
+    "industry": "Technology Software & Services",
+    "date_of_investment": "January 2020",
+    "status_current": "Active",
+    "region": "North America",
+    "transaction_type": "Public to Private Transaction",
+    "hq": "130 E. Randolph Street, 7th Floor, Chicago, IL 60601 United States",
+    "website": "www.cision.com"
+  },
+  {
+    "company_name": "Clipper Windpower",
+    "industry": "Electrical Equipment",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "4601 Bowling Street SW, Cedar Rapids, IA 52404 United States",
+    "website": "www.clipperwind.com",
+    "transaction_type": "Corporate Divestiture",
+    "date_of_investment": "August 2012"
+  },
+  {
+    "company_name": "Club Car",
+    "industry": "Consumer",
+    "date_of_investment": "June 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "transaction_type": "Corporate Divestiture",
+    "hq": "4125 Washington Road, Evans, GA 30809 United States",
+    "website": "www.clubcar.com"
+  },
+  {
+    "company_name": "Custom Truck One Source",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Industrials",
+    "hq": "7701 Independence Avenue, Kansas City, MO 64125 United States",
+    "website": "www.customtruck.com",
+    "transaction_type": "Acquired in April 2021 via investment into Nesco Holdings, Inc. (NYSE: NSCO)"
+  },
+  {
+    "company_name": "Data2Logistics",
+    "industry": "Technology Software & Services",
+    "transaction_type": "Corporate Divestiture",
+    "region": "North America",
+    "hq": "12631 Westlinks Drive, Suite 3, Fort Myers, FL 33913 United States",
+    "website": "www.data2logistics.com",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "DCA Services",
+    "industry": "Business Services",
+    "date_of_investment": "March 1997",
+    "status_current": "Active",
+    "region": "North America",
+    "transaction_type": "Corporate Divestiture",
+    "hq": "300 North Meridian Avenue, Oklahoma City, OK 73107 United States",
+    "website": "www.dcaservices.com"
+  },
+  {
+    "company_name": "De Wave Group",
+    "industry": "Industrials",
+    "status_current": "Active",
+    "region": "Europe",
+    "hq": "Via De Marini 1, Genova 16149 Italy",
+    "website": "https://dewavegroup.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "October 2019"
+  },
+  {
+    "company_name": "Deluxe",
+    "industry": "Media & Telecom",
+    "date_of_investment": "June 2020",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "2130 North Hollywood Way, Burbank, CA 91505 United States",
+    "website": "www.bydeluxe.com",
+    "transaction_type": "Corporate Divestiture"
+  },
+  {
+    "company_name": "Electro Rent",
+    "industry": "Industrials",
+    "date_of_investment": "August 2016",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "8511 Fallbrook Avenue, Suite 200, West Hills, CA 91304 United States",
+    "website": "www.electrorent.com/us",
+    "transaction_type": "Public to Private"
+  },
+  {
+    "company_name": "Fantini Group",
+    "industry": "Food & Beverage / Distributors",
+    "date_of_investment": "March 2020",
+    "status_current": "Active",
+    "region": "Europe",
+    "fund": "Private Transaction",
+    "hq": "25+ Via Dei Bastioni, N 1 Ortona 66026 Italy",
+    "website": "www.farnesevini.it/en",
+    "transaction_type": "Acquired from NB Renaissance Partners"
+  },
+  {
+    "company_name": "Game Taco / WorldWinner",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Media & Telecom",
+    "website": "www.gametaco.com",
+    "transaction_type": "Corporate Divestiture",
+    "date_of_investment": "May 2021",
+    "hq": "275 Grove Street, Newton, MA 02466 United States"
+  },
+  {
+    "company_name": "HC Companies",
+    "industry": "Industrials",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "2450 Edison Blvd, Suite 3, Twinsburg, OH 44087",
+    "website": "hc-companies.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "August 2023"
+  },
+  {
+    "company_name": "Hop Lun",
+    "industry": "Consumer Durables",
+    "date_of_investment": "September 2022",
+    "status_current": "Active",
+    "region": "Asia Pacific",
+    "fund": "Private Transaction",
+    "hq": "9 Wing Hong St, Cheung Sha Wan, Hong Kong",
+    "website": null,
+    "transaction_type": "Acquired a controlling stake"
+  },
+  {
+    "company_name": "Hunterstown Power Generation Station",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Natural Resources Power & Utilities",
+    "transaction_type": "Private Transaction",
+    "hq": "1731 Hunterstown Road, Gettysburg, PA 17325 United States"
+  },
+  {
+    "company_name": "Husky Technologies",
+    "status_current": "Active",
+    "transaction_type": "Private Transaction",
+    "region": "North America",
+    "industry": "Industrials",
+    "hq": "500 Queen Street South, Bolton, Ontario L7E 5S5 Canada",
+    "website": "www.husky.co"
+  },
+  {
+    "company_name": "Iberconsa",
+    "status_current": "Active",
+    "transaction_type": "Private Transaction",
+    "region": "Europe",
+    "industry": "Consumer Food & Beverage",
+    "hq": "A Riouxa, s/n 36216 Vigo Pontevedra Spain",
+    "website": "www.iberconsa.com",
+    "date_of_investment": "June 2019"
+  },
+  {
+    "company_name": "Incora",
+    "industry": "Industrials Aerospace & Defense",
+    "status_current": "Active",
+    "region": "Global",
+    "hq": "2601 Meacham Blvd, Suite 400, Fort Worth, TX 76137 United States",
+    "website": "www.incora.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "October 2017"
+  },
+  {
+    "company_name": "Ingram Micro",
+    "industry": "Technology Hardware / Distributors",
+    "date_of_investment": "July 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Technology",
+    "hq": "Irvine, California",
+    "website": "https://corp.ingrammicro.com",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "JELD-WEN Australasia",
+    "industry": "Industrials",
+    "date_of_investment": "July 2023",
+    "status_current": "Active",
+    "region": "Asia Pacific",
+    "fund": null,
+    "hq": "78 Waterloo Rd, Macquarie Park NSW 2113, Australia",
+    "website": null,
+    "transaction_type": "Corporate Divestiture"
+  },
+  {
+    "company_name": "Jostens",
+    "industry": "Consumer Durables",
+    "date_of_investment": "December 2018",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "7760 France Avenue South, #400, Minneapolis, MN 55435 United States",
+    "website": "www.jostens.com",
+    "transaction_type": "Corporate Divestiture"
+  },
+  {
+    "company_name": "L&R Distributors",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Industrials",
+    "hq": "88 35th Street, Brooklyn, NY 11232 United States",
+    "website": "https://lrdist.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "June 2020"
+  },
+  {
+    "company_name": "LifeScan",
+    "industry": "Healthcare",
+    "status_current": "Active",
+    "hq": "20 Valley Stream Parkway, Malvern, PA 19355 United States",
+    "website": "www.lifescan.com",
+    "transaction_type": "Corporate Divestiture",
+    "date_of_investment": "October 2018"
+  },
+  {
+    "company_name": "Livingston",
+    "industry": "Industrials",
+    "date_of_investment": "April 2019",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "405 The West Mall, Suite 400, Toronto, Ontario M9C 5K7 Canada",
+    "website": "www.livingstonintl.com",
+    "transaction_type": "Acquired"
+  },
+  {
+    "company_name": "Leaders Romans Group",
+    "industry": "Real Estate Services",
+    "date_of_investment": "February 2022",
+    "status_current": "Active",
+    "region": "UK",
+    "fund": "Real Estate",
+    "hq": "Crowthorne House, Nine Mile Ride, Wokingham, Berkshire, RG40 3GZ",
+    "website": "https://www.lrg.co.uk/",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "Mad Engine",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Consumer",
+    "hq": "6740 Cobra Way, San Diego, CA 92121 United States",
+    "website": "www.madengine.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "December 2020"
+  },
+  {
+    "company_name": "McGraw Hill",
+    "industry": "Media & Telecom",
+    "date_of_investment": "July 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "1325 Avenue of the Americas, New York, NY 10019 United States",
+    "website": "www.mheducation.com",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "NDC",
+    "industry": "Healthcare",
+    "date_of_investment": "March 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "NDC Private Transaction",
+    "hq": "402 BNA Drive, Nashville, TN 37217 United States",
+    "website": "www.ndc-inc.com",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "Oregon Tool",
+    "industry": "Industrials",
+    "date_of_investment": "October 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Private Transaction",
+    "hq": "4909 SE International Way, Portland, OR 97222 United States",
+    "website": "www.oregontool.com",
+    "transaction_type": "Acquired"
+  },
+  {
+    "company_name": "Paramount Global Surfaces",
+    "industry": "Building Products & Construction",
+    "date_of_investment": "April 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Rise",
+    "hq": "18000 NE 5th Avenue, Miami, FL 33162 United States",
+    "website": "https://www.happy-floors.com/",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "Pelican Products",
+    "industry": "Industrials Healthcare",
+    "date_of_investment": "December 2021",
+    "status_current": "Private Active",
+    "region": "Global",
+    "hq": "Torrance, CA",
+    "website": "www.pelican.com",
+    "transaction_type": "Acquisition"
+  },
+  {
+    "company_name": "Pistons Sports & Entertainment",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Media & Telecom",
+    "hq": "690 Amsterdam Street, Detroit, MI 48202 United States",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "June 2011",
+    "website": null,
+    "fund": null
+  },
+  {
+    "company_name": "Ryerson",
+    "industry": "Industrials",
+    "date_of_investment": "October 2007",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "227 W. Monroe Street, Suite 27, Chicago, IL 60606 United States",
+    "website": "www.ryerson.com",
+    "transaction_type": "Public to Private Transaction"
+  },
+  {
+    "company_name": "Solenis",
+    "industry": "Consumer / Industrials",
+    "date_of_investment": "November 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Platinum",
+    "hq": "2475 Pinnacle Drive, Wilmington, DE 19803 United States",
+    "website": "www.solenis.com",
+    "transaction_type": "Acquisition"
+  },
+  {
+    "company_name": "SVP Worldwide",
+    "industry": "Consumer Household Products",
+    "date_of_investment": "July 2021",
+    "status_current": "Active",
+    "region": "North America",
+    "hq": "Nashville, TN United States",
+    "website": "www.svpworldwide.com",
+    "transaction_type": "Private Transaction"
+  },
+  {
+    "company_name": "Tarter Farm and Ranch Equipment",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Consumer",
+    "hq": "10739 South U.S. 127, Dunnville, KY 42528",
+    "website": "https://tarterusa.com/",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "March 2023"
+  },
+  {
+    "company_name": "TruckPro",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Industrials",
+    "transaction_type": "Private Transaction",
+    "hq": "1900 Charles Bryan Road, Suite 100, Cordova, TN 38016 United States",
+    "website": "www.truckpro.com",
+    "date_of_investment": "October 2019"
+  },
+  {
+    "company_name": "Unical Aviation",
+    "industry": "Aerospace & Defense",
+    "status_current": "Active",
+    "region": "North America",
+    "fund": "Industrials",
+    "hq": "680 South Lemon Avenue, City of Industry, CA 91789 United States",
+    "website": "www.unical.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "August 2021"
+  },
+  {
+    "company_name": "United Site Services",
+    "status_current": "Active",
+    "region": "North America",
+    "industry": "Industrials",
+    "hq": "118 Flanders Road, Westborough, MA 01581 United States",
+    "website": "www.unitedsiteservices.com",
+    "transaction_type": "Private Transaction",
+    "date_of_investment": "August 2017"
+  },
+  {
+    "company_name": "Urbaser",
+    "status_current": "Active",
+    "region": "Europe",
+    "industry": "Industrials",
+    "transaction_type": "Private Transaction",
+    "hq": "Camino De Hormigueras N\u00ba 171, Madrid 28031 Spain",
+    "website": "www.urbaser.com/en/",
+    "date_of_investment": "October 2021"
+  },
+  {
+    "company_name": "Winc",
+    "industry": "Industrials",
+    "status_current": "Active",
+    "region": "Australia",
+    "fund": null,
+    "hq": "163 O'Riordan Street, Mascot, NSW 2020 Australia",
+    "website": "www.winc.com.au",
+    "transaction_type": "Corporate Divestiture",
+    "date_of_investment": "April 2017"
+  }
+]

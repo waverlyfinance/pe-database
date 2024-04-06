@@ -1,0 +1,2153 @@
+[
+  {
+    "company_name": "4th Industrial",
+    "id": 8161,
+    "company_description": "<p>4th Industrial invests in multi-let and light industrial properties in target markets across the United Kingdom</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "8990 Holdings, Inc.",
+    "id": 7463,
+    "company_description": "<p>8990 Holdings, Inc.,\u00a0is a housing developer in the Philippines.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "A&O Hostels",
+    "id": 8158,
+    "company_description": "<p>A&#038;O Hostels is the largest fully integrated, privately-owned budget hotel and hostel platform in Europe</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "API Holdings",
+    "id": 7500,
+    "company_description": "<p>API Holdings is headquartered in Mumbai, India. Founded in 2012, API Holdings is India\u2019s largest, tech-enabled, full-stack provider of outpatient healthcare services. PharmEasy is primarily focused on online retail and distribution of medicines (both B2C and B2B), with emerging platforms across own private label products, home diagnostics, remote consultations, and EMR management.</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "APM Monaco",
+    "id": 7503,
+    "company_description": "<p>APM Monaco is a fashion silver jewelry brand inspired by Monaco and the South of France lifestyle. The company was founded in 1982 and is named after its founder, Ariane Prette.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Acorns",
+    "id": 7466,
+    "company_description": "<p>Headquartered in Irvine, California, Acorns Grow (Acorns) is a mobile savings and investment app that empowers millennials and lower middle income households to begin developing a long term savings habit through a proprietary micro investing platform.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Adare Pharmaceuticals",
+    "id": 7469,
+    "company_description": "<p>Adare Pharmaceuticals&nbsp;develops and manufactures&nbsp;pharmaceutical products based on a broad range of proprietary oral drug-delivery platforms.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Advent Software",
+    "id": 7473,
+    "company_description": "<p>Advent Software designs and delivers award-winning software and services to investment managers around the world.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Age of Learning",
+    "id": 7477,
+    "company_description": "<p>Headquartered in Glendale, CA, Age of Learning is a subscription-based early-age education digital platform.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Airbnb",
+    "id": 7481,
+    "company_description": "<p>Airbnb is a community marketplace, where users can list, discover, and book short-term rentals of homes, apartments, and rooms through the company&#8217;s website or app.</p>",
+    "region": "Americas",
+    "fund": null,
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Airtel Money",
+    "id": 7484,
+    "company_description": "<p>Airtel Money is the mobile money division of Airtel Africa (LSE: AAF) and a leading mobile money  operator in Africa, serving 23 million customers. Airtel provides a 24-7 electronic wallet service using customer mobile devices. The company operates in 13 countries, leveraging Airtel Africa\u2019s existing mobile network subscriber base and operating a unique network of over 400,000 non-exclusive agents; 32,000 exclusive franchise kiosks; and 6,000 exclusive branches.</p>",
+    "region": "Africa",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Allogene Therapeutics",
+    "id": 7487,
+    "company_description": "<p>Headquartered in South San Francisco, Allogene is a clinical-stage pharmaceutical company focused on the development of allogeneic chimeric antigen receptor T-Cell &nbsp;(CAR-T) therapies.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Alloy Properties",
+    "id": 8136,
+    "company_description": "<p>Alloy Properties is an owner, acquirer, and operator of life science and innovation campuses in major life science markets across the United States, including Boston, San Francisco, San Diego, Raleigh-Durham, and Seattle</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Alltel",
+    "id": 7491,
+    "company_description": "<p>Alltel is a wireless service provider. The company\u00a0was acquired by AT&#038;T in 2013.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Angie\u2019s",
+    "id": 7494,
+    "company_description": "<p>Angie&#8217;s (now Angie&#8217;s BOOMCHICKAPOP)&nbsp;is one of the fastest-growing healthy snack players in the United States, delivering products with clean ingredients.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "AnovoRX",
+    "id": 7497,
+    "company_description": "<p>Anovo is a pharmacy services provider that offers patients personalized services and programs for rare and chronic conditions.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Aptalis Pharma",
+    "id": 7506,
+    "company_description": "<p>Aptalis Pharma is a leading multinational specialty pharmaceutical company focused on gastroenterology. The Company develops and markets a broad line of prescription products to treat a range of gastrointestinal diseases and disorders such as inflammatory bowel disease, irritable bowel syndrome, cholestaticliver diseases and complications related to pancreatic insufficiency.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Arlington",
+    "id": 8152,
+    "company_description": "<p>Arlington is a developer and owner of innovation-focused office and industrial assets across the southeast of England</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Armstrong",
+    "id": 7509,
+    "company_description": "<p>Armstrong World Industries is a global leader in the design and manufacture of floors, ceilings, and cabinets.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "AskBio",
+    "id": 7513,
+    "company_description": "<p>Headquartered in Durham, NC, AskBio is an innovative gene therapy company that has emerged as a leader in this strategically important and rising space in the pharmaceutical industry.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Astound",
+    "id": 7516,
+    "company_description": "<p>Astound (formerly RCN/Grande)\u00a0is a leading local broadband provider with technologically advanced networks that offer a full suite of affordable internet, video, and phone services to both residential and business customers in 22 regional markets.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Au10tix",
+    "id": 7519,
+    "company_description": "<p>AU10TIX is a pioneer in autonomous, end-to-end ID authentication and processing.&nbsp;The company verifies and digitizes consumer identities through a multi-layered, automated, algorithmic approach that screens, classifies, extracts, and authenticates ID documents such as passports and driver&#8217;s licenses.</p>",
+    "region": null,
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Azoff Music Company",
+    "id": 7521,
+    "company_description": "<p>Azoff Music Company is a high-growth music platform founded in 2013 by Irving Azoff, a legendary artist manager and entertainment industry executive.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "B2R Partners",
+    "id": 8143,
+    "company_description": "<p>B2R Partners is a strategic venture with Toll Brothers (NYSE: TOL) and BB Living Residential to develop purpose-built 3-bedroom and 4-bedroom single-family rental homes across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "BFI Finance",
+    "id": 7955,
+    "company_description": "<p>BFI Finance is the largest independent multi-finance company in Indonesia specializing in auto, motorcycle, and heavy equipment financing.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "BGB Communications",
+    "id": 7539,
+    "company_description": "<p>Headquartered in New York, BGB, founded in 2005, is an integrated medical communications and healthcare professional  marketing firm that provides commercialization solutions to pharmaceutical and biotech clients.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "BTPN",
+    "id": 7555,
+    "company_description": "<p>BTPN is a foreign exchange bank, headquartered in Indonesia, focused on serving and empowering the lower-income population.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Beautycounter",
+    "id": 7524,
+    "company_description": "<p>Beautycounter is a disruptive beauty brand that develops and sells highly effective skin care, body, and hair products, and cosmetics.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Beaver-Visitec International",
+    "id": 7527,
+    "company_description": "<p>Beaver-Visitec International (BVI) is a leading global developer, manufacturer, and marketer of specialized surgical devices for ophthalmic procedures.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Benevity",
+    "id": 7530,
+    "company_description": "<p>Headquartered in Calgary, Canada, and founded in 2008, Benevity is the leading CSR Software provider. Benevity generates revenue via a B2B2C integrated payments platform focused on charitable giving and volunteer management.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Beringer",
+    "id": 7533,
+    "company_description": "<p>Beringer Wine Estate Holdings was founded in 1876 and is a producer of premium California varietal table wines. These wines are marketed under the Beringer Vineyards, Meridian Vineyards, Chateau St. Jean, Chateau Souverain, Stags&#8217; Leap and St. Clement brand names. Beringer also has an import portfolio of premium brands from Italy, France and Chile. These wines are marketed under the Gabbiano, Campanile, Travaglini, Tarapaca and Rivefort de France brands. Beringer sells its wine principally in the U.S. to distributors for resale and has achieved a well-established competitive position in chain stores, club stores and other retail stores and restaurants.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Big River Steel",
+    "id": 7542,
+    "company_description": "<p>Big River Steel is a new steel mini-mill being built in Osceola, Arkansas. The mill is designed with the latest technology to be the most advanced and efficient mini-mill in the United States.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Blue Cloud",
+    "id": 7545,
+    "company_description": "<p>Blue Cloud is the largest operator of pediatric dental ambulatory surgery centers in the US, with 15 facilities across 6 states. The business mainly serves pediatric Medicaid patients from low-income families who require dental procedures under general anesthesia. Blue Cloud represents The Rise Fund\u2019s first healthcare buyout and its first US healthcare provider deal.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "BookMyShow",
+    "id": 7549,
+    "company_description": "<p>BookMyShow is the leading online ticketing destination for both cinema and live events in India.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Boomi",
+    "id": 8470,
+    "company_description": "<p>Boomi is a pioneer of cloud-based integration platform as a service (iPaaS). The company\u2019s technology enables organizations to connect applications, processes and people across a range of locations and devices. </p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Box",
+    "id": 7552,
+    "company_description": "<p>Box provides a cloud-based collaboration platform that enables organizations of all sizes to easily and securely manage their content and collaborate internally.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Burger King",
+    "id": 7558,
+    "company_description": "<p>Burger King and its franchisees operate more than 11,200 restaurants in all 50 states and in approximately 60 countries and territories around the world. Founded in Miami in 1954, the company maintains a focus on foods that are cooked over an open fire.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "C3.ai",
+    "id": 7561,
+    "company_description": "<p>C3.ai develops and delivers enterprise IoT software solutions for the energy sector.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "CCC Information Services",
+    "id": 7570,
+    "company_description": "<p>CCC Information Services\u00a0provides technology, data,\u00a0and insights to help customers make informed, accurate auto collision claims and repair management decisions.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "CLEAResult",
+    "id": 7586,
+    "company_description": "<p>CLEAResult is the largest provider of energy efficiency programs and services in North America.\u00a0</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "CT Real Estate",
+    "id": 8164,
+    "company_description": "<p>CT Real Estate is a strategic venture with Contera Management that focuses on acquiring, developing, and operating logistics assets in Central Europe</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Calm.com",
+    "id": 7564,
+    "company_description": "<p>Headquartered in San Francisco, CA, Calm is the leading mental-wellness-focused digital subscription platform offering consumers a variety of content on meditation, sleep, and mindfulness.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Campus Active Wear",
+    "id": 7567,
+    "company_description": "<p>Campus Activewear\u00a0is India\u2019s largest casual sports and footwear brand.</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Catellus",
+    "id": 8125,
+    "company_description": "<p>Catellus is a leader in transformational land and mixed-use development across the United States with a track record of solving complex redevelopment challenges</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Cellulant",
+    "id": 7573,
+    "company_description": "<p>Cellulant is\u00a0a one-stop mobile payments platform for connecting banks, telcos, merchants, and governments in Africa.</p>",
+    "region": "Africa",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Ceribell",
+    "id": 7577,
+    "company_description": "<p>Ceribell is a medical device that rapidly performs EEG to detect non-convulsive seizures.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Checkmarx",
+    "id": 7580,
+    "company_description": "<p>Checkmarx is a leading provider of Application Security Testing (AST) software that helps developers identify and address critical vulnerabilities in an application\u2019s code.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "China Hydroelectric Corporation",
+    "id": 8292,
+    "company_description": "<p>Established in 2006, China Hydroelectric Corporation was an independent hydroelectric power company in China which owned and operated 25 small hydroelectric power projects totaling 506MW of installed capacity. The company\u2019s plants were located in Yunnan, Zhejiang and Fujian provinces.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Environment/Renewables",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Chobani",
+    "id": 7583,
+    "company_description": "<p>Chobani is a leading producer of Greek yogurt in the U.S. and Australia. Chobani\u2019s founder, Hamdi Ulukaya, acquired a factory from Kraft in upstate NY in 2005, started producing Greek yogurt in 2007, and had grown the company into a category leader at the time of TPG\u2019s investment in 2014.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Cinespace",
+    "id": 8131,
+    "company_description": "<p>Cinespace is the second largest owner and operator of production studio real estate across North America and Europe</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Climavision",
+    "id": 7589,
+    "company_description": "<p>Headquartered in Louisville, Kentucky, Climavision is a pioneer private weather solution platform focused on offering pinpoint \u201cnowcasting\u201d and enhanced \u201cforecasting\u201d by leveraging its proprietary radars, GPS RO observations, software, AI and cloud capabilities.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Continental",
+    "id": 7592,
+    "company_description": "<p>Continental Airlines\u00a0was a major U.S. airline. The company merged with United Airlines in 2010.</p>",
+    "region": "Americas",
+    "fund": null,
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Convey Health",
+    "id": 7595,
+    "company_description": "<p>Headquartered in Fort Lauderdale, FL., Convey Health Solutions and its affiliate companies HealthScape Advisors, Pareto Intelligence, and Gorman Health Group, is a specialized healthcare technology and services company that provides administrative solutions for government-sponsored health plans that help to optimize member interactions, ensure compliance, and support end-to-end Medicare processes. \u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Creative Artists Agency",
+    "id": 7599,
+    "company_description": "<p>Creative Artists Agency (CAA) is a talent and literary agency with offices in Los Angeles, New York, Nashville, London, Beijing, Chicago, St. Louis, Calgary, and Stockholm. CAA represents the most creative and successful artists working in music, film, television, theatre, sports, and games, and provides a range of strategic marketing services to corporate clients. The agency serves as the access point through which artists, consumers and global brands intersect to create, acquire and sell entertainment properties, and to enrich entertainment and brand experiences.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Crunch Fitness",
+    "id": 7602,
+    "company_description": "<p>Founded in NYC in 1989, Crunch owns, operates, and franchises nearly 300 fitness centers serving 1.3M+ members across the United States, Australia, Canada, and Spain.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Cushman & Wakefield",
+    "id": 7605,
+    "company_description": "<p>Cushman &amp; Wakefield&nbsp;is&nbsp;a global leader in commercial real estate services&nbsp;with operations in more than 60 countries.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital Asia",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Delinea",
+    "id": 8041,
+    "company_description": "<p>Delinea is a leading cloud identity security vendor. Delinea industry-leading privileged access management (PAM) solutions helps its customers secure privileged access to their most critical on-prem and cloud infrastructure, such as production servers for bank transaction processing.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Denali",
+    "id": 7608,
+    "company_description": "<p>Based in Russellville, Arkansas, Denali is a market-leading provider of specialty waste and environmental recycling and disposal services in the United States, performing mission-critical daily organic waste collection, processing, recycling, and disposal for municipal, industrial food processing and downstream industrial customers.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Deutsche Office Properties",
+    "id": 8167,
+    "company_description": "<p>Deutsche Office Properties is an owner of an office portfolio consisting of seven assets in Cologne, Germany</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Digital House",
+    "id": 7611,
+    "company_description": "<p>Digital House is a group of schools providing digital skills and technology education to students in Argentina, Brazil, and Mexico.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Digital.ai",
+    "id": 7615,
+    "company_description": "<p>Digital.ai\u00a0(formerly CollabNet VersionOne, XebiaLabs, and Arxan) is a DevOps platform that combines value stream management, software delivery, and application security.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Dingdang Health",
+    "id": 7618,
+    "company_description": "<p>Headquartered in Beijing, China, Dingdang Health is a leading integrated online healthcare platform providing users with comprehensive and professional on-demand healthcare services.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": null
+  },
+  {
+    "company_name": "DirecTV",
+    "id": 7621,
+    "company_description": "<p>DirecTV operates a video business that was formerly part of AT&#038;T. As a standalone company, DirecTV is made up of the DirecTV, AT&#038;T TV, and U-Verse video services.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Discovery Midstream",
+    "id": 7624,
+    "company_description": "<p>Discovery Midstream is a Dallas-based provider of oil and natural gas gathering and natural gas processing services in the southern portion of Colorado\u2019s Denver-Julesburg Basin.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Dodla Dairy",
+    "id": 7627,
+    "company_description": "<p>Dodla Dairy is a fresh dairy product company offering a wide range of milk products across 66 regions in South India. Dodla Diary is an investment of The Rise Fund, managed by TPG Growth, which is committed to achieving social and environmental impact alongside competitive financial returns.\u00a0</p>",
+    "region": "Asia",
+    "fund": "The Rise Funds",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Dogwood Industrial Properties",
+    "id": 8128,
+    "company_description": "<p>Dogwood Industrial Properties acquires, owns, and operates high-quality, infill, multi-tenant industrial assets in strategic, growth-oriented metropolitan markets across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Domo",
+    "id": 7630,
+    "company_description": "<p>Domo is an emerging player in the SaaS-based Big Data/business intelligence market. The Domo solution allows users \u2013 typically managers and executives \u2013 to create dashboards that analyze their disparate business data in real-time, along with a social platform to interact alongside the data. Domo was founded in 2010 by CEO Josh James, the former founder and CEO of Omniture, a SaaS-based web analytics business.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Dream11",
+    "id": 7633,
+    "company_description": "<p>Headquartered in India, Dream11 is India\u2019s largest daily fantasy sports (DFS) platform with a leading share of the Indian DFS market. Dream11 hosts multiple contest formats for 5,000+ live DFS games across 8 sports: cricket, football, kabaddi, basketball, hockey, volleyball, baseball, and handball.</p>",
+    "region": "Asia",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "DreamBox Learning",
+    "id": 7636,
+    "company_description": "<p>DreamBox Learning provides K-8 mathematics educational software that utilizes adaptive technology to instruct and assess students, track outcomes, and equip teachers and administrators with data-driven analytics and insights.\u00a0</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Du Xiaoman",
+    "id": 7639,
+    "company_description": "<p>Du Xiaoman is the financial services business unit that was spun off from Baidu (NASDAQ: BIDU; market cap of $78 billion) and operates in three key business lines: consumer lending, wealth management, and payments.</p>",
+    "region": "Asia",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "EIS",
+    "id": 7645,
+    "company_description": "<p>Founded in 2008, EIS is an insurance software company that enables leading insurers to innovate and operate in faster, more secure, and more agile ways.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Element Markets",
+    "id": 7648,
+    "company_description": "<p>Founded in 2005 and headquartered in Houston, Element Markets is the leading independent marketer of environmental commodities (carbon credits) in North America.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Ellodi Pharmaceuticals",
+    "id": 8174,
+    "company_description": "<p>Ellodi Pharmaceuticals is a gastroenterology-focused specialty pharmaceutical company.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Ellucian",
+    "id": 7651,
+    "company_description": "<p>Ellucian\u00a0provides software and services to more than 2,400 higher education institutions in 40 countries.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Enlivant",
+    "id": 7655,
+    "company_description": "<p>Enlivant and its subsidiaries own and/or operate more than\u00a0200 assisted living residences comprising more than 9,000 resident units across the United States. \u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Entertainent Partners",
+    "id": 7658,
+    "company_description": "<p>Headquartered in Burbank, California, Entertainment Partners provides workforce management services, including a bundle of payroll processing, tax administration and workers&#8217; comp services and production management technology solutions to the TV, film, and broader entertainment industries.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "EnvisionRX",
+    "id": 7662,
+    "company_description": "<p>EnvisionRX\u00a0(now Elixir) provides various full-service, integrated pharmacy benefit management services\u00a0including claims processing,\u00a0mail-order delivery, and\u00a0benefit-design consultation.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "EverFi",
+    "id": 7665,
+    "company_description": "<p>EverFi is&nbsp;a leading provider of subscription-based digital learning to K-12 schools, universities, corporations, sports teams, and nonprofits.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Everlaw",
+    "id": 7668,
+    "company_description": "<p>Everlaw is a leading cloud-based legal software platform for law firms, government agencies, and corporations. Everlaw offers software that enables lawyers to collect, process, search, review, and produce electronic information as part of litigations and investigations, delivering a unified tech platform that streamlines and automates the entire eDiscovery process.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Evolent Health",
+    "id": 7672,
+    "company_description": "<p>Evolent Health partners with leading health systems to drive value-based care transformation. By providing clinical, analytical and financial capabilities, Evolent helps physicians and systems achieve superior quality and cost results. The Company&#8217;s approach breaks down barriers, aligns incentives and powers a new model of care delivery resulting in meaningful alignment between providers, payers, physicians and patients. Evolent Health is a private, high-growth company headquartered in Arlington, Virginia.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Evolution Media",
+    "id": 7675,
+    "company_description": "<p>Evolution Media is an investment partnership with TPG Growth, Participant Media, and Evolution Media Capital.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Exactech",
+    "id": 7679,
+    "company_description": "<p>Exactech\u00a0develops and markets orthopaedic implant devices, related surgical instruments and biologic materials and services to hospitals and physicians.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Expanse",
+    "id": 7682,
+    "company_description": "<p>Expanse (formerly Qadium) is\u00a0the first automated global Internet intelligence company.\u00a0Expanse indexes every device on the public Internet every hour to provide\u00a0comprehensive information about an organization\u2019s Internet-facing risks.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Eze Software Group",
+    "id": 7685,
+    "company_description": "<p>Eze Software Group is a market-leading provider of front, middle, and back office software solutions to buy-side institutions in over 30 countries.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Fandom",
+    "id": 7688,
+    "company_description": "<p>Fandom is an entertainment company focusing on user-generated content about gaming, comic books, movies, and TV shows.</p>",
+    "region": "Americas",
+    "fund": "TPG Digital Media",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Fender",
+    "id": 7692,
+    "company_description": "<p>Fender Musical Instruments\u00a0is a leading global musical instruments company whose portfolio of music lifestyle brands brings the passion of music to life. Since the founding of the predecessor company in 1946 by Leo Fender, a Southern California guitar inventor, Fender has built a comprehensive portfolio of brands led by the iconic Fender brand and other brands such as Squier, Jackson, Guild, Ovation and Latin Percussion, which the Company owns, and Gretsch, EVH (Eddie Van Halen) and Takamine, for which the Company is the licensee. Fender\u2019s broad product portfolio includes fretted instruments, guitar amplifiers, percussion instruments and accessories. Fender distributes its products globally in over 85 countries as well as through a network of distributors in selected international markets.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Fenwal",
+    "id": 7695,
+    "company_description": "<p>Fenwal is one of the world&#8217;s largest suppliers of products and services to the transfusion medicine industry. Fenwal was created with a single purpose: to provide high quality, innovative blood collection and processing products and services that support customers&#8217; missions to improve and save lives.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Fidelity National Financial Services",
+    "id": 7698,
+    "company_description": "<p>Fidelity National Financial Services\u00a0is a leading global provider of banking and payment technologies.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "FirstCry",
+    "id": 8281,
+    "company_description": "<p>Headquartered in Pune, India, FirstCry is a leading omni-channel baby and kids\u2019 products platform, offering products across all major babycare categories including fashion &amp; apparel, consumables, toys &amp; games, and specialty products.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Consumer",
+    "status_current": "Partially Realized"
+  },
+  {
+    "company_name": "FirstCry",
+    "id": 7702,
+    "company_description": "<p>Headquartered in Pune, India, FirstCry is a leading omni-channel baby and kids\u2019 products platform, offering products across all major babycare categories including fashion &#038; apparel, consumables, toys &#038; games, and specialty products.</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Form Energy",
+    "id": 7704,
+    "company_description": "<p>Headquartered in Somerville, MA, and founded in 2017, Form Energy is an ultra-long-duration energy storage company developing grid-scale rechargeable iron air batteries suitable for discharge over 100-150 hours. The Rise Fund II and TPG Rise Climate invested $20m and $40m, respectively, in a Series D financing round.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Fourth Partner Energy",
+    "id": 7708,
+    "company_description": "<p>Fourth Partner Energy is India&#8217;s leading distributed solar energy management company with complete in-house capabilities across design, engineering, construction, service, monitoring, and financing.</p>",
+    "region": "Asia",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "FreedomPay",
+    "id": 7713,
+    "company_description": "<p>FreedomPay is an integrated payments company with software that allows enterprises to manage their POS terminals and eCommerce systems.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Funlab",
+    "id": 7716,
+    "company_description": "<p>Headquartered in Melbourne, Australia, Funlab is a leading out-of-home entertainment company focused on differentiated consumer centric experiences. It has a portfolio of indoor entertainment concepts anchored by premium alcohol and food offerings and supported by bespoke partnership with leading brands.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "GRIDSERVE",
+    "id": 7749,
+    "company_description": "<p>Gridserve is a &#8216;sun-to-wheel&#8217; focused en-route electric vehicle charging network in the United Kingdom, focused on provision of ultra-fast charging at high traffic locations with co-located food &amp; beverage offerings.</p>",
+    "region": "Europe",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Gelson\u2019s",
+    "id": 7722,
+    "company_description": "<p>Gelson&#8217;s is an iconic chain of grocery stores in Southern California that provides\u00a0its customers with a full assortment of conventional groceries\u00a0as well as high-quality produce and prepared foods.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Global Music Rights",
+    "id": 7725,
+    "company_description": "<p>Global Music Rights (GMR) is a high-growth, invitation-only performance rights organization (PRO) that works with songwriters to license their Intellectual property to music end-users, such as streaming services, radio stations, TV networks, hotels, and restaurants. TPG&#8217;s investment in GMR comes after a multi-year proprietary dialogue with Irving Azoff, a legendary artist manager and business builder in the entertainment industry.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "GoHealth Urgent Care",
+    "id": 7731,
+    "company_description": "<p>GoHealth Urgent Care\u00a0is one of the fastest growing urgent care providers in the US.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Goal.com",
+    "id": 7728,
+    "company_description": "<p>Headquartered in London, GoalCo includes three principal assets: Goal.com, the world&#8217;s largest independent soccer site with ~55M MUVs across its various web and app properties; Spox, a German multi-sport site, and Voetbalzone, a Dutch soccer site.</p>",
+    "region": "Europe",
+    "fund": "TPG Digital Media",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Government Brands",
+    "id": 7734,
+    "company_description": "<p>Headquartered in Alpharetta, GA and founded in 2017, Government Brands is a leading provider of software and payments solutions to state and local government entities across the US. The company provides software modules and integrated payments across Court &#038; Land Records, Tax &#038; Treasury, Public Works &#038; Engagement, and CAMA (Computer-Aided Mass Appraisal) business segments.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Graphic Packaging",
+    "id": 7737,
+    "company_description": "<p>Graphic Packaging Holding Company\u00a0is a provider of paperboard packaging solutions to multinational food, beverage, and other consumer products companies.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Green Monday Holdings",
+    "id": 7741,
+    "company_description": "<p>Headquartered in Hong Kong, Gourmet is a fast-growing plant-based protein platform that offers a full spectrum of both proprietary and distributed products through online and offline wholesale and retail channels.</p>",
+    "region": "Asia",
+    "fund": "The Rise Funds",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Greencross",
+    "id": 7744,
+    "company_description": "<p>Greencross is Australasia&#8217;s leading specialist retailer of pet food, pet related products and pet accessories and also operates Australia&#8217;s largest veterinary services business.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Greenhouse Software",
+    "id": 7747,
+    "company_description": "<p>Greenhouse is a best-of-breed provider of next-gen talent acquisition software enabling companies to plan, source, assess, hire, and onboard candidates.\u00a0</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Grohe",
+    "id": 7752,
+    "company_description": "<p>Grohe is one of Europe&#8217;s leading manufacturers of sanitary fittings and water technology products such as\u00a0shower heads and systems, faucet fittings, and flushing installation.</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Guardicore",
+    "id": 7755,
+    "company_description": "<p>Guardicore\u00a0is an emerging data center and cloud security vendor focused on active breach detection, process-level visibility and segmentation of network traffic, and real-time response.</p>",
+    "region": "Americas",
+    "fund": null,
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "HCP Packaging",
+    "id": 7762,
+    "company_description": "<p>HCP is a global leader in the design, development, and manufacture of prestige primary packaging containers for the cosmetics, skincare, and fragrance industries. Headquartered in Shanghai, China, HCP Holdings has successfully expanded its global operations through organic growth, strategic alliances and acquisitions over 50 years of history.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "HKBN",
+    "id": 8098,
+    "company_description": "<p>Headquartered in Hong Kong, HKBN (formerly Wharf T&#038;T) is a leading pure-play enterprise telecom operator with the second largest network coverage in Hong Kong. HKBN provides a full suite of telecom services including data, voice, IDD and ICT solutions exclusively to enterprise customers, ranging from large government institutions and corporates to SMEs.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Halo Branded Solutions",
+    "id": 7758,
+    "company_description": "<p>HALO branded solutions\u00a0is a marketing services platform that distributes promotional products and provides employee recognition services.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Healthscope",
+    "id": 7764,
+    "company_description": "<p>Healthscope is a leading Australian private healthcare operator that uniquely operates in every state and territory within Australia, as well as in Asia. The company&#8217;s reach of facilities around Australia firmly places Healthscope as one of Australia&#8217;s largest private hospital providers. The company includes a leading pathology business with facilities in Australia, New Zealand, Singapore and Malaysia. Healthscope also has a growing medical centres division with over 45 clinics and a diagnostic imaging division centred in major hospitals. The company was formed in 1985 and listed on the Australian Stock Exchange in 1994.</p>",
+    "region": "Australia",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Hotwire",
+    "id": 7768,
+    "company_description": "<p>Hotwire is a discount travel website that offers low-prices on airfare, hotel, rental car, and vacation packages by selling off unsold travel inventory at a discounted price.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Human Interest",
+    "id": 7771,
+    "company_description": "<p>Headquartered in San Franciso, CA, and founded in 2014, Human Interest, is a leading digital-native provider of defined-contribution retirement savings products (401ks) for SMBs. The company targets SMBs with <200 employees and offers affordable and easy-to-use 401k plans where they are a market leader given their differentiated product solution as well as payroll integrations that permit them to create lower cost and easier to manage 401ks than plans offered by traditional incumbents.\n</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "IMS Health",
+    "id": 7958,
+    "company_description": "<p>IMS Health, operating in more than 100 countries, is one of the world&#8217;s leading providers of market intelligence to the pharmaceutical and healthcare industries. With more than 55 years of industry experience, IMS Health offers leading-edge market intelligence products and services that are integral to clients&#8217; day-to-day operations, including product and portfolio management capabilities; commercial effectiveness innovations; managed care and consumer health offerings; and consulting and services solutions that improve productivity and the delivery of quality healthcare worldwide. TPG merged Quintiles and IMS Health in 2016 to form IQVIA.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Immucor",
+    "id": 7774,
+    "company_description": "<p>Immucor manufactures and sells systems used by hospitals, laboratories, and donor centers to identify cell properties and serum components of blood prior to transfusion.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "InStride",
+    "id": 7783,
+    "company_description": "<p>Headquartered in Los Angeles, CA, InStride is the creation of a two-sided marketplace/online program manager that connects employers with universities to deliver online education to their employees. InStride was created through a partnership between The Rise Funds and Arizona State University.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Infinidat",
+    "id": 7777,
+    "company_description": "<p>Infinidat Ltd.\u00a0manufactures data storage systems and solutions. The company is\u00a0based in Hertzeliya Pituach, Israel, with operations in Needham, Massachusetts.</p>",
+    "region": "Europe",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Ingham\u2019s",
+    "id": 7780,
+    "company_description": "<p>Ingham&#8217;s Enterprises started on a small farm in southwest Sydney\u00a0in 1918. Ingham&#8217;s is now a national, vertically integrated poultry producer in Australia and New Zealand.\u00a0</p>",
+    "region": "Australia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Integreon",
+    "id": 8265,
+    "company_description": "<p>Integreon is a leading global outsourcing services provider in the legal, document and research space, with delivery centers in India, the Philippines, the United States, and the United Kingdom.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Business Services",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Intergraph",
+    "id": 7786,
+    "company_description": "<p>Intergraph Corporation is a\u00a0leading global provider of engineering and geospatial software that enables customers to visualize complex data.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Ipsy",
+    "id": 7536,
+    "company_description": "<p>Ipsy (now BFA Industries) is an online makeup subscription delivery service founded by YouTube celebrity Michelle Phan. Its more than 1.5 million subscribers receive monthly \u201cGlam Bags\u201d filled with an assortment of makeup and beauty products.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "JNBY",
+    "id": 8287,
+    "company_description": "<p>JNBY Design is a Chinese multi-brand apparel company selling women\u2019s, men\u2019s and children&#8217;s high fashion wear. Founded in 1994, the company is headquartered in Hangzhou and offers products under eight brands.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Consumer",
+    "status_current": "Partially Realized"
+  },
+  {
+    "company_name": "Janalakshmi Financial Services",
+    "id": 7789,
+    "company_description": "<p>Janalakshmi Financial Services, headquartered in Bangalore, India, operates as one of the largest urban-focused micro-finance lenders in India.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Jio Platforms",
+    "id": 7791,
+    "company_description": "<p>Headquartered in Ahmedabad, Jio Platforms Limited (&#8220;Jio&#8221;) is the holding company for the telecom and digital businesses of Reliance Industries Limited, a conglomerate across oil &#038; gas, retail, telecom and digital with a market cap of $202bn</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Kadiant",
+    "id": 7794,
+    "company_description": "<p>Headquartered in North Carolina, Ask Bio is a gene therapy company dedicated to improving the lives of children and adults with rare genetic disorders. AskBio develops and manufactures Adeno-Associated Virus (AAV) therapeutics for underserved patient populations with rare and generally untreatable genetic disorders.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Kajabi",
+    "id": 7797,
+    "company_description": "<p>Headquartered in Irvine, CA, Kajabi is a subscription-software platform offering individuals and small businesses the ability to create and monetize online courses, training materials and other &#8220;knowledge economy&#8221; content</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Kakao Bank",
+    "id": 7800,
+    "company_description": "<p>Headquartered in Seongnam, South Korea, Kakao Bank is the leading digital-only bank in Korea and the tech financial services arm of the broader Kakao Group, which is the dominant mobile apps and services platform in Korea.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": null
+  },
+  {
+    "company_name": "Kakao Mobility",
+    "id": 7803,
+    "company_description": "<p>Kakao Mobility\u00a0is a Korean mobile platform that comprises three smartphone-based transportation services: Kakao Taxi, Kakao Driver, and Kakao Navi.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Kaseya",
+    "id": 7806,
+    "company_description": "<p>Kaseya is an infrastructure software company that provides comprehensive IT management solutions for small and medium-sized businesses.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Kelsey-Seybold",
+    "id": 7809,
+    "company_description": "<p>Kelsey-Seybold is the leading indpendent multi-secialty physician group in the Houston area. Kelsey treats its patients through its fee-for-service offering, its commercial health plans in which it partners with commercial insurers as well as employers, and its own Medicare Advantage plan.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Keter Environmental Services",
+    "id": 7812,
+    "company_description": "<p>Keter is a market-leading provider of outsourced waste managed services in the United States, supporting mission-critical daily waste collection and disposal through its asset-light, high-touch managed programs. Keter\u2019s fully managed programs reduce the overall cost of waste for customers while also delivering a high-quality, responsive service that currently doesn\u2019t exist in the market. Additionally, through its proprietary software and IoT platform, Keter provides real-time waste and recycling reporting valued, and increasingly required, by corporate decision makers.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Kindred Healthcare",
+    "id": 7816,
+    "company_description": "<p>Kindred Healthcare operates home health, hospice and community care businesses, long-term acute care (\u201cLTAC\u201d) hospitals, inpatient rehabilitation facilities (\u201cIRF\u201d) and a contract rehabilitation services business.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "LLamasoft",
+    "id": 7838,
+    "company_description": "<p>Llamasoft is a global leader in supply chain modeling and design software.\u00a0With over 700 customers around the world, LLamasoft provides innovative software solutions that help companies think more clearly about their supply chain operations and make better decisions to improve service, reduce cost, and mitigate risk.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "LPL",
+    "id": 7841,
+    "company_description": "<p>LPL Financial,\u00a0a wholly owned subsidiary of\u00a0LPL Financial Holdings Inc.\u00a0(NASDAQ:LPLA), is a leader in the retail financial advice market.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Lenovo",
+    "id": 7820,
+    "company_description": "<p>Lenovo is an innovative international technology company formed as a result of the acquisition\u00a0of the IBM Personal Computing Division by the Lenovo Group.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Lenskart",
+    "id": 7823,
+    "company_description": "<p>Lenskart is an online business that markets and sells optical products, watches,\u00a0and bags across India.</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Lenta",
+    "id": 7826,
+    "company_description": "<p>Lenta is one of the leading food retailers and the second largest hypermarket operator in Russia. Lenta pursues a distinctive, price-led business model with broad customer appeal, offering a highly relevant assortment at affordable prices in well-organized stores.</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Life Time",
+    "id": 7829,
+    "company_description": "<p>Life Time is a comprehensive healthy living, healthy aging, and healthy entertainment lifestyle company that offers a personalized and scientific approach to long-term health and wellness.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "LifeStance Health",
+    "id": 7832,
+    "company_description": "<p>Headquartered in Bellevue, Washington, LifeStance is the largest national provider of behavioral outpatient services with 200+ offices and 2,000+ clinicians across 16 states. Founded in 2017 by a multi-time successful management team, LifeStance offers outpatient mental health services including psychiatric evaluation, psychotherapy, and telepsychiatric services to treat anxiety, depression, personality, and psychotic disorders.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "LifeStorage",
+    "id": 8115,
+    "company_description": "<p>LifeStorage is an owner and operator of premier self-storage facilities across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "LiveKindly",
+    "id": 7835,
+    "company_description": "<p>Headquartered in NYC with a global footprint, LIVEKINDLY Collective is a global collection of plant-based protein brands. LIVEKINDLY Collective has completed 6 acquisitions (Like Meat, Fry\u2019s, Oumph!, No Meat, Dutch Weedburger, and Alpha) that are anchored in plant-based chicken, supported by its own production facilities enabling it to deliver private label and export products as well as ingredients to other plant-based companies.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Loyal Valley Capital",
+    "id": 8298,
+    "company_description": "<p>Loyal Valley Capital (\u201cLVC\u201d) is a USD and RMB PE fund manager fund founded by Andy Lin who previously founded China Universal Asset Management, a Chinese asset manager. TPG NewQuest led two transactions where several assets were selected from an RMB fund and restructured into a USD fund in order to launch LVC\u2019s USD fund management business.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Various",
+    "status_current": "Partially Realized"
+  },
+  {
+    "company_name": "Lynda.com",
+    "id": 7844,
+    "company_description": "<p>Lynda.com\u00a0is a leading online education platform offering more than 2,600 video courses taught by more than 450 industry experts.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "MEMC",
+    "id": 7861,
+    "company_description": "<p>MEMC Electronic Materials (operating as SunEdison since 2013)\u00a0manufactures and sells\u00a0wafers and related intermediate products to the semiconductor and solar industries.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "MX Technologies",
+    "id": 7875,
+    "company_description": "<p>MX is a high-growth provider of data management, aggregation, enhancement, and analytics as well as a broader suite of complementary application software to financial institutions and FinTechs.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Manipal Health",
+    "id": 7847,
+    "company_description": "<p>Manipal Health Enterprises operates a network of healthcare establishments in India and overseas. Manipal is among India\u2019s largest chains of hospitals with over 1,800 beds.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Matrix Renewables",
+    "id": 7850,
+    "company_description": "<p>Headquartered in Madrid, Spain, Matrix focuses on developing, constructing and being long-term owners of renewable energy assets, initially focused on utility-scale solar PV.</p>",
+    "region": "Europe",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Matrix/Mylan",
+    "id": 7853,
+    "company_description": "<p>Matrix Laboratories (acquired by Mylan in 2006) is one of the world&#8217;s largest manufacturers and suppliers of active pharmaceutical ingredients (APIs) for a wide range of therapeutic categories.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "McAfee",
+    "id": 7856,
+    "company_description": "<p>McAfee is one of the world\u2019s leading independent cybersecurity companies.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Medical Solutions",
+    "id": 7859,
+    "company_description": "<p>Medical Solutions is\u00a0a leading provider of healthcare staffing solutions for hospitals across the United States.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Mendocino Farms",
+    "id": 7864,
+    "company_description": "<p>Mendocino Farms is a Southern California-based restaurant chain serving chef-inspired sandwiches and salads.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Mey",
+    "id": 7867,
+    "company_description": "<p>Mey Alcoholic Beverages is the domestic market leader in Turkey in the vodka, gin, and liqueur categories. Mey Alcoholic Beverages also exports to many countries in the world. Its unique liqueurs, produced using natural fruit, are seen among the best liqueurs not only of Turkey but of the world.</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Milestone Student Properties",
+    "id": 8140,
+    "company_description": "<p>Milestone Student Properties is a portfolio of high-quality, purpose-built student housing assets at top-tier universities across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Mobike",
+    "id": 7870,
+    "company_description": "<p>Mobike is the world\u2019s first and largest smart bike-sharing company, based in Shanghai and found in cities throughout China.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Monogram Health",
+    "id": 7873,
+    "company_description": "<p>Headquartered in Nashville, TN, Monogram Health is a rapidly scaling provider of next-gen care management and care delivery services for payors\u2019 chronic kidney disease (\u201cCKD\u201d) and end-stage renal disease (\u201cESRD\u201d) populations in 20 states.</p>",
+    "region": "Americas",
+    "fund": "TPG Healthcare Partners",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Myer",
+    "id": 7879,
+    "company_description": "<p>Myer is a leader in Australian retailing and\u00a0one of the continent&#8217;s\u00a0largest department store groups\u00a0with approximately 60 stores nationally.\u00a0</p>",
+    "region": "Australia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Navis Capital Partners",
+    "id": 8304,
+    "company_description": "<p>Founded in 1998, Navis Capital Partners (\u201cNavis\u201d) is one of the most established private equity firms in Southeast Asia and Australia. TPG NewQuest led a transaction in 2021 and selected five control-oriented companies, with meaningful geographic exposure primarily across Southeast Asia and Australiawhich was restructured into a continuation vehicle for additional value creation.</p>",
+    "region": "Asia",
+    "fund": "TPG NewQuest",
+    "industry": "Various",
+    "status_current": "Partially Realized"
+  },
+  {
+    "company_name": "Neiman Marcus",
+    "id": 7882,
+    "company_description": "<p>The Neiman Marcus Group is recognized as a premier luxury retailer dedicated to providing its customers with distinctive merchandise and superior service. The Neiman Marcus Group is comprised of the Specialty Retail Stores division \u2014 which includes Neiman Marcus Stores and Bergdorf Goodman \u2014 and the Direct Marketing division, Neiman Marcus Direct. These renowned retailers offer upscale assortments of apparel, accessories, jewelry, beauty and decorative home products to the affluent consumer. The company operates Neiman Marcus Stores across the U.S. and Bergdorf Goodman stores in Manhattan.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Newlight Technologies",
+    "id": 7885,
+    "company_description": "<p>Headquartered in Huntington Beach, California, Newlight is a producer of a carbon negative, biodegradable plastic replacement. The company has commercialized a patented method for converting methane into a natural resin called AirCarbon, which is a high-performance, carbon negative, ocean-degradable biomaterial that can be used to replace plastic in a number of end applications including food service consumables such as straws, cutlery, and cups.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Nintex",
+    "id": 7887,
+    "company_description": "<p>Nintex is a leading provider of process management and workflow automation software. Nintex provides a suite of products for enterprise customers to automate key business processes via an easy-to-use drag and drop interface. Importantly, Nintex\u2019s products are targeted at business users and do not require technical skills to utilize or deploy, reducing the need for scarce IT or software development resources to be involved in the automation of enterprise workflows.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Noodle.ai",
+    "id": 7890,
+    "company_description": "<p>Noodle.ai\u00a0combines human learning and machine learning technologies to help clients improve customer interactions, enhance decision making, and optimize business processes.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Norwegian Cruise Line",
+    "id": 7893,
+    "company_description": "<p>Norwegian Cruise Line Corporation Ltd. (NCL) is one of the leading cruise ship operators in the world.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Novolex",
+    "id": 7896,
+    "company_description": "<p>Novolex is an industry-leading manufacturer of paper and plastic flexible packaging products.</p>",
+    "region": "Americas",
+    "fund": null,
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Novotech Holdings",
+    "id": 7899,
+    "company_description": "<p>Novotech\u00a0is Australia\u2019s largest independent provider of clinical trials for new drugs.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Nox Corporation",
+    "id": 7902,
+    "company_description": "<p>Nox Corporation\u00a0is Korea\u2019s largest manufacturer of luxury vinyl tile, with distribution to more than 50 countries worldwide.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Odyssey Hotel Partners",
+    "id": 8146,
+    "company_description": "<p>Odyssey Hotel Partners is a select-service hotel platform focused on acquiring and operating high-RevPAR assets in premier locations and submarkets across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Onfido",
+    "id": 7905,
+    "company_description": "<p>Onfido is a high-growth biometric and identity verification (IDV) technology provider that enables the know-your-customer (KYC), anti-money-laundering (AML), user registration and identification processes for blue chip customers in 60+ countries around the world.</p>",
+    "region": "Europe",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Ontex",
+    "id": 7908,
+    "company_description": "<p>Ontex INnternational is a leading European private-label manufacturer of baby diapers, adult incontinence products, and feminine hygiene disposables.\u00a0</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "P3 Logistics Parks",
+    "id": 8149,
+    "company_description": "<p>P3 Logistics Parks is a leading pan-European logistics platform headquartered in Prague, Czech Republic</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "PJ United",
+    "id": 7926,
+    "company_description": "<p>Headquartered in Birmingham, AL, PJ United operates over 194 Papa John&#8217;s franchise units across 10 states, predominately in the Southeast United States.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "PS (The Private Suite)",
+    "id": 7952,
+    "company_description": "<p>PS is a private luxury terminal serving commercial flights at Los Angeles International Airport.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Par Pharmaceutical",
+    "id": 7653,
+    "company_description": "<p>Par Pharmaceutical (Now Endo International), based in Woodcliff Lake, N.J., is a specialty pharmaceutical company. Through its wholly-owned subsidiary&#8217;s two operating divisions, Par Pharmaceutical and Strativa Pharmaceuticals, it develops, manufactures and markets high-barrier-to-entry generic drugs and niche, innovative proprietary pharmaceuticals.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Pearl Dairy Farms",
+    "id": 7911,
+    "company_description": "<p>Pearl is a leading processor and distributor of long-life milk, milk powder, butter and ghee in Kenya and East Africa. The company does not own any farmland, sourcing milk from over 10,000 smallholder farmers in Uganda.</p>",
+    "region": "Africa",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "People 2.0",
+    "id": 7914,
+    "company_description": "<p>Headquartered in Pennsylvania, People 2.0, founded in 2001, offers outsourced employer of record (EOR) services to workforce deployment firms and agent of record (AOR) services to independent contractors. People 2.0&#8217;s services enable seamless placement of contingent workers, the fastest growing segment of the workforce, by providing HR administration and employment functions. End customers can access and place talent without concern over the administrative burden of employment.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Persefoni",
+    "id": 7917,
+    "company_description": "<p>Founded in 2020, Persefoni is a SaaS-based carbon management and accounting platform that helps enterprises and financial institutions measure and manage their portfolio-wide carbon footprint. Persefoni is a market leader in the rapidly evolving SaaS carbon accounting market.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Petco",
+    "id": 7920,
+    "company_description": "<p>Petco is a leading specialty retailer of premium pet food, supplies, and services. The company operates over 950 stores in 50 states and the District of Columbia.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Philz Coffee",
+    "id": 7923,
+    "company_description": "<p>Philz Coffee operates coffee shops across the Bay Area, Southern California, and Washington, D.C. The company specializes in custom blends and handcrafted drip coffee.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Physicus",
+    "id": 8155,
+    "company_description": "<p>Physicus is a partnership with Base Investments that focuses on acquiring and operating life science properties in strategic markets across Europe</p>",
+    "region": "Europe",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Planview",
+    "id": 7929,
+    "company_description": "<p>Headquartered in Austin, TX, Planview is a leading provider of project portfolio management (PPM) software, which enables organizations to plan, measure and execute projects by providing project management features and functionality, including timeline tracking, resource allocation, productivity assessment and team collaboration.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "PointPark Properties",
+    "id": 7932,
+    "company_description": "<p>P3 Logistics Parks\u00a0is a pan-European logistics real estate operating company\u00a0active in managing, leasing, and developing logistics warehouses.</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "PowerPlan",
+    "id": 7935,
+    "company_description": "<p>PowerPlan, Inc. is a leading provider of integrated, mission-critical tax, asset, depreciation, and project management solutions for asset-intensive companies.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Precision for Medicine",
+    "id": 7938,
+    "company_description": "<p>Precision\u00a0for Medicine is a specialized healthcare\u00a0services company that provides product development and commercialization support for pharmaceutical and life sciences businesses.\u200b</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Presence",
+    "id": 7941,
+    "company_description": "<p>Inspired to drive solutions for the national shortage of school clinicians, Presence is unlocking the potential of schools and clinicians by removing traditional barriers to success through an elevated approach to teletherapy. As a trusted leader since 2009, Presence is innovating how schools assess and address student special education and mental health needs. By equipping the largest network of teletherapy providers with award-winning technology and end-to-end clinical support, Presence is meeting the needs of schools, students, and clinicians today\u2014wherever they are. With 6 million remote evaluations and teletherapy sessions conducted throughout the U.S., schools and clinicians trust the experience and expertise of Presence, a pioneer in school-based teletherapy. Presence is teletherapy, elevated.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Prodigy Education",
+    "id": 7945,
+    "company_description": "<p>Headquartered in Oakville, Ontario and founded in 2011, Prodigy is a leading platform for game-based adaptive math learning in North America for grades 1 through 8. The primary product is an adaptive learning game, where students answer math questions to level up and progress in a world in the style of a role-playing game (RPG). The game is offered through a freemium model with a subscription offering paid for by parents.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "PropertyGuru",
+    "id": 7949,
+    "company_description": "<p>PropertyGuru Group is Asia\u2019s leading online property portal group used by more than 11 million property buyers\u00a0across Singapore, Malaysia, Indonesia, and Thailand.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Quintiles",
+    "id": 7961,
+    "company_description": "<p>Quintiles helps improve healthcare worldwide by providing professional services, information, and partnering solutions to the pharmaceutical, biotechnology, and healthcare industries. TPG merged Quintiles and IMS Health in 2016 to form IQVIA.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Rad Power Bikes",
+    "id": 7964,
+    "company_description": "<p>Headquartered in Seattle, Washington, Rad Power Bikes is the leading direct-to-consumer retailer of e-bikes in North America. The company&#8217;s core product offering is a range of 10 e-bikes that allow for power-assisted biking, which improves accessibility, range, and ease of use.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Rallybio",
+    "id": 7967,
+    "company_description": "<p>RallyBio is a New Haven, Connecticut based, preclinical stage, rare disease company.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "RefleXion",
+    "id": 7970,
+    "company_description": "<p>Reflexion Medical is a medical technology company developing the first and only biology-guided radiotherapy system (BgRT) for targeted cancer treatment.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Reliance Retail Ventures",
+    "id": 7973,
+    "company_description": "<p>Headquartered in Mumbai, India, Reliance Retail is the leading physical retailer and fastest growing omni-channel retailer in India, with over 12,000 stores and 27 million square feet of retail footprint.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Renaissance Learning",
+    "id": 7976,
+    "company_description": "<p>Renaissance Learning is a subscription SaaS-based education technology vendor serving K-12 schools.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Resource Label Group",
+    "id": 7979,
+    "company_description": "<p>Resource Label Group\u00a0is a leading full-service manufacturer of pressure-sensitive labels, shrink sleeves, and RFID/NFC technology.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Business Services",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Rhea Healthcare (Motherhood)",
+    "id": 7982,
+    "company_description": "<p>Rhea Healthcare operates a network for mother and child care centers in India under the \u201cMotherhood\u201d brand. The company is based in Bengaluru, India.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "ST Residential",
+    "id": 8017,
+    "company_description": "<p>ST Residential is a public-private partnership between the FDIC and a consortium of private equity investors, including TPG Capital, Starwood Capital, Perry Capital,\u00a0and WLR LeFrak. ST&#8217;s management of this partnership provides the greatest combination of industry experience and resources, offering the highest standards of design aesthetic and quality. By leveraging its considerable talent and experience, ST is managing its portfolio with an unmatched level of detail while also enhancing the portfolio with amenities and services uniquely suited for the communities they serve.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Sabre",
+    "id": 7985,
+    "company_description": "<p>Sabre Holdings is a leading technology provider to the global travel and tourism industry.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Sai Life Sciences",
+    "id": 7988,
+    "company_description": "<p>Sai Life Sciences is one of India\u2019s largest and fastest growing drug discovery, development, and manufacturing service providers.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "SauceLabs",
+    "id": 7991,
+    "company_description": "<p>Headquartered in San Francisco, CA, Sauce Labs is a DevOps software company that provides cloud-based functional testing of websites and mobile applications for enterprises. Sauce Labs automates application testing processes for software development organization, helping clients accelerate product releases and minimize errors related to new product features and updates.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Seagate",
+    "id": 7994,
+    "company_description": "<p>Seagate Technology designs, manufactures, and markets\u00a0hard disc drives\u00a0used in systems ranging from consumer electronics devices to data centers.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Shenzhen Development Bank",
+    "id": 7997,
+    "company_description": "<p>Shenzhen Development Bank&#8217;s principal activities are the provision of local and foreign currency deposits and loan services. Other activities include foreign currencies exchanging, foreign currency deposit and remittances, acts as an agent for issuing foreign currency value-bearing securities, management of letters of credit and operation of both an international and a domestic discounting service.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Shriram City Union",
+    "id": 8000,
+    "company_description": "<p>Shriram City Union Finance was established in 1986, and is part of the three-decade-old Chennai-based Shriram Group.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Shriram Transport",
+    "id": 8003,
+    "company_description": "<p>Shriram Transport\u00a0is a\u00a0leading finance provider for the commercial vehicle industry with a focus on providing credit facilities to small truck owners.\u00a0</p>\n<p>\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Sling Therapeutics",
+    "id": 8006,
+    "company_description": "<p>Sling Therapeutics developed out of biopharmaceutical company Sanofi&#8217;s pre-clinical Cystic Fibrosis program.\u00a0\u00a0Sling is working on developing a process to build a drug scaffold that has the potential to functionally cure Cystic Fibrosis.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "SmartSweets",
+    "id": 8008,
+    "company_description": "<p>Headquartered in Vancouver, BC, SmartSweets is a high-growth, insurgent brand in the confection category, with a clear mission to provide consumers with low-sugar, better-for-you candy.\u00a0 SmartSweets sells products across multiple channels.</p>",
+    "region": "Americas",
+    "fund": null,
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Sonatype",
+    "id": 8011,
+    "company_description": "<p>Sonatype provides automated open source governance solutions for software developers.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Spotify",
+    "id": 8014,
+    "company_description": "<p>Spotify is a leading music streaming service that allows users to discover, manage, and share music. Launched in Sweden, the company operates in more than 50 markets across the globe.</p>",
+    "region": "Europe",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "StackCommerce",
+    "id": 8020,
+    "company_description": "<p>StackCommerce is a product discovery platform that partners with more than 1,000 publishers and 5,000 brands to help people discover products and brands they love.</p>",
+    "region": null,
+    "fund": "TPG Digital Media",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Strive Communities",
+    "id": 8119,
+    "company_description": "<p>Strive Communities was an owner and operator of manufactured housing communities in strategic markets across the United States</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "SuccessFactors",
+    "id": 8023,
+    "company_description": "<p>SuccessFactors provides on-demand performance and talent management software that enables organizations to optimize the performance of their\u00a0people.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Surgical Care Affiliates",
+    "id": 8026,
+    "company_description": "<p>Surgical Care Affiliates\u00a0is a leader in the outpatient surgery industry that\u00a0strategically partners with physician groups, health plans, and health systems to optimize surgical facilities.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Tanium",
+    "id": 8029,
+    "company_description": "<p>Tanium\u00a0offers a unified endpoint management and security platform that is built for the world\u2019s most demanding IT environments.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Tata Motors",
+    "id": 8032,
+    "company_description": "<p>TPG Rise Climate is partnering with the Tata Group, India\u2019s largest and most respected business conglomerate, to invest in the Tata Group&#8217;s passenger electric vehicle business, TMEV. TMEV is the market leader, with a comprehensive EV offering that includes a next-gen vehicle range, 200+ sales and service touchpoints, and a pan-India charging network.</p>",
+    "region": "Asia",
+    "fund": "TPG Rise Climate",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Taylor Morrison",
+    "id": 8122,
+    "company_description": "<p>Taylor Morrison is the United States&#8217; fifth largest homebuilder and developer</p>",
+    "region": "Americas",
+    "fund": "TPG Real Estate Partners",
+    "industry": null,
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Teachers of Tomorrow",
+    "id": 8035,
+    "company_description": "<p>Teachers of Tomorrow is the largest teacher alternative certification platform in the US. The company provides training, certification and placement servces for aspiring teachers. Teachers of Tomorrow is building a comprehensive teacher career life-cycle platform by consolidating certification and job placement with professional development and test-preparation. Teachers of Tomorrow&#8217;s programs serve candidates and school districts in 9 states and have helped more than 70,000 teachers reach the classroom.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Tenth Revolution Group",
+    "id": 7710,
+    "company_description": "<p>Tenth Revolution Group is a leading global niche IT recruitment business that focuses exclusively on the enterprise software market. The company was founded in Newcastle, U.K., in 2007.</p>",
+    "region": "Europe",
+    "fund": null,
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "The Warranty Group",
+    "id": 8038,
+    "company_description": "<p>The Warranty Group provides warranty management, compliance, insurance, and underwriting services for auto and consumer products. Its clients include retail, financial, membership, manufacturing and real estate companies. The company was founded in 1964 and is based in Chicago, Illinois with locations in North America, Europe, Latin America, Europe and Asia.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Toast Inc.",
+    "id": 8045,
+    "company_description": "<p>Headquartered in Boston, MA, Toast is a cloud/tablet-based point of sale (POS) software platform that has gained leadership among small and medium-sized businesses in  the restaurant market.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Transplace Holdings",
+    "id": 8048,
+    "company_description": "<p>Transplace\u00a0is a leading provider of transportation management services and logistics technology solutions.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Transporeon",
+    "id": 8051,
+    "company_description": "<p>Transporeon is a leading European cloud-based network for industrial logistics businesses. The company offers connectivity-focused applications for the different stages of freight execution, enabling shippers and carriers to communicate, collaborate, and transact efficiently.</p>",
+    "region": "Europe",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Troon",
+    "id": 8054,
+    "company_description": "<p>Troon is the largest third-party golf course manager in the world, with over 600 golf and leisure facilities under management globally. Through its leading scale and operating experience, Troon delivers a differentiated value proposition to golf courses, helping them achieve financial and operational improvements. Troon also owns or leases over 50 courses which it operates directly, including the flagship Troon North in Scottsdale, Arizona.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Business Services",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Trumid",
+    "id": 8057,
+    "company_description": "<p>Trumid is a financial technology company bringing efficiency, connectivity and access to credit trading through innovative technology and product design. Trumid\u2019s product ecosystem leverages data and the power of the network effect to create transparency, liquidity and efficient trade execution. Trumid Market Center, the company\u2019s electronic trading platform, connects corporate bond market professionals to a broad network of liquidity and provides a range of trading protocols to access it.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "UBQ",
+    "id": 8063,
+    "company_description": "<p>UBQ produces a bio-based plastic substitute made from unsorted household waste, including food waste, garden waste, paper &#038; cardboard, and unrecycled plastic waste.  A sustainable replacement to plastic, wood or concrete, UBQ can be used both on its own and in conjunction with conventional oil-based resins to offset the overall carbon footprint of end-products in industries including construction, automotive, logistics, retail, and even 3D printing.</p>",
+    "region": null,
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Uber",
+    "id": 8060,
+    "company_description": "<p>Uber Technologies provides a mobile application that connects passengers with drivers of vehicles for hire. Uber\u00a0operates in multiple countries and is based in San Francisco, California.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "United Family Healthcare",
+    "id": 8066,
+    "company_description": "<p>United Family Healthcare, formerly known as Chindex, is a\u00a0leading premium private hospital chain operator in China.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Healthcare",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Varo Money",
+    "id": 8068,
+    "company_description": "<p>Varo Money is a mobile banking company that integrates banking, saving, and lending products with tools to help customers smooth cash flow and build savings.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Vaxcyte",
+    "id": 8071,
+    "company_description": "<p>Vaxcyte (formerly SutroVax) is a preclinical pneumococcal vaccine company.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Vertafore",
+    "id": 8074,
+    "company_description": "<p>Vertafore (formerly AMS Group) offers software, services, and information for U.S. property and\u00a0casualty insurance companies.\u00a0</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Vice Media",
+    "id": 8077,
+    "company_description": "<p>Vice Media\u00a0is a digital media company that produces a wide range of news and entertainment content.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Viking Cruises",
+    "id": 8080,
+    "company_description": "<p>Viking Cruises\u00a0is a leading provider of worldwide river and ocean cruises that focuses on creating culturally immersive, destination-centric experiences for its customers.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Vishal Megamart",
+    "id": 8083,
+    "company_description": "<p>Vishal Retail is a pioneer in discount retailing in India that is\u00a0focused on the country&#8217;s\u00a0tier II and III cities.\u00a0</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Visma AS",
+    "id": 8086,
+    "company_description": "<p>Headquartered in Oslo, Norway, Visma is a leading European provider of mission critical software to SMBs, private and public enterprises in the Nordic, Benelux and Baltic region, with a focus on accounting, resource planning and payroll software solutions.</p>",
+    "region": "Europe",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "WellSky",
+    "id": 8089,
+    "company_description": "<p>WellSky is a leading supplier of software as a service (SaaS) and other software platforms for healthcare and human services providers and payers across acute, non-acute, and community-based sites of care.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "Wilderness Holdings",
+    "id": 8092,
+    "company_description": "<p>Wilderness Holdings\u00a0is a leading ecotourism group with operations in seven African countries and a mission to conserve and restore African wilderness and wildlife.</p>",
+    "region": "Africa",
+    "fund": "The Rise Funds",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Wind River",
+    "id": 8095,
+    "company_description": "<p>Wind River is a leader in delivering software for the Internet of Things (IoT) that is currently in use by more than two billion products.</p>",
+    "region": "Americas",
+    "fund": "TPG Capital",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "XCL Education",
+    "id": 8101,
+    "company_description": "<p>XCL Education is one of the largest, fastest growing K-12 education platforms in Southeast Asia. Headquartered in Singapore, XCL serves more than 29,000 students across K-12 schools, Preschools and English Language Centers.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": "Consumer",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Zenoti",
+    "id": 8103,
+    "company_description": "<p>Headquartered in Bellevue, WA, Zenoti is a vertical SaaS and payments company focused on the beauty and wellness industry, including salons, spas, massage chains, and fitness centers.</p>",
+    "region": "Americas",
+    "fund": "TPG Technology Adjacencies",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Zhaoke Ophthalmology",
+    "id": 8106,
+    "company_description": "<p>Headquartered in Guangzhou, China, Zhaoke Ophthalmology is a leading innovative ophthalmology drug developer and manufacturer in China, with a pipeline of 23 drug candidates covering a variety of eye diseases.</p>",
+    "region": "Asia",
+    "fund": "TPG Capital Asia",
+    "industry": null,
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Zipline International",
+    "id": 8109,
+    "company_description": "<p>Headquartered in Half Moon Bay, California, Zipline is an early-stage, fully-integrated logistics company that transports blood, vaccines, and other medical supplies by fleets of autonomous drones launched from centralized, cold-chain enabled distribution centers.</p>",
+    "region": "Americas",
+    "fund": "The Rise Funds",
+    "industry": "Healthcare",
+    "status_current": "Active"
+  },
+  {
+    "company_name": "Zscaler",
+    "id": 8112,
+    "company_description": "<p>Zscaler\u00a0protects more than 15 million users at\u00a0some of the world\u2019s leading enterprises\u00a0through an Internet security platform built as a multi-tenant, distributed cloud service.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Software & Enterprise Technology",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "e.l.f. Cosmetics",
+    "id": 7642,
+    "company_description": "<p>e.l.f. Cosmetics was created with\u00a0the belief that innovative technology, quality ingredients, and superb delivery systems should not be limited to prestige retailers.</p>",
+    "region": "Americas",
+    "fund": "TPG Growth",
+    "industry": "Consumer",
+    "status_current": "Realized"
+  },
+  {
+    "company_name": "musixmatch",
+    "id": 8170,
+    "company_description": "<p>Musixmatch is the world\u2019s leading music data company, with lyrical content for millions of songs across 80+ languages.</p>",
+    "region": "Europe",
+    "fund": "TPG Growth",
+    "industry": "Internet, Digital Media & Communications",
+    "status_current": "Active"
+  }
+]
