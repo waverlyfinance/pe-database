@@ -1,0 +1,81 @@
+{
+  "companies": [
+    {
+      "company_name": "Public Trust Advisors",
+      "company_description": "Public Trust Advisors is a provider of investment advisory services and cash management solutions to public sector entities",
+      "date_of_investment": "20231229",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=public-trust-advisors"
+    },
+    {
+      "company_name": "Baker Hill",
+      "company_description": "Provider of loan origination software to financial institutions",
+      "date_of_investment": "20230719",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=baker-hill"
+    },
+    {
+      "company_name": "Bridgehaven",
+      "company_description": "UK domiciled hybrid-fronting carrier focused on specialty commercial insurance",
+      "date_of_investment": "20230705",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=bridgehaven"
+    },
+    {
+      "company_name": "Parkview Health Services",
+      "company_description": "Provider of specialized pharmacy services",
+      "date_of_investment": "20230623",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=parkview-health-services"
+    },
+    {
+      "company_name": "Sagesure",
+      "company_description": "Managing General Underwriter focused on homeowners and commercial property insurance in U.S. coastal exposed geographies",
+      "date_of_investment": "20230515",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=sagesure"
+    },
+    {
+      "company_name": "Clearstead",
+      "company_description": "Independent wealth management advisory firm serving high net worth private and institutional clients",
+      "date_of_investment": "20220131",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=clearstead"
+    },
+    {
+      "company_name": "Vale Insurance Partners",
+      "company_description": "Managing General Agency focused on transactional liability insurance products in North America and Europe",
+      "date_of_investment": "20211201",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=vale-insurance-partners"
+    },
+    {
+      "company_name": "Transnetwork",
+      "company_description": "B2B payment network that connects retailers and financial institutions to money transfer operators operating in the U.S.-Latin America corridor",
+      "date_of_investment": "20211006",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=transnetwork"
+    },
+    {
+      "company_name": "Alera Group",
+      "company_description": "Insurance agency offering employee benefits, commercial insurance, and retirement solutions",
+      "date_of_investment": "20210930",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=alera-group"
+    },
+    {
+      "company_name": "Payfacto",
+      "company_description": "Canadian-based provider of payment processing and point-of-sale (POS) systems",
+      "date_of_investment": "20210805",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=payfacto"
+    },
+    {
+      "company_name": "LERETA",
+      "company_description": "Provider of critical property tax and flood data to the mortgage industry",
+      "date_of_investment": "20210730",
+      "status_current": "Current",
+      "website": "https://flexpointford.com/?investment=lereta"
+    }
+  ]
+}
