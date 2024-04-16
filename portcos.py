@@ -837,3 +837,161 @@ def kelso_portcos():
     with open("_portcos_raw/kelso_portcos2.json", "w") as file:
         json.dump(unique_portcos, file, indent=2)
 
+def abry_portcos():
+    url = "https://abry.com/companies/"
+    firm = "Abry"
+    
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    soup = soup.find("body")
+
+    # Step 1: Extract URLs for each company from the total portfolio page
+    company_links = soup.select(".company-grid a")
+    urls = []
+
+    for link in company_links: 
+        if 'href' in link.attrs:
+            urls.append(link['href'])
+        else:
+            None
+
+    # Step 2: Loop through each company and extract the data
+    portcos = []
+    
+    for url in urls:
+        response = requests.get(url, headers=headers)
+        response.encoding = "utf-8"
+        soup = BeautifulSoup(response.text, "html.parser")
+        soup = soup.find("body")
+        
+        portco = {}
+
+        company_name = soup.find('h1').text if soup.find('h1') else None
+        company_description = soup.find('div', class_='summary').p.text if soup.find('div', class_='summary') else None
+        details = {li.strong.text.strip(':'): li.span.text for li in soup.find_all('li') if li.strong and li.span}
+
+        # Extracted details
+        status_current = details.get('Status')
+        industry = details.get('Sector')
+        date_of_investment = details.get('Investment Year')
+        hq = details.get('Headquarters')
+        fund = details.get('Fund')
+        website = details.get("Website")
+
+
+        # Compile all extracted data into a dictionary
+        portco.update({
+            "company_name": company_name, 
+            "company_description": company_description,
+            "date_of_investment": date_of_investment, 
+            "industry": industry, 
+            "hq": hq, 
+            "status_current": status_current,
+            "website": website,
+            "firm": firm
+        })
+    
+        portcos.append(portco)
+
+    # output into a file
+    with open("_portcos_raw/abry_portcos.json", "w") as file:
+        json.dump(portcos, file, indent=2)
+
+# TODO: Need Selenium or Puppeteer? HTML missing many companies
+def stonepoint_portcos():
+    url = "https://www.stonepoint.com/private-equity/companies/"
+    firm = "Stone Point"
+    
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    soup = soup.find("body")
+
+    # Step 1: Extract URLs for each company from the total portfolio page
+    company_links = soup.find_all('a', href=True)
+    urls = []
+
+    for link in company_links: 
+        href = link['href']
+        # Filter out any links that do not lead to specific company pages or irrelevant links
+        if 'company' in href:
+            urls.append(href)
+
+    urls.extend([
+        "https://www.stonepoint.com/company/carlile-bancshares/",
+        "https://www.stonepoint.com/company/businessolver/",
+        "https://www.stonepoint.com/company/citco/",
+        "https://www.stonepoint.com/company/clearpoint-health/",
+        "https://www.stonepoint.com/company/crea/",
+        "https://www.stonepoint.com/company/cross-ocean-partners/",
+        "https://www.stonepoint.com/company/dmg-bancshares/",
+        "https://www.stonepoint.com/company/everbank/",
+        "https://www.stonepoint.com/company/hyphen-solutions/",
+        "https://www.stonepoint.com/company/ieq-capital/",
+        "https://www.stonepoint.com/company/lincoln-property-company/",
+        "https://www.stonepoint.com/company/lone-wolf-technologies/",
+        "https://www.stonepoint.com/company/onboard-partners/",
+        "https://www.stonepoint.com/company/prima-capital-advisors/",
+        "https://www.stonepoint.com/company/prismhr/",
+        "https://www.stonepoint.com/company/private-client-select-insurance-services/",
+        "https://www.stonepoint.com/company/sabal-capital-holdings/",
+        "https://www.stonepoint.com/company/sambasafety/",
+        "https://www.stonepoint.com/company/sunfire/",
+        "https://www.stonepoint.com/company/ten-x/",
+        "https://www.stonepoint.com/company/tree-line-capital/",
+        "https://www.stonepoint.com/company/truist-insurance-holdings/",
+        "https://www.stonepoint.com/company/verisys/",
+        "https://www.stonepoint.com/company/vervent/",
+    ])
+
+    # Step 2: 
+    portcos = []
+
+    for url in urls:
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, "html.parser")
+        soup = soup.find("body")
+        
+        portco = {}
+
+        # Locate the container that holds the informati
+        company_container = soup.find('div', class_='company-modal')
+
+        company_name = company_container.find('h2', class_='company-modal-title').text if company_container.find('h2', class_='company-modal-title') else None
+        company_description = company_container.find('div', class_='markdown-content').text.strip() if company_container.find('div', class_='markdown-content') else None
+        website = company_container.find('a', class_='company-modal-link')['href'] if company_container.find('a', class_='company-modal-link') else None
+        
+        details = {item.text.split(':')[0]: item.find('span').text.strip() for item in company_container.find_all('li') if ':' in item.text}
+
+        date_of_investment = details.get('Investment Year')
+        hq = details.get('HQ')
+        status_current = details.get('Status')
+        
+        # industry
+        sector_div = company_container.find('h4', class_='company-modal-detail-title', string='Sector(s)')
+        if sector_div:
+            sector_list = sector_div.find_next_sibling('ul')
+            industry = ', '.join([li.text.strip() for li in sector_list.find_all('li')]) if sector_list else None
+        else:
+            industry = None
+
+        # Create a dictionary of the extracted information
+        portco = {
+            "company_name": company_name,
+            "company_description": company_description,
+            "date_of_investment": date_of_investment,
+            "industry": industry,
+            "hq": hq,
+            "status_current": status_current,
+            "website": website,
+            "firm": firm
+        }
+
+        # Append the dictionary to the list
+        portcos.append(portco)
+
+    # output into a file
+    with open("_portcos_raw/stonepoint_portcos.json", "w") as file:
+        json.dump(portcos, file, indent=2)
+
+stonepoint_portcos()
+
