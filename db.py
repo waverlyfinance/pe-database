@@ -1,32 +1,39 @@
-from portcos import *
+import os
 import json
-import sqlite3
+import psycopg2
+
+#TODO: Clean up TPG, KKR, AmSec, Platinum. Then export to Neon
 
 # grab values from JSON file
-with open("_portcos_processed/tpg_portcos.json", "r") as file:
+with open("_portcos_raw/courtsquare_portcos.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-# Connect to SQLite
-connection = sqlite3.connect("portcos_test.db")
+# Connect to Postgres
+connection_string = "postgresql://portcos_test_owner:6wrlIDbXz9qP@ep-rough-dream-a5c4u78v.us-east-2.aws.neon.tech/portcos_test?sslmode=require"
+connection = psycopg2.connect(connection_string)
 cursor = connection.cursor()
 
 # db definition
-db_name = "portcos2"
+db_name = "portcos_test"
 
 columns = """
-    company_name TEXT PRIMARY KEY, 
+    id SERIAL PRIMARY KEY,
+    firm TEXT,
+    company_name TEXT, 
     company_description TEXT,
     industry TEXT, 
-    date_of_investment INTEGER,
+    date_of_investment TEXT,
     status_current TEXT, 
     region TEXT, 
     fund TEXT,
     hq TEXT,  
     website TEXT,
-    follow_on TEXT
+    follow_on TEXT, 
+    ceo TEXT
 """
 
 column_names = [
+    "firm",
     "company_name", 
     "company_description",
     "industry", 
@@ -36,38 +43,30 @@ column_names = [
     "fund",
     "hq",  
     "website",
-    "follow_on"
+    "follow_on",
+    "ceo"
     ]
 
-# concatenate the list above into 1 string to pass into a SQL command
-column_names_sql = ", ".join(column_names)
+column_names_sql = ", ".join(column_names) # concatenate the list above into 1 string to pass into a SQL command
 
-# create table 
-cursor.execute(f"CREATE TABLE IF NOT EXISTS {db_name} ({columns})")
 
-# insert query
-insert_query = f"INSERT INTO {db_name} ({column_names_sql}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+def create_db():
+    cursor.execute(f"CREATE TABLE IF NOT EXISTS {db_name} ({columns})")
+    # insert query
+    insert_query = f"INSERT INTO {db_name} ({column_names_sql}) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 
-# programmatically loop through column names + values 
-for company in data:
-    values = []
-    for column in column_names:
-        value = company.get(column) # in the JSON file, some are missing fields for "fund", etc.
-        values.append(value) 
-    
-    # Bypasses duplicate errors. Can't insert values into a table that already exists
-    try:
+    # programmatically loop through column names + values 
+    for company in data:
+        values = []
+        for column in column_names:
+            value = company.get(column) # in the JSON file, some are missing fields for "fund", etc.
+            values.append(value) 
+        
         cursor.execute(insert_query, values)
-    except sqlite3.IntegrityError as error:
-        print(f"An error occured: {error}")
 
-connection.commit()
+    # commit and close
+    connection.commit()
+    cursor.close()
+    connection.close()
 
-# query
-query = f"SELECT * FROM {db_name}"
-
-# print
-rows = cursor.execute(query).fetchall()
-for row in rows:
-    print(row)
-
+create_db()

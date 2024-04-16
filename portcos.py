@@ -916,8 +916,8 @@ def stonepoint_portcos():
         if 'company' in href:
             urls.append(href)
 
+    # the following companies are somehow missing from the HTML. Maybe Javascript rendering?? Adding manually below.  
     urls.extend([
-        "https://www.stonepoint.com/company/carlile-bancshares/",
         "https://www.stonepoint.com/company/businessolver/",
         "https://www.stonepoint.com/company/citco/",
         "https://www.stonepoint.com/company/clearpoint-health/",
@@ -955,18 +955,16 @@ def stonepoint_portcos():
 
         # Locate the container that holds the informati
         company_container = soup.find('div', class_='company-modal')
-
         company_name = company_container.find('h2', class_='company-modal-title').text if company_container.find('h2', class_='company-modal-title') else None
         company_description = company_container.find('div', class_='markdown-content').text.strip() if company_container.find('div', class_='markdown-content') else None
         website = company_container.find('a', class_='company-modal-link')['href'] if company_container.find('a', class_='company-modal-link') else None
         
         details = {item.text.split(':')[0]: item.find('span').text.strip() for item in company_container.find_all('li') if ':' in item.text}
-
         date_of_investment = details.get('Investment Year')
         hq = details.get('HQ')
         status_current = details.get('Status')
         
-        # industry
+        # industry extraction
         sector_div = company_container.find('h4', class_='company-modal-detail-title', string='Sector(s)')
         if sector_div:
             sector_list = sector_div.find_next_sibling('ul')
@@ -974,7 +972,6 @@ def stonepoint_portcos():
         else:
             industry = None
 
-        # Create a dictionary of the extracted information
         portco = {
             "company_name": company_name,
             "company_description": company_description,
