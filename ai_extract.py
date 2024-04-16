@@ -167,21 +167,6 @@ def scrape_code(processed_html):
 
 
 # STANDARDIZING FOR DATABASE
-
-class Portco(BaseModel):
-    company_name: str | None 
-    company_description: str | None 
-    industry: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services")
-    date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
-    status_current: str | None = Field(None, description="Whether the company is current / active, or realized / former")
-    region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
-    fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, etc.")
-    hq: str | None 
-    website: str | None = Field(None, description="url or path to the portfolio company's website")
-    PE_firm: str = Field(None, description="Name of the private equity firm. E.g. TPG, KKR, Bain Capital, etc.")
-
-
-
 class standardized_fields(BaseModel):
     industry: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services")
     date_of_investment: int | None = Field(None, description="Must be an integer in mm/dd/yyyy format. If no date or month is given, assume the 1st day or 1st month.")

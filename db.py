@@ -22,8 +22,8 @@ columns = """
     region TEXT, 
     fund TEXT,
     hq TEXT,  
-    website TEXT
-    follow_on 
+    website TEXT,
+    follow_on TEXT
 """
 
 column_names = [
@@ -35,7 +35,8 @@ column_names = [
     "region", 
     "fund",
     "hq",  
-    "website"
+    "website",
+    "follow_on"
     ]
 
 # concatenate the list above into 1 string to pass into a SQL command
@@ -45,7 +46,7 @@ column_names_sql = ", ".join(column_names)
 cursor.execute(f"CREATE TABLE IF NOT EXISTS {db_name} ({columns})")
 
 # insert query
-insert_query = f"INSERT INTO {db_name} ({column_names_sql}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
+insert_query = f"INSERT INTO {db_name} ({column_names_sql}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
 
 # programmatically loop through column names + values 
 for company in data:
