@@ -1,0 +1,1082 @@
+[
+  {
+    "company_name": "21st Century Newspapers",
+    "company_description": "Owner and operator of daily and weekly newspapers in the Michigan suburbs",
+    "date_of_investment": "1997",
+    "industry": "Media",
+    "region": "Pontiac, MI",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "360networks",
+    "company_description": "International telecommunications company with a focus on fiber optic cable development and international carrier operations",
+    "date_of_investment": "1999",
+    "industry": "Services",
+    "region": "Hamilton, Bermuda",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "4Refuel",
+    "company_description": "Provider of mobile on-site refueling and fuel management services in Canada and the U.S.",
+    "date_of_investment": "2013",
+    "industry": "Services",
+    "region": "Langley, British Columbia / Oakville, Ontario",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Ajax Resources",
+    "company_description": "Exploration and production company focusing on oil and gas development in the Permian Basin",
+    "date_of_investment": "2015",
+    "industry": "Energy",
+    "region": "Houston, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "American Beacon",
+    "company_description": "Leading asset management platform serving institutional and retail investors",
+    "date_of_investment": "2015",
+    "industry": "Financial Services",
+    "region": "Dallas, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "American Buildings",
+    "company_description": "Manufacturer of pre-engineered steel buildings",
+    "date_of_investment": "1986",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "American Standard",
+    "company_description": "Manufacturer of building supplies, air conditioning and electronic braking systems for trucks",
+    "date_of_investment": "1988",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Americold",
+    "company_description": "Operator of refrigerated warehouses",
+    "date_of_investment": "1986",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "AMF Bowling",
+    "company_description": "Owner and operator of commercial bowling centers in the United States and worldwide",
+    "date_of_investment": "1996",
+    "industry": "Consumer",
+    "region": "Richmond, VA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Aquilex",
+    "company_description": "Leading provider of critical maintenance, repair and industrial cleaning services to the energy industry",
+    "date_of_investment": "2008",
+    "industry": "Services",
+    "region": "Atlanta, GA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Arkansas Best",
+    "company_description": "Less-than-truck load trucking company",
+    "date_of_investment": "1988",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Armkel",
+    "company_description": "Leading marketer and manufacturer of well-recognized, branded personal care consumer products",
+    "date_of_investment": "2001",
+    "industry": "Consumer",
+    "region": "Princeton, NJ",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Augusta Sportswear",
+    "company_description": "Leading national supplier of on-the-field team uniforms and other team related sportswear",
+    "date_of_investment": "2012",
+    "industry": "Consumer",
+    "region": "Augusta, GA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "BradyPLUS",
+    "company_description": "Leading distributor of foodservice disposables, janitorial & sanitation supplies, and non-perishable food products",
+    "date_of_investment": "2019",
+    "industry": "Industrial",
+    "region": "Bell, CA",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Bridgenext",
+    "company_description": "Bridgenext is a global digital consultancy based in the U.S., Canada and India that facilitates highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, as well as brand elevation through digital experience, creative content and customer data analytics services.",
+    "date_of_investment": "2022",
+    "industry": "Business Services",
+    "region": "Jacksonville, FL",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Buckeye Partners",
+    "company_description": "Primary distributor of petroleum in the East and Mid-West of the United States",
+    "date_of_investment": "2007",
+    "industry": "Energy",
+    "region": "Houston, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "BWAY",
+    "company_description": "One of the largest manufacturers of rigid metal, plastic and hybrid containers in North America",
+    "date_of_investment": "2003",
+    "industry": "Industrial",
+    "region": "Atlanta, GA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Cambridge Display Technology",
+    "company_description": "Patent-holder and principal enabler of the next generation of display technologies using Light Emitting Polymers",
+    "date_of_investment": "1999",
+    "industry": "Industrial",
+    "region": "Cambridge, United Kingdom",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Charter Communications Companies",
+    "company_description": "Owner and operator of cable television properties",
+    "date_of_investment": "1994",
+    "industry": "Media",
+    "region": "St. Louis, MO",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Citation",
+    "company_description": "Manufacturer of cast, forged and machined components made from iron, steel and aluminum",
+    "date_of_investment": "1999",
+    "industry": "Industrial",
+    "region": "Birmingham, AL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Club Car",
+    "company_description": "Manufacturer of golf cars, utility and transportation vehicles for commercial, industrial and recreational purposes",
+    "date_of_investment": "1988",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Consolidated Vision",
+    "company_description": "Retailers of prescription eyeglasses and contact lenses and franchisors of retail optical stores",
+    "date_of_investment": "1997",
+    "industry": "Consumer",
+    "region": "Pennsauken, NJ",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Crescent Point Energy",
+    "company_description": "Oil and gas company focused on crude oil production in southern Saskatchewan, Canada",
+    "date_of_investment": "2008",
+    "industry": "Energy",
+    "region": "Calgary, Alberta, Canada",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Cronos",
+    "company_description": "Leading lessor of intermodal shipping containers",
+    "date_of_investment": "2010",
+    "industry": "Financial Services",
+    "region": "Hamilton, Bermuda",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Custom Building Products",
+    "company_description": "Leader in flooring preparation products and tile and stone installation systems for residential and commercial projects",
+    "date_of_investment": "2005",
+    "industry": "Industrial",
+    "region": "Seal Beach, CA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "CVR Energy Companies",
+    "company_description": "One of the largest independent petroleum refiners and marketers in the mid-continental U.S.",
+    "date_of_investment": "2005",
+    "industry": "Energy",
+    "region": "Sugar Land, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Cygnus Publishing",
+    "company_description": "Publisher of controlled circulation trade and business magazines in the U.S.",
+    "date_of_investment": "1997",
+    "industry": "Media",
+    "region": "Jacksonville, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Dakota Growers Pasta",
+    "company_description": "Manufacturer of pasta for the private label, retail, foodservice and ingredient markets",
+    "date_of_investment": "2007",
+    "industry": "Consumer",
+    "region": "Carrington, ND",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Del Laboratories",
+    "company_description": "Manufacturer and marketer of cosmetics and over-the-counter pharmaceuticals",
+    "date_of_investment": "2005",
+    "industry": "Consumer",
+    "region": "Uniondale, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Delphin Shipping",
+    "company_description": "Owner of dry bulk ships",
+    "date_of_investment": "2010",
+    "industry": "Industrial",
+    "region": "New York, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Douglas Broadcasting",
+    "company_description": "Operator of radio stations",
+    "date_of_investment": "1992",
+    "industry": "Media",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "DS Waters of America",
+    "company_description": "Bottler and distributor of water and related products to the home and office delivery and retail markets throughout the U.S.",
+    "date_of_investment": "2005",
+    "industry": "Consumer",
+    "region": "Atlanta, GA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "EACOM Timber",
+    "company_description": "Canadian lumber manufacturer with ownership of sawmills and timber rights in Eastern Canada",
+    "date_of_investment": "2013",
+    "industry": "Industrial",
+    "region": "Montreal, Quebec, Canada",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Eagle Bulk Shipping",
+    "company_description": "Owner of dry bulk ships",
+    "date_of_investment": "2005",
+    "industry": "Industrial",
+    "region": "New York, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Eagle Foods",
+    "company_description": "Eagle Foods (\u201cEagle\u201d) is a leading provider of food products with diversification across multiple categories and a focus on branded products.  Eagle operates in three large and stable center-of-the-store categories with staple brands including Meal Solutions (Hamburger Helper, Suddenly Salad), Baking (Eagle, Magnolia) and Ready-To-Eat popcorn (G.H. Cretors, Popcorn Indiana).",
+    "date_of_investment": "2015",
+    "industry": "Consumer",
+    "region": "Cleveland, OH",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Earle M. Jorgensen",
+    "company_description": "Distributor of metal bar and tubing products",
+    "date_of_investment": "1990",
+    "industry": "Services",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Elara Caring",
+    "company_description": "Leading provider of home healthcare services including personal care services, skilled home healthcare and hospice.",
+    "date_of_investment": "2018",
+    "industry": "Healthcare",
+    "region": "Dallas, TX",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Ellis Communications",
+    "company_description": "Owner and operator of TV station KDOC-TV in Orange County, CA",
+    "date_of_investment": "2006",
+    "industry": "Media",
+    "region": "Santa Ana, CA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Ellis Communications",
+    "company_description": "Broadcast television station and cable operator",
+    "date_of_investment": "1993",
+    "industry": "Media",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Endo Pharmaceuticals",
+    "company_description": "Specialty pharmaceutical company primarily focused on pain management products",
+    "date_of_investment": "1997",
+    "industry": "Healthcare",
+    "region": "Chadds Ford, PA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Endurance Business Media",
+    "company_description": "Leading specialty publisher of residential real estate and rental property advertising publications in the U.S.",
+    "date_of_investment": "2004",
+    "industry": "Media",
+    "region": "Tallahassee, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "FairPoint Communications",
+    "company_description": "Leading provider of telecommunications services in rural communities",
+    "date_of_investment": "1997",
+    "industry": "Services",
+    "region": "Charlotte, NC",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Ferraro Foods",
+    "company_description": "Foodservice distributor focused on the Italian specialty and pizzeria markets.",
+    "date_of_investment": "2021",
+    "industry": "Consumer",
+    "region": "Piscataway, NJ",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Foundation Consumer Brands",
+    "company_description": "Platform of seven OTC brands that primarily compete in the nasal strip, pediatric cough & cold, and oral analgesic categories",
+    "date_of_investment": "2020",
+    "industry": "Consumer",
+    "region": "Pittsburgh, PA",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Foundation Consumer Healthcare",
+    "company_description": "Over-the-counter (\u201cOTC\u201d) pharmaceutical platform that owns market leading brands including Plan B One-Step (emergency contraceptive), Theravent (snoring relief), Campho-Phenique (cold sore relief), St. Joseph (low-dose aspirin), Bronkaid (asthma relief), and Neo-Synephrine (nasal decongestant).",
+    "date_of_investment": "2017",
+    "industry": "Consumer",
+    "region": "Pittsburgh, PA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "General Medical",
+    "company_description": "Distributor of medical supplies",
+    "date_of_investment": "1993",
+    "industry": "Healthcare",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Global Geophysical Services",
+    "company_description": "Provider of land, transition zone and shallow marine seismic data acquisition and data processing to major oil and gas customers",
+    "date_of_investment": "2006",
+    "industry": "Energy",
+    "region": "Houston, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Global Ship Lease",
+    "company_description": "Owner of containerships",
+    "date_of_investment": "2010",
+    "industry": "Industrial",
+    "region": "London, United Kingdom",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Harbor Community Bank",
+    "company_description": "Community banking platform in Florida",
+    "date_of_investment": "2010",
+    "industry": "Financial Services",
+    "region": "Indiantown, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Harris Specialty Chemicals",
+    "company_description": "Manufacturer and marketer of specialty chemicals and chemical materials for the construction industry",
+    "date_of_investment": "1994",
+    "industry": "Industrial",
+    "region": "Jacksonville, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "HCI Direct",
+    "company_description": "Engaged in the direct mail marketing, manufacturing, and distribution of women's sheer hosiery products in the U.S.",
+    "date_of_investment": "1994",
+    "industry": "Consumer",
+    "region": "Bensalem, PA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Helios",
+    "company_description": "Helios is a leading provider of pharmacy benefit management (\u201cPBM\u201d) services, durable medical equipment, home health care, transportation, translation and Medicare compliance solutions for workers\u2019 compensation insurance carriers and third-party administrators.  Helios was formed at the time of Kelso\u2019s investment through the merger of Progressive Solutions (\u201cProgressive\u201d) and PMSI, which were the #2 and #3 PBM providers in the workers\u2019 compensation market at the time. The combination created the largest dedicated PBM serving the workers\u2019 compensation industry.",
+    "date_of_investment": "2013",
+    "industry": "Healthcare",
+    "region": "Memphis, TN",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Hilite",
+    "company_description": "Designer and manufacturer of a diversified line of highly engineered components for the automotive industry",
+    "date_of_investment": "1999",
+    "industry": "Industrial",
+    "region": "Cleveland, OH",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Hillside Broadcasting",
+    "company_description": "Owned and operated the ABC television affiliate in Wilmington, NC",
+    "date_of_investment": "1995",
+    "industry": "Media",
+    "region": "Wilmington, NC",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Humphreys",
+    "company_description": "Manufacturer and merchandiser of men's and boys' apparel, belts and personal leather goods",
+    "date_of_investment": "1995",
+    "industry": "Consumer",
+    "region": "Chicago, IL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Hunt Marcellus",
+    "company_description": "Joint venture between Kelso and the Hunt Oil Company formed specifically to acquire and develop natural gas assets in the Marcellus shale",
+    "date_of_investment": "2010",
+    "industry": "Energy",
+    "region": "Dallas, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "iGPS",
+    "company_description": "Operator of plastic pallet rental service",
+    "date_of_investment": "2007",
+    "industry": "Services",
+    "region": "Orlando, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "IHOP",
+    "company_description": "Retail restaurant chain",
+    "date_of_investment": "1987",
+    "industry": "Consumer",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Investment - Armada",
+    "company_description": "Aggregates and asphalt platform formed in partnership with CEO Rob Duke",
+    "date_of_investment": "2023",
+    "industry": "Industrial",
+    "region": "Tampa, FL",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Investment - Inovar",
+    "company_description": "A leading provider of decorative labels to high-growth customers in food and beverage, nutraceuticals, pet care, and medical end markets.",
+    "date_of_investment": "2022",
+    "industry": "Industrial",
+    "region": "Dallas, TX",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "J.S. Held",
+    "company_description": "J.S. Held is a specialized global consulting firm whose professionals serve as trusted, expert advisors to organizations facing high-stakes events.",
+    "date_of_investment": "2019",
+    "industry": "Financial Services",
+    "region": "Jericho, NY",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "KAR Auction Services",
+    "company_description": "KAR Auction Services (\u201cKAR\u201d) is a leading provider of vehicle auction services in North America for sellers of used and salvage vehicles through numerous auction locations and multiple proprietary internet venues. Revenues are generated from auction fees from both vehicle buyers and sellers, as well as value-added ancillary services, including inspections, storage, transportation, reconditioning, salvage recovery, titling and floorplan financing.",
+    "date_of_investment": "2005",
+    "industry": "Services",
+    "region": "Carmel, IN",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Kelso Overland",
+    "company_description": "Less-than-truck load trucking company",
+    "date_of_investment": "1987",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Key Components",
+    "company_description": "Designer and manufacturer of value-added, custom-engineered componentry",
+    "date_of_investment": "2000",
+    "industry": "Industrial",
+    "region": "Tarrytown, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Kinder Morgan",
+    "company_description": "Largest energy infrastructure company in North America specializing in owning and controlling oil and gas pipelines and terminals",
+    "date_of_investment": "2007",
+    "industry": "Energy",
+    "region": "Houston, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "King Broadcasting",
+    "company_description": "Operator of broadcast TV and cable properties",
+    "date_of_investment": "1992",
+    "industry": "Media",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Landstar Systems",
+    "company_description": "Less-than-truck load trucking company",
+    "date_of_investment": "1991",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Lebanon Valley Offset",
+    "company_description": "Provider of offset printing for annual reports",
+    "date_of_investment": "1986",
+    "industry": "Services",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Logan's Roadhouse",
+    "company_description": "Affordable, full service restaurant chain across the U.S.",
+    "date_of_investment": "2010",
+    "industry": "Consumer",
+    "region": "Nashville, TN",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Masland Industries",
+    "company_description": "Manufacturer of carpet and trunk liners for the auto industry",
+    "date_of_investment": "1991",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Merchants",
+    "company_description": "Less-than-truck load trucking company",
+    "date_of_investment": "1990",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Mitchell Supreme Fuel",
+    "company_description": "Distributor of fuel oil and natural gas in New Jersey",
+    "date_of_investment": "1988",
+    "industry": "Services",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Mosler",
+    "company_description": "Manufacturer and servicer of security products and systems",
+    "date_of_investment": "1990",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Newport Group",
+    "company_description": "Leading independent provider of retirement services in the U.S., with over one million employee participants and more than $160 billion in assets under administration",
+    "date_of_investment": "2018",
+    "industry": "Financial Services",
+    "region": "Walnut Creek, California",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Nivel",
+    "company_description": "Largest supplier of aftermarket parts and accessories to the golf cart market",
+    "date_of_investment": "2012",
+    "industry": "Industrial",
+    "region": "Jacksonville, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Nortek",
+    "company_description": "Diversified manufacturer of residential and commercial building products",
+    "date_of_investment": "2003",
+    "industry": "Industrial",
+    "region": "Providence, RI",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Novvia Group",
+    "company_description": "Leading distributor of rigid container and life sciences packaging.",
+    "date_of_investment": "2020",
+    "industry": "Industrial",
+    "region": "Atlanta, GA",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Oasis Outsourcing",
+    "company_description": "Leading professional employer organization serving businesses in a diverse range of industries",
+    "date_of_investment": "2017",
+    "industry": "Services",
+    "region": "West Palm Beach, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Oceana Therapeutics",
+    "company_description": "Specialty therapeutics organization formed to commercialize products, with a focus on colorectal, gastroenterology and urological disease",
+    "date_of_investment": "2009",
+    "industry": "Healthcare",
+    "region": "Edison, NJ",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Optigas",
+    "company_description": "Gatherer, processor and marketer of natural gas in the Powder River Basin, East Texas and Louisiana",
+    "date_of_investment": "2004",
+    "industry": "Energy",
+    "region": "Denver, CO",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Overwatch Systems",
+    "company_description": "Leading provider of software-based multi-source intelligence analysis tools to US intelligence agencies",
+    "date_of_investment": "2004",
+    "industry": "Services",
+    "region": "Morristown, NJ",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Pathstone",
+    "company_description": "Independent wealth management firm that provides fee-based investment advisory and comprehensive family office services",
+    "date_of_investment": "2023",
+    "industry": "Financial Services",
+    "region": "Englewood, NJ",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Peebles",
+    "company_description": "Operator of specialty department stores offering moderately priced merchandise to customers in small towns and communities",
+    "date_of_investment": "1995",
+    "industry": "Consumer",
+    "region": "South Hill, VA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Physicians Endoscopy",
+    "company_description": "Leading operator of gastroenterology-focused ambulatory surgery centers",
+    "date_of_investment": "2016",
+    "industry": "Healthcare",
+    "region": "Jamison, PA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "PowerTeam Services",
+    "company_description": "Provider of outsourced services for the maintenance, repair and installation of electric and natural gas infrastructure",
+    "date_of_investment": "2012",
+    "industry": "Energy",
+    "region": "Cary, NC",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Premia Re",
+    "company_description": "Reinsurance company focused on the property and casualty run-off market",
+    "date_of_investment": "2017",
+    "industry": "Financial Services",
+    "region": "Bermuda",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "PSAV",
+    "company_description": "Leading provider of audio visual equipment and event technology support to the hotel, conference and event industry in North America and Europe",
+    "date_of_investment": "2007",
+    "industry": "Services",
+    "region": "Schaumburg, IL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Refresh Mental Health",
+    "company_description": "National provider of outpatient mental health services with over 200 locations in the United States",
+    "date_of_investment": "2020",
+    "industry": "Healthcare",
+    "region": "Jacksonville Beach, FL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Renfro",
+    "company_description": "Largest designer, marketer and manufacturer of socks sold in the U.S.",
+    "date_of_investment": "2006",
+    "industry": "Consumer",
+    "region": "Mount Airy, NC",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "ReSource Pro",
+    "company_description": "A leading provider of outsourced business process management and consulting / advisory services to U.S. based insurance brokers, managing general agents, carriers, and third-party administrators.",
+    "date_of_investment": "2021",
+    "industry": "Financial Services",
+    "region": null,
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "RHI Entertainment",
+    "company_description": "Developer, producer and distributor of made-for-television movies and mini-series",
+    "date_of_investment": "2006",
+    "industry": "Media",
+    "region": "New York, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Risk Strategies Company",
+    "company_description": "Founded in 1997 by Chairman Mike Christian, Risk Strategies Company (\u201cRSC\u201d) is a leading specialty-focused insurance broker that provides retail brokerage solutions for commercial clients and high net worth individuals, and wholesale products for agencies. RSC has a client-centric approach with 100,000+ retail clients supported by 100+ offices across the U.S. and 3,000+ employees. RSC benefits from a differentiated business model focused largely on more complex specialty practices, including healthcare, professional liability, entertainment, and fine arts.",
+    "date_of_investment": null,
+    "industry": "Financial Services",
+    "region": "Boston, MA",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Sandler O'Neill + Partners",
+    "company_description": "Full-service investment banking firm focused on the financial services sector",
+    "date_of_investment": "2010",
+    "industry": "Financial Services",
+    "region": "New York, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Savant",
+    "company_description": "Wealth management firm providing fee-based wealth advisory services.",
+    "date_of_investment": "2021",
+    "industry": "Financial Services",
+    "region": "Rockford, IL",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Scient Companies",
+    "company_description": "Internet services company which provided strategy consulting and comprehensive Internet-based solutions to Fortune 1000 companies",
+    "date_of_investment": "1996",
+    "industry": "Services",
+    "region": "Atlanta, GA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Sentinel Data Centers",
+    "company_description": "Developer and operator of highly fault tolerant data centers for internal data processing and disaster recovery purposes",
+    "date_of_investment": "2011",
+    "industry": "Services",
+    "region": "New York, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Sirius Computer Solutions",
+    "company_description": "Leading provider of data center-focused technology integration services, including product provisioning, design and implementation",
+    "date_of_investment": "2015",
+    "industry": "Services",
+    "region": "San Antonio, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Somers Re",
+    "company_description": "Specialty property and casualty (re)insurance platform",
+    "date_of_investment": "2021",
+    "industry": "Financial Services",
+    "region": "Bermuda",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "SouthernCarlson",
+    "company_description": "Leading distributor of fastening and packaging products to construction and industrial end markets",
+    "date_of_investment": "2016",
+    "industry": "Industrial",
+    "region": "Omaha, NE",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Spectramed",
+    "company_description": "Manufacturer of medical products",
+    "date_of_investment": "1986",
+    "industry": "Healthcare",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Tallgrass",
+    "company_description": "Tallgrass Energy is a growth-oriented midstream energy company operating across 10 states with transportation, storage, terminal and processing assets that serve some of the nation\u2019s most prolific crude oil and natural gas basins.",
+    "date_of_investment": "2012",
+    "industry": "Energy",
+    "region": "Leawood, KS",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Tervita",
+    "company_description": "Industry leading provider of integrated and environmentally-responsible services to oil and gas companies in Canada and the U.S.",
+    "date_of_investment": "2007",
+    "industry": "Energy",
+    "region": "Calgary, Alberta, Canada",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Texas Foundries",
+    "company_description": "Operator of an iron and steel foundry",
+    "date_of_investment": "1986",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Third Point Re",
+    "company_description": "Specialty property and casualty reinsurance company",
+    "date_of_investment": "2011",
+    "industry": "Financial Services",
+    "region": "Hamilton, Bermuda",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "TransDigm",
+    "company_description": "Manufacturer of products for the aerospace industry",
+    "date_of_investment": "1993",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Traxys Companies",
+    "company_description": "Leading international physical metals and minerals marketing, distribution and trading business",
+    "date_of_investment": "2006",
+    "industry": "Services",
+    "region": "Strassen, Luxembourg",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Truck-Lite",
+    "company_description": "Truck-Lite is a leading manufacturer of signal lighting, forward lighting, wiring harnesses, mirrors, fuel filters and other products to the medium and heavy duty commercial vehicle, trailer and light vehicle industries.  Kelso acquired a 49% ownership stake in Truck-Lite from the Penske Corporation and other investors in 2010.  Truck-Lite operated as a standalone subsidiary of Penske Corp, benefitting from Penske Corp\u2019s relationships with truck fleets and commercial and light vehicle OEMs. Truck-Lite maintains #1 or #2 market shares across all of its major product categories in the U.S.",
+    "date_of_investment": "2010",
+    "industry": "Industrial",
+    "region": "Falconer, NY",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Tyler Refrigeration",
+    "company_description": "Manufacturer of refrigerated display cases for the food industry",
+    "date_of_investment": "1991",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "U.S. Electrical Services",
+    "company_description": "Wholesale distributor of electrical products and related services",
+    "date_of_investment": "2006",
+    "industry": "Services",
+    "region": "Middletown, CT",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Unilab",
+    "company_description": "Independent clinical laboratory testing company in California",
+    "date_of_investment": "1999",
+    "industry": "Healthcare",
+    "region": "Tarzana, CA",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Universal Outdoor",
+    "company_description": "Outdoor advertising company in the U.S.",
+    "date_of_investment": "1996",
+    "industry": "Media",
+    "region": "Chicago, IL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "URS Logistics",
+    "company_description": "Operator of refrigerated warehouses",
+    "date_of_investment": "1993",
+    "industry": "Industrial",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "US LBM",
+    "company_description": "Leading building products distributor serving residential and commercial construction end markets",
+    "date_of_investment": "2015",
+    "industry": "Industrial",
+    "region": "Buffalo Grove, IL",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Valenz",
+    "company_description": "Payment integrity & cost containment solutions provider to small and mid-sized employers",
+    "date_of_investment": "2023",
+    "industry": "Healthcare",
+    "region": "Phoenix, AZ",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Venari Resources",
+    "company_description": "Exploration and production company focusing on oil and gas exploration in the deep water Gulf of Mexico",
+    "date_of_investment": "2012",
+    "industry": "Energy",
+    "region": "Addison, TX",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Waste Services",
+    "company_description": "Multi-regional, integrated solid waste services company in Canada and the U.S.",
+    "date_of_investment": "2003",
+    "industry": "Services",
+    "region": "Toronto, Ontario, Canada",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Wickes Furniture",
+    "company_description": "Operator of retail furniture outlets",
+    "date_of_investment": "1989",
+    "industry": "Consumer",
+    "region": null,
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "WilliamsMarston",
+    "company_description": "National leader in complex accounting, tax, and valuation advisory services to pre-IPO, public, and private equity-backed companies managing rapid growth and transformation.",
+    "date_of_investment": "2022",
+    "industry": "Financial Services",
+    "region": "Boston, MA",
+    "status": "Current",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Wilton Re",
+    "company_description": "Life reinsurance company",
+    "date_of_investment": "2009",
+    "industry": "Financial Services",
+    "region": "Wilton, CT",
+    "status": "Exited",
+    "firm": "Kelso"
+  },
+  {
+    "company_name": "Zenith Energy",
+    "company_description": "Midstream company focused on operating, building and acquiring terminals and related infrastructure across North America.",
+    "date_of_investment": "2017",
+    "industry": "Energy",
+    "region": "Houston, TX",
+    "status": "Current",
+    "firm": "Kelso"
+  }
+]
