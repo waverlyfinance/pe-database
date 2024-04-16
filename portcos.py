@@ -12,7 +12,6 @@ headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53
 
 # pre-process html. OPTION 1: Extract ONLY the classes, links, and text
 def process_html_classes(url, scrape_id):
-    
     try:
         response = requests.get(url, headers=headers).text
     except requests.exceptions.RequestException as error:
@@ -660,4 +659,181 @@ def hig_portcos():
     with open("_portcos_raw/hig_portcos.json", "w") as outfile:
         json.dump(portcos, outfile, indent=2)
 
-hig_portcos()
+# NOTE: Court Square uses Javascript to render the actual content, so would need Puppeteer or Selenium to actually scrape the detailed content
+def courtsquare_portcos():
+    url = "https://www.courtsquare.com/portfolio/"
+    firm = "Court Square"
+    
+    response = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(response, "html.parser")
+    soup = soup.find("body")
+
+    # Find all portfolio items
+    portfolio_items = soup.find_all('div', class_='portfolio_tile--outer')
+
+    portcos = []
+
+    for item in portfolio_items:
+        portco = {}
+        
+        # Extract the link to the company's detailed profile
+        link_tag = item.find('a', class_='base_link')
+        if link_tag:
+            portco['website'] = "www.courtsquare.com" + link_tag.get('href')
+
+        # Extract the company name
+        name_tag = item.find('h2', class_='typo_header')
+        if name_tag:
+            portco['company_name'] = name_tag.get_text(strip=True)
+        
+        # Extract the industry (sector)
+        sector_tag = item.find('span', class_='portfolio_tile--sector_item')
+        if sector_tag:
+            portco['industry'] = sector_tag.get_text(strip=True)
+        
+        portco["firm"] = firm
+
+        portcos.append(portco)
+
+    # Printing the result
+    print(portcos)
+
+    with open("_portcos_raw/courtsquare_portcos.json", "w") as file:
+        json.dump(portcos, file, indent=2)
+
+
+def charlesbank_portcos():
+    url = "https://www.charlesbank.com/portfolio/portfolio-list/"
+    firm = "Charlesbank"
+    
+    response = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(response, "html.parser")
+    soup = soup.find("body")
+
+    # Step 1: Extract URLs for each company from the total portfolio page
+    urls = [] 
+    
+    total_links = soup.select('#investment-list p a')
+
+    for link in total_links:
+        url = link.get("href")
+        urls.append(url)
+
+    # Step 2: Loop through each URL and then extract the relevant fields 
+    portcos = []
+    
+    for url in urls:
+        response = requests.get(url, headers=headers)
+        response.encoding = "utf-8"
+        soup = BeautifulSoup(response.text, "html.parser")
+        soup = soup.find("body")
+        
+        portco = {}
+
+        company_name = soup.find('h1').text.strip() if soup.find('h1') else None
+        company_description = soup.find(string="Business").find_next('p').text.strip() if soup.find(string="Business") else None
+        date_of_investment = soup.find(string="Year of Investment:").find_next('p').text if soup.find(string="Year of Investment:") else None
+        fund = soup.find(string="Strategy").find_next('p').text if soup.find(string="Strategy") else None
+        industry = soup.find(string="Industry").find_next('p').text.strip() if soup.find(string="Industry") else None
+        headquarters = soup.find(string="Headquarters").find_next('p').text.strip() if soup.find(string="Headquarters") else None
+        status_current = soup.find(string="Status").find_next('p').text.strip() if soup.find(string="Status") else None
+        website = soup.find(string="Website").find_next('a')['href'] if soup.find(string="Website") else None
+        ceo = soup.find(string="CEO").find_next('p').text.strip() if soup.find(string="CEO") else None
+        employees = soup.find(string="Employees").find_next('p').text.strip() if soup.find(string="Employees") else None
+
+        portco.update({
+            "company_name": company_name, 
+            "company_description": company_description,
+            "date_of_investment": date_of_investment, 
+            "fund": fund, 
+            "industry": industry, 
+            "headquarters": headquarters, 
+            "status_current": status_current, 
+            "website": website, 
+            "ceo": ceo, 
+            "employees": employees,
+            "firm": firm
+            })
+        
+        portcos.append(portco)
+
+    # output into a file
+    with open("_portcos_raw/charlesbank_portcos.json", "w") as file:
+        json.dump(portcos, file, indent=2)
+
+
+def kelso_portcos():
+    url = "https://www.kelso.com/investments"
+    firm = "Kelso"
+    
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    soup = soup.find("body")
+
+    # Step 1: Extract URLs for each company from the total portfolio page
+    urls = [] 
+
+    links = soup.find_all('div', class_='kelso-investment-image')
+    
+    for a in links:
+        if a.find("a"):
+            url = "https://www.kelso.com" + a.find("a").get("href")
+            urls.append(url)
+        else:
+            None
+    
+    # Step 2: Loop through each company and extract the data
+    portcos = []
+    
+    for url in urls:
+        response = requests.get(url, headers=headers)
+        response.encoding = "utf-8"
+        soup = BeautifulSoup(response.text, "html.parser")
+        soup = soup.find("body")
+        
+        portco = {}
+
+        company_name = soup.find('h1', class_='kelso-investment-company-name').text.strip()
+        company_description = soup.find('p', class_='kelso-investment-company-description').text.strip()
+        
+        # Extracting other details which are inside labels
+        details = soup.find('div', class_='kelso-investment-company-data')
+        
+        # Extracting details from labeled sections
+        labels = soup.find_all('label')
+        details = {label.text.strip(' :'): label.find_next_sibling('span').text.strip() for label in labels if label.find_next_sibling('span')}
+
+        date_of_investment = details.get('Investment Date')
+        industry = details.get('Sector')
+        headquarters = details.get('Headquarters')
+        status = details.get('Status')
+
+        # Compile all extracted data into a dictionary
+        portco.update({
+            "company_name": company_name, 
+            "company_description": company_description,
+            "date_of_investment": date_of_investment, 
+            "industry": industry, 
+            "region": headquarters, 
+            "status": status,
+            "firm": firm
+        })
+    
+        portcos.append(portco)
+
+    # delete duplicates 
+    unique_portcos = []
+    seen = set()
+
+    for portco in portcos:
+        # Create a tuple of the dictionary values
+        identifier = tuple(portco.items())
+        if identifier not in seen:
+            seen.add(identifier)
+            unique_portcos.append(portco)
+    print(unique_portcos)
+        
+    # output into a file
+    with open("_portcos_raw/kelso_portcos2.json", "w") as file:
+        json.dump(unique_portcos, file, indent=2)
+
