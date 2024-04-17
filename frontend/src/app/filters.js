@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
 
-// Component which takes in data (an array containing my JSON file), and onFilterChange
+// Component which takes in data (an array containing my JSON data), and onFilterChange
 const Filters = ( {data, onFilterChange }) => {
     // define filters here
-    const [selectedIndustry, setSelectedIndustry] = useState(undefined);
-    const [selectedRegion, setSelectedRegion] = useState(undefined);
-    const [selectedFund, setSelectedFund] = useState(undefined);
-    const [selectedStatus, setSelectedStatus] = useState(undefined);
+    const [selectedFirm, setSelectedFirm] = useState("");
+    const [selectedIndustry, setSelectedIndustry] = useState("");
+    const [selectedRegion, setSelectedRegion] = useState("");
+    const [selectedFund, setSelectedFund] = useState("");
+    const [selectedStatus, setSelectedStatus] = useState("");
 
     // function to generate an array of all the unique values for a given key. E.g. Industry, or Region
     const getUniqueValues = (key) => {
@@ -18,16 +19,24 @@ const Filters = ( {data, onFilterChange }) => {
     // when any filter changes (useEffect), call the onFilterChange function to update the state
     useEffect(() => {
         onFilterChange({
+            firm: selectedFirm,
             industry: selectedIndustry,
             region: selectedRegion,
             fund: selectedFund,
-            status: selectedStatus,
+            status_current: selectedStatus,
         });
-    }, [selectedIndustry, selectedRegion, selectedFund, selectedStatus]);
+    }, [selectedFirm, selectedIndustry, selectedRegion, selectedFund, selectedStatus]);
 
     return (
         <div>
             {/* Dropdown menu. Upon user selection, updates "selectedIndustry" to that value */}
+            <select value={selectedFirm} onChange={e => setSelectedFirm(e.target.value)}> 
+                <option value="">All Firms</option>
+                {getUniqueValues("firm").map(firm => ( 
+                    <option key={firm} value={firm}>{firm}</option> 
+            ))}
+            </select>
+
             <select value={selectedIndustry} onChange={e => setSelectedIndustry(e.target.value)}> 
                 <option value="">All industries</option>
                 {getUniqueValues("industry").map(industry => ( // Returns new array containing every unique value in "industry". New array contains the following JSX code
@@ -50,9 +59,9 @@ const Filters = ( {data, onFilterChange }) => {
             </select>
 
             <select value={selectedStatus} onChange={e => setSelectedStatus(e.target.value)}> 
-                <option value="">All</option>
-                {getUniqueValues("status").map(status => ( 
-                    <option key={status} value={status}>{status}</option> 
+                <option value="">All investments</option>
+                {getUniqueValues("status_current").map(status_current => ( 
+                    <option key={status_current} value={status_current}>{status_current}</option> 
             ))}
             </select>
         </div>
