@@ -1,15 +1,18 @@
 import os
+from dotenv import load_dotenv
 import json
 import psycopg2
 
 #TODO: Clean up TPG, KKR, AmSec, Platinum. Then export to Neon
+#TODO: Date of investment for HIG is wrong
 
 # grab values from JSON file
-with open("_portcos_raw/courtsquare_portcos.json", "r", encoding="utf-8") as file:
+with open("_portcos_processed/hig_portcos.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Connect to Postgres
-connection_string = "postgresql://portcos_test_owner:6wrlIDbXz9qP@ep-rough-dream-a5c4u78v.us-east-2.aws.neon.tech/portcos_test?sslmode=require"
+load_dotenv()
+connection_string = os.getenv("DATABASE_STRING")
 connection = psycopg2.connect(connection_string)
 cursor = connection.cursor()
 
