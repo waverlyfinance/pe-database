@@ -956,14 +956,17 @@ def stonepoint_portcos():
         # Locate the container that holds the informati
         company_container = soup.find('div', class_='company-modal')
         company_name = company_container.find('h2', class_='company-modal-title').text if company_container.find('h2', class_='company-modal-title') else None
-        company_description = company_container.find('div', class_='markdown-content').text.strip() if company_container.find('div', class_='markdown-content') else None
-        website = company_container.find('a', class_='company-modal-link')['href'] if company_container.find('a', class_='company-modal-link') else None
         
         details = {item.text.split(':')[0]: item.find('span').text.strip() for item in company_container.find_all('li') if ':' in item.text}
         date_of_investment = details.get('Investment Year')
         hq = details.get('HQ')
         status_current = details.get('Status')
-        
+        website = company_container.find('a', class_='company-modal-link')['href'] if company_container.find('a', class_='company-modal-link') else None
+     
+        #company description
+        paragraphs = company_container.find_all('p')[:2] if company_container.find('div', class_='markdown-content') else None
+        company_description = ' '.join(p.get_text(strip=True) for p in paragraphs)
+
         # industry extraction
         sector_div = company_container.find('h4', class_='company-modal-detail-title', string='Sector(s)')
         if sector_div:
