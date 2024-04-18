@@ -2,12 +2,14 @@ import os
 from dotenv import load_dotenv
 import json
 import psycopg2
+from embeddings import generate_embedding
+
 
 #TODO: Clean up TPG, KKR, AmSec, Platinum. Then export to Neon
 #TODO: Date of investment for HIG is wrong
 
 # grab values from JSON file
-with open("_portcos_processed/hig_portcos.json", "r", encoding="utf-8") as file:
+with open("_portcos_processed/stonepoint_portcos.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Connect to Postgres
@@ -72,4 +74,70 @@ def create_db():
     cursor.close()
     connection.close()
 
-create_db()
+# Update table 
+def update_db(data):
+    
+    update_sql = """
+        UPDATE portcos_test
+        SET company_description = %s
+        WHERE company_name = %s;
+        """
+
+    # Update each entry
+    counter = 0
+    for entry in data:
+        cursor.execute(update_sql, (entry['company_description'], entry['company_name']))
+        connection.commit()
+        counter += 1
+        print(counter)
+    
+    cursor.close()
+    connection.close()
+
+
+
+
+# Add embeddings to db
+def embeddings_db():
+    # Tell it which companies to update using a query
+    cursor.execute("SELECT id, company_description FROM portcos_test")
+    records = cursor.fetchall()
+
+    for record in records:
+        text = record[1] # record[0] is id and record[1] is company_description
+        if text:  
+            embedding = generate_embedding(text)
+            cursor.execute(
+                "UPDATE portcos_test SET embedding = %s WHERE id = %s", 
+                (embedding, record[0])
+            )
+
+            connection.commit()  
+    cursor.close()
+    connection.close()
+
+# semantic search query
+def semantic_search(query, threshold):
+    query_embedding = generate_embedding(query)
+
+    # just returns the top 10 results
+    cursor.execute("SELECT company_name, company_description FROM portcos_test ORDER BY embedding <-> %s::vector LIMIT 15", (query_embedding,)) 
+
+    # Searches based on cosine similarity between (1) query and (2) company_description. Sorts by distance threshold (similarity)
+    # cursor.execute("SELECT company_name, company_description FROM portcos_test WHERE embedding <-> %s::vector < %s ORDER BY embedding <-> %s::vector", (query_embedding, threshold, query_embedding)) 
+    
+    results = cursor.fetchall()
+    print(results)
+    print(len(results))
+
+    cursor.close()
+    connection.close()
+
+def main():
+    # embeddings_db()
+    semantic_search("waste management services", 1.0)
+    # update_db(data)
+
+main()
+
+
