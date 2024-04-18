@@ -1,11 +1,12 @@
-// TODO: Fix date of investment
-// TODO: Fix encoding issues in raw HTML description
-
 "use client";
 
 import { useState, useEffect } from "react";
 import Pagination from "./pagination";
 import Filters from "./filters";
+import Search from "./Search";
+
+// TODO: Fix date of investment
+// TODO: Fix encoding issues in raw HTML description
 
 export default function Home() {
   // data states
@@ -13,6 +14,7 @@ export default function Home() {
   const [filteredData, setFilteredData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1); // for pagination
   const [itemsPerPage] = useState(50);
+  const [searchQuery, setSearchQuery] = useState(""); 
 
   // states to set up filters
   const [firm, setFirm] = useState(''); 
@@ -30,8 +32,10 @@ export default function Home() {
           ...(region && { region }),
           ...(fund && { fund }),
           ...(status_current && { status_current }), 
+          ...(searchQuery && { searchQuery }),
         }).toString();
-      console.log(params)
+      
+      console.log("parameters: ", params);
       
       const response = await fetch(`/api/data?${params}`);
       const data = await response.json();
@@ -40,9 +44,9 @@ export default function Home() {
       };  
 
       fetchData();  
-  }, []);
+  }, [searchQuery]); 
   
-  // this second useEffect handles asynchronous nature of React. We want to wait until the initial data has been fetched before running     
+  // this second useEffect handles the async nature of React. We want to wait until the initial data has been fetched before running     
   useEffect(() => {
     if (data.length > 0) {
       handleFilterChange({});
@@ -50,8 +54,7 @@ export default function Home() {
     }
   }, [data]);
     
-
-  // Function to filter the data. Takes as input "filters". Returns a new array in which ONLY the industries returned are the desired filter. E.g. "Healthcare" 
+  // Event handler to setFilteredData. Returns a new array in which ONLY the industries returned are the desired filter. E.g. "Healthcare" 
   const handleFilterChange = (filters) => {
     console.log("Filters received", filters);
 
@@ -69,7 +72,13 @@ export default function Home() {
     setFilteredData(result);
   };
 
-  // Show only 25 items per page
+  // event handler. From Search component. Updates setSearchQuery
+  // const onSearchChange = (newQuery) => {
+  //   setSearchQuery(newQuery)
+  // };
+  
+
+  // Show only 50 items per page
   const indexLast = currentPage * itemsPerPage; // 1*50 = 50
   const indexFirst = indexLast - itemsPerPage; // 50-50 = 0
   const visibleData = filteredData.slice(indexFirst, indexLast);
@@ -81,6 +90,11 @@ export default function Home() {
   return (
     <>
     <meta charSet="utf-8"/>
+    
+    {/* Semantic search */}
+    <div>
+      <Search onSearchChange={setSearchQuery} />
+    </div>
     
     {/* Filters content */}
     <div>
