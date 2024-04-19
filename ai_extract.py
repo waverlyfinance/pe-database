@@ -6,6 +6,7 @@ from pydantic import BaseModel, Field, create_model
 
 # Openai stuff
 api_key = os.getenv('OPENAI_API_KEY')
+print(api_key)
 client = OpenAI(api_key=api_key)
 
 # Langchain chunking. Splits raw HTML document into chunks of 10K characters each
@@ -165,69 +166,5 @@ def scrape_code(processed_html):
 
     
 
-
-# STANDARDIZING FOR DATABASE
-class standardized_fields(BaseModel):
-    industry: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services")
-    date_of_investment: int | None = Field(None, description="Must be an integer in mm/dd/yyyy format. If no date or month is given, assume the 1st day or 1st month.")
-    region: str | None = Field(None, description="Must be one of: North America, Europe, LatAm, Asia Pacific, or Other")
-    status_current: str | None = Field(None, description="Must be either 1 of 2 values: 'current' (e.g. active) or 'realized' (e.g. historical).")
-
-fields_schema = standardized_fields.schema()
-
-
-# inputs are the original data
-def transform_fields(original_industry, original_date, original_region, original_status):
-    
-    completion = client.chat.completions.create(
-    model="gpt-4-turbo-preview",
-    messages=[
-        {
-            "role": "system",
-            "content": """You will be provided data from a company, such as the company's industry and date of investment.  
-            You must transform the original inputs using your available tools.
-            The output must be expressed as a tuple. The 1st, 3rd and 4th entries are strings. The 2nd entry is an int.
-            You MUST follow the rules in the description. E.g. "industry" can only be one of 8 options, and nothing else. 
-            Here are some hints:
-            Technology: E.g. Software, servers, computer chips, IT, vertical software (e.g. software for real estate)
-            Healthcare: E.g. Hospitals, pharmaceuticals, biotech, insurance tech, vertical healthcare software (software specifically for healthcare), doctors
-            Industrials: E.g. Construction, chemicals, waste management
-            Consumer: E.g. Retail, e-commerce, direct-to-consumer, apparel, groceries
-            Business Services: Document shredding, facilities cleaning, office supplies
-            Financials: E.g. Payments, banks, lenders, insurance 
-            Real Estate: E.g. Housing, commercial real estate
-            Infrastructure: bridges, airports, shipping yards, roads, solar farms, wind turbines 
-
-            
-            """
-        # date_of_investment must be an integer in mm/dd/yyyy format. If no date or month is given, assume the 1st day or 1st month.
-        },
-        {
-            "role": "user", 
-            "content": f"{original_industry}, {original_date}, {original_region}, {original_status}"
-        },],
-    tools = [
-        {   
-            "type": "function",
-            "function": {
-                "name": "transform_fields",
-                "description": """Transform input, as per instructions provided in 'fields_schema'""",
-                "parameters": fields_schema
-                },
-        },],
-    temperature=0
-    )
-
-    output = completion.choices[0].message.tool_calls[0].function.arguments
-
-    try:
-        json_output = json.loads(output)
-    except json.JSONDecodeError as error:
-        print(f"failed to decode JSON. {error}")    
-    print(json_output)
-
-    return json_output
-
-#transform_fields("sportswear", "Jan 2019", "Mexico", "active")
 
 
