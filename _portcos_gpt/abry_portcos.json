@@ -1,0 +1,1739 @@
+[
+  {
+    "company_name": "Accela",
+    "industry": "Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "San Ramon, CA"
+  },
+  {
+    "company_name": "Access Information Management",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2009",
+    "status_current": "Realized",
+    "hq": "Pleasanton, CA"
+  },
+  {
+    "company_name": "Acrisure",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Grand Rapids, MI"
+  },
+  {
+    "company_name": "AddSecure",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Stockholm, Sweden"
+  },
+  {
+    "company_name": "AdSwerve",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Denver, CO"
+  },
+  {
+    "company_name": "Aduro",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Redmond, WA"
+  },
+  {
+    "company_name": "Aegis Sciences Corporation",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2014",
+    "status_current": "Current",
+    "hq": "Nashville, TN"
+  },
+  {
+    "company_name": "AFS Technologies Inc.",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "Phoenix, AZ"
+  },
+  {
+    "company_name": "Aftermath",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Realized",
+    "hq": "Aurora, IL"
+  },
+  {
+    "company_name": "Airband",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "Carrollton, TX"
+  },
+  {
+    "company_name": "Aker Systems",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Bicester, Oxfordshire"
+  },
+  {
+    "company_name": "Alliant Group",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012, 2020",
+    "status_current": "Current",
+    "hq": "Houston, TX"
+  },
+  {
+    "company_name": "Alvaria",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Westford, MA"
+  },
+  {
+    "company_name": "American CyberSystems",
+    "industry": "Human Capital Management",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "AnjuSoftware",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Tempe, AZ"
+  },
+  {
+    "company_name": "ArchivesOne",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Waterbury, CT"
+  },
+  {
+    "company_name": "Ascend Healthcare",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2023",
+    "status_current": "Current",
+    "hq": "Chandler, AZ"
+  },
+  {
+    "company_name": "Asignet",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Parsippany, NJ"
+  },
+  {
+    "company_name": "Atlantic Broadband",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2004",
+    "status_current": "Realized",
+    "hq": "Boston, MA"
+  },
+  {
+    "company_name": "Automated HealthCare Solutions",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": "Miramar, FL"
+  },
+  {
+    "company_name": "Avalon Cable",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1998",
+    "status_current": "Realized",
+    "hq": "Ludlow, MA"
+  },
+  {
+    "company_name": "Basefarm",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "Oslo, Norway"
+  },
+  {
+    "company_name": "Beacon Pointe",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Realized",
+    "hq": "Newport Beach, CA"
+  },
+  {
+    "company_name": "Benefit Recovery Group",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Realized",
+    "hq": "Memphis, TN"
+  },
+  {
+    "company_name": "Best Lawyers",
+    "industry": "Information Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Augusta, GA"
+  },
+  {
+    "company_name": "Better Protection",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Chicago, IL"
+  },
+  {
+    "company_name": "Billing Services Group",
+    "industry": "Business and Facility Services, Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Chicago, IL"
+  },
+  {
+    "company_name": "Blue Mantis",
+    "industry": null,
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Kittery, ME"
+  },
+  {
+    "company_name": "Brash Entertainment",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Los Angeles, CA"
+  },
+  {
+    "company_name": "Broadcast Electronics",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Quincy, IL"
+  },
+  {
+    "company_name": "BSO",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2017",
+    "status_current": "Current",
+    "hq": "Dublin, Ireland"
+  },
+  {
+    "company_name": "Cafe Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "New York City, NY"
+  },
+  {
+    "company_name": "Caprock Holdings",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Houston, TX"
+  },
+  {
+    "company_name": "Cardiff",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Greenwich, CT"
+  },
+  {
+    "company_name": "Casamba",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Agoura Hills, CA"
+  },
+  {
+    "company_name": "Cast & Crew",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Burbank, CA"
+  },
+  {
+    "company_name": "CCS",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Centauri Health Solutions",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Scottsdale, AZ"
+  },
+  {
+    "company_name": "Chambers",
+    "industry": "Information Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2023",
+    "status_current": "Current",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Charleston Newspapers",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2004",
+    "status_current": "Realized",
+    "hq": "Charleston, WV"
+  },
+  {
+    "company_name": "CIBT",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "McLean, VA"
+  },
+  {
+    "company_name": "Citadel",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1996",
+    "status_current": "Realized",
+    "hq": "Las Vegas, NV"
+  },
+  {
+    "company_name": "CitiXsys",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2014",
+    "status_current": "Realized",
+    "hq": "New York City, NY"
+  },
+  {
+    "company_name": "Claranet",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Clearspan",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Plano, TX"
+  },
+  {
+    "company_name": "CloudWave",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Marlborough, MA"
+  },
+  {
+    "company_name": "Commerce Connect Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": null,
+    "status_current": "Realized",
+    "hq": "Westport, CT"
+  },
+  {
+    "company_name": "Commonwealth Business Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2003",
+    "status_current": "Realized",
+    "hq": "East Windsor, NJ"
+  },
+  {
+    "company_name": "Confie Seguros",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Current",
+    "hq": "Los Angeles, CA"
+  },
+  {
+    "company_name": "Confirma Software",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Stockholm, Sweden"
+  },
+  {
+    "company_name": "Connoisseur Media",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1997",
+    "status_current": "Realized",
+    "hq": "Westport, CT"
+  },
+  {
+    "company_name": "Consolidated Theatres",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1998",
+    "status_current": "Realized",
+    "hq": "Charlotte, NC"
+  },
+  {
+    "company_name": "Consumer Media Network",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "Houston, TX"
+  },
+  {
+    "company_name": "Country RD Com",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2002",
+    "status_current": "Realized",
+    "hq": "Morristown, NJ"
+  },
+  {
+    "company_name": "Cyrus One",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2009",
+    "status_current": "Realized",
+    "hq": "Houston, TX"
+  },
+  {
+    "company_name": "D.F. King World Wide",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2013",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "DataMentors (fka V-12 Group)",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Tampa, FL"
+  },
+  {
+    "company_name": "Datapipe",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2013",
+    "status_current": "Realized",
+    "hq": "Jersey City, NJ"
+  },
+  {
+    "company_name": "Direct Travel",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Denver, CO"
+  },
+  {
+    "company_name": "Dolan Media Company",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2004",
+    "status_current": "Realized",
+    "hq": "Minneapolis, MN"
+  },
+  {
+    "company_name": "Donuts",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Realized",
+    "hq": "Seattle, WA"
+  },
+  {
+    "company_name": "Dr. Dental",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Framingham, MA"
+  },
+  {
+    "company_name": "Dynasty Financial Partners",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "St. Petersburg, FL"
+  },
+  {
+    "company_name": "E-Shelter",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "Frankfurt, Germany"
+  },
+  {
+    "company_name": "Edgile",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Austin, TX"
+  },
+  {
+    "company_name": "Edisen",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Stockholm, Sweden"
+  },
+  {
+    "company_name": "Eduk Group",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": "San Juan, Puerto Rico"
+  },
+  {
+    "company_name": "Emerging Markets Communications",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Executive Health Resources",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Philadelphia, PA"
+  },
+  {
+    "company_name": "F + W Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Cincinnati, OH"
+  },
+  {
+    "company_name": "Fanfare Media Works",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2000",
+    "status_current": "Realized",
+    "hq": "Valencia, CA"
+  },
+  {
+    "company_name": "FastMed Urgent Care",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Phoenix, AZ"
+  },
+  {
+    "company_name": "Finest City Broadcasting",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "San Diego, CA"
+  },
+  {
+    "company_name": "FLS Transportation",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Current",
+    "hq": "Montreal, Canada"
+  },
+  {
+    "company_name": "Franklin Energy",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Port Washington, WI"
+  },
+  {
+    "company_name": "FreeStar",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Phoenix, AZ"
+  },
+  {
+    "company_name": "Frontline Performance Group",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Current",
+    "hq": "Winter Park, FL"
+  },
+  {
+    "company_name": "Gateway EDI",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "St. Louis, MO"
+  },
+  {
+    "company_name": "Gould & Lamb",
+    "industry": "Business and Facility Services, Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Bradenton, FL"
+  },
+  {
+    "company_name": "Grande Communications",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2009",
+    "status_current": "Realized",
+    "hq": "Princeton, NJ"
+  },
+  {
+    "company_name": "Hanley Wood",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Washington, DC"
+  },
+  {
+    "company_name": "HartBeat",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Encino, CA"
+  },
+  {
+    "company_name": "HealthEZ",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Bloomington, MN"
+  },
+  {
+    "company_name": "HealthPort",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Columbia, SC"
+  },
+  {
+    "company_name": "HealthSCOPE Benefits",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2014",
+    "status_current": "Realized",
+    "hq": "Little Rock, AR"
+  },
+  {
+    "company_name": "HealthTrans",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2009",
+    "status_current": "Realized",
+    "hq": "Denver, CO"
+  },
+  {
+    "company_name": "Heritage Partners",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Elizabethton, TN"
+  },
+  {
+    "company_name": "Hersha Hospitality Management",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Philadelphia, PA"
+  },
+  {
+    "company_name": "High Street",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Traverse City, MI"
+  },
+  {
+    "company_name": "Hilb Group",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Richmond, VA"
+  },
+  {
+    "company_name": "Hollywood.com",
+    "industry": null,
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Home Town Cable",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Port St. Lucie, FL"
+  },
+  {
+    "company_name": "Hosted Solutions",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "Raleigh, NC"
+  },
+  {
+    "company_name": "Houghton Mifflin Harcourt",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "Boston, MA"
+  },
+  {
+    "company_name": "illumifin",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Greenville, SC"
+  },
+  {
+    "company_name": "IMG",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Indianapolis, IN"
+  },
+  {
+    "company_name": "InfiLaw System",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "Naples, FL"
+  },
+  {
+    "company_name": "Inmar Intelligence",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2014",
+    "status_current": "Current",
+    "hq": null
+  },
+  {
+    "company_name": "Innovisk Capital Partners",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Inoapps",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Aberdeen, Scotland"
+  },
+  {
+    "company_name": "Inspira Financial",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Oak Brook, IL"
+  },
+  {
+    "company_name": "Integra Telecom",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "IQUW",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "iTrade Network",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Livermore, CA"
+  },
+  {
+    "company_name": "Jab Broadband",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "KidzBop",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Kingland",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Clear Lake, IA"
+  },
+  {
+    "company_name": "KnowledgePoint 360",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Secaucus, NJ"
+  },
+  {
+    "company_name": "Kore Wireless Group",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "LanguageLine Solutions",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2004",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Legendary Pictures",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "Beverly Hills, CA"
+  },
+  {
+    "company_name": "Lighthouse Autism Center",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Realized",
+    "hq": "Mishawaka, IN"
+  },
+  {
+    "company_name": "Link Mobility",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Current",
+    "hq": "Oslo, Norway"
+  },
+  {
+    "company_name": "Mako Networks",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Elgin, Illinois"
+  },
+  {
+    "company_name": "Masergy",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "Plano, TX"
+  },
+  {
+    "company_name": "Maya Cinemas",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Current",
+    "hq": "Los Angeles, California, United States"
+  },
+  {
+    "company_name": "Meadowlark",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Boston, MA"
+  },
+  {
+    "company_name": "Media Rights Capital",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Melrose Investors",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Beverly Hills, CA"
+  },
+  {
+    "company_name": "Mobile Help",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2017",
+    "status_current": "Realized",
+    "hq": "Boca Raton, FL"
+  },
+  {
+    "company_name": "Monitronics Authorized Dealer",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2003",
+    "status_current": "Realized",
+    "hq": "Dallas, TX"
+  },
+  {
+    "company_name": "Music Reports",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Muzak",
+    "industry": "Business and Facility Services, Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2003",
+    "status_current": "Realized",
+    "hq": "Charlotte, NC"
+  },
+  {
+    "company_name": "Navtech, Inc.",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Waterloo, Ontario"
+  },
+  {
+    "company_name": "netnumber",
+    "industry": "Communications, Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Lowell, Massachusetts"
+  },
+  {
+    "company_name": "Network Communications, Inc.",
+    "industry": "Communications, Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2002",
+    "status_current": "Realized",
+    "hq": "Lawrenceville, GA"
+  },
+  {
+    "company_name": "Nexstar Broadcasting Group",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1996",
+    "status_current": "Realized",
+    "hq": "Irving, TX"
+  },
+  {
+    "company_name": "NexusTek",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2017",
+    "status_current": "Current",
+    "hq": "Greenwood Village, CO"
+  },
+  {
+    "company_name": "North American Dental Group",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": "New Castle, PA"
+  },
+  {
+    "company_name": "NSM Insurance Group",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "Conshohocken, PA"
+  },
+  {
+    "company_name": "Nuspire",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Current",
+    "hq": "Commerce, MI"
+  },
+  {
+    "company_name": "Oasis",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Kinsealy, Ireland"
+  },
+  {
+    "company_name": "OneCare Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": null,
+    "status_current": "Current",
+    "hq": "Seattle, WA"
+  },
+  {
+    "company_name": "OneSource Networks",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2013",
+    "status_current": "Realized",
+    "hq": "Austin, TX"
+  },
+  {
+    "company_name": "Open Road Integrated Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Options Technology",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Opus Solutions",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Portland, Oregon"
+  },
+  {
+    "company_name": "Orion HealthCorp",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "Roswell, GA"
+  },
+  {
+    "company_name": "Penton",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2002",
+    "status_current": "Realized",
+    "hq": "Cleveland, OH"
+  },
+  {
+    "company_name": "Pinnacle Towers Inc.",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1995",
+    "status_current": "Realized",
+    "hq": "Sarasota, FL"
+  },
+  {
+    "company_name": "Pole Star",
+    "industry": "Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Portfolio Group",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Lake Forest, CA"
+  },
+  {
+    "company_name": "PowerFleet",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "Woodcliff Lake, NJ"
+  },
+  {
+    "company_name": "Precision Strategies",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2023",
+    "status_current": "Current",
+    "hq": "Washington D.C."
+  },
+  {
+    "company_name": "Prime Capital",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2023",
+    "status_current": "Current",
+    "hq": "Overland Park, KS"
+  },
+  {
+    "company_name": "PRO Unlimited",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": "Boca Raton, FL"
+  },
+  {
+    "company_name": "Propark Mobility",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2023",
+    "status_current": "Current",
+    "hq": "Hartford, Connecticut"
+  },
+  {
+    "company_name": "ProQuest",
+    "industry": "Information Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "Bethesda, MD"
+  },
+  {
+    "company_name": "Prospect Park",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Psychological Services Inc.",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Burbank, CA"
+  },
+  {
+    "company_name": "Q9 Networks",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2008",
+    "status_current": "Realized",
+    "hq": "Toronto, ON"
+  },
+  {
+    "company_name": "QuoVadis",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Rackspace",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "San Antonio, TX"
+  },
+  {
+    "company_name": "RCN Cable",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": "Herndon, VA"
+  },
+  {
+    "company_name": "Recovery Point",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Germantown, MD"
+  },
+  {
+    "company_name": "Reward Gateway",
+    "industry": "Human Capital Management",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Realized",
+    "hq": "London, UK"
+  },
+  {
+    "company_name": "Rimes",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2017",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Root Data Center",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Montreal, Canada"
+  },
+  {
+    "company_name": "Samba Safety",
+    "industry": "Data Centers and Managed IT Services, Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": "Denver, CO"
+  },
+  {
+    "company_name": "Screen Vision Media",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Current",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "SDI Presence LLC",
+    "industry": "Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Current",
+    "hq": "Chicago, IL"
+  },
+  {
+    "company_name": "Securus Technologies",
+    "industry": "Business and Facility Services, Communications, Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2013",
+    "status_current": "Realized",
+    "hq": "Dallas, TX"
+  },
+  {
+    "company_name": "Sentrum",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "United Kingdom"
+  },
+  {
+    "company_name": "Sentry Data Systems",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Deerfield Beach, FL"
+  },
+  {
+    "company_name": "Sermo",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2019",
+    "status_current": "Current",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Sidera",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Site Lock",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Realized",
+    "hq": "Scottsdale, AZ"
+  },
+  {
+    "company_name": "Smart Start",
+    "industry": "Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Dallas, TX"
+  },
+  {
+    "company_name": "Socius",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2021",
+    "status_current": "Realized",
+    "hq": "Walnut Creek, CA"
+  },
+  {
+    "company_name": "SoftBrands",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2005",
+    "status_current": "Realized",
+    "hq": "Minneapolis, MN"
+  },
+  {
+    "company_name": "Source Medical",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2012",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "StackPath",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Current",
+    "hq": "Dallas, TX"
+  },
+  {
+    "company_name": "Sullivan Broadcasting",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1996",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Talent Partners",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "TelX",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "TeraSky",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Israel"
+  },
+  {
+    "company_name": "The Hispanic Yellow Pages",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2003",
+    "status_current": "Realized",
+    "hq": "Tampa, FL"
+  },
+  {
+    "company_name": "Thomsons Online Benefits",
+    "industry": "Human Capital Management",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2013",
+    "status_current": "Realized",
+    "hq": "London, England"
+  },
+  {
+    "company_name": "Triple Point Technology",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2006",
+    "status_current": "Realized",
+    "hq": "Westport, CT"
+  },
+  {
+    "company_name": "Trover Solutions Inc.",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Turnberry Solutions",
+    "industry": "Human Capital Management",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Blue Bell, PA"
+  },
+  {
+    "company_name": "U.S. Dermatology Associates",
+    "industry": "Healthcare IT and Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2016",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Unison",
+    "industry": "Government Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2015",
+    "status_current": "Realized",
+    "hq": "Dulles, VA"
+  },
+  {
+    "company_name": "United Real Estate Group",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2020",
+    "status_current": "Current",
+    "hq": "Dallas, TX"
+  },
+  {
+    "company_name": "US Legal Support",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2018",
+    "status_current": "Current",
+    "hq": "Houston, TX"
+  },
+  {
+    "company_name": "USEReady",
+    "industry": "Outsourced Professional Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "New York, NY"
+  },
+  {
+    "company_name": "Vertical Scope",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "Vocado",
+    "industry": "Information Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "What If Media Group",
+    "industry": "Media and Entertainment",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": "Fort Lee, New Jersey"
+  },
+  {
+    "company_name": "WideOpenWest",
+    "industry": "Communications",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "1999",
+    "status_current": "Realized",
+    "hq": "Denver, CO"
+  },
+  {
+    "company_name": "Writtle Holdings",
+    "industry": "Business and Facility Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2007",
+    "status_current": "Realized",
+    "hq": "London, England, United Kingdom"
+  },
+  {
+    "company_name": "Xand",
+    "industry": "Data Centers and Managed IT Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2011",
+    "status_current": "Realized",
+    "hq": null
+  },
+  {
+    "company_name": "York Risk Services Group",
+    "industry": "Insurance and Financial Services",
+    "region": null,
+    "fund": null,
+    "date_of_investment": "2010",
+    "status_current": "Realized",
+    "hq": null
+  }
+]

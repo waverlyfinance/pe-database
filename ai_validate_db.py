@@ -22,11 +22,12 @@ def pre_process(firm):
         extracted_fields = {
             "company_name": company["company_name"],
             # "company_description": company["company_description"] if company["company_description"] else None,
-            "industry": company["industry"] if company["industry"] else None,
-            "region": company["region"] if company["region"] else None,
-            "fund": company["fund"] if company["fund"] else None,
+            "industry": company.get("industry") if company.get("industry") else None,
+            "region": company.get("region") if company.get("region") else None,
+            "fund": company.get("fund") if company.get("fund") else None,
             "date_of_investment": company.get("date_of_investment") if company.get("date_of_investment") else None,
             "status_current": company.get("status_current") if company.get("status_current") else None,
+            "hq": company.get("hq") if company.get("hq") else None,
         }
 
         new_data.append(extracted_fields)
@@ -56,8 +57,8 @@ class standardized_fields(BaseModel):
     company_name: str = Field(None, description="Just repeat the exact same company name from the source data. Do not alter anything")
     industry: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services, Natural Resources")
     date_of_investment: int | None = Field(None, description="Must be an integer in yyyy format. E.g. 2013 or 2017")
-    region: str | None = Field(None, description="Must be one of: North America, Europe, LatAm, Asia Pacific, or Other")
-    status_current: str | None = Field(None, description="Must be either 1 of 2 values: 'current' (e.g. active) or 'realized' (e.g. historical).")
+    region: str | None = Field(None, description="Must be one of the following options. Do NOT select anything else, such as 'Americas': North America, Europe, LatAm, Asia Pacific")
+    status_current: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical).")
 
 fields_schema = standardized_fields.schema()
 
@@ -71,7 +72,7 @@ fields_schema = standardized_fields.schema()
 def transform_fields(data_string):
 
     completion = client.chat.completions.create(
-    model="gpt-4-turbo",
+    model="gpt-3.5-turbo",
     messages=[
         {
             "role": "system",
@@ -80,7 +81,7 @@ def transform_fields(data_string):
             The output must be expressed as JSON.
             You MUST follow the rules in the description. E.g. "industry" can only be one of 9 options, and nothing else. 
             Here are some hints:
-            Technology: E.g. Software, servers, computer chips, IT, etc. Note that software for specific industries (aka "vertical" software), like software for Healthcare or for Financials, should not be classified as Technology. But in the underlying industry.
+            Technology: E.g. Software, servers, computer chips, IT, media, telecom, etc. Note that software for specific industries (aka "vertical" software), like software for Healthcare or for Financials, should not be classified as Technology. But in the underlying industry.
             Healthcare: E.g. Hospitals, pharmaceuticals, biotech, insurance tech, vertical healthcare software (software specifically for healthcare), doctors
             Industrials: E.g. Construction, chemicals, waste management
             Consumer: E.g. Retail, e-commerce, direct-to-consumer, apparel, groceries
@@ -139,7 +140,7 @@ def main(firm):
         transformed_company = transform_fields(company_string)
         output.append(transformed_company)
         
-    with open(f"_portcos_gpt/{filename}.json", "w") as outfile:
+    with open(f"_portcos_gpt/{filename}_output.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
 
-main("tpg")
+main("abry")
