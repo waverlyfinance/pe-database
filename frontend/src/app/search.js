@@ -3,11 +3,11 @@ import React, { useState, useEffect } from "react";
 export default function Search ({ onSearchChange }) {
     // set state
     const [searchQuery, setSearchQuery] = useState("");
-    console.log(onSearchChange);
 
     const handleSubmit = (e) => {
         e.preventDefault(); // prevent the default form submit action, which refreshes the page
         onSearchChange(searchQuery); // passes the current state back to the Parent homepage
+        console.log(searchQuery);
     };
 
     return (
