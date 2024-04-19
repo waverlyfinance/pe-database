@@ -53,17 +53,19 @@ def chunk(data):
 
 # STANDARDIZING FOR DATABASE
 class standardized_fields(BaseModel):
+    company_name: str = Field(None, description="Just repeat the exact same company name from the source data. Do not alter anything")
     industry: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services, Natural Resources")
     date_of_investment: int | None = Field(None, description="Must be an integer in yyyy format. E.g. 2013 or 2017")
     region: str | None = Field(None, description="Must be one of: North America, Europe, LatAm, Asia Pacific, or Other")
     status_current: str | None = Field(None, description="Must be either 1 of 2 values: 'current' (e.g. active) or 'realized' (e.g. historical).")
 
-# fields_schema = standardized_fields.schema()
+fields_schema = standardized_fields.schema()
 
-class output_fields(BaseModel):
-    output_fields: list[standardized_fields]
+# class output_fields(BaseModel):
+#     output_fields: list[standardized_fields]
 
-fields_schema = output_fields.schema()
+# fields_schema = output_fields.schema()
+
 
 # inputs are the original data
 def transform_fields(data_string):
@@ -109,7 +111,6 @@ def transform_fields(data_string):
 
     output = completion.choices[0].message.tool_calls[0].function.arguments
 
-
     try:
         json_output = json.loads(output)
 
@@ -126,24 +127,19 @@ def main(firm):
     filename = firm + "_portcos"
     
     data = pre_process(firm)
-    chunks = chunk(data)
-    print(chunks)
-    print(type(chunks))
+    # chunks = chunk(data)
+    # print(chunks)
+    # print(type(chunks))
     
     # data_string = json.dumps(data)
 
     output = []
-    for item in chunks[:5]:
-        # transformed_chunk = transform_fields(chunk)
-        print(item)
-
-        output.append(item)
+    for company in data:
+        company_string = json.dumps(company)
+        transformed_company = transform_fields(company_string)
+        output.append(transformed_company)
         
-    with open(f"_portcos_gpt/{filename}_test.json", "w") as outfile:
+    with open(f"_portcos_gpt/{filename}.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
 
 main("tpg")
-
-# data = pre_process("tpg")
-# chunks = chunk(data)
-
