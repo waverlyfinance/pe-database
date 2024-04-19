@@ -8,9 +8,7 @@ from embeddings import generate_embedding
 #TODO: Clean up TPG, KKR, AmSec, Platinum. Then export to Neon
 #TODO: Date of investment for HIG is wrong
 
-# grab values from JSON file
-with open("_portcos_processed/stonepoint_portcos.json", "r", encoding="utf-8") as file:
-    data = json.load(file)
+
 
 # Connect to Postgres
 load_dotenv()
@@ -55,8 +53,13 @@ column_names = [
 column_names_sql = ", ".join(column_names) # concatenate the list above into 1 string to pass into a SQL command
 
 
-def create_db():
-    cursor.execute(f"CREATE TABLE IF NOT EXISTS {db_name} ({columns})")
+def create_db(firm):
+    # grab values from JSON file
+    with open(f"_portcos_processed/{firm}_portcos.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
+    
+    # cursor.execute(f"CREATE TABLE IF NOT EXISTS {db_name} ({columns})")
+    
     # insert query
     insert_query = f"INSERT INTO {db_name} ({column_names_sql}) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
 
@@ -65,7 +68,7 @@ def create_db():
         values = []
         for column in column_names:
             value = company.get(column) # in the JSON file, some are missing fields for "fund", etc.
-            values.append(value) 
+            values.append(value)
         
         cursor.execute(insert_query, values)
 
@@ -77,23 +80,39 @@ def create_db():
 # Update table 
 def update_db(data):
     
-    update_sql = """
-        UPDATE portcos_test
-        SET company_description = %s
-        WHERE company_name = %s;
-        """
+    # grab values from JSON file
+    with open("_portcos_processed/tpg_portcos.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
 
-    # Update each entry
-    counter = 0
-    for entry in data:
-        cursor.execute(update_sql, (entry['company_description'], entry['company_name']))
+    update_sql = f"""
+        UPDATE {db_name} 
+        SET 
+            company_description = %s
+            region = %s,
+            fund = %s,
+            industry = %s,
+            status_current = %s,
+            company_name = %s
+        WHERE id BETWEEN ; 
+        """
+    # Need to update the ID numbers manually^ 
+
+
+    # Execute update statements for each company
+    for company in data:
+        cursor.execute(update_sql, (
+            company["company_description"],
+            company["region"],
+            company["fund"],
+            company["industry"],
+            company["status_current"],
+            company["company_name"],
+        ))
+
         connection.commit()
-        counter += 1
-        print(counter)
     
     cursor.close()
     connection.close()
-
 
 
 
@@ -134,10 +153,9 @@ def semantic_search(query, threshold):
     connection.close()
 
 def main():
+    create_db("tpg")
     # embeddings_db()
-    semantic_search("waste management services", 1.0)
+    # semantic_search("waste management services", 1.0)
     # update_db(data)
-
+    
 main()
-
-

@@ -72,11 +72,6 @@ export default function Home() {
     setFilteredData(result);
   };
 
-  // event handler. From Search component. Updates setSearchQuery
-  // const onSearchChange = (newQuery) => {
-  //   setSearchQuery(newQuery)
-  // };
-  
 
   // Show only 50 items per page
   const indexLast = currentPage * itemsPerPage; // 1*50 = 50

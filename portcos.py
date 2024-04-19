@@ -140,6 +140,8 @@ def tpg_portcos():
 
     return output
 
+    # need to run update_keys function to the output (from file_cleanup file)
+
 # FOR KKR
 def kkr_portcos():
 
