@@ -1,1353 +1,1353 @@
 [
   {
     "company_name": "Accela",
-    "industry": "Technology",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Access Information Management",
-    "industry": "Business Services",
-    "date_of_investment": 2009,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Acrisure",
-    "industry": "Financials",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AddSecure",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AdSwerve",
-    "industry": "Business Services",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Aduro",
-    "industry": "Healthcare",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Aegis Sciences Corporation",
-    "industry": "Healthcare",
-    "date_of_investment": 2014,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "AFS Technologies Inc.",
-    "industry": "Business Services",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aftermath",
-    "industry": "Business Services",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Airband",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aker Systems",
-    "industry": "Technology",
-    "date_of_investment": 2021,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Alliant Group",
-    "industry": "Business Services",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Alvaria",
-    "industry": "Technology",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "American CyberSystems",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AnjuSoftware",
-    "industry": "Healthcare",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "ArchivesOne",
-    "industry": "Business Services",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ascend Healthcare",
-    "industry": "Healthcare",
-    "date_of_investment": 2023,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Asignet",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Atlantic Broadband",
-    "industry": "Technology",
-    "date_of_investment": 2004,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Automated HealthCare Solutions",
-    "industry": "Healthcare",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Avalon Cable",
-    "industry": "Technology",
-    "date_of_investment": 1998,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1998,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Basefarm",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Beacon Pointe",
-    "industry": "Financials",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Benefit Recovery Group",
-    "industry": "Healthcare",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Best Lawyers",
-    "industry": "Technology",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Better Protection",
-    "industry": "Business Services",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Billing Services Group",
-    "industry": "Business Services",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Blue Mantis",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Brash Entertainment",
-    "industry": "Technology",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Broadcast Electronics",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "BSO",
-    "industry": "Technology",
-    "date_of_investment": 2017,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Cafe Media",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Caprock Holdings",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cardiff",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Casamba",
-    "industry": "Healthcare",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cast & Crew",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CCS",
-    "industry": "Business Services",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Centauri Health Solutions",
-    "industry": "Healthcare",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Chambers",
-    "industry": "Technology",
-    "date_of_investment": 2023,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2023,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Charleston Newspapers",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2004,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CIBT",
-    "industry": "Business Services",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Citadel",
-    "industry": "Communications",
-    "date_of_investment": 1996,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Communications",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CitiXsys",
-    "industry": "Technology",
-    "date_of_investment": 2014,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Claranet",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Clearspan",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "CloudWave",
-    "industry": "Healthcare",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Commerce Connect Media",
-    "industry": "Consumer",
-    "date_of_investment": null,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": null,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Commonwealth Business Media",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2003,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Confie Seguros",
-    "industry": "Financials",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Confirma Software",
-    "industry": "Business Services",
-    "date_of_investment": 2019,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Connoisseur Media",
-    "industry": "Technology",
-    "date_of_investment": 1997,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1997,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Consolidated Theatres",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 1998,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 1998,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Consumer Media Network",
-    "industry": "Consumer",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Country RD Com",
-    "industry": "Technology",
-    "date_of_investment": 2002,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cyrus One",
-    "industry": "Technology",
-    "date_of_investment": 2009,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "D.F. King World Wide",
-    "industry": "Business Services",
-    "date_of_investment": 2013,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2013,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "DataMentors (fka V-12 Group)",
-    "industry": "Technology",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Datapipe",
-    "industry": "Data Centers and Managed IT Services",
-    "date_of_investment": 2013,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Data Centers and Managed IT Services",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Direct Travel",
-    "industry": "Business Services",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Dolan Media Company",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2004,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Donuts",
-    "industry": "Business Services",
-    "date_of_investment": 2018,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Dr. Dental",
-    "industry": "Healthcare",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Dynasty Financial Partners",
-    "industry": "Financials",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "E-Shelter",
-    "industry": "Data Centers and Managed IT Services",
-    "date_of_investment": 2011,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Data Centers and Managed IT Services",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Edgile",
-    "industry": "Business Services",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Edisen",
-    "industry": "Business Services",
-    "date_of_investment": 2020,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Eduk Group",
-    "industry": "Business Services",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Emerging Markets Communications",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Executive Health Resources",
-    "industry": "Healthcare",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "F + W Media",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Fanfare Media Works",
-    "industry": "Business Services",
-    "date_of_investment": 2000,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2000,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FastMed Urgent Care",
-    "industry": "Healthcare",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Finest City Broadcasting",
-    "industry": "Technology",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FLS Transportation",
-    "industry": "Business Services",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Franklin Energy",
-    "industry": "Business Services",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "FreeStar",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Frontline Performance Group",
-    "industry": "Business Services",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Gateway EDI",
-    "industry": "Healthcare",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Gould & Lamb",
-    "industry": "Business Services",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Grande Communications",
-    "industry": "Technology",
-    "date_of_investment": 2009,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hanley Wood",
-    "industry": "Technology",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HartBeat",
-    "industry": "Technology",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "HealthEZ",
-    "industry": "Healthcare",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "HealthPort",
-    "industry": "Healthcare",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HealthSCOPE Benefits",
-    "industry": "Healthcare",
-    "date_of_investment": 2014,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HealthTrans",
-    "industry": "Healthcare",
-    "date_of_investment": 2009,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Heritage Partners",
-    "industry": "Business Services",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Hersha Hospitality Management",
-    "industry": "Business Services",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "High Street",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Hilb Group",
-    "industry": "Financials",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hollywood.com",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Home Town Cable",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hosted Solutions",
-    "industry": "Technology",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Houghton Mifflin Harcourt",
-    "industry": "Business Services",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "illumifin",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "IMG",
-    "industry": "Financials",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "InfiLaw System",
-    "industry": "Business Services",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Inmar Intelligence",
-    "industry": "Business Services",
-    "date_of_investment": 2014,
-    "region": null,
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2014,
+    "region_stan": null,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Innovisk Capital Partners",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Inoapps",
-    "industry": "Business Services",
-    "date_of_investment": 2022,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Inspira Financial",
-    "industry": "Financials",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Integra Telecom",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "IQUW",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "iTrade Network",
-    "industry": "Technology",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Jab Broadband",
-    "industry": "Technology",
-    "date_of_investment": 2008,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "KidzBop",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kingland",
-    "industry": "Business Services",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "KnowledgePoint 360",
-    "industry": "Healthcare",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kore Wireless Group",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "LanguageLine Solutions",
-    "industry": "Business Services",
-    "date_of_investment": 2004,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2004,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Legendary Pictures",
-    "industry": "Technology",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Lighthouse Autism Center",
-    "industry": "Healthcare",
-    "date_of_investment": 2018,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Link Mobility",
-    "industry": "Technology",
-    "date_of_investment": 2018,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Mako Networks",
-    "industry": "Technology",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Masergy",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Maya Cinemas",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Meadowlark",
-    "industry": "Financials",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Media Rights Capital",
-    "industry": "Technology",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Melrose Investors",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Mobile Help",
-    "industry": "Technology",
-    "date_of_investment": 2017,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Monitronics Authorized Dealer",
-    "industry": "Business Services",
-    "date_of_investment": 2003,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Music Reports",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Muzak",
-    "industry": "Business Services",
-    "date_of_investment": 2003,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Navtech, Inc.",
-    "industry": "Business Services",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "netnumber",
-    "industry": "Technology",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Network Communications, Inc.",
-    "industry": "Technology",
-    "date_of_investment": 2002,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Nexstar Broadcasting Group",
-    "industry": "Technology",
-    "date_of_investment": 1996,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "NexusTek",
-    "industry": "Technology",
-    "date_of_investment": 2017,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "North American Dental Group",
-    "industry": "Healthcare",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "NSM Insurance Group",
-    "industry": "Financials",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Nuspire",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Oasis",
-    "industry": "Business Services",
-    "date_of_investment": 2016,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "OneCare Media",
-    "industry": "Technology",
-    "date_of_investment": null,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": null,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "OneSource Networks",
-    "industry": "Technology",
-    "date_of_investment": 2013,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Open Road Integrated Media",
-    "industry": "Technology",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Options Technology",
-    "industry": "Technology",
-    "date_of_investment": 2019,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Opus Solutions",
-    "industry": "Business Services",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Orion HealthCorp",
-    "industry": "Healthcare",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Penton",
-    "industry": "Technology",
-    "date_of_investment": 2002,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pinnacle Towers Inc.",
-    "industry": "Technology",
-    "date_of_investment": 1995,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1995,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pole Star",
-    "industry": "Business Services",
-    "date_of_investment": 2021,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Portfolio Group",
-    "industry": "Financials",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "PowerFleet",
-    "industry": "Business Services",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Precision Strategies",
-    "industry": "Business Services",
-    "date_of_investment": 2023,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Prime Capital",
-    "industry": "Financials",
-    "date_of_investment": 2023,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "PRO Unlimited",
-    "industry": "Business Services",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Propark Mobility",
-    "industry": "Business Services",
-    "date_of_investment": 2023,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "ProQuest",
-    "industry": "Technology",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Prospect Park",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Psychological Services Inc.",
-    "industry": "Business Services",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Q9 Networks",
-    "industry": "Technology",
-    "date_of_investment": 2008,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "QuoVadis",
-    "industry": "Technology",
-    "date_of_investment": 2007,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Rackspace",
-    "industry": "Technology",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "RCN Cable",
-    "industry": "Technology",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Recovery Point",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Reward Gateway",
-    "industry": "Business Services",
-    "date_of_investment": 2021,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Rimes",
-    "industry": "Financials",
-    "date_of_investment": 2017,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2017,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Root Data Center",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Samba Safety",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Screen Vision Media",
-    "industry": "Technology",
-    "date_of_investment": 2018,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "SDI Presence LLC",
-    "industry": "Business Services",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Securus Technologies",
-    "industry": "Business Services",
-    "date_of_investment": 2013,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sentrum",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sentry Data Systems",
-    "industry": "Healthcare",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sermo",
-    "industry": "Healthcare",
-    "date_of_investment": 2019,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Sidera",
-    "industry": "Technology",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Site Lock",
-    "industry": "Technology",
-    "date_of_investment": 2018,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Smart Start",
-    "industry": "Business Services",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Socius",
-    "industry": "Insurance and Financial Services",
-    "date_of_investment": 2021,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Insurance and Financial Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "SoftBrands",
-    "industry": "Technology",
-    "date_of_investment": 2005,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Source Medical",
-    "industry": "Healthcare",
-    "date_of_investment": 2012,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "StackPath",
-    "industry": "Technology",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Sullivan Broadcasting",
-    "industry": "Technology",
-    "date_of_investment": 1996,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Talent Partners",
-    "industry": "Business Services",
-    "date_of_investment": 2007,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TelX",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TeraSky",
-    "industry": "Technology",
-    "date_of_investment": 2022,
-    "region": "Europe",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "The Hispanic Yellow Pages",
-    "industry": "Media and Entertainment",
-    "date_of_investment": 2003,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Media and Entertainment",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Thomsons Online Benefits",
-    "industry": "Technology",
-    "date_of_investment": 2013,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2013,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Triple Point Technology",
-    "industry": "Technology",
-    "date_of_investment": 2006,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Trover Solutions Inc.",
-    "industry": "Financials",
-    "date_of_investment": 2010,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2010,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Turnberry Solutions",
-    "industry": "Technology",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "U.S. Dermatology Associates",
-    "industry": "Healthcare",
-    "date_of_investment": 2016,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unison",
-    "industry": "Business Services",
-    "date_of_investment": 2015,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "United Real Estate Group",
-    "industry": "Business Services",
-    "date_of_investment": 2020,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "US Legal Support",
-    "industry": "Business Services",
-    "date_of_investment": 2018,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "USEReady",
-    "industry": "Outsourced Professional Services",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Outsourced Professional Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Vertical Scope",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Vocado",
-    "industry": "Technology",
-    "date_of_investment": 2010,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "What If Media Group",
-    "industry": "Technology",
-    "date_of_investment": 2022,
-    "region": "North America",
-    "status_current": "Current"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "WideOpenWest",
-    "industry": "Technology",
-    "date_of_investment": 1999,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1999,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Writtle Holdings",
-    "industry": "Business Services",
-    "date_of_investment": 2007,
-    "region": "Europe",
-    "status_current": "Realized"
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Xand",
-    "industry": "Technology",
-    "date_of_investment": 2011,
-    "region": "North America",
-    "status_current": "Realized"
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "York Risk Services Group",
-    "industry": "Financials",
-    "date_of_investment": 2010,
-    "region": null,
-    "status_current": "Realized"
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2010,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   }
 ]

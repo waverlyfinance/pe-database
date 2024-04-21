@@ -1,0 +1,2417 @@
+[
+  {
+    "company_name": "37.5",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "3Pillar Global",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "7(S) Personal",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "A10 Capital",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Accounting Seed",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Accupac",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ACG Materials",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Acqua & Sapone",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Adscape Media",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AdTheorent",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Advanced Dental Brands",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AERT",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Agere Systems",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AIRCOM",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Albertville Quality Foods",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alder Biopharmaceuticals",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Align Networks",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "All American Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Allegient Systems",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alteo",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Hardwood Industries",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Vision Partners",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Amerijet International",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AMPAC",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Amsive",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Andwis",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Anvis Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Apollo Endosurgery",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "APS Healthcare",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ARBOC Specialty Vehicles",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Arctic Glacier Holdings",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ARMetallizing",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Arvelle Therapeutics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ascent Global Logistics",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aspire Pharma",
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Augmedics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AVI-SPL",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aviapartner",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Barton Associates",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Beacon Industrial Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "BECO Holding Company (BHC)",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Beinbauer Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Berardi",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Big Tex",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bigsal",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "BioVectra",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bluum",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bolt",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Boostability",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Brand Addition",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Buck",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cadica",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Capstone Logistics",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Capstone Nutrition",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Caraustar Industries",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cardinal",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CardioFocus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Carlton",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Celerion",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Centerfield",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Centros \u00danico",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CHA Consulting",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cincinnati Test Systems",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Circle Graphics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Classmates",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Claymont Steel",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CLC Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cleo",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Click Therapeutics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cl\u00ednica AMO",
+    "industry_stan": "Healthcare",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CMGC",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Community Intervention Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Compa\u00f1\u00eda del Tropico",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Comverge",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Con Forms",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Concord",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Conet",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Connor AGA Sports Flooring",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Constructive Media",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Continental Batteries",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cora Physical Therapy",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Core Linen Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Corelight",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cornerstone Chemical",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cpower",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cuyana",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cxtec",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dazpak",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Deenova",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dent Wizard",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Desktop",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DGS",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dhisco",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Diam International",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Die Cuts With a View",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Digital Room",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Digital Ware",
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DSD",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "DX Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DynaSteel",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Easy Gardener Products",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ECI",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ecore",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "eHealth",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Elekeiroz",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "LatAm",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Eletromidia",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "eMedicine",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Empire Today",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Empower AI",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Enseo",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Epic Production Technologies",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Eruptr",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Escalate Media",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Europa",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Everlaw",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Exagen",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Exceltec",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Exterior Plus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eysa",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Family Entertainment Group",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "FanLib",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fibercore",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fidelity Payment Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "First Capital",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Flight Options",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FNZ",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Formerra",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ForSight VISION5",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FrameMax",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Funambol",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "FVO",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "General Datatech",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GLD",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Gould &amp; Lamb",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Groupe CTI",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "H\u2022C\u2022S Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Halex Istar",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hart &amp; Cooley",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Harvard Drug Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Health Network One",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Heath Company",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "HelpSystems",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "HFI",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hibu",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Highbourne Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Higher Gear Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Highridge Medical",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hiventy",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Homewerks",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HyperBranch",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ICG Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Iconic Therapeutics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "iDC",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ideal Image",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Infinigate",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Infogix",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Insight Global",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Intact Vascular",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Integrity Solution Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Intelius",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "InterDent",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "International Schools of Europe",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Interpath",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Invoca",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Iron Bow",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Jackson Paper Manufacturing / Sustainable Corrugated",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Johnstown Corporation",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "JumpCloud",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Just Home Healthcare Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "KM2",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kondor",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Koozie Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kora Sa\u00fade",
+    "industry_stan": "Healthcare",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Lancope",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Leiters",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LetsTalk.com",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lexmark",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LG lugar de gente",
+    "industry_stan": "Technology",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Lionbridge",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lipari Foods",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Load One",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LocationSmart (formerly Locaid)",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Looping",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Losberger",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lucas Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lulus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Magnacare",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Maillis Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mainline",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Matrixx",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MedPro Advantage",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Medusind",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Metalprint",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Meyra Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Milestone Technologies, Inc.",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mobileum",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mode",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MoneySolver",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MSC",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MX",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "myKaarma",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nadir Figueiredo",
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "National Product Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Navitas Life Sciences",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Net Trans",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NeuWave",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Nevakar",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nexidia",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "nextSource",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "North America Central School Bus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Northern Biogas",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Novadaq",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "NZN",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Oasis",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Office People",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Office Total",
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "On Target Laboratories",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Onis Visa",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Orbus Therapeutics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Orius Corp.",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Out West Restaurant Group, Inc.",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Oxford Global Resources",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Parachute",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Passport",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Patriot Pickle",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pendum",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Penhall",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Personal Optics",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pinalli",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pinkerton Computer Consultants",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pinnacle GI Partners",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pixelle Specialty Solutions",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Plastic Fabricating Company",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Plixxent",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PMSI",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Polygon",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Potpourri",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pressed Petals",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pro-Pet",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Progrexion",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Project Informatica",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Propel Health",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ProsperOps",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Protocol Global Solutions",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Puerto de Indias",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pyramid Analytics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Quick",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Quicken",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Quinnova Pharmaceuticals",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ransa",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RBmedia",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ready Pac Produce",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Recochem",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Reliant Rehabilitation",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "REVShare",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Rising Pharmaceuticals",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Riveron",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Rotorcraft Leasing Company",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Royo Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "RxSight",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "RxStrategies",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Safe-Guard Products International",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sage Hospice",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Salary.com",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Salmedix",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Savvion",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SCUF Gaming",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SeaStar Solutions",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Selfit",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "LatAm",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ServiceCraft Logistics",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ServiceTitan",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SIAT Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Silentnight Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sitetracker",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Smallsteps",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SMTC",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Soleo Health",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Source Electronics",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Southern Quality Meats",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Specialized Vehicles Corporation",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sportfive",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SpotX",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "St. Croix Hospice",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "STH Standard Hidraulica",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Stream",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sunshine Media",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Supply Source Enterprises",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Surgery Partners",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sustana",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Suzy",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Symplicity",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Synseal",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Taconic Biosciences",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tastes on the Fly",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tecfil",
+    "industry_stan": "Business Services",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Telescope",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Teracai",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Terra Millennium Corporation",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "TestAmerica",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Texas Honing",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Texbond",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Thane International",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The Bluebird Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "The Engine Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Thermal Industries",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Thermo Fluids",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ThoughtFocus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Time Manufacturing Company",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "TLC Vision",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Total Safety",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tower Engineering Professionals",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Trace3",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "TRAKAmerica",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Transtar Metals",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tres60",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Triad Retail Media",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "True North Custom Publishing",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United Flow Technologies",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Universal Fiber Systems",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "US MED",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "USALCO",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Valtris Specialty Chemicals",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Vantage Specialty Chemicals",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vaupell",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Velocity Solutions",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vernacare",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vertiflex",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Viasys",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "VIP Petcare",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Virutex",
+    "industry_stan": "Consumer",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "VIX",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "VM Industries",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "VNU Media",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Warrantech Corporation",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wastequip",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Watchfire",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WBB",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wellpath",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WERU",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Windows USA",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Worksuite",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WPS",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Xtera",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zerigo Health",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zmarta",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "company_name": "3ality Technica",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alkegen",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alteryx",
+    "date_of_investment_stan": 2024,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AMCS",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "American Construction Source",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AMQUIP",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Appriss Insights",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Appriss Retail",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ARCHER",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ashley Stewart",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bakemark",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bamboo Health",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BBB Industries Llc",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BetaNXT",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BeyondTrust",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bluefly",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Brightly Software",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Buy.com",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Calero",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Chef's Cut Real Jerky",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Chelsea F.C.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CompuDyne Corporation",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Concert Golf Partners",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Confluence Technologies, Inc.",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Constant Contact",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ConvergeOne",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cornerstone OnDemand",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Crash Champions",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Digicert",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Diligent",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Discovery Education",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dodge Construction Network",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eagleview",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Finthrive",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Floworks",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "From the Ground Up",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Futuris Automotive",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Gravity Oilfield Services Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hi-Crush",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "International Textile Group",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Inventus",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "InvestCloud",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "IPG",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Irongate Energy Services",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ivanti",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "IXS",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Jacuzzi",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Janus",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Jetsmarter",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Knight Energy Services",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Knight Oil Tools",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Learfield",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Light Tower Rentals, Inc.",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lytx",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Metricstream",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mformation",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MRP Solutions",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mycom Osi",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "NetDocuments",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Netwitness-Rsa",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Newfold Digital",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "OnShift",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Outseer-Rsa",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Owyn (Only What You Need)",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Perforce Software",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Platinum Energy Solutions",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pomeroy",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Precisely",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pretium",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Primesource",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Primesport",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Provation",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Purple Communications",
+    "date_of_investment_stan": 2008,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Quest Software",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RSA",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sage Automotive Interiors",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SecurID",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sensible Portions",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Smart Sand",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Solutionary",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Springs Window Fashions",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Symplr",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Team Technologies",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "That's How We Roll",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tungsten Automation",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "VictoryLive",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vision Solutions",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wellness Pet Company",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Wheel Pros",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zywave",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  }
+]

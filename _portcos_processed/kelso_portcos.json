@@ -5,7 +5,7 @@
     "date_of_investment": "1997",
     "industry": "Media",
     "region": "Pontiac, MI",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -14,7 +14,7 @@
     "date_of_investment": "1999",
     "industry": "Services",
     "region": "Hamilton, Bermuda",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -23,7 +23,7 @@
     "date_of_investment": "2013",
     "industry": "Services",
     "region": "Langley, British Columbia / Oakville, Ontario",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -32,7 +32,7 @@
     "date_of_investment": "2015",
     "industry": "Energy",
     "region": "Houston, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -41,7 +41,7 @@
     "date_of_investment": "2015",
     "industry": "Financial Services",
     "region": "Dallas, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -50,7 +50,7 @@
     "date_of_investment": "1986",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -59,7 +59,7 @@
     "date_of_investment": "1988",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -68,7 +68,7 @@
     "date_of_investment": "1986",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -77,7 +77,7 @@
     "date_of_investment": "1996",
     "industry": "Consumer",
     "region": "Richmond, VA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -86,7 +86,7 @@
     "date_of_investment": "2008",
     "industry": "Services",
     "region": "Atlanta, GA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -95,7 +95,7 @@
     "date_of_investment": "1988",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -104,7 +104,7 @@
     "date_of_investment": "2001",
     "industry": "Consumer",
     "region": "Princeton, NJ",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -113,7 +113,7 @@
     "date_of_investment": "2012",
     "industry": "Consumer",
     "region": "Augusta, GA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -122,7 +122,7 @@
     "date_of_investment": "2019",
     "industry": "Industrial",
     "region": "Bell, CA",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -131,7 +131,7 @@
     "date_of_investment": "2022",
     "industry": "Business Services",
     "region": "Jacksonville, FL",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -140,7 +140,7 @@
     "date_of_investment": "2007",
     "industry": "Energy",
     "region": "Houston, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -149,7 +149,7 @@
     "date_of_investment": "2003",
     "industry": "Industrial",
     "region": "Atlanta, GA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -158,7 +158,7 @@
     "date_of_investment": "1999",
     "industry": "Industrial",
     "region": "Cambridge, United Kingdom",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -167,7 +167,7 @@
     "date_of_investment": "1994",
     "industry": "Media",
     "region": "St. Louis, MO",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -176,7 +176,7 @@
     "date_of_investment": "1999",
     "industry": "Industrial",
     "region": "Birmingham, AL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -185,7 +185,7 @@
     "date_of_investment": "1988",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -194,7 +194,7 @@
     "date_of_investment": "1997",
     "industry": "Consumer",
     "region": "Pennsauken, NJ",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -203,7 +203,7 @@
     "date_of_investment": "2008",
     "industry": "Energy",
     "region": "Calgary, Alberta, Canada",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -212,7 +212,7 @@
     "date_of_investment": "2010",
     "industry": "Financial Services",
     "region": "Hamilton, Bermuda",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -221,7 +221,7 @@
     "date_of_investment": "2005",
     "industry": "Industrial",
     "region": "Seal Beach, CA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -230,7 +230,7 @@
     "date_of_investment": "2005",
     "industry": "Energy",
     "region": "Sugar Land, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -239,7 +239,7 @@
     "date_of_investment": "1997",
     "industry": "Media",
     "region": "Jacksonville, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -248,7 +248,7 @@
     "date_of_investment": "2007",
     "industry": "Consumer",
     "region": "Carrington, ND",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -257,7 +257,7 @@
     "date_of_investment": "2005",
     "industry": "Consumer",
     "region": "Uniondale, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -266,7 +266,7 @@
     "date_of_investment": "2010",
     "industry": "Industrial",
     "region": "New York, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -275,7 +275,7 @@
     "date_of_investment": "1992",
     "industry": "Media",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -284,7 +284,7 @@
     "date_of_investment": "2005",
     "industry": "Consumer",
     "region": "Atlanta, GA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -293,7 +293,7 @@
     "date_of_investment": "2013",
     "industry": "Industrial",
     "region": "Montreal, Quebec, Canada",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -302,7 +302,7 @@
     "date_of_investment": "2005",
     "industry": "Industrial",
     "region": "New York, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -311,7 +311,7 @@
     "date_of_investment": "2015",
     "industry": "Consumer",
     "region": "Cleveland, OH",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -320,7 +320,7 @@
     "date_of_investment": "1990",
     "industry": "Services",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -329,7 +329,7 @@
     "date_of_investment": "2018",
     "industry": "Healthcare",
     "region": "Dallas, TX",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -338,7 +338,7 @@
     "date_of_investment": "2006",
     "industry": "Media",
     "region": "Santa Ana, CA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -347,7 +347,7 @@
     "date_of_investment": "1993",
     "industry": "Media",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -356,7 +356,7 @@
     "date_of_investment": "1997",
     "industry": "Healthcare",
     "region": "Chadds Ford, PA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -365,7 +365,7 @@
     "date_of_investment": "2004",
     "industry": "Media",
     "region": "Tallahassee, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -374,7 +374,7 @@
     "date_of_investment": "1997",
     "industry": "Services",
     "region": "Charlotte, NC",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -383,7 +383,7 @@
     "date_of_investment": "2021",
     "industry": "Consumer",
     "region": "Piscataway, NJ",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -392,7 +392,7 @@
     "date_of_investment": "2020",
     "industry": "Consumer",
     "region": "Pittsburgh, PA",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -401,7 +401,7 @@
     "date_of_investment": "2017",
     "industry": "Consumer",
     "region": "Pittsburgh, PA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -410,7 +410,7 @@
     "date_of_investment": "1993",
     "industry": "Healthcare",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -419,7 +419,7 @@
     "date_of_investment": "2006",
     "industry": "Energy",
     "region": "Houston, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -428,7 +428,7 @@
     "date_of_investment": "2010",
     "industry": "Industrial",
     "region": "London, United Kingdom",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -437,7 +437,7 @@
     "date_of_investment": "2010",
     "industry": "Financial Services",
     "region": "Indiantown, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -446,7 +446,7 @@
     "date_of_investment": "1994",
     "industry": "Industrial",
     "region": "Jacksonville, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -455,7 +455,7 @@
     "date_of_investment": "1994",
     "industry": "Consumer",
     "region": "Bensalem, PA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -464,7 +464,7 @@
     "date_of_investment": "2013",
     "industry": "Healthcare",
     "region": "Memphis, TN",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -473,7 +473,7 @@
     "date_of_investment": "1999",
     "industry": "Industrial",
     "region": "Cleveland, OH",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -482,7 +482,7 @@
     "date_of_investment": "1995",
     "industry": "Media",
     "region": "Wilmington, NC",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -491,7 +491,7 @@
     "date_of_investment": "1995",
     "industry": "Consumer",
     "region": "Chicago, IL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -500,7 +500,7 @@
     "date_of_investment": "2010",
     "industry": "Energy",
     "region": "Dallas, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -509,7 +509,7 @@
     "date_of_investment": "2007",
     "industry": "Services",
     "region": "Orlando, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -518,7 +518,7 @@
     "date_of_investment": "1987",
     "industry": "Consumer",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -527,7 +527,7 @@
     "date_of_investment": "2023",
     "industry": "Industrial",
     "region": "Tampa, FL",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -536,7 +536,7 @@
     "date_of_investment": "2022",
     "industry": "Industrial",
     "region": "Dallas, TX",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -545,7 +545,7 @@
     "date_of_investment": "2019",
     "industry": "Financial Services",
     "region": "Jericho, NY",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -554,7 +554,7 @@
     "date_of_investment": "2005",
     "industry": "Services",
     "region": "Carmel, IN",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -563,7 +563,7 @@
     "date_of_investment": "1987",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -572,7 +572,7 @@
     "date_of_investment": "2000",
     "industry": "Industrial",
     "region": "Tarrytown, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -581,7 +581,7 @@
     "date_of_investment": "2007",
     "industry": "Energy",
     "region": "Houston, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -590,7 +590,7 @@
     "date_of_investment": "1992",
     "industry": "Media",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -599,7 +599,7 @@
     "date_of_investment": "1991",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -608,7 +608,7 @@
     "date_of_investment": "1986",
     "industry": "Services",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -617,7 +617,7 @@
     "date_of_investment": "2010",
     "industry": "Consumer",
     "region": "Nashville, TN",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -626,7 +626,7 @@
     "date_of_investment": "1991",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -635,7 +635,7 @@
     "date_of_investment": "1990",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -644,7 +644,7 @@
     "date_of_investment": "1988",
     "industry": "Services",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -653,7 +653,7 @@
     "date_of_investment": "1990",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -662,7 +662,7 @@
     "date_of_investment": "2018",
     "industry": "Financial Services",
     "region": "Walnut Creek, California",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -671,7 +671,7 @@
     "date_of_investment": "2012",
     "industry": "Industrial",
     "region": "Jacksonville, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -680,7 +680,7 @@
     "date_of_investment": "2003",
     "industry": "Industrial",
     "region": "Providence, RI",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -689,7 +689,7 @@
     "date_of_investment": "2020",
     "industry": "Industrial",
     "region": "Atlanta, GA",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -698,7 +698,7 @@
     "date_of_investment": "2017",
     "industry": "Services",
     "region": "West Palm Beach, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -707,7 +707,7 @@
     "date_of_investment": "2009",
     "industry": "Healthcare",
     "region": "Edison, NJ",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -716,7 +716,7 @@
     "date_of_investment": "2004",
     "industry": "Energy",
     "region": "Denver, CO",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -725,7 +725,7 @@
     "date_of_investment": "2004",
     "industry": "Services",
     "region": "Morristown, NJ",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -734,7 +734,7 @@
     "date_of_investment": "2023",
     "industry": "Financial Services",
     "region": "Englewood, NJ",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -743,7 +743,7 @@
     "date_of_investment": "1995",
     "industry": "Consumer",
     "region": "South Hill, VA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -752,7 +752,7 @@
     "date_of_investment": "2016",
     "industry": "Healthcare",
     "region": "Jamison, PA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -761,7 +761,7 @@
     "date_of_investment": "2012",
     "industry": "Energy",
     "region": "Cary, NC",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -770,7 +770,7 @@
     "date_of_investment": "2017",
     "industry": "Financial Services",
     "region": "Bermuda",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -779,7 +779,7 @@
     "date_of_investment": "2007",
     "industry": "Services",
     "region": "Schaumburg, IL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -788,7 +788,7 @@
     "date_of_investment": "2020",
     "industry": "Healthcare",
     "region": "Jacksonville Beach, FL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -797,7 +797,7 @@
     "date_of_investment": "2006",
     "industry": "Consumer",
     "region": "Mount Airy, NC",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -806,7 +806,7 @@
     "date_of_investment": "2021",
     "industry": "Financial Services",
     "region": null,
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -815,7 +815,7 @@
     "date_of_investment": "2006",
     "industry": "Media",
     "region": "New York, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -824,7 +824,7 @@
     "date_of_investment": null,
     "industry": "Financial Services",
     "region": "Boston, MA",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -833,7 +833,7 @@
     "date_of_investment": "2010",
     "industry": "Financial Services",
     "region": "New York, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -842,7 +842,7 @@
     "date_of_investment": "2021",
     "industry": "Financial Services",
     "region": "Rockford, IL",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -851,7 +851,7 @@
     "date_of_investment": "1996",
     "industry": "Services",
     "region": "Atlanta, GA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -860,7 +860,7 @@
     "date_of_investment": "2011",
     "industry": "Services",
     "region": "New York, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -869,7 +869,7 @@
     "date_of_investment": "2015",
     "industry": "Services",
     "region": "San Antonio, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -878,7 +878,7 @@
     "date_of_investment": "2021",
     "industry": "Financial Services",
     "region": "Bermuda",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -887,7 +887,7 @@
     "date_of_investment": "2016",
     "industry": "Industrial",
     "region": "Omaha, NE",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -896,7 +896,7 @@
     "date_of_investment": "1986",
     "industry": "Healthcare",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -905,7 +905,7 @@
     "date_of_investment": "2012",
     "industry": "Energy",
     "region": "Leawood, KS",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -914,7 +914,7 @@
     "date_of_investment": "2007",
     "industry": "Energy",
     "region": "Calgary, Alberta, Canada",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -923,7 +923,7 @@
     "date_of_investment": "1986",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -932,7 +932,7 @@
     "date_of_investment": "2011",
     "industry": "Financial Services",
     "region": "Hamilton, Bermuda",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -941,7 +941,7 @@
     "date_of_investment": "1993",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -950,7 +950,7 @@
     "date_of_investment": "2006",
     "industry": "Services",
     "region": "Strassen, Luxembourg",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -959,7 +959,7 @@
     "date_of_investment": "2010",
     "industry": "Industrial",
     "region": "Falconer, NY",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -968,7 +968,7 @@
     "date_of_investment": "1991",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -977,7 +977,7 @@
     "date_of_investment": "2006",
     "industry": "Services",
     "region": "Middletown, CT",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -986,7 +986,7 @@
     "date_of_investment": "1999",
     "industry": "Healthcare",
     "region": "Tarzana, CA",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -995,7 +995,7 @@
     "date_of_investment": "1996",
     "industry": "Media",
     "region": "Chicago, IL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1004,7 +1004,7 @@
     "date_of_investment": "1993",
     "industry": "Industrial",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1013,7 +1013,7 @@
     "date_of_investment": "2015",
     "industry": "Industrial",
     "region": "Buffalo Grove, IL",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1022,7 +1022,7 @@
     "date_of_investment": "2023",
     "industry": "Healthcare",
     "region": "Phoenix, AZ",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -1031,7 +1031,7 @@
     "date_of_investment": "2012",
     "industry": "Energy",
     "region": "Addison, TX",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1040,7 +1040,7 @@
     "date_of_investment": "2003",
     "industry": "Services",
     "region": "Toronto, Ontario, Canada",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1049,7 +1049,7 @@
     "date_of_investment": "1989",
     "industry": "Consumer",
     "region": null,
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1058,7 +1058,7 @@
     "date_of_investment": "2022",
     "industry": "Financial Services",
     "region": "Boston, MA",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   },
   {
@@ -1067,7 +1067,7 @@
     "date_of_investment": "2009",
     "industry": "Financial Services",
     "region": "Wilton, CT",
-    "status": "Exited",
+    "status_current": "Exited",
     "firm": "Kelso"
   },
   {
@@ -1076,7 +1076,7 @@
     "date_of_investment": "2017",
     "industry": "Energy",
     "region": "Houston, TX",
-    "status": "Current",
+    "status_current": "Current",
     "firm": "Kelso"
   }
 ]
