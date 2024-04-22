@@ -37,21 +37,21 @@
   {
     "company_name": "American Buildings",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1986,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "American Standard",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1988,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Americold",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1986,
     "status_current_stan": "Realized"
   },
@@ -72,7 +72,7 @@
   {
     "company_name": "Arkansas Best",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1988,
     "status_current_stan": "Realized"
   },
@@ -142,7 +142,7 @@
   {
     "company_name": "Club Car",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1988,
     "status_current_stan": "Realized"
   },
@@ -212,7 +212,7 @@
   {
     "company_name": "Douglas Broadcasting",
     "industry_stan": "Technology",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1992,
     "status_current_stan": "Realized"
   },
@@ -247,7 +247,7 @@
   {
     "company_name": "Earle M. Jorgensen",
     "industry_stan": "Business Services",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1990,
     "status_current_stan": "Realized"
   },
@@ -268,7 +268,7 @@
   {
     "company_name": "Ellis Communications",
     "industry_stan": "Technology",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1993,
     "status_current_stan": "Realized"
   },
@@ -317,7 +317,7 @@
   {
     "company_name": "General Medical",
     "industry_stan": "Healthcare",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1993,
     "status_current_stan": "Realized"
   },
@@ -401,7 +401,7 @@
   {
     "company_name": "IHOP",
     "industry_stan": "Consumer",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1987,
     "status_current_stan": "Realized"
   },
@@ -436,7 +436,7 @@
   {
     "company_name": "Kelso Overland",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1987,
     "status_current_stan": "Realized"
   },
@@ -457,21 +457,21 @@
   {
     "company_name": "King Broadcasting",
     "industry_stan": "Technology",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1992,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Landstar Systems",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1991,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Lebanon Valley Offset",
     "industry_stan": "Business Services",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1986,
     "status_current_stan": "Realized"
   },
@@ -485,28 +485,28 @@
   {
     "company_name": "Masland Industries",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1991,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Merchants",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1990,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Mitchell Supreme Fuel",
     "industry_stan": "Natural Resources",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1988,
     "status_current_stan": "Realized"
   },
   {
     "company_name": "Mosler",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1990,
     "status_current_stan": "Realized"
   },
@@ -626,7 +626,7 @@
     "company_name": "ReSource Pro",
     "date_of_investment_stan": 2021,
     "industry_stan": "Financials",
-    "region_stan": "null",
+    "region_stan": null,
     "status_current_stan": "Current"
   },
   {
@@ -640,7 +640,7 @@
     "company_name": "Risk Strategies Company",
     "industry_stan": "Financials",
     "region_stan": "North America",
-    "date_of_investment_stan": "null",
+    "date_of_investment_stan": null,
     "status_current_stan": "Current"
   },
   {
@@ -695,7 +695,7 @@
   {
     "company_name": "Spectramed",
     "industry_stan": "Healthcare",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1986,
     "status_current_stan": "Realized"
   },
@@ -716,7 +716,7 @@
   {
     "company_name": "Texas Foundries",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1986,
     "status_current_stan": "Realized"
   },
@@ -730,7 +730,7 @@
   {
     "company_name": "TransDigm",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1993,
     "status_current_stan": "Realized"
   },
@@ -751,7 +751,7 @@
   {
     "company_name": "Tyler Refrigeration",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1991,
     "status_current_stan": "Realized"
   },
@@ -779,7 +779,7 @@
   {
     "company_name": "URS Logistics",
     "industry_stan": "Industrials",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1993,
     "status_current_stan": "Realized"
   },
@@ -814,7 +814,7 @@
   {
     "company_name": "Wickes Furniture",
     "industry_stan": "Consumer",
-    "region_stan": "null",
+    "region_stan": null,
     "date_of_investment_stan": 1989,
     "status_current_stan": "Realized"
   },

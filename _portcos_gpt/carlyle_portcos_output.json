@@ -1,0 +1,1394 @@
+[
+  {
+    "company_name": "1E",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "A Twosome Place",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Abacus Pharmaceuticals",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Abbisko",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Abrigo",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Accelerate Learning",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Accolade Wines",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Acentra Health",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Acrotec Group",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Acufocus, Inc.",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ADB Safegate",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Addison Lee Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Adicon Holdings Limited",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Agilox Systems GmbH",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alamar Foods",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alphastruxure",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Infrastructure",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Altadia Group",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ambio Holdings, Inc.",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Amecor",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ampere Computing Holdings LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Amrod",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ant Financial",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Anthesis",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Anxin Apartment",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AOI TYO Holdings",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Apex Parks Group",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Arctic Glacier Inc.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Array Canada Inc.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Asia Satellite Telecom Holdings",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Athena Art Finance Corp.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Atracciones Coney Island",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AutoForm",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AxleTech International Holdings, LLC",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Beautycounter",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BenefitMall",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Calastone",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Captrust",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cepsa",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CFGI",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "China Literature Limited",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Claritas, LLC",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CMC Networks",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Codorn\u00edu Ravent\u00f3s",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Comdata",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CommScope Holding Company, Inc.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Compana Pet Brands",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Content Partners LLC",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CorroHealth",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CSS AG",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cupa Group",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CureApp Inc.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Curia",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dainese",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Delhivery Logistics Private Limited",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dept",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Design Holding",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Disguise",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Du Xiaoman Financial",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Duravant",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eggplant",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "End.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Envea",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "European Camping Group",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Evernex SA",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Every Man Jack",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Evolution Funding",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Exiger",
+    "date_of_investment_stan": 2024,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Expertia Travel",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Extreme Reach, Inc.",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fang Holdings Limited",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Farmfront",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Flender",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Forgital",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "G&N Brands",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Galway Insurance Holdings",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Gbtec",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GCR (Global Credit Ratings)",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Global Health Private Limited",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Global Jet Capital",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Golden Goose Deluxe Brand",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Greater China Intermodal Investments LLC",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Infrastructure",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Groupe Lacour",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Grupo Garnica Plywood",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "H.C. Starck GmbH",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hack The Box",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HCP",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hexaware",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HGH Infrared Systems",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hilb Group",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HireVue",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HSO Group",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hunkem\u00f6ller",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Huohua Siwei (Spark Education)",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hurst Point Group",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hutchmed",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hyundai Glovis",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "iC Consult Group",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Inca Rail",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Included Health",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Incubeta",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Indegene",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "iNova Pharmaceuticals",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Inpart",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "iNova Pharmaceuticals",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Inpart",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Interlink Maritime Corp.",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "International Marine and Industrial Applicators, LLC",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Irca",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Isometrix",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ithaca Holdings, LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "J&J Africa",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Jagex",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "JD Logistics",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Jeanologia",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kakao Mobility Corp.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "KB Financial",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "KLDiscovery",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kokusai Kogyo Co., Ltd.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LiveU",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Livingstone Technologies",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LPG Systems SA",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Luolai Lifestyle Technology",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Madero Ind\u00fastria e Com\u00e9rcio S.A.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Magnit",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MAK-SYSTEM",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Marle International",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "McCauley (formerly Sam McCauley Chemists Limited)",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "McDonald's China (Grand Foods Holdings Limited)",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Medline",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MedRisk HoldCo, LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Meopta",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Millicent Pharma Limited",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MKS Instruments, Inc.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Money Square Holdings, Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Neogov",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NEP Group, Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Net Health Systems",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Netceed",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NetMotion, Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Neverhack",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nobian",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nosa Group",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nouryon",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Novetta Solutions, LLC",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Business Services",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Novolex",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nxtra Data Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "On Location Experiences",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "One Medical",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "OneSmart Education",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Orion Breweries, Ltd.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Orsini Pharmaceutical Services",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Oyatsu Company Limited",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Packable",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Paradigm Precision",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Penti",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pharmaceutical Product Development, Inc. (PPD)",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Phrase",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pib Limited",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Piramal Pharma Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PNB Housing Finance Limited",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Praesidiad",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Prima Solutions SA",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PrimeFlight Aviation Services, Inc.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PurposeBuilt Brands",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Quidel Ortho",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Rede D'Or S\u00e3o Luiz S.A.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Resonetics",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ri-Happy Brinquedos S.A.",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Rigaku",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Saama",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sankyo Rikagaku Co., Ltd.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Saverglass",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SBI Card",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SBI Life Insurance Company Ltd",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Schaltbau Holding AG",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Schon Klinik SE",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sciens Building Solutions",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Seacor Marine Holdings Inc.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sedgwick Inc.",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Senqcia Corporation",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sensors Data",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sequa Corporation",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SeQuent Scientific Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SER Group",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Shanghai ANE",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Shenzhen Salubris Pharmaceutical Co., Ltd",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Shopware",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SMD Technologies",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Spiber Inc.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sports Surgery Clinic Limited",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "StandardAero Holding Corp.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sunsho Pharmaceutical Co., Ltd.",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Supreme",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Syniverse Technologies",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tamko Building Products",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tempo Participa\u00e7\u00f5es S.A.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tescan Group",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tessara",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The Bountiful Company",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The City Bin Co.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The South Indian Bank Ltd.",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Financials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The TCW Group, Inc",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Theramex",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Thomas Scientific, LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Titan Acquisition Holdings",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tokiwa Corporation",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tongyi Lubricant",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Totoku Inc.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Traxys Group",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "TriNetX",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tuhu",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Twin Set",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Consumer",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Two Six Technologies",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Unchained Labs",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Unison",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "United Road Services",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Uzabase Inc.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vantage Group Holdings Ltd.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Uzabase Inc.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Vantage Group Holdings Ltd.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Varmora Granito Pvt. Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Veritas",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Victory Innovations",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Visionary RCM Infotech (India) Private Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Viyash Life Sciences Private Limited",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "VLCC Healthcare Limited",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "VXI Global Solutions",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wakanow.com Limited",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WellDyneRx, LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Yes Bank Limited",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Yipitdata",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ZoomInfo",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "status_current_stan": "Current"
+  }
+]

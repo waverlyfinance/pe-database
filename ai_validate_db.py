@@ -5,6 +5,7 @@ import os
 from pydantic import BaseModel, Field
 from langchain_text_splitters import RecursiveJsonSplitter
 import time
+import psycopg2
 
 # Openai stuff
 api_key_oai = os.getenv('OPENAI_API_KEY')
@@ -45,34 +46,29 @@ def pre_process(firm):
     return new_data
 
 
-# Langchain chunking. Documents are too large (max 4096 output tokens)
-def chunk(data):
+# # Langchain chunking. Documents are too large (max 4096 output tokens)
+# def chunk(data):
 
-    # data_string = json.dumps(data)
+#     # data_string = json.dumps(data)
 
-    splitter = RecursiveJsonSplitter(max_chunk_size=5000)
+#     splitter = RecursiveJsonSplitter(max_chunk_size=5000)
 
-    chunks = splitter.split_text(json_data=data, convert_lists=True)
+#     chunks = splitter.split_text(json_data=data, convert_lists=True)
 
-    print(chunks[0])
-    print(chunks[1])
-    return chunks
+#     print(chunks[0])
+#     print(chunks[1])
+#     return chunks
 
 
 # STANDARDIZING FOR DATABASE
 class standardized_fields(BaseModel):
-    company_name: str = Field(None, description="Just repeat the exact same company name from the source data. If the name is all caps (e.g. ACME INC.) then transform to Sentence Case (e.g. Acme Inc.)")
+    company_name: str = Field(None, description="Just repeat the exact same company name from the source data. Don't alter anything")
     industry_stan: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services, Natural Resources")
     date_of_investment_stan: int | None = Field(None, description="Must be an integer in yyyy format. E.g. 2013 or 2017")
     region_stan: str | None = Field(None, description="Must be ONLY one of the following options: North America, EMEA, LatAm, Asia Pacific, Africa")
     status_current_stan: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical).")
 
 fields_schema = standardized_fields.schema()
-
-# class output_fields(BaseModel):
-#     output_fields: list[standardized_fields]
-
-# fields_schema = output_fields.schema()
 
 
 # inputs are the original data
@@ -90,9 +86,9 @@ def transform_fields(data_string):
             Here are some hints:
             Technology: E.g. Software, servers, computer chips, IT, media, telecom, etc. Note that software for specific industries (aka "vertical" software), like software for Healthcare or for Financials, should not be classified as Technology. But in the underlying industry.
             Healthcare: E.g. Hospitals, pharmaceuticals, biotech, insurance tech, vertical healthcare software (software specifically for healthcare), doctors
-            Industrials: E.g. Construction, chemicals, waste management
+            Industrials: E.g. Construction, chemicals, waste management, aerospace, defence
             Consumer: E.g. Retail, e-commerce, direct-to-consumer, apparel, groceries
-            Business Services: Document shredding, facilities cleaning, office supplies
+            Business Services: Document shredding, facilities cleaning, office supplies, government services, education
             Financials: E.g. Payments, banks, lenders, insurance 
             Real Estate: E.g. Housing, commercial real estate
             Infrastructure: bridges, airports, shipping yards, roads, solar farms, wind turbines 
@@ -129,6 +125,7 @@ def transform_fields(data_string):
 
     return json_output
 
+
 # Claude version
 def transform_fields_claude(data):
 
@@ -139,9 +136,9 @@ def transform_fields_claude(data):
             Here are some hints:
             Technology: E.g. Software, servers, computer chips, IT, media, telecom, etc. Note that software for specific industries (aka "vertical" software), like software for Healthcare or for Financials, should not be classified as Technology. But in the underlying industry.
             Healthcare: E.g. Hospitals, pharmaceuticals, biotech, insurance tech, vertical healthcare software (software specifically for healthcare), doctors
-            Industrials: E.g. Construction, chemicals, waste management
+            Industrials: E.g. Construction, chemicals, waste management, aerospace, defence
             Consumer: E.g. Retail, e-commerce, direct-to-consumer, apparel, groceries
-            Business Services: Document shredding, facilities cleaning, office supplies
+            Business Services: Document shredding, facilities cleaning, office supplies, government services, education
             Financials: E.g. Payments, banks, lenders, insurance 
             Real Estate: E.g. Housing, commercial real estate
             Infrastructure: bridges, airports, shipping yards, roads, solar farms, wind turbines 
@@ -154,7 +151,9 @@ def transform_fields_claude(data):
             {data}"""
 
     completion = client.beta.tools.messages.create(
-    model="claude-3-sonnet-20240229",
+    model="claude-3-haiku-20240307",
+    #haiku-20240307
+    #sonnet-20240229
     temperature=0.0,
     max_tokens=1000,
     
@@ -169,7 +168,6 @@ def transform_fields_claude(data):
         ],
     )
 
-
     try:
         output = completion.content[0].input
         print(output)
@@ -177,6 +175,67 @@ def transform_fields_claude(data):
         output = completion.content[1].input
         print(output)
     return output
+
+
+def consolidate_fields(firm):
+    filename = firm + "_portcos"
+    
+    # first file (original)
+    with open(f"_portcos_processed/{filename}.json", "r") as file:
+        data1 = json.load(file)
+    
+    # second file (LLM standardized)
+    with open(f"_portcos_gpt/{filename}_output.json", "r") as file:
+        data2 = json.load(file)
+
+    # update first file with new fields
+    for i in range(len(data1)):
+        data1[i].update(data2[i]) # update all fields using 2nd file
+
+    # output to new file
+    with open(f"_portcos_output/{filename}.json", "w") as outfile:
+        json.dump(data1, outfile, indent=2)
+
+
+def update_db(firm):
+    filename = firm.lower() + "_portcos"
+    db_name = "portcos_test"
+
+    # connect to Postgres db
+    connection_string = os.getenv("DATABASE_STRING")
+    connection = psycopg2.connect(connection_string)
+    cursor = connection.cursor()
+
+    with open(f"_portcos_output/{filename}.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+
+    # SQL update query
+    update_sql = f"""
+    UPDATE {db_name} 
+    SET 
+        industry_stan = %s,
+        region_stan = %s,
+        date_of_investment_stan = %s,
+        status_current_stan = %s
+    WHERE firm = %s AND company_name = %s; 
+    """
+    
+    # Execute update statements for each company
+    for company in data:
+        cursor.execute(update_sql, (
+            company.get("industry_stan"),
+            company.get("region_stan"),
+            company.get("date_of_investment_stan"),
+            company.get("status_current_stan"),
+            firm,
+            company.get("company_name")
+        ))
+        # breakpoint()
+
+    connection.commit()
+    cursor.close()
+    connection.close()
 
 
 
@@ -192,9 +251,11 @@ def main(firm):
         # company_string = json.dumps(company)
         transformed_company = transform_fields_claude(company)
         output.append(transformed_company)
-        # time.sleep(1)
+        time.sleep(1)
         
     with open(f"_portcos_gpt/{filename}_output.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
 
-main("kelso")
+# main("tpg")
+# consolidate_fields("tpg")
+update_db("Carlyle") # case-sensitive. Must match actual firm name
