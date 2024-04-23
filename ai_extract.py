@@ -6,7 +6,6 @@ from pydantic import BaseModel, Field, create_model
 
 # Openai stuff
 api_key = os.getenv('OPENAI_API_KEY')
-print(api_key)
 client = OpenAI(api_key=api_key)
 
 # Langchain chunking. Splits raw HTML document into chunks of 10K characters each

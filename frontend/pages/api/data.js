@@ -56,22 +56,17 @@ export default async function handler(req, res) {
     }
 
     if (industry) {
-      conditions.push("industry = $2");
+      conditions.push("industry_stan = $2");
       params.push(industry);
     }
 
     if (region) {
-      conditions.push("region = $3");
+      conditions.push("region_stan = $3");
       params.push(region);
     }
 
-    if (fund) {
-      conditions.push("fund = $4");
-      params.push(fund);
-    }
-
     if (status_current) {
-      conditions.push("status_current = $5");
+      conditions.push("status_current_stan = $4");
       params.push(status_current);
     }
     

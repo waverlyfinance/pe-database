@@ -198,7 +198,7 @@ def consolidate_fields(firm):
 
 
 def update_db(firm):
-    filename = firm.lower() + "_portcos"
+    filename = "stonepoint_portcos"
     db_name = "portcos_test"
 
     # connect to Postgres db
@@ -256,6 +256,6 @@ def main(firm):
     with open(f"_portcos_gpt/{filename}_output.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
 
-# main("tpg")
-# consolidate_fields("tpg")
-update_db("Carlyle") # case-sensitive. Must match actual firm name
+# main("stonepoint")
+# consolidate_fields("stonepoint")
+update_db("Stone Point") # case-sensitive. Must match actual firm name
