@@ -35,39 +35,34 @@ async function generate_embeddings(query) {
   }
 }
 
-// // convert embedding to version that is PG useable  
-// function arrayToPgVector(array) {
-//   return `{${array.join(",")}}`;
-// }
-
 
 // function to define SQL query
 export default async function handler(req, res) {
-    const { firm, industry_stan, region, fund, status_current, searchQuery } = req.query;
+    const { firm, industry_stan, region_stan, status_current_stan, searchQuery } = req.query;
     
-    let baseQuery = "SELECT * FROM portcos_test";
+    let baseQuery = "SELECT firm, company_name, industry_stan, region_stan, fund, date_of_investment_stan, company_description, status_current_stan, website FROM portcos_test";
     let conditions = [];
     let params = [];
 
     // standard filters
     if (firm) {
-      conditions.push("firm = $1");
+      conditions.push(`firm = $${params.length + 1}`);
       params.push(firm);
     }
 
     if (industry_stan) {
-      conditions.push("industry_stan = $2");
+      conditions.push(`industry_stan = $${params.length + 1}`);
       params.push(industry_stan);
     }
 
-    if (region) {
-      conditions.push("region_stan = $3");
-      params.push(region);
+    if (region_stan) {
+      conditions.push(`region_stan = $${params.length + 1}`);
+      params.push(region_stan);
     }
 
-    if (status_current) {
-      conditions.push("status_current_stan = $4");
-      params.push(status_current);
+    if (status_current_stan) {
+      conditions.push(`status_current_stan = $${params.length + 1}`);
+      params.push(status_current_stan);
     }
     
     if (conditions.length > 0) {
@@ -79,19 +74,19 @@ export default async function handler(req, res) {
     if (searchQuery) {
       let searchEmbedding = await generate_embeddings(searchQuery);
       // const numericEmbeddings = searchEmbedding.map(parseFloat);
-      console.log("Embeddings: ", searchEmbedding);
-      console.log(typeof searchEmbedding);
 
-      let indexEmbedding = params.length + 1;
+      // let indexEmbedding = params.length + 1;
       baseQuery += ` ORDER BY embedding <-> ARRAY[${searchEmbedding}]::vector LIMIT 15`;
       // params.push(searchEmbedding);
-      console.log("Updated SQL query:", baseQuery)
+      // console.log("Updated SQL query:", baseQuery)
+      console.log("Conditions: ", conditions);
     }
 
     // call the SQL query
     try {
       const results = await pool.query(baseQuery, params);
       console.log("SQL query:", baseQuery, params);
+      console.log("Conditions: ", conditions);
       
       res.status(200).json(results.rows);
     } catch (error) {
