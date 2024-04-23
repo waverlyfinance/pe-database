@@ -198,7 +198,7 @@ def consolidate_fields(firm):
 
 
 def update_db(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
     db_name = "portcos_test"
 
     # connect to Postgres db
@@ -214,22 +214,24 @@ def update_db(firm):
     update_sql = f"""
     UPDATE {db_name} 
     SET 
+        company_name = %s,
         industry_stan = %s,
         region_stan = %s,
         date_of_investment_stan = %s,
         status_current_stan = %s
-    WHERE firm = %s AND company_name = %s; 
+    WHERE firm = %s AND website = %s; 
     """
     
     # Execute update statements for each company
     for company in data:
         cursor.execute(update_sql, (
+            company.get("company_name"),
             company.get("industry_stan"),
             company.get("region_stan"),
             company.get("date_of_investment_stan"),
             company.get("status_current_stan"),
-            firm,
-            company.get("company_name")
+            company.get("firm"),
+            company.get("website")
         ))
         # breakpoint()
 
@@ -258,4 +260,4 @@ def main(firm):
 
 # main("stonepoint")
 # consolidate_fields("stonepoint")
-update_db("Kelso") # case-sensitive. Must match actual firm name
+update_db("clearlake") # case-sensitive. Must match actual firm name
