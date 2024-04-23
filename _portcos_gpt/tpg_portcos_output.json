@@ -1,0 +1,1528 @@
+[
+  {
+    "company_name": "4th Industrial",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "8990 Holdings, Inc.",
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "A&O Hostels",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "API Holdings",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "APM Monaco",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Acorns",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Adare Pharmaceuticals",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Advent Software",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Age of Learning",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Airbnb",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Airtel Money",
+    "industry_stan": "Financials",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Allogene Therapeutics",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alloy Properties",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alltel",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Angie\u2019s",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AnovoRX",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aptalis Pharma",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Arlington",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Armstrong",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AskBio",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Astound",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Au10tix",
+    "industry_stan": "Technology",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Azoff Music Company",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "B2R Partners",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BFI Finance",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": null,
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BGB Communications",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BTPN",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Beautycounter",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Beaver-Visitec International",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Benevity",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Beringer",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Big River Steel",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Blue Cloud",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BookMyShow",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Boomi",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Box",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Burger King",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "C3.ai",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CCC Information Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CLEAResult",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CT Real Estate",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Calm.com",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Campus Active Wear",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Catellus",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cellulant",
+    "industry_stan": "Technology",
+    "region_stan": "Other",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ceribell",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Checkmarx",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "China Hydroelectric Corporation",
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Chobani",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cinespace",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Climavision",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Continental",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Convey Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Creative Artists Agency",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Crunch Fitness",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cushman & Wakefield",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Delinea",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Denali",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Deutsche Office Properties",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Digital House",
+    "industry_stan": "Technology",
+    "region_stan": "LatAm",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Digital.ai",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Dingdang Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": null
+  },
+  {
+    "company_name": "DirecTV",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Discovery Midstream",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dodla Dairy",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dogwood Industrial Properties",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Domo",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dream11",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DreamBox Learning",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Du Xiaoman",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "EIS",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Element Markets",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ellodi Pharmaceuticals",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ellucian",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Enlivant",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Entertainent Partners",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "EnvisionRX",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "EverFi",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Everlaw",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Evolent Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Evolution Media",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Exactech",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Expanse",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Eze Software Group",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fandom",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Fender",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fenwal",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fidelity National Financial Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FirstCry",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FirstCry",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Form Energy",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Fourth Partner Energy",
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "FreedomPay",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Funlab",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GRIDSERVE",
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Gelson\u2019s",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Global Music Rights",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GoHealth Urgent Care",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Goal.com",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Government Brands",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Graphic Packaging",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Green Monday Holdings",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Greencross",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Greenhouse Software",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Grohe",
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Guardicore",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HCP Packaging",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "HKBN",
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Halo Branded Solutions",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Healthscope",
+    "industry_stan": "Healthcare",
+    "region_stan": "Other",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hotwire",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Human Interest",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "IMS Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Immucor",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "InStride",
+    "industry_stan": "Education",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Infinidat",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ingham\u2019s",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Integreon",
+    "industry_stan": "Business Services",
+    "region_stan": "Other",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Intergraph",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ipsy",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "JNBY",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Janalakshmi Financial Services",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Jio Platforms",
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kadiant",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Kajabi",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kakao Bank",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": null
+  },
+  {
+    "company_name": "Kakao Mobility",
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kaseya",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Kelsey-Seybold",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Keter Environmental Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kindred Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LLamasoft",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LPL",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lenovo",
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lenskart",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lenta",
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Life Time",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LifeStance Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LifeStorage",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LiveKindly",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Loyal Valley Capital",
+    "industry_stan": "Other",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lynda.com",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MEMC",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MX Technologies",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Manipal Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Matrix Renewables",
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Matrix/Mylan",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "McAfee",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Medical Solutions",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Mendocino Farms",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mey",
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Milestone Student Properties",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mobike",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Monogram Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Myer",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Navis Capital Partners",
+    "industry_stan": "Other",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Neiman Marcus",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Newlight Technologies",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nintex",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Noodle.ai",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Norwegian Cruise Line",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Novolex",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Novotech Holdings",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nox Corporation",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Odyssey Hotel Partners",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Onfido",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ontex",
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "P3 Logistics Parks",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PJ United",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PS (The Private Suite)",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Par Pharmaceutical",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pearl Dairy Farms",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "People 2.0",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Persefoni",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Petco",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Philz Coffee",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Physicus",
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Planview",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PointPark Properties",
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PowerPlan",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Precision for Medicine",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Presence",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Prodigy Education",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PropertyGuru",
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Quintiles",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Rad Power Bikes",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Rallybio",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RefleXion",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Reliance Retail Ventures",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Renaissance Learning",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Resource Label Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Rhea Healthcare (Motherhood)",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ST Residential",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sabre",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sai Life Sciences",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SauceLabs",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Seagate",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Shenzhen Development Bank",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": null,
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Shriram City Union",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Shriram Transport",
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sling Therapeutics",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SmartSweets",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sonatype",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Spotify",
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "StackCommerce",
+    "industry_stan": "Technology",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Strive Communities",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SuccessFactors",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Surgical Care Affiliates",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tanium",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tata Motors",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Taylor Morrison",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Teachers of Tomorrow",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tenth Revolution Group",
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "The Warranty Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Toast Inc.",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Transplace Holdings",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Transporeon",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Troon",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Trumid",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "UBQ",
+    "industry_stan": "Industrials",
+    "region_stan": "Other",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Uber",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United Family Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Varo Money",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vaxcyte",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vertafore",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Vice Media",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Viking Cruises",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vishal Megamart",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Visma AS",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WellSky",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wilderness Holdings",
+    "industry_stan": "Consumer",
+    "region_stan": "Other",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Wind River",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "XCL Education",
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zenoti",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zhaoke Ophthalmology",
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zipline International",
+    "industry_stan": "Healthcare",
+    "region_stan": "Other",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zscaler",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "e.l.f. Cosmetics",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "musixmatch",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  }
+]

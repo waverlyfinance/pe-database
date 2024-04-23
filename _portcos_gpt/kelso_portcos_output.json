@@ -1,0 +1,842 @@
+[
+  {
+    "company_name": "21st Century Newspapers",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "360networks",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "4Refuel",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ajax Resources",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Beacon",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Buildings",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Standard",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Americold",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AMF Bowling",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Aquilex",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Arkansas Best",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Armkel",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2001,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Augusta Sportswear",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "BradyPLUS",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bridgenext",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Buckeye Partners",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bway",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cambridge Display Technology",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Charter Communications Companies",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Citation",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Club Car",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Consolidated Vision",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Crescent Point Energy",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cronos",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Custom Building Products",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CVR Energy Companies",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cygnus Publishing",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dakota Growers Pasta",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Del Laboratories",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Delphin Shipping",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Douglas Broadcasting",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1992,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "DS Waters of America",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "EACOM Timber",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Eagle Bulk Shipping",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Eagle Foods",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Earle M. Jorgensen",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Elara Caring",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ellis Communications",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ellis Communications",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Endo Pharmaceuticals",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Endurance Business Media",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FairPoint Communications",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ferraro Foods",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Foundation Consumer Brands",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Foundation Consumer Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "General Medical",
+    "industry_stan": "Healthcare",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Global Geophysical Services",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Global Ship Lease",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Harbor Community Bank",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Harris Specialty Chemicals",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "HCI Direct",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Helios",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hilite",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hillside Broadcasting",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Humphreys",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hunt Marcellus",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "iGPS",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "IHOP",
+    "industry_stan": "Consumer",
+    "region_stan": null,
+    "date_of_investment_stan": 1987,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Investment - Armada",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Investment - Inovar",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "J.S. Held",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "KAR Auction Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Kelso Overland",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1987,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Key Components",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Kinder Morgan",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "King Broadcasting",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1992,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Landstar Systems",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lebanon Valley Offset",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Logan's Roadhouse",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Masland Industries",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Merchants",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Mitchell Supreme Fuel",
+    "industry_stan": "Natural Resources",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Mosler",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Newport Group",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Nivel",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Nortek",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Novvia Group",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Oasis Outsourcing",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Oceana Therapeutics",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Optigas",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Overwatch Systems",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pathstone",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Peebles",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Physicians Endoscopy",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PowerTeam Services",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Premia Re",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PSAV",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Refresh Mental Health",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Renfro",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ReSource Pro",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RHI Entertainment",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Risk Strategies Company",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sandler O'Neill + Partners",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Savant",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Scient Companies",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sentinel Data Centers",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sirius Computer Solutions",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Somers Re",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SouthernCarlson",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Spectramed",
+    "industry_stan": "Healthcare",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tallgrass",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tervita",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Texas Foundries",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Third Point Re",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "TransDigm",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Traxys Companies",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Truck-Lite",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tyler Refrigeration",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "U.S. Electrical Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Unilab",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Universal Outdoor",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "URS Logistics",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "US LBM",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Valenz",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Venari Resources",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Waste Services",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wickes Furniture",
+    "industry_stan": "Consumer",
+    "region_stan": null,
+    "date_of_investment_stan": 1989,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "WilliamsMarston",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Wilton Re",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Zenith Energy",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  }
+]

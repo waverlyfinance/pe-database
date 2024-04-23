@@ -6,7 +6,11 @@
     "industry": "Media",
     "region": "Pontiac, MI",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "360networks",
@@ -15,7 +19,11 @@
     "industry": "Services",
     "region": "Hamilton, Bermuda",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "4Refuel",
@@ -24,7 +32,11 @@
     "industry": "Services",
     "region": "Langley, British Columbia / Oakville, Ontario",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ajax Resources",
@@ -33,7 +45,11 @@
     "industry": "Energy",
     "region": "Houston, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "American Beacon",
@@ -42,7 +58,11 @@
     "industry": "Financial Services",
     "region": "Dallas, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "American Buildings",
@@ -51,7 +71,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "American Standard",
@@ -60,7 +84,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Americold",
@@ -69,7 +97,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AMF Bowling",
@@ -78,7 +110,11 @@
     "industry": "Consumer",
     "region": "Richmond, VA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aquilex",
@@ -87,7 +123,11 @@
     "industry": "Services",
     "region": "Atlanta, GA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Arkansas Best",
@@ -96,7 +136,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Armkel",
@@ -105,7 +149,11 @@
     "industry": "Consumer",
     "region": "Princeton, NJ",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2001,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Augusta Sportswear",
@@ -114,7 +162,11 @@
     "industry": "Consumer",
     "region": "Augusta, GA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "BradyPLUS",
@@ -123,7 +175,11 @@
     "industry": "Industrial",
     "region": "Bell, CA",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Bridgenext",
@@ -132,7 +188,11 @@
     "industry": "Business Services",
     "region": "Jacksonville, FL",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Buckeye Partners",
@@ -141,16 +201,24 @@
     "industry": "Energy",
     "region": "Houston, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
-    "company_name": "BWAY",
+    "company_name": "Bway",
     "company_description": "One of the largest manufacturers of rigid metal, plastic and hybrid containers in North America",
     "date_of_investment": "2003",
     "industry": "Industrial",
     "region": "Atlanta, GA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cambridge Display Technology",
@@ -159,7 +227,11 @@
     "industry": "Industrial",
     "region": "Cambridge, United Kingdom",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Charter Communications Companies",
@@ -168,7 +240,11 @@
     "industry": "Media",
     "region": "St. Louis, MO",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Citation",
@@ -177,7 +253,11 @@
     "industry": "Industrial",
     "region": "Birmingham, AL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Club Car",
@@ -186,7 +266,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Consolidated Vision",
@@ -195,7 +279,11 @@
     "industry": "Consumer",
     "region": "Pennsauken, NJ",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Crescent Point Energy",
@@ -204,7 +292,11 @@
     "industry": "Energy",
     "region": "Calgary, Alberta, Canada",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cronos",
@@ -213,7 +305,11 @@
     "industry": "Financial Services",
     "region": "Hamilton, Bermuda",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Custom Building Products",
@@ -222,7 +318,11 @@
     "industry": "Industrial",
     "region": "Seal Beach, CA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CVR Energy Companies",
@@ -231,7 +331,11 @@
     "industry": "Energy",
     "region": "Sugar Land, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cygnus Publishing",
@@ -240,7 +344,11 @@
     "industry": "Media",
     "region": "Jacksonville, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Dakota Growers Pasta",
@@ -249,7 +357,11 @@
     "industry": "Consumer",
     "region": "Carrington, ND",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Del Laboratories",
@@ -258,7 +370,11 @@
     "industry": "Consumer",
     "region": "Uniondale, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Delphin Shipping",
@@ -267,7 +383,11 @@
     "industry": "Industrial",
     "region": "New York, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Douglas Broadcasting",
@@ -276,7 +396,11 @@
     "industry": "Media",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1992,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "DS Waters of America",
@@ -285,7 +409,11 @@
     "industry": "Consumer",
     "region": "Atlanta, GA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "EACOM Timber",
@@ -294,7 +422,11 @@
     "industry": "Industrial",
     "region": "Montreal, Quebec, Canada",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Eagle Bulk Shipping",
@@ -303,7 +435,11 @@
     "industry": "Industrial",
     "region": "New York, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Eagle Foods",
@@ -312,7 +448,11 @@
     "industry": "Consumer",
     "region": "Cleveland, OH",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Earle M. Jorgensen",
@@ -321,7 +461,11 @@
     "industry": "Services",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Elara Caring",
@@ -330,7 +474,11 @@
     "industry": "Healthcare",
     "region": "Dallas, TX",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Ellis Communications",
@@ -339,7 +487,11 @@
     "industry": "Media",
     "region": "Santa Ana, CA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ellis Communications",
@@ -348,7 +500,11 @@
     "industry": "Media",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Endo Pharmaceuticals",
@@ -357,7 +513,11 @@
     "industry": "Healthcare",
     "region": "Chadds Ford, PA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Endurance Business Media",
@@ -366,7 +526,11 @@
     "industry": "Media",
     "region": "Tallahassee, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FairPoint Communications",
@@ -375,7 +539,11 @@
     "industry": "Services",
     "region": "Charlotte, NC",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1997,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ferraro Foods",
@@ -384,7 +552,11 @@
     "industry": "Consumer",
     "region": "Piscataway, NJ",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Foundation Consumer Brands",
@@ -393,7 +565,11 @@
     "industry": "Consumer",
     "region": "Pittsburgh, PA",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Foundation Consumer Healthcare",
@@ -402,7 +578,11 @@
     "industry": "Consumer",
     "region": "Pittsburgh, PA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "General Medical",
@@ -411,7 +591,11 @@
     "industry": "Healthcare",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Global Geophysical Services",
@@ -420,7 +604,11 @@
     "industry": "Energy",
     "region": "Houston, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Global Ship Lease",
@@ -429,7 +617,11 @@
     "industry": "Industrial",
     "region": "London, United Kingdom",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Harbor Community Bank",
@@ -438,7 +630,11 @@
     "industry": "Financial Services",
     "region": "Indiantown, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Harris Specialty Chemicals",
@@ -447,7 +643,11 @@
     "industry": "Industrial",
     "region": "Jacksonville, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HCI Direct",
@@ -456,7 +656,11 @@
     "industry": "Consumer",
     "region": "Bensalem, PA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Helios",
@@ -465,7 +669,11 @@
     "industry": "Healthcare",
     "region": "Memphis, TN",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hilite",
@@ -474,7 +682,11 @@
     "industry": "Industrial",
     "region": "Cleveland, OH",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hillside Broadcasting",
@@ -483,7 +695,11 @@
     "industry": "Media",
     "region": "Wilmington, NC",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Humphreys",
@@ -492,7 +708,11 @@
     "industry": "Consumer",
     "region": "Chicago, IL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hunt Marcellus",
@@ -501,7 +721,11 @@
     "industry": "Energy",
     "region": "Dallas, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "iGPS",
@@ -510,7 +734,11 @@
     "industry": "Services",
     "region": "Orlando, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "IHOP",
@@ -519,7 +747,11 @@
     "industry": "Consumer",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": null,
+    "date_of_investment_stan": 1987,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Investment - Armada",
@@ -528,7 +760,11 @@
     "industry": "Industrial",
     "region": "Tampa, FL",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Investment - Inovar",
@@ -537,7 +773,11 @@
     "industry": "Industrial",
     "region": "Dallas, TX",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "J.S. Held",
@@ -546,7 +786,11 @@
     "industry": "Financial Services",
     "region": "Jericho, NY",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "KAR Auction Services",
@@ -555,7 +799,11 @@
     "industry": "Services",
     "region": "Carmel, IN",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kelso Overland",
@@ -564,7 +812,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1987,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Key Components",
@@ -573,7 +825,11 @@
     "industry": "Industrial",
     "region": "Tarrytown, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kinder Morgan",
@@ -582,7 +838,11 @@
     "industry": "Energy",
     "region": "Houston, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "King Broadcasting",
@@ -591,7 +851,11 @@
     "industry": "Media",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": null,
+    "date_of_investment_stan": 1992,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Landstar Systems",
@@ -600,7 +864,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Lebanon Valley Offset",
@@ -609,7 +877,11 @@
     "industry": "Services",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Logan's Roadhouse",
@@ -618,7 +890,11 @@
     "industry": "Consumer",
     "region": "Nashville, TN",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Masland Industries",
@@ -627,7 +903,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Merchants",
@@ -636,7 +916,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Mitchell Supreme Fuel",
@@ -645,7 +929,11 @@
     "industry": "Services",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": null,
+    "date_of_investment_stan": 1988,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Mosler",
@@ -654,7 +942,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1990,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Newport Group",
@@ -663,7 +955,11 @@
     "industry": "Financial Services",
     "region": "Walnut Creek, California",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Nivel",
@@ -672,7 +968,11 @@
     "industry": "Industrial",
     "region": "Jacksonville, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Nortek",
@@ -681,7 +981,11 @@
     "industry": "Industrial",
     "region": "Providence, RI",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Novvia Group",
@@ -690,7 +994,11 @@
     "industry": "Industrial",
     "region": "Atlanta, GA",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Oasis Outsourcing",
@@ -699,7 +1007,11 @@
     "industry": "Services",
     "region": "West Palm Beach, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Oceana Therapeutics",
@@ -708,7 +1020,11 @@
     "industry": "Healthcare",
     "region": "Edison, NJ",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Optigas",
@@ -717,7 +1033,11 @@
     "industry": "Energy",
     "region": "Denver, CO",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Overwatch Systems",
@@ -726,7 +1046,11 @@
     "industry": "Services",
     "region": "Morristown, NJ",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pathstone",
@@ -735,7 +1059,11 @@
     "industry": "Financial Services",
     "region": "Englewood, NJ",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Peebles",
@@ -744,7 +1072,11 @@
     "industry": "Consumer",
     "region": "South Hill, VA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Physicians Endoscopy",
@@ -753,7 +1085,11 @@
     "industry": "Healthcare",
     "region": "Jamison, PA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "PowerTeam Services",
@@ -762,7 +1098,11 @@
     "industry": "Energy",
     "region": "Cary, NC",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Premia Re",
@@ -771,7 +1111,11 @@
     "industry": "Financial Services",
     "region": "Bermuda",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "PSAV",
@@ -780,7 +1124,11 @@
     "industry": "Services",
     "region": "Schaumburg, IL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Refresh Mental Health",
@@ -789,7 +1137,11 @@
     "industry": "Healthcare",
     "region": "Jacksonville Beach, FL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Renfro",
@@ -798,7 +1150,11 @@
     "industry": "Consumer",
     "region": "Mount Airy, NC",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "ReSource Pro",
@@ -807,7 +1163,11 @@
     "industry": "Financial Services",
     "region": null,
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": null,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "RHI Entertainment",
@@ -816,7 +1176,11 @@
     "industry": "Media",
     "region": "New York, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Risk Strategies Company",
@@ -825,7 +1189,11 @@
     "industry": "Financial Services",
     "region": "Boston, MA",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Sandler O'Neill + Partners",
@@ -834,7 +1202,11 @@
     "industry": "Financial Services",
     "region": "New York, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Savant",
@@ -843,7 +1215,11 @@
     "industry": "Financial Services",
     "region": "Rockford, IL",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Scient Companies",
@@ -852,7 +1228,11 @@
     "industry": "Services",
     "region": "Atlanta, GA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sentinel Data Centers",
@@ -861,7 +1241,11 @@
     "industry": "Services",
     "region": "New York, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sirius Computer Solutions",
@@ -870,7 +1254,11 @@
     "industry": "Services",
     "region": "San Antonio, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Somers Re",
@@ -879,7 +1267,11 @@
     "industry": "Financial Services",
     "region": "Bermuda",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "SouthernCarlson",
@@ -888,7 +1280,11 @@
     "industry": "Industrial",
     "region": "Omaha, NE",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Spectramed",
@@ -897,7 +1293,11 @@
     "industry": "Healthcare",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Tallgrass",
@@ -906,7 +1306,11 @@
     "industry": "Energy",
     "region": "Leawood, KS",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Tervita",
@@ -915,7 +1319,11 @@
     "industry": "Energy",
     "region": "Calgary, Alberta, Canada",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Texas Foundries",
@@ -924,7 +1332,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1986,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Third Point Re",
@@ -933,7 +1345,11 @@
     "industry": "Financial Services",
     "region": "Hamilton, Bermuda",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TransDigm",
@@ -942,7 +1358,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Traxys Companies",
@@ -951,7 +1371,11 @@
     "industry": "Services",
     "region": "Strassen, Luxembourg",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Truck-Lite",
@@ -960,7 +1384,11 @@
     "industry": "Industrial",
     "region": "Falconer, NY",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Tyler Refrigeration",
@@ -969,7 +1397,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1991,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "U.S. Electrical Services",
@@ -978,7 +1410,11 @@
     "industry": "Services",
     "region": "Middletown, CT",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unilab",
@@ -987,7 +1423,11 @@
     "industry": "Healthcare",
     "region": "Tarzana, CA",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Universal Outdoor",
@@ -996,7 +1436,11 @@
     "industry": "Media",
     "region": "Chicago, IL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "URS Logistics",
@@ -1005,7 +1449,11 @@
     "industry": "Industrial",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1993,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "US LBM",
@@ -1014,7 +1462,11 @@
     "industry": "Industrial",
     "region": "Buffalo Grove, IL",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Valenz",
@@ -1023,7 +1475,11 @@
     "industry": "Healthcare",
     "region": "Phoenix, AZ",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Venari Resources",
@@ -1032,7 +1488,11 @@
     "industry": "Energy",
     "region": "Addison, TX",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Waste Services",
@@ -1041,7 +1501,11 @@
     "industry": "Services",
     "region": "Toronto, Ontario, Canada",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Wickes Furniture",
@@ -1050,7 +1514,11 @@
     "industry": "Consumer",
     "region": null,
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Consumer",
+    "region_stan": null,
+    "date_of_investment_stan": 1989,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "WilliamsMarston",
@@ -1059,7 +1527,11 @@
     "industry": "Financial Services",
     "region": "Boston, MA",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Wilton Re",
@@ -1068,7 +1540,11 @@
     "industry": "Financial Services",
     "region": "Wilton, CT",
     "status_current": "Exited",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Zenith Energy",
@@ -1077,6 +1553,10 @@
     "industry": "Energy",
     "region": "Houston, TX",
     "status_current": "Current",
-    "firm": "Kelso"
+    "firm": "Kelso",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   }
 ]

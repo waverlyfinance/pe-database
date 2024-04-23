@@ -7,7 +7,11 @@
     "hq": "San Ramon, CA",
     "status_current": "Realized",
     "website": "accela.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Access Information Management",
@@ -17,7 +21,11 @@
     "hq": "Pleasanton, CA",
     "status_current": "Realized",
     "website": "accesscorp.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Acrisure",
@@ -27,7 +35,11 @@
     "hq": "Grand Rapids, MI",
     "status_current": "Realized",
     "website": "acrisure.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AddSecure",
@@ -37,7 +49,11 @@
     "hq": "Stockholm, Sweden",
     "status_current": "Realized",
     "website": "addsecure.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AdSwerve",
@@ -47,7 +63,11 @@
     "hq": "Denver, CO",
     "status_current": "Current",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Aduro",
@@ -57,7 +77,11 @@
     "hq": "Redmond, WA",
     "status_current": "Current",
     "website": "adurolife.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Aegis Sciences Corporation",
@@ -67,7 +91,11 @@
     "hq": "Nashville, TN",
     "status_current": "Current",
     "website": "aegislabs.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "AFS Technologies Inc.",
@@ -77,7 +105,11 @@
     "hq": "Phoenix, AZ",
     "status_current": "Realized",
     "website": "afsi.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aftermath",
@@ -87,7 +119,11 @@
     "hq": "Aurora, IL",
     "status_current": "Realized",
     "website": "aftermath.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Airband",
@@ -97,7 +133,11 @@
     "hq": "Carrollton, TX",
     "status_current": "Realized",
     "website": "airband.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aker Systems",
@@ -107,7 +147,11 @@
     "hq": "Bicester, Oxfordshire",
     "status_current": "Current",
     "website": "akersystems.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Alliant Group",
@@ -117,7 +161,11 @@
     "hq": "Houston, TX",
     "status_current": "Current",
     "website": "alliantgroup.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Alvaria",
@@ -127,7 +175,11 @@
     "hq": "Westford, MA",
     "status_current": "Current",
     "website": "alvaria.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "American CyberSystems",
@@ -137,7 +189,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "AnjuSoftware",
@@ -147,7 +203,11 @@
     "hq": "Tempe, AZ",
     "status_current": "Current",
     "website": "anjusoftware.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "ArchivesOne",
@@ -157,7 +217,11 @@
     "hq": "Waterbury, CT",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ascend Healthcare",
@@ -167,7 +231,11 @@
     "hq": "Chandler, AZ",
     "status_current": "Current",
     "website": "ascendtelehealth.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Asignet",
@@ -177,7 +245,11 @@
     "hq": "Parsippany, NJ",
     "status_current": "Current",
     "website": "asignet.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Atlantic Broadband",
@@ -187,7 +259,11 @@
     "hq": "Boston, MA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Automated HealthCare Solutions",
@@ -197,7 +273,11 @@
     "hq": "Miramar, FL",
     "status_current": "Realized",
     "website": "ahcs.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Avalon Cable",
@@ -207,7 +287,11 @@
     "hq": "Ludlow, MA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1998,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Basefarm",
@@ -217,7 +301,11 @@
     "hq": "Oslo, Norway",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Beacon Pointe",
@@ -227,7 +315,11 @@
     "hq": "Newport Beach, CA",
     "status_current": "Realized",
     "website": "beaconpointe.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Benefit Recovery Group",
@@ -237,7 +329,11 @@
     "hq": "Memphis, TN",
     "status_current": "Realized",
     "website": "brgsubro.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Best Lawyers",
@@ -247,7 +343,11 @@
     "hq": "Augusta, GA",
     "status_current": "Current",
     "website": "bestlawyers.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Better Protection",
@@ -257,7 +357,11 @@
     "hq": "Chicago, IL",
     "status_current": "Current",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Billing Services Group",
@@ -267,7 +371,11 @@
     "hq": "Chicago, IL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Blue Mantis",
@@ -277,7 +385,11 @@
     "hq": "Kittery, ME",
     "status_current": "Current",
     "website": "bluemantis.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Brash Entertainment",
@@ -287,7 +399,11 @@
     "hq": "Los Angeles, CA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Broadcast Electronics",
@@ -297,7 +413,11 @@
     "hq": "Quincy, IL",
     "status_current": "Realized",
     "website": "bdcast.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "BSO",
@@ -307,7 +427,11 @@
     "hq": "Dublin, Ireland",
     "status_current": "Current",
     "website": "bso.co",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Cafe Media",
@@ -317,7 +441,11 @@
     "hq": "New York City, NY",
     "status_current": "Realized",
     "website": "raptive.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Caprock Holdings",
@@ -327,7 +455,11 @@
     "hq": "Houston, TX",
     "status_current": "Realized",
     "website": "caprock.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cardiff",
@@ -337,7 +469,11 @@
     "hq": "Greenwich, CT",
     "status_current": "Current",
     "website": "cardiff-insurance.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Casamba",
@@ -347,7 +483,11 @@
     "hq": "Agoura Hills, CA",
     "status_current": "Realized",
     "website": "nethealth.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cast & Crew",
@@ -357,7 +497,11 @@
     "hq": "Burbank, CA",
     "status_current": "Realized",
     "website": "castandcrew.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CCS",
@@ -367,7 +511,11 @@
     "hq": "New York, NY",
     "status_current": "Current",
     "website": "ccsfundraising.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Centauri Health Solutions",
@@ -377,7 +525,11 @@
     "hq": "Scottsdale, AZ",
     "status_current": "Current",
     "website": "centaurihs.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Chambers",
@@ -387,7 +539,11 @@
     "hq": "London, UK",
     "status_current": "Current",
     "website": "www.chambers.com ",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2023,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Charleston Newspapers",
@@ -397,7 +553,11 @@
     "hq": "Charleston, WV",
     "status_current": "Realized",
     "website": "wvgazettemail.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CIBT",
@@ -407,7 +567,11 @@
     "hq": "McLean, VA",
     "status_current": "Realized",
     "website": "cibtvisas.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Citadel",
@@ -417,7 +581,11 @@
     "hq": "Las Vegas, NV",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "CitiXsys",
@@ -427,7 +595,11 @@
     "hq": "New York City, NY",
     "status_current": "Realized",
     "website": "citixsys.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Claranet",
@@ -437,7 +609,11 @@
     "hq": "London, UK",
     "status_current": "Realized",
     "website": "claranet.co.uk",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Clearspan",
@@ -447,7 +623,11 @@
     "hq": "Plano, TX",
     "status_current": "Current",
     "website": "clearspancloud.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "CloudWave",
@@ -457,7 +637,11 @@
     "hq": "Marlborough, MA",
     "status_current": "Current",
     "website": "gocloudwave.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Commerce Connect Media",
@@ -467,7 +651,11 @@
     "hq": "Westport, CT",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": null,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Commonwealth Business Media",
@@ -477,7 +665,11 @@
     "hq": "East Windsor, NJ",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Confie Seguros",
@@ -487,7 +679,11 @@
     "hq": "Los Angeles, CA",
     "status_current": "Current",
     "website": "confie.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Confirma Software",
@@ -497,7 +693,11 @@
     "hq": "Stockholm, Sweden",
     "status_current": "Current",
     "website": "confirmasoftware.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Connoisseur Media",
@@ -507,7 +707,11 @@
     "hq": "Westport, CT",
     "status_current": "Realized",
     "website": "connoisseurmedia.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1997,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Consolidated Theatres",
@@ -517,7 +721,11 @@
     "hq": "Charlotte, NC",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1998,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Consumer Media Network",
@@ -527,7 +735,11 @@
     "hq": "Houston, TX",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Country RD Com",
@@ -537,7 +749,11 @@
     "hq": "Morristown, NJ",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Cyrus One",
@@ -547,7 +763,11 @@
     "hq": "Houston, TX",
     "status_current": "Realized",
     "website": "cyrusone.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "D.F. King World Wide",
@@ -557,7 +777,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": "dfking.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2013,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "DataMentors (fka V-12 Group)",
@@ -567,7 +791,11 @@
     "hq": "Tampa, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Datapipe",
@@ -577,7 +805,11 @@
     "hq": "Jersey City, NJ",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Direct Travel",
@@ -587,7 +819,11 @@
     "hq": "Denver, CO",
     "status_current": "Realized",
     "website": "dt.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Dolan Media Company",
@@ -597,7 +833,11 @@
     "hq": "Minneapolis, MN",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2004,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Donuts",
@@ -607,7 +847,11 @@
     "hq": "Seattle, WA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Dr. Dental",
@@ -617,7 +861,11 @@
     "hq": "Framingham, MA",
     "status_current": "Current",
     "website": "mydrdental.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Dynasty Financial Partners",
@@ -627,7 +875,11 @@
     "hq": "St. Petersburg, FL",
     "status_current": "Current",
     "website": "dynastyfinancialpartners.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "E-Shelter",
@@ -637,7 +889,11 @@
     "hq": "Frankfurt, Germany",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Edgile",
@@ -647,7 +903,11 @@
     "hq": "Austin, TX",
     "status_current": "Realized",
     "website": "edgile.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Edisen",
@@ -657,7 +917,11 @@
     "hq": "Stockholm, Sweden",
     "status_current": "Current",
     "website": "edisen.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Eduk Group",
@@ -667,7 +931,11 @@
     "hq": "San Juan, Puerto Rico",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Emerging Markets Communications",
@@ -677,7 +945,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Executive Health Resources",
@@ -687,7 +959,11 @@
     "hq": "Philadelphia, PA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "F + W Media",
@@ -697,7 +973,11 @@
     "hq": "Cincinnati, OH",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Fanfare Media Works",
@@ -707,7 +987,11 @@
     "hq": "Valencia, CA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2000,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FastMed Urgent Care",
@@ -717,7 +1001,11 @@
     "hq": "Phoenix, AZ",
     "status_current": "Realized",
     "website": "fastmed.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Finest City Broadcasting",
@@ -727,7 +1015,11 @@
     "hq": "San Diego, CA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FLS Transportation",
@@ -737,7 +1029,11 @@
     "hq": "Montreal, Canada",
     "status_current": "Current",
     "website": "flstransport.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Franklin Energy",
@@ -747,7 +1043,11 @@
     "hq": "Port Washington, WI",
     "status_current": "Current",
     "website": "franklinenergy.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "FreeStar",
@@ -757,7 +1057,11 @@
     "hq": "Phoenix, AZ",
     "status_current": "Current",
     "website": "freestar.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Frontline Performance Group",
@@ -767,7 +1071,11 @@
     "hq": "Winter Park, FL",
     "status_current": "Current",
     "website": "frontlinepg.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Gateway EDI",
@@ -777,7 +1085,11 @@
     "hq": "St. Louis, MO",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Gould & Lamb",
@@ -787,7 +1099,11 @@
     "hq": "Bradenton, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Grande Communications",
@@ -797,7 +1113,11 @@
     "hq": "Princeton, NJ",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hanley Wood",
@@ -807,7 +1127,11 @@
     "hq": "Washington, DC",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HartBeat",
@@ -817,7 +1141,11 @@
     "hq": "Encino, CA",
     "status_current": "Current",
     "website": "hartbeat.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "HealthEZ",
@@ -827,7 +1155,11 @@
     "hq": "Bloomington, MN",
     "status_current": "Current",
     "website": "healthez.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "HealthPort",
@@ -837,7 +1169,11 @@
     "hq": "Columbia, SC",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HealthSCOPE Benefits",
@@ -847,7 +1183,11 @@
     "hq": "Little Rock, AR",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "HealthTrans",
@@ -857,7 +1197,11 @@
     "hq": "Denver, CO",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2009,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Heritage Partners",
@@ -867,7 +1211,11 @@
     "hq": "Elizabethton, TN",
     "status_current": "Current",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Hersha Hospitality Management",
@@ -877,7 +1225,11 @@
     "hq": "Philadelphia, PA",
     "status_current": "Current",
     "website": "hhmhotels.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "High Street",
@@ -887,7 +1239,11 @@
     "hq": "Traverse City, MI",
     "status_current": "Current",
     "website": "hsip.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Hilb Group",
@@ -897,7 +1253,11 @@
     "hq": "Richmond, VA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hollywood.com",
@@ -907,7 +1267,11 @@
     "hq": "New York, NY",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Home Town Cable",
@@ -917,7 +1281,11 @@
     "hq": "Port St. Lucie, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hosted Solutions",
@@ -927,7 +1295,11 @@
     "hq": "Raleigh, NC",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Houghton Mifflin Harcourt",
@@ -937,7 +1309,11 @@
     "hq": "Boston, MA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "illumifin",
@@ -947,7 +1323,11 @@
     "hq": "Greenville, SC",
     "status_current": "Current",
     "website": "illumifin.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "IMG",
@@ -957,7 +1337,11 @@
     "hq": "Indianapolis, IN",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "InfiLaw System",
@@ -967,7 +1351,11 @@
     "hq": "Naples, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Inmar Intelligence",
@@ -977,7 +1365,11 @@
     "hq": null,
     "status_current": "Current",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2014,
+    "region_stan": null,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Innovisk Capital Partners",
@@ -987,7 +1379,11 @@
     "hq": "London, UK",
     "status_current": "Current",
     "website": "innovisk.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Inoapps",
@@ -997,7 +1393,11 @@
     "hq": "Aberdeen, Scotland",
     "status_current": "Current",
     "website": "inoapps.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Inspira Financial",
@@ -1007,7 +1407,11 @@
     "hq": "Oak Brook, IL",
     "status_current": "Current",
     "website": "mtrustcompany.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Integra Telecom",
@@ -1017,7 +1421,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "IQUW",
@@ -1027,7 +1435,11 @@
     "hq": "London, UK",
     "status_current": "Current",
     "website": "iquw.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "iTrade Network",
@@ -1037,7 +1449,11 @@
     "hq": "Livermore, CA",
     "status_current": "Realized",
     "website": "itradenetwork.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Jab Broadband",
@@ -1047,7 +1463,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "KidzBop",
@@ -1057,7 +1477,11 @@
     "hq": "New York, NY",
     "status_current": "Realized",
     "website": "kidzbop.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kingland",
@@ -1067,7 +1491,11 @@
     "hq": "Clear Lake, IA",
     "status_current": "Current",
     "website": "kingland.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "KnowledgePoint 360",
@@ -1077,7 +1505,11 @@
     "hq": "Secaucus, NJ",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Kore Wireless Group",
@@ -1087,7 +1519,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "LanguageLine Solutions",
@@ -1097,7 +1533,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2004,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Legendary Pictures",
@@ -1107,7 +1547,11 @@
     "hq": "Beverly Hills, CA",
     "status_current": "Realized",
     "website": "legendary.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Lighthouse Autism Center",
@@ -1117,7 +1561,11 @@
     "hq": "Mishawaka, IN",
     "status_current": "Realized",
     "website": "lighthouseautismcenter.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Link Mobility",
@@ -1127,7 +1575,11 @@
     "hq": "Oslo, Norway",
     "status_current": "Current",
     "website": "linkmobility.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Mako Networks",
@@ -1137,7 +1589,11 @@
     "hq": "Elgin, Illinois",
     "status_current": "Current",
     "website": "makonetworks.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Masergy",
@@ -1147,7 +1603,11 @@
     "hq": "Plano, TX",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Maya Cinemas",
@@ -1157,7 +1617,11 @@
     "hq": "Los Angeles, California, United States",
     "status_current": "Current",
     "website": "mayacinemas.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Meadowlark",
@@ -1167,7 +1631,11 @@
     "hq": "Boston, MA",
     "status_current": "Current",
     "website": "meadowlarktitle.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Media Rights Capital",
@@ -1177,7 +1645,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Melrose Investors",
@@ -1187,7 +1659,11 @@
     "hq": "Beverly Hills, CA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Mobile Help",
@@ -1197,7 +1673,11 @@
     "hq": "Boca Raton, FL",
     "status_current": "Realized",
     "website": "mobilehelp.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Monitronics Authorized Dealer",
@@ -1207,7 +1687,11 @@
     "hq": "Dallas, TX",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Music Reports",
@@ -1217,7 +1701,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": "musicreports.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Muzak",
@@ -1227,7 +1715,11 @@
     "hq": "Charlotte, NC",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Navtech, Inc.",
@@ -1237,7 +1729,11 @@
     "hq": "Waterloo, Ontario",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "netnumber",
@@ -1247,7 +1743,11 @@
     "hq": "Lowell, Massachusetts",
     "status_current": "Current",
     "website": "netnumber.com/",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Network Communications, Inc.",
@@ -1257,7 +1757,11 @@
     "hq": "Lawrenceville, GA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Nexstar Broadcasting Group",
@@ -1267,7 +1771,11 @@
     "hq": "Irving, TX",
     "status_current": "Realized",
     "website": "nexstar.tv",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "NexusTek",
@@ -1277,7 +1785,11 @@
     "hq": "Greenwood Village, CO",
     "status_current": "Current",
     "website": "nexustek.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "North American Dental Group",
@@ -1287,7 +1799,11 @@
     "hq": "New Castle, PA",
     "status_current": "Realized",
     "website": "nadentalgroup.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "NSM Insurance Group",
@@ -1297,7 +1813,11 @@
     "hq": "Conshohocken, PA",
     "status_current": "Realized",
     "website": "nsminc.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Nuspire",
@@ -1307,7 +1827,11 @@
     "hq": "Commerce, MI",
     "status_current": "Current",
     "website": "nuspire.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Oasis",
@@ -1317,7 +1841,11 @@
     "hq": "Kinsealy, Ireland",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "OneCare Media",
@@ -1327,7 +1855,11 @@
     "hq": "Seattle, WA",
     "status_current": "Current",
     "website": "onecare.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": null,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "OneSource Networks",
@@ -1337,7 +1869,11 @@
     "hq": "Austin, TX",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Open Road Integrated Media",
@@ -1347,7 +1883,11 @@
     "hq": "New York, NY",
     "status_current": "Current",
     "website": "openroadintegratedmedia.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Options Technology",
@@ -1357,7 +1897,11 @@
     "hq": "London, UK",
     "status_current": "Current",
     "website": "options-it.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Opus Solutions",
@@ -1367,7 +1911,11 @@
     "hq": "Portland, Oregon",
     "status_current": "Current",
     "website": "opusagency.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Orion HealthCorp",
@@ -1377,7 +1925,11 @@
     "hq": "Roswell, GA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Penton",
@@ -1387,7 +1939,11 @@
     "hq": "Cleveland, OH",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2002,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pinnacle Towers Inc.",
@@ -1397,7 +1953,11 @@
     "hq": "Sarasota, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1995,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pole Star",
@@ -1407,7 +1967,11 @@
     "hq": "London, UK",
     "status_current": "Current",
     "website": "polestarglobal.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Portfolio Group",
@@ -1417,7 +1981,11 @@
     "hq": "Lake Forest, CA",
     "status_current": "Current",
     "website": "portfolioreinsurance.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "PowerFleet",
@@ -1427,7 +1995,11 @@
     "hq": "Woodcliff Lake, NJ",
     "status_current": "Current",
     "website": "powerfleet.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Precision Strategies",
@@ -1437,7 +2009,11 @@
     "hq": "Washington D.C.",
     "status_current": "Current",
     "website": "precisionstrategies.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Prime Capital",
@@ -1447,7 +2023,11 @@
     "hq": "Overland Park, KS",
     "status_current": "Current",
     "website": "https://pciawealth.com/",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "PRO Unlimited",
@@ -1457,7 +2037,11 @@
     "hq": "Boca Raton, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Propark Mobility",
@@ -1467,7 +2051,11 @@
     "hq": "Hartford, Connecticut",
     "status_current": "Current",
     "website": "propark.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2023,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "ProQuest",
@@ -1477,7 +2065,11 @@
     "hq": "Bethesda, MD",
     "status_current": "Realized",
     "website": "proquest.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Prospect Park",
@@ -1487,7 +2079,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Psychological Services Inc.",
@@ -1497,7 +2093,11 @@
     "hq": "Burbank, CA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Q9 Networks",
@@ -1507,7 +2107,11 @@
     "hq": "Toronto, ON",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2008,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "QuoVadis",
@@ -1517,7 +2121,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2007,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Rackspace",
@@ -1527,7 +2135,11 @@
     "hq": "San Antonio, TX",
     "status_current": "Current",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "RCN Cable",
@@ -1537,7 +2149,11 @@
     "hq": "Herndon, VA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Recovery Point",
@@ -1547,7 +2163,11 @@
     "hq": "Germantown, MD",
     "status_current": "Current",
     "website": "recoverypoint.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Reward Gateway",
@@ -1557,7 +2177,11 @@
     "hq": "London, UK",
     "status_current": "Realized",
     "website": "rewardgateway.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Rimes",
@@ -1567,7 +2191,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2017,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Root Data Center",
@@ -1577,7 +2205,11 @@
     "hq": "Montreal, Canada",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Samba Safety",
@@ -1587,7 +2219,11 @@
     "hq": "Denver, CO",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Screen Vision Media",
@@ -1597,7 +2233,11 @@
     "hq": "New York, NY",
     "status_current": "Current",
     "website": "screenvisionmedia.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "SDI Presence LLC",
@@ -1607,7 +2247,11 @@
     "hq": "Chicago, IL",
     "status_current": "Current",
     "website": "sdipresence.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Securus Technologies",
@@ -1617,7 +2261,11 @@
     "hq": "Dallas, TX",
     "status_current": "Realized",
     "website": "securustechnologies.tech",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2013,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sentrum",
@@ -1627,7 +2275,11 @@
     "hq": "United Kingdom",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sentry Data Systems",
@@ -1637,7 +2289,11 @@
     "hq": "Deerfield Beach, FL",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Sermo",
@@ -1647,7 +2303,11 @@
     "hq": "New York, NY",
     "status_current": "Current",
     "website": "sermo.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Sidera",
@@ -1657,7 +2317,11 @@
     "hq": "New York, NY",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Site Lock",
@@ -1667,7 +2331,11 @@
     "hq": "Scottsdale, AZ",
     "status_current": "Realized",
     "website": "sitelock.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Smart Start",
@@ -1677,7 +2345,11 @@
     "hq": "Dallas, TX",
     "status_current": "Realized",
     "website": "smartstartinc.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Socius",
@@ -1687,7 +2359,11 @@
     "hq": "Walnut Creek, CA",
     "status_current": "Realized",
     "website": "sociusinsurance.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "SoftBrands",
@@ -1697,7 +2373,11 @@
     "hq": "Minneapolis, MN",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2005,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Source Medical",
@@ -1707,7 +2387,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2012,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "StackPath",
@@ -1717,7 +2401,11 @@
     "hq": "Dallas, TX",
     "status_current": "Current",
     "website": "stackpath.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Sullivan Broadcasting",
@@ -1727,7 +2415,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1996,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Talent Partners",
@@ -1737,7 +2429,11 @@
     "hq": "New York, NY",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TelX",
@@ -1747,7 +2443,11 @@
     "hq": "New York, NY",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TeraSky",
@@ -1757,7 +2457,11 @@
     "hq": "Israel",
     "status_current": "Current",
     "website": "terasky.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "The Hispanic Yellow Pages",
@@ -1767,7 +2471,11 @@
     "hq": "Tampa, FL",
     "status_current": "Realized",
     "website": "hispanicyellowpagesusa.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2003,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Thomsons Online Benefits",
@@ -1777,7 +2485,11 @@
     "hq": "London, England",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2013,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Triple Point Technology",
@@ -1787,7 +2499,11 @@
     "hq": "Westport, CT",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2006,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Trover Solutions Inc.",
@@ -1797,7 +2513,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2010,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Turnberry Solutions",
@@ -1807,7 +2527,11 @@
     "hq": "Blue Bell, PA",
     "status_current": "Current",
     "website": "turnberrysolutions.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "U.S. Dermatology Associates",
@@ -1817,7 +2541,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": "usdermatologypartners.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2016,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unison",
@@ -1827,7 +2555,11 @@
     "hq": "Dulles, VA",
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2015,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "United Real Estate Group",
@@ -1837,7 +2569,11 @@
     "hq": "Dallas, TX",
     "status_current": "Current",
     "website": "unitedrealestate.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "US Legal Support",
@@ -1847,7 +2583,11 @@
     "hq": "Houston, TX",
     "status_current": "Current",
     "website": "uslegalsupport.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2018,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "USEReady",
@@ -1857,7 +2597,11 @@
     "hq": "New York, NY",
     "status_current": "Current",
     "website": "useready.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Vertical Scope",
@@ -1867,7 +2611,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Vocado",
@@ -1877,7 +2625,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "What If Media Group",
@@ -1887,7 +2639,11 @@
     "hq": "Fort Lee, New Jersey",
     "status_current": "Current",
     "website": "whatifmediagroup.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "WideOpenWest",
@@ -1897,7 +2653,11 @@
     "hq": "Denver, CO",
     "status_current": "Realized",
     "website": "wowway.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 1999,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Writtle Holdings",
@@ -1907,7 +2667,11 @@
     "hq": "London, England, United Kingdom",
     "status_current": "Realized",
     "website": "writtle.com",
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2007,
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Xand",
@@ -1917,7 +2681,11 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "York Risk Services Group",
@@ -1927,6 +2695,10 @@
     "hq": null,
     "status_current": "Realized",
     "website": null,
-    "firm": "Abry"
+    "firm": "Abry",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2010,
+    "region_stan": null,
+    "status_current_stan": "Realized"
   }
 ]

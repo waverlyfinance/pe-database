@@ -700,6 +700,7 @@ def courtsquare_portcos():
     # Printing the result
     print(portcos)
 
+
     with open("_portcos_raw/courtsquare_portcos.json", "w") as file:
         json.dump(portcos, file, indent=2)
 

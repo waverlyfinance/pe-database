@@ -141,9 +141,6 @@ def semantic_search(query, threshold):
 
     # just returns the top 10 results
     cursor.execute("SELECT company_name, company_description FROM portcos_test ORDER BY embedding <-> %s::vector LIMIT 15", (query_embedding,)) 
-
-    # Searches based on cosine similarity between (1) query and (2) company_description. Sorts by distance threshold (similarity)
-    # cursor.execute("SELECT company_name, company_description FROM portcos_test WHERE embedding <-> %s::vector < %s ORDER BY embedding <-> %s::vector", (query_embedding, threshold, query_embedding)) 
     
     results = cursor.fetchall()
     print(results)
@@ -154,8 +151,6 @@ def semantic_search(query, threshold):
 
 def main():
     create_db("tpg")
-    # embeddings_db()
-    # semantic_search("waste management services", 1.0)
-    # update_db(data)
+
     
 main()

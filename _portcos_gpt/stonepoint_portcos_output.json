@@ -1,0 +1,821 @@
+[
+  {
+    "company_name": "AAM",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Access Point Financial",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Achieve",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alliant",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Allied Benefit Systems",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AloStar Bank of Commerce",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alterra / Markel",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Orthopedic Partners",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Amherst Holdings",
+    "date_of_investment_stan": 2008,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Amherst Pierpont Securities",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "AmTrust Financial Services",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "APCO",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Applied Systems",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ARC",
+    "date_of_investment_stan": 2002,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Arch Capital",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ascensus",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Atlantic Capital",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Atrium",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AXIS",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "B.H. Acquisition",
+    "date_of_investment_stan": 2000,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bay Point",
+    "date_of_investment_stan": 2006,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Beeline",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Black Mountain Systems",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "BridgePoint",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Broadstone",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cross Ocean Partners",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eagle Point",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Henderson Park Capital",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Rialto Capital",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Consilio",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Gordon Brothers",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kroll",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LegalShield",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Stretto",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Allied Benefit Systems",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Enlyte",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Genex",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sedgwick",
+    "date_of_investment_stan": 1999,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tivity Health",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Beeline",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bullhorn",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eliassen Group",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vensure Employer Services",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HireRight",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Alliant",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ARC",
+    "date_of_investment_stan": 2002,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BridgePoint",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "EPIC",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Higginbotham",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Applied Systems",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Harbor Group Consulting",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Longevity Holdings",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "LTCG",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Safe-Guard",
+    "date_of_investment_stan": "null",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AmTrust Financial Services",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "AXIS",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Enstar",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PURE",
+    "date_of_investment_stan": 2006,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Wilton Re",
+    "date_of_investment_stan": 2004,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Access Point Financial",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Amherst Pierpont Securities",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Achieve",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Preston Hollow Capital",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "TriState Capital Holdings",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CoreLogic",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kensington Vanguard",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lancaster Pollard",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Meridian Capital Group",
+    "date_of_investment_stan": "null",
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SitusAMC",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ascensus",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Black Mountain Systems",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Focus Financial",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kestra Financial",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Newport Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Alliant",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Applied Systems",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Kroll",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Focus Financial",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Gordon Brothers",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cross Ocean Partners",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Eagle Point",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Freepoint Commodities",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Henderson Park Capital",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "KaylaRe",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Black Mountain Systems",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Broadstone",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Enhanced Capital",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Harbor Group Consulting",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PURE",
+    "date_of_investment_stan": 2006,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "First Data",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MetLife",
+    "date_of_investment_stan": 2000,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "NFP",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "OneWest Bank",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Principal Financial Group",
+    "date_of_investment_stan": 2001,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Businessolver",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CITCO",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ClearPoint Health",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CREA",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cross Ocean Partners",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DMG Bancshares",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "EverBank",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hyphen Solutions",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "IEQ Capital",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Lincoln Property Company",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Lone Wolf Technologies",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Onboard Partners",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Prima Capital Advisors",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PrismHR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Private Client Select Insurance Services",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Sabal Capital Holdings",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SambaSafety",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SunFire",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ten-X",
+    "date_of_investment_stan": 2008,
+    "industry_stan": "Real Estate",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tree Line Capital",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "null",
+    "region_stan": "null",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Truist Insurance Holdings",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Verisys",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Vervent",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  }
+]

@@ -17,54 +17,56 @@ export default function Home() {
   const [searchQuery, setSearchQuery] = useState(""); 
 
   // states to set up filters
-  const [firm, setFirm] = useState(''); 
-  const [industry, setIndustry] = useState('');
-  const [region, setRegion] = useState('');
-  const [fund, setFund] = useState('');
-  const [status_current, setStatusCurrent] = useState('');
+  const [firm, setFirm] = useState("");
+  const [industry_stan, setIndustry] = useState("");
+  const [region_stan, setRegion] = useState("");
+  const [status_current_stan, setStatus] = useState(""); 
 
   // Fetch the data from Postgres database. Default is no filters 
   useEffect(() => {
     const fetchData = async () => {
-        const params = new URLSearchParams({
-          ...(firm && { firm }), // only returns if "firm" is truthy. E.g. Not undefined or empty
-          ...(industry && { industry }),
-          ...(region && { region }),
-          ...(fund && { fund }),
-          ...(status_current && { status_current }), 
-          ...(searchQuery && { searchQuery }),
-        }).toString();
-      
+      const params = new URLSearchParams({
+        ...(firm && { firm }), // only returns if "firm" is truthy. E.g. Not undefined or empty
+        ...(industry_stan && { industry_stan }),
+        ...(region_stan && { region_stan }),
+        ...(status_current_stan && { status_current_stan }), 
+        ...(searchQuery && { searchQuery }), 
+      }).toString();
+    
       console.log("parameters: ", params);
       
       const response = await fetch(`/api/data?${params}`);
       const data = await response.json();
       console.log("Fetched data: ", data); // to debug. Check what data is fetched from Postgres database
       setData(data);
-      };  
+      console.log("industry: ", industry_stan, "region: ", region_stan, "status: ", status_current_stan);  
+    };  
+      
+      fetchData()
 
-      fetchData();  
   }, [searchQuery]); 
   
   // this second useEffect handles the async nature of React. We want to wait until the initial data has been fetched before running     
   useEffect(() => {
     if (data.length > 0) {
       handleFilterChange({});
-    // console.log("Initial data:", data);
     }
   }, [data]);
     
   // Event handler to setFilteredData. Returns a new array in which ONLY the industries returned are the desired filter. E.g. "Healthcare" 
   const handleFilterChange = (filters) => {
     console.log("Filters received", filters);
+    setFirm(filters.firm);
+    setIndustry(filters.industry_stan);
+    setRegion(filters.region_stan);
+    setStatus(filters.status_current_stan);
 
     const result = data.filter(company => { // Returns an array, which is a subset of "data" array. Loops through "data" and only returns TRUE entries. E.g. industry = "Healthcare" 
       return (
         (!filters.firm || company.firm === filters.firm) &&
-        (!filters.industry || company.industry === filters.industry) &&
-        (!filters.region || company.region === filters.region) &&
-        (!filters.fund || company.fund === filters.fund) &&
-        (!filters.status_current || company.status_current === filters.status_current)
+        (!filters.industry_stan || company.industry_stan === filters.industry_stan) &&
+        (!filters.region_stan || company.region_stan === filters.region_stan) &&
+        (!filters.status_current_stan || company.status_current_stan === filters.status_current_stan)
       );
     });
     
@@ -72,8 +74,7 @@ export default function Home() {
     setFilteredData(result);
   };
 
-
-  // Show only 50 items per page
+  // Paginate. Only show 50 items per page
   const indexLast = currentPage * itemsPerPage; // 1*50 = 50
   const indexFirst = indexLast - itemsPerPage; // 50-50 = 0
   const visibleData = filteredData.slice(indexFirst, indexLast);
@@ -86,14 +87,14 @@ export default function Home() {
     <>
     <meta charSet="utf-8"/>
     
-    {/* Semantic search */}
-    <div>
-      <Search onSearchChange={setSearchQuery} />
-    </div>
-    
     {/* Filters content */}
     <div>
       <Filters data={data} onFilterChange={handleFilterChange} />
+    </div>
+    
+    {/* Semantic search */}
+    <div>
+      <Search onSearchChange={setSearchQuery}/> 
     </div>
 
     {/* Table content */}
@@ -117,12 +118,12 @@ export default function Home() {
               <tr key ={index} className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                 <td className="px-6 py-4">{company.firm}</td>
                 <td className="px-6 py-4">{company.company_name}</td>
-                <td className="px-6 py-4">{company.industry}</td>
-                <td className="px-6 py-4">{company.region}</td>
+                <td className="px-6 py-4">{company.industry_stan}</td>
+                <td className="px-6 py-4">{company.region_stan}</td>
                 <td className="px-6 py-4">{company.fund}</td>
-                <td className="px-6 py-4">{company.date_of_investment}</td>
+                <td className="px-6 py-4">{company.date_of_investment_stan}</td>
                 <td className="px-6 py-4">{company.company_description}</td>
-                <td className="px-6 py-4">{company.status_current}</td>
+                <td className="px-6 py-4">{company.status_current_stan}</td>
                 <td className="px-6 py-4"><a href={company.website}>link</a></td>
               </tr>
             ))}

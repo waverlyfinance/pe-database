@@ -1,0 +1,583 @@
+[
+  {
+    "company_name": "EverDriven",
+    "date_of_investment_stan_stan": 2024,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Rise Growth Partners",
+    "date_of_investment_stan_stan": 2024,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Searchlight Cyber",
+    "date_of_investment_stan": 2024,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Petra",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Salus GRC",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Maltego",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ImageQuix",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Titan",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Action Behavior Centers",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Accordion",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bridgepointe Technologies",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BOX Partners",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mediaocean",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Empire",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SOLVE",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MDVIP",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "symplr",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Lido Advisors",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ivanti",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "City Brewing",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MB2 Dental",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Bridges Consumer Healthcare",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Healthcare Fraud Shield",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "American Residential Services",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aptean",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cyberbit",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Neptune Retail Solutions",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Wayfair",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "World Insurance Associates",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Fortra",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "PakEnergy",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DoiT International",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Park Place Technologies",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MyEyeDr.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Reef",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hearthside Food Solutions",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Varsity Brands",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Galls",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tecomet",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "QC Supply",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Vestcom",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Polyconcept",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Plaskolite",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ensono",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Six Degrees",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RGL Reservoir Management",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HDT Global",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Trojan Battery",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FULLBEAUTY Brands",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United Road Services",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Princeton Review",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Citadel Plastics",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Montpelier Re",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sound United (formerly DEI)",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Peacock Foods",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "OnCore Manufacturing",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Blueknight Energy Partners",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Cedar Creek",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Sightpath Medical",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Blacksmith Brands",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Southcross Energy",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Zayo Group",
+    "date_of_investment_stan": 2009,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "StoneCastle Partners",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GrayWolf Industrial",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bankruptcy Management Solutions",
+    "date_of_investment_stan": 2006,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Del Taco",
+    "date_of_investment_stan": 2006,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "WorldStrides",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Zenith Products",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CIFC",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Animal Health International",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "GSI",
+    "date_of_investment_stan": 2005,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Papa Murphy's",
+    "date_of_investment_stan": 2004,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Aurora Organic Dairy",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Regency Gas Services",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Catlin",
+    "date_of_investment_stan": 2002,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Universal Technical Institute",
+    "date_of_investment_stan": 2002,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CSI Leasing",
+    "date_of_investment_stan": 2002,
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Technisource",
+    "date_of_investment_stan": 2000,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Shoppers Drug Mart",
+    "date_of_investment_stan": 2000,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bell Automotive",
+    "date_of_investment_stan": 2000,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "American Tire Distributors",
+    "date_of_investment_stan": 1999,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "National Surgical Hospitals",
+    "date_of_investment_stan": 1999,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Bell Sports",
+    "date_of_investment_stan": 1998,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  }
+]
