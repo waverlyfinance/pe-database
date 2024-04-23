@@ -6,7 +6,7 @@ const Filters = ( {data, onFilterChange }) => {
     const [selectedFirm, setSelectedFirm] = useState("");
     const [selectedIndustry, setSelectedIndustry] = useState("");
     const [selectedRegion, setSelectedRegion] = useState("");
-    const [selectedFund, setSelectedFund] = useState("");
+    // const [selectedFund, setSelectedFund] = useState("");
     const [selectedStatus, setSelectedStatus] = useState("");
 
     // function to generate an array of all the unique values for a given key. E.g. Industry, or Region
@@ -20,12 +20,12 @@ const Filters = ( {data, onFilterChange }) => {
     useEffect(() => {
         onFilterChange({
             firm: selectedFirm,
-            industry: selectedIndustry,
-            region: selectedRegion,
-            fund: selectedFund,
-            status_current: selectedStatus,
+            industry_stan: selectedIndustry,
+            region_stan: selectedRegion,
+            // fund: selectedFund,
+            status_current_stan: selectedStatus,
         });
-    }, [selectedFirm, selectedIndustry, selectedRegion, selectedFund, selectedStatus]);
+    }, [selectedFirm, selectedIndustry, selectedRegion, selectedStatus]);
 
     return (
         <div>
@@ -39,29 +39,29 @@ const Filters = ( {data, onFilterChange }) => {
 
             <select value={selectedIndustry} onChange={e => setSelectedIndustry(e.target.value)}> 
                 <option value="">All industries</option>
-                {getUniqueValues("industry").map(industry => ( // Returns new array containing every unique value in "industry". New array contains the following JSX code
-                    <option key={industry} value={industry}>{industry}</option> // e.g. option value="Healthcare", option value="Tech"
+                {getUniqueValues("industry_stan").map(industry_stan => ( // Returns new array containing every unique value in "industry". New array contains the following JSX code
+                    <option key={industry_stan} value={industry_stan}>{industry_stan}</option> // e.g. option value="Healthcare", option value="Tech"
             ))}
             </select>
 
             <select value={selectedRegion} onChange={e => setSelectedRegion(e.target.value)}> 
                 <option value="">All regions</option>
-                {getUniqueValues("region").map(region => ( 
-                    <option key={region} value={region}>{region}</option> 
+                {getUniqueValues("region_stan").map(region_stan => ( 
+                    <option key={region_stan} value={region_stan}>{region_stan}</option> 
             ))}
             </select>
             
-            <select value={selectedFund} onChange={e => setSelectedFund(e.target.value)}> 
+            {/* <select value={selectedFund} onChange={e => setSelectedFund(e.target.value)}> 
                 <option value="">All funds</option>
                 {getUniqueValues("fund").map(fund => ( 
                     <option key={fund} value={fund}>{fund}</option>
             ))}
-            </select>
+            </select> */}
 
             <select value={selectedStatus} onChange={e => setSelectedStatus(e.target.value)}> 
                 <option value="">All investments</option>
-                {getUniqueValues("status_current").map(status_current => ( 
-                    <option key={status_current} value={status_current}>{status_current}</option> 
+                {getUniqueValues("status_current_stan").map(status_current_stan => ( 
+                    <option key={status_current_stan} value={status_current_stan}>{status_current_stan}</option> 
             ))}
             </select>
         </div>

@@ -582,7 +582,7 @@
     "status_current": "Realized",
     "website": null,
     "firm": "Abry",
-    "industry_stan": "Communications",
+    "industry_stan": "Technology",
     "date_of_investment_stan": 1996,
     "region_stan": "North America",
     "status_current_stan": "Realized"
@@ -2360,7 +2360,7 @@
     "status_current": "Realized",
     "website": "sociusinsurance.com",
     "firm": "Abry",
-    "industry_stan": "Insurance and Financial Services",
+    "industry_stan": "Financials",
     "date_of_investment_stan": 2021,
     "region_stan": "North America",
     "status_current_stan": "Realized"

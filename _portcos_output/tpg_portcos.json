@@ -1878,7 +1878,7 @@
     "industry": "Various",
     "status_current": "Partially Realized",
     "firm": "TPG",
-    "industry_stan": "Other",
+    "industry_stan": "Financials",
     "region_stan": "Asia Pacific",
     "date_of_investment_stan": null,
     "status_current_stan": "Realized"
@@ -2079,7 +2079,7 @@
     "industry": "Various",
     "status_current": "Partially Realized",
     "firm": "TPG",
-    "industry_stan": "Other",
+    "industry_stan": "Financials",
     "region_stan": "Asia Pacific",
     "status_current_stan": "Realized"
   },

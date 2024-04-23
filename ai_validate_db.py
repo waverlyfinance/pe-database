@@ -198,7 +198,7 @@ def consolidate_fields(firm):
 
 
 def update_db(firm):
-    filename = "stonepoint_portcos"
+    filename = firm + "_portcos"
     db_name = "portcos_test"
 
     # connect to Postgres db
@@ -258,4 +258,4 @@ def main(firm):
 
 # main("stonepoint")
 # consolidate_fields("stonepoint")
-update_db("Stone Point") # case-sensitive. Must match actual firm name
+update_db("Kelso") # case-sensitive. Must match actual firm name

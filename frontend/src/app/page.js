@@ -20,7 +20,6 @@ export default function Home() {
   const [firm, setFirm] = useState(''); 
   const [industry, setIndustry] = useState('');
   const [region, setRegion] = useState('');
-  const [fund, setFund] = useState('');
   const [status_current, setStatusCurrent] = useState('');
 
   // Fetch the data from Postgres database. Default is no filters 
@@ -30,7 +29,6 @@ export default function Home() {
           ...(firm && { firm }), // only returns if "firm" is truthy. E.g. Not undefined or empty
           ...(industry && { industry }),
           ...(region && { region }),
-          ...(fund && { fund }),
           ...(status_current && { status_current }), 
           ...(searchQuery && { searchQuery }),
         }).toString();
@@ -61,10 +59,10 @@ export default function Home() {
     const result = data.filter(company => { // Returns an array, which is a subset of "data" array. Loops through "data" and only returns TRUE entries. E.g. industry = "Healthcare" 
       return (
         (!filters.firm || company.firm === filters.firm) &&
-        (!filters.industry || company.industry === filters.industry) &&
-        (!filters.region || company.region === filters.region) &&
+        (!filters.industry_stan || company.industry_stan === filters.industry_stan) &&
+        (!filters.region_stan || company.region_stan === filters.region_stan) &&
         (!filters.fund || company.fund === filters.fund) &&
-        (!filters.status_current || company.status_current === filters.status_current)
+        (!filters.status_current_stan || company.status_current_stan === filters.status_current_stan)
       );
     });
     
@@ -117,12 +115,12 @@ export default function Home() {
               <tr key ={index} className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                 <td className="px-6 py-4">{company.firm}</td>
                 <td className="px-6 py-4">{company.company_name}</td>
-                <td className="px-6 py-4">{company.industry}</td>
-                <td className="px-6 py-4">{company.region}</td>
+                <td className="px-6 py-4">{company.industry_stan}</td>
+                <td className="px-6 py-4">{company.region_stan}</td>
                 <td className="px-6 py-4">{company.fund}</td>
-                <td className="px-6 py-4">{company.date_of_investment}</td>
+                <td className="px-6 py-4">{company.date_of_investment_stan}</td>
                 <td className="px-6 py-4">{company.company_description}</td>
-                <td className="px-6 py-4">{company.status_current}</td>
+                <td className="px-6 py-4">{company.status_current_stan}</td>
                 <td className="px-6 py-4"><a href={company.website}>link</a></td>
               </tr>
             ))}

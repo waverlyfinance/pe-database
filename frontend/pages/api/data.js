@@ -43,7 +43,7 @@ async function generate_embeddings(query) {
 
 // function to define SQL query
 export default async function handler(req, res) {
-    const { firm, industry, region, fund, status_current, searchQuery } = req.query;
+    const { firm, industry_stan, region, fund, status_current, searchQuery } = req.query;
     
     let baseQuery = "SELECT * FROM portcos_test";
     let conditions = [];
@@ -55,9 +55,9 @@ export default async function handler(req, res) {
       params.push(firm);
     }
 
-    if (industry) {
+    if (industry_stan) {
       conditions.push("industry_stan = $2");
-      params.push(industry);
+      params.push(industry_stan);
     }
 
     if (region) {
