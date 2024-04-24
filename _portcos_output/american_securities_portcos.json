@@ -10,7 +10,11 @@
     "hq": "Houston, TX and Edmonton, AB",
     "website": "acuren.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Advanced Drainage Systems",
@@ -23,7 +27,11 @@
     "hq": null,
     "website": "ads-pipe.com",
     "exit_status": "IPO in July 2014",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Air Methods",
@@ -36,7 +44,11 @@
     "hq": null,
     "website": "airmethods.com",
     "exit_status": "Transfer to lenders in December 2023",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Amentum",
@@ -49,10 +61,14 @@
     "hq": "Chantilly, Virginia",
     "website": "amentum.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
   },
   {
-    "company_name": "American Axle & Manufacturing",
+    "company_name": "American Axle &amp; Manufacturing",
     "company_description": "A premier, global leader in design, engineering, validation, and manufacturing of driveline, metal forming, powertrain, and casting technologies for automotive, commercial, and industrial markets.",
     "industry": "Industrial",
     "date_of_investment": "April 2017",
@@ -62,7 +78,11 @@
     "hq": null,
     "website": "aam.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Anthony International",
@@ -72,7 +92,11 @@
     "status_current": "Realized",
     "website": "anthonyintl.com",
     "exit_status": "Sale in August 2004",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1998,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Aramsco",
@@ -85,7 +109,11 @@
     "hq": null,
     "website": null,
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Arizona Chemical",
@@ -95,7 +123,11 @@
     "status_current": "Realized",
     "website": "arizonachemical.com",
     "exit_status": "Sale in January 2016",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "BELFOR",
@@ -108,7 +140,11 @@
     "hq": null,
     "website": "belfor.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Blue Bird",
@@ -121,7 +157,11 @@
     "hq": null,
     "website": "blue-bird.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Cambridge International",
@@ -130,7 +170,11 @@
     "date_of_investment": "July 2000",
     "status_current": "Realized",
     "website": "cambridge-intl.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Caribbean Restaurants",
@@ -139,7 +183,11 @@
     "date_of_investment": "October 1996",
     "status_current": "Realized",
     "region": "North America",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Chromaflo Technologies",
@@ -152,7 +200,11 @@
     "hq": null,
     "website": "chromaflo.com",
     "exit_status": "Merged with Ferro Corporation to form Vibrantz Technologies in April 2022",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Pacific Broadcasting Company",
@@ -160,7 +212,11 @@
     "industry": "Services",
     "date_of_investment": "December 1995",
     "status_current": "Sale in July 1997",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Conair",
@@ -173,7 +229,11 @@
     "hq": "Stamford, CT",
     "website": "conair.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Covia",
@@ -186,7 +246,11 @@
     "hq": null,
     "website": "cociacorp.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "CPM",
@@ -199,14 +263,22 @@
     "hq": null,
     "website": "onecpm.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "CS Energy",
     "company_description": "CS Energy is a leading renewable energy services business focused on the engineering, procurement, and construction (EPC) and development of solar and storage projects in the Northeastern United States.",
     "industry": "Industrial",
     "date_of_investment": "May 2021",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "CTB International",
@@ -215,7 +287,11 @@
     "date_of_investment": "December 1995",
     "status_current": "Sale in October 2002",
     "website": "ctbinc.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Delphi Midstream Partners",
@@ -223,10 +299,14 @@
     "industry": "Industrial",
     "date_of_investment": "November 2009",
     "status_current": "Sale in February 2012",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
-    "company_name": "Dr. Leonard\u2019s Healthcare",
+    "company_name": "Dr. Leonard's Healthcare",
     "company_description": "Leading U.S. direct mail retailer of home healthcare, comfort, and convenience products for the 'over 55' market",
     "industry": "Consumer",
     "date_of_investment": "July 1998",
@@ -234,7 +314,11 @@
     "region": "North America",
     "website": "drleonards.com",
     "exit_status": "Sale in May 2002",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1998,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "El Pollo Loco",
@@ -247,7 +331,11 @@
     "hq": null,
     "website": "elpolloloco.com",
     "exit_status": "Sale in November 2005",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Emerald Performance Materials",
@@ -260,7 +348,11 @@
     "hq": null,
     "website": "emeraldmaterials.com",
     "exit_status": "Sale in August 2021",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Fairmount Santrol",
@@ -273,7 +365,11 @@
     "hq": null,
     "website": "coviacorp.com",
     "exit_status": "IPO in October 2014, Merged with Unimim Corporation to create Covia in June 2018",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FiberMark",
@@ -282,7 +378,11 @@
     "date_of_investment": "December 2007",
     "status_current": "Sale in July 2015",
     "website": "fibermark.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FleetPride",
@@ -295,7 +395,11 @@
     "hq": null,
     "website": "fleetpride.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Foundation Building Materials",
@@ -308,7 +412,11 @@
     "hq": "Santa Ana, California",
     "website": "fbmsales.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Frontier Spinning Mills",
@@ -316,7 +424,11 @@
     "industry": "Industrial",
     "date_of_investment": "December 2013",
     "exit_status": "Transfer to lenders in May 2019",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "FullBloom",
@@ -329,7 +441,11 @@
     "hq": "Philadelphia, PA",
     "website": "fullbloom.org",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "General Chemical",
@@ -338,7 +454,11 @@
     "date_of_investment": "October 2009",
     "status_current": "Sale in January 2014",
     "region": "North America",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Grede",
@@ -351,7 +471,11 @@
     "hq": null,
     "website": "grede.com",
     "exit_status": "Merged with HHI and Metaldyne to create Metaldyne Performance Group in August 2014, which was sold in April 2017",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "GT Technologies",
@@ -360,7 +484,11 @@
     "date_of_investment": "October 2009",
     "status_current": "Realized",
     "website": "gttechnologies.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Healthy Directions",
@@ -369,7 +497,11 @@
     "date_of_investment": "August 2004",
     "status_current": "Sale in June 2014",
     "website": "healthydirections.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Henry Company",
@@ -380,7 +512,11 @@
     "region": "North America",
     "website": "us.henry.com",
     "exit_status": "Sale in September 2021",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Hexion",
@@ -393,7 +529,11 @@
     "hq": "Columbus, Ohio",
     "website": "hexion.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "HHI",
@@ -406,7 +546,11 @@
     "hq": null,
     "website": "hhiholdings.net",
     "exit_status": "Merged with Metaldyne and Grede to create Metaldyne Performance Group in August 2014, which was sold in April 2017",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Ketema",
@@ -419,7 +563,11 @@
     "hq": null,
     "website": null,
     "exit_status": "Sale in November 1998",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Lakeside Energy",
@@ -428,7 +576,11 @@
     "date_of_investment": "June 2007",
     "status_current": "Sale in February 2015",
     "region": "North America",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Learning Care Group",
@@ -441,7 +593,11 @@
     "hq": null,
     "website": "learningcaregroup.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Liberty Tire Recycling",
@@ -450,7 +606,11 @@
     "date_of_investment": "November 2008",
     "status_current": "Transfer to lenders in March 2015",
     "website": "libertytire.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "MECS",
@@ -460,7 +620,11 @@
     "status_current": "Realized",
     "website": "mecsglobal.com",
     "exit_status": "Sale in December 2010",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "date_of_investment_stan": 2008,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Meridian",
@@ -473,7 +637,11 @@
     "hq": "Charlotte, NC",
     "website": "meridianadhesives.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Metaldyne",
@@ -483,7 +651,11 @@
     "status_current": "Realized",
     "website": "metaldyne.com",
     "exit_status": "Sold to American Axle & Manufacturing in April 2017",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Metaldyne Performance Group",
@@ -493,7 +665,11 @@
     "status_current": "Realized",
     "website": "mpgdriven.com",
     "exit_status": "Sale in April 2017 to American Axle & Manufacturing",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Milk Specialties Global",
@@ -502,7 +678,11 @@
     "date_of_investment": "August 2016",
     "status_current": "Sale in February 2023",
     "website": "milkspecialties.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Miltex Instrument Company",
@@ -511,7 +691,11 @@
     "date_of_investment": "January 2000",
     "status_current": "Sale in May 2006",
     "website": "miltex.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Mortgage Contracting Services",
@@ -524,7 +708,11 @@
     "hq": null,
     "website": "mcs360.com",
     "exit_status": "Transfer to lenders in October 2020",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "MVE",
@@ -537,7 +725,11 @@
     "hq": null,
     "website": null,
     "exit_status": "Sale in April 1999",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "MW Industries",
@@ -550,7 +742,11 @@
     "hq": "Charlotte, North Carolina",
     "website": "mwcomponents.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "NEP Broadcasting",
@@ -560,7 +756,11 @@
     "status_current": "Realized",
     "website": "nepinc.com",
     "exit_status": "Sale in December 2012",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "North American Partners in Anesthesia",
@@ -573,7 +773,11 @@
     "hq": null,
     "website": "NAPAanesthesia.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "NWN Carousel",
@@ -586,7 +790,11 @@
     "hq": "Boston, MA",
     "website": "nwncarousel.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2024,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "OnTrac",
@@ -599,7 +807,11 @@
     "hq": null,
     "website": "ontrac.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Oreck",
@@ -608,7 +820,11 @@
     "date_of_investment": "April 2003",
     "status_current": "Transfer to lenders in May 2013",
     "website": "oreck.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Oregon Tool",
@@ -618,7 +834,11 @@
     "status_current": "Realized",
     "website": "oregontool.com",
     "exit_status": "Sale in October 2021",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "PDM Bridge",
@@ -631,7 +851,11 @@
     "hq": null,
     "website": null,
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Potbelly Sandwich Works",
@@ -644,7 +868,8 @@
     "hq": null,
     "website": "potbelly.com",
     "exit_status": "IPO in October 2013",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Presidio",
@@ -653,7 +878,11 @@
     "date_of_investment": "March 2011",
     "status_current": "Sale in February 2015",
     "website": "presidio.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Press Ganey",
@@ -663,7 +892,11 @@
     "status_current": "Realized",
     "website": "pressganey.com",
     "exit_status": "Sale in March 2008",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Primary Energy Ventures",
@@ -672,7 +905,11 @@
     "date_of_investment": "October 2003",
     "status_current": "Realized",
     "website": "primaryenergy.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Natural Resources",
+    "region_stan": null,
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Prince",
@@ -685,7 +922,11 @@
     "hq": "Houston, TX",
     "website": "princecorp.com",
     "exit_status": "Acquired Ferro Corporation and merged with Chromaflo Technologies to create Vibrantz Technologies in April 2022",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "r-pac",
@@ -698,7 +939,11 @@
     "hq": "New York City",
     "website": "r-pac.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "RealManage",
@@ -711,7 +956,11 @@
     "hq": null,
     "website": null,
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Robertson Fuel Systems",
@@ -724,7 +973,11 @@
     "hq": null,
     "website": "robertsonfuelsystems.com",
     "exit_status": "Sale in January 2016",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Royal Adhesives and Sealants",
@@ -733,7 +986,11 @@
     "date_of_investment": "June 2015",
     "status_current": "Sale in October 2017",
     "website": "royaladhesives.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "SeaStar Solutions",
@@ -742,7 +999,11 @@
     "date_of_investment": "January 2014",
     "status_current": "Sold",
     "website": "seastarsolutions.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": null,
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "SimonMed",
@@ -755,7 +1016,11 @@
     "hq": null,
     "website": "simonmed.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "SOLV Energy",
@@ -768,7 +1033,11 @@
     "hq": null,
     "website": "solvenergy.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "SpecialtyCare",
@@ -777,7 +1046,11 @@
     "date_of_investment": "May 2011",
     "status_current": "Sale in September 2017",
     "website": "specialtycare.net",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Tekni-Plex",
@@ -787,7 +1060,11 @@
     "status_current": "Sale in October 2017",
     "region": "North America, Europe, Latin America, Asia",
     "website": "tekni-plex.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "The Aspen Group",
@@ -796,7 +1073,11 @@
     "date_of_investment": "April 2015",
     "status_current": "Majority stake sale in June 2017",
     "website": "teamtag.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "TNP Enterprises",
@@ -807,7 +1088,11 @@
     "region": "North America",
     "website": "tnmp.com",
     "exit_status": "Sale in January 2006",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Trace3",
@@ -820,7 +1105,11 @@
     "hq": "Southern California",
     "website": "trace3.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "Ulterra Drilling Technologies",
@@ -833,7 +1122,11 @@
     "hq": null,
     "website": "ulterra.com",
     "exit_status": "Sale in August 2023 to Patterson-UTI",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unifrax",
@@ -846,7 +1139,11 @@
     "hq": null,
     "website": "unifrax.com",
     "exit_status": "Sale in May 2006",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unifrax",
@@ -859,7 +1156,11 @@
     "hq": null,
     "website": "unifrax.com",
     "exit_status": "Sale in December 2018",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Unison Site Management",
@@ -868,7 +1169,11 @@
     "date_of_investment": "June 2009",
     "status_current": "Sale in June 2016",
     "website": "unisonsite.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "United Distribution Group",
@@ -877,7 +1182,11 @@
     "date_of_investment": "April 2006",
     "status_current": "Transfer to lenders in April 2018",
     "website": "udginc.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "United FP",
@@ -890,7 +1199,11 @@
     "hq": "Austin, Texas",
     "website": "planetfitness.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "ViaPath Technologies",
@@ -903,7 +1216,11 @@
     "hq": null,
     "website": "viapath.com",
     "exit_status": null,
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": 2011,
+    "status_current_stan": null
   },
   {
     "company_name": "Vibrantz Technologies",
@@ -914,7 +1231,11 @@
     "region": "North America",
     "hq": "Houston, TX",
     "website": "vibrantz.com",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
   },
   {
     "company_name": "VUTEk",
@@ -927,7 +1248,11 @@
     "hq": null,
     "website": null,
     "exit_status": "Sale in June 2005",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Weasler Engineering",
@@ -940,7 +1265,11 @@
     "hq": null,
     "website": "weasler.com",
     "exit_status": "Sale in June 2011",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
   },
   {
     "company_name": "Westward",
@@ -948,6 +1277,10 @@
     "industry": "Services",
     "date_of_investment": "December 2002",
     "status_current": "Sale on behalf of lenders in June 2012",
-    "firm": "American Securities"
+    "firm": "American Securities",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2002,
+    "status_current_stan": "Realized"
   }
 ]

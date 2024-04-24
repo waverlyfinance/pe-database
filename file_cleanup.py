@@ -1,5 +1,4 @@
 import json 
-from ai_extract import transform_fields
 from bs4 import BeautifulSoup
 
 #TODO: Probably need to redo these companies 
@@ -10,7 +9,7 @@ from bs4 import BeautifulSoup
 
 # Add fields to existing files
 def add_field(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
 
     with open(f"_portcos_processed/{filename}.json", "r") as file:
         data = json.load(file)
@@ -21,7 +20,7 @@ def add_field(firm):
     with open(f"_portcos_processed/{filename}.json", "w") as outfile:
         json.dump(data, outfile, indent=2)
     
-# add_field("HIG")
+# add_field("american_securities")
 
 # Update just 1 key-value pair
 def update_1key(firm):
@@ -37,7 +36,7 @@ def update_1key(firm):
     with open(f"_portcos_processed/{filename}.json", "w") as outfile:
         json.dump(data, outfile, indent=2)
 
-update_1key("tpg")
+# update_1key("tpg")
 
 # Update keys in order to standardize for SQL database
 def update_keys(firm):
@@ -111,27 +110,7 @@ def remove_json(filename):
 
 
 
+def main(firm):
+    add_field(firm)
 
-
-# Use GPT-4 to standardize fields
-def transform(filename):
-    filename = filename + "_portcos"
-
-    with open(f"_portcos_raw/{filename}.json", "r") as file:
-        content = json.load(file)
-
-    #TODO: Some JSON files have different field names. E.g. "status_current" or "status"
-    for company in content:
-        company["industry"] = original_industry
-        company["date_of_investment"] = original_date
-        company["region"] = original_region
-        company["status_current"] = original_status
-
-#original_industry, original_date, original_region, original_status
-
-# transform("vista")
-
-def main():
-    add_field("TPG")
-
-main()
+main("KKR")

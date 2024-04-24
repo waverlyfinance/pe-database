@@ -3,7 +3,6 @@ import anthropic
 import json
 import os
 from pydantic import BaseModel, Field
-from langchain_text_splitters import RecursiveJsonSplitter
 import time
 import psycopg2
 
@@ -34,30 +33,13 @@ def pre_process(firm):
             "region": company.get("region") if company.get("region") else None,
             # "fund": company.get("fund") if company.get("fund") else None,
             "date_of_investment": company.get("date_of_investment") if company.get("date_of_investment") else None,
-            "status_current": company.get("status_current") if company.get("status_current") else None,
+            # "status_current": company.get("status_current") if company.get("status_current") else None,
             "hq": company.get("hq") if company.get("hq") else None,
         }
 
         new_data.append(extracted_fields)
 
-    with open(f"_portcos_gpt/{filename}.json", "w") as outfile:
-        json.dump(new_data, outfile, indent=2)
-
     return new_data
-
-
-# # Langchain chunking. Documents are too large (max 4096 output tokens)
-# def chunk(data):
-
-#     # data_string = json.dumps(data)
-
-#     splitter = RecursiveJsonSplitter(max_chunk_size=5000)
-
-#     chunks = splitter.split_text(json_data=data, convert_lists=True)
-
-#     print(chunks[0])
-#     print(chunks[1])
-#     return chunks
 
 
 # STANDARDIZING FOR DATABASE
@@ -66,7 +48,7 @@ class standardized_fields(BaseModel):
     industry_stan: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services, Natural Resources")
     date_of_investment_stan: int | None = Field(None, description="Must be an integer in yyyy format. E.g. 2013 or 2017")
     region_stan: str | None = Field(None, description="Must be ONLY one of the following options: North America, EMEA, LatAm, Asia Pacific, Africa")
-    status_current_stan: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical).")
+    # status_current_stan: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical)")
 
 fields_schema = standardized_fields.schema()
 
@@ -145,7 +127,7 @@ def transform_fields_claude(data):
             Natural Resources: E.g. Energy, mining, oil & gas, metals
             
             Use the transform_fields tool.
-            If there is no good answer you are confident in, simply return 'null'
+            If there is no good answer you are confident in, simply return a 'null' object in JSON 
             
             Here is the data:
             {data}"""
@@ -198,7 +180,7 @@ def consolidate_fields(firm):
 
 
 def update_db(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
     db_name = "portcos_test"
 
     # connect to Postgres db
@@ -218,7 +200,7 @@ def update_db(firm):
         region_stan = %s,
         date_of_investment_stan = %s,
         status_current_stan = %s
-    WHERE firm = %s AND company_name = %s; 
+    WHERE firm = %s; 
     """
     
     # Execute update statements for each company
@@ -228,8 +210,7 @@ def update_db(firm):
             company.get("region_stan"),
             company.get("date_of_investment_stan"),
             company.get("status_current_stan"),
-            firm,
-            company.get("company_name")
+            company.get("firm"),
         ))
         # breakpoint()
 
@@ -255,7 +236,8 @@ def main(firm):
         
     with open(f"_portcos_gpt/{filename}_output.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
+    
+    consolidate_fields(firm)
 
-# main("stonepoint")
-# consolidate_fields("stonepoint")
-update_db("Kelso") # case-sensitive. Must match actual firm name
+main("kkr") # must match file name
+# update_db("kkr") #must match file name

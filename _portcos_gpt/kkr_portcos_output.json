@@ -1,0 +1,1538 @@
+[
+  {
+    "company_name": "+Simple",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "1-800 Contacts, Inc.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "123Dentist",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "58 Daojia Inc.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "A-Gas",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "ADNOC Oil Pipelines",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Natural Resources",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Accell Group N.V.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Accuris",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Adopt A Cow",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Advanced Navigation",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Advanta Seeds",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Albioma",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Alchemer",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Alludo",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Altitude Aircraft Leasing",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Anchorage Digital",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Apex Analytix",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "AppLovin",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "April",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Argenta",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Arnott's",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Artlist",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Asclepius",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Aster Renewable Energy",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Atlantic Aviation",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Australian Venue Co.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Avendus Capital",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Axel Springer SE",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Media",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Axius Water",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "BMC",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Barghest Building Performance",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Barracuda Networks",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Bay Club",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Beacon Pointe Advisors Holdings, LLC",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Beijing Capital Grand",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Bettcher Industries",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Biosynth",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Blue Sprig",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Boasso Global",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "BridgeBio Pharma",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "BrightSpring Health Services",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "BrightView",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Brightline, Inc.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Bushu Pharma",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "ByteDance",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "CIRCOR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "CMC Packaging Automation",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Caruna Oy",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Cegid",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Central Tank Terminal",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Charter Next Generation",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Chase Corp",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Citation Group",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Clarify Health Solutions",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Clinisupplies",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Cloudera",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Coastal GasLink",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Coherus BioSciences",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Colonial First State",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Colonial Pipeline",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Contabo",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Contentsquare",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Contour Global",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "CoolIT Systems",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Cordia Energy",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Cordis",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Covenant Physician Partners",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Cue & Co",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "CyrusOne, LLC",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Darktrace",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Data X",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Devoteam",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "DoorDash, Inc.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "ECORBIT",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "EQuest Education Joint Stock Company",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "ERM Worldwide Group Limited",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "EchoNous (fka Signostics)",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Education Perfect Limited",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Elsan Holding SAS",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Emerald Media",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Media",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Endeavor Group Holdings, Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Ensono Holdings, LLC",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Envision Healthcare",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Epic Games",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Exact",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "FGS Global",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "FIBERCOP S.P.A.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Telecommunications",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Falcon Vision",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Feedzai",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "First Gen Corporation",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Five-Star Business Finance Limited",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Fleet Farm",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Flow Control Group",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Frontier Biosolutions",
+    "date_of_investment_stan": "null",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Gambol Pet Group",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Gamma Biosciences",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Genesis Energy, L.P.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "GenesisCare",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Geode Health",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Geostabilization International",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "GetYourGuide",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "GfK SE",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Global Medical Response",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Global Technical Realty",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Goodpack",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Graduation Alliance",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Greenvolt",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Groundworks",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Growsari",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Grupo Alvic",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Headlands Research",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Heartland Dental",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Hero Future Energies",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Highway Concessions One Private Limited",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Huohua Logic",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Hyperion industry:materials & Technologies",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Hyperoptic",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Telecommunications",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Hyundai Marine Solution., Ltd.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "IVI-RMA",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Impel Pharmaceuticals",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "IndiGrid",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Indus Towers Limited",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Industrial Physics",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Inkling Holdings",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Integrated Specialty Coverages",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Internet Brands",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "JB Chemicals & Pharmaceuticals Ltd",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Jiangsu Yuguan",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Jio Platforms Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Telecommunications",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "John Laing",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Joulon",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Natural Resources",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Kareway Health",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "KiotViet",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "KnowBe4",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Knowlton Development Corp",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Koki Holdings Co., Ltd",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Kokusai Electric Corporation",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "K\u00f6rber Supply Chain Software",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "LCY Chemical Group",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "LEAP India Private Limited",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "LOGISTEED",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "LS Automotive",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Laser Clinics Australia",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Latitude Financial Services",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Leapwork A/S",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Lenskart",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Leonine Studios",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Media",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Level Access",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Lightcast",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Lighthouse Learning Private Limited",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Livspace",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "MUSINSA",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "MYOB",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Magic Leap",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Marelli",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Master Distancia, S.A.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Mediawan",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Media",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Metro Pacific Hospital Holdings, Inc.",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "MetroNet Fiber Inc",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Monterra industry:energy",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "My Pizza Technologies, Inc.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "M\u00e1sM\u00f3vil",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Telecommunications",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "NVC Lighting",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Natural Pet Food Group",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Neighborly",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Neon Renewables",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Ness Digital",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "NetSPI",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "NetStars",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Nitrogen Renewables",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Nordic Bioscience",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Northumbrian Water",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Novaria Group",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "ON*NET Fibra",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Telecommunications",
+    "region_stan": "LatAm"
+  },
+  {
+    "company_name": "Ocean Yield",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "OneStream Software",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Open Dutch Fiber",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Optiv",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Ornikar",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "OutSystems",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "PHC",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "PT Nippon Indosari Corpindo Tbk",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Paddle.com Market Limited",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Pembina Gas Infrastructure",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "PetVet",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Pinnacle Towers Pte Ltd",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "PlayOn! Sports",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Policygenius",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Port Arthur LNG LLC",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Potter Electric",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Precipart",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Privy ID",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Probe Group Pty Ltd",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Property Guru",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Q-Park N.V.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Qonto",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Qoo10 Pte. Ltd.",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "RVShare",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "RainFocus",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Re Sustainability Limited",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Redeia",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Refresco",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "ReliaQuest LLC",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Reliance Retail Ventures Limited",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Resolian",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Resource Environmental Solutions (\"RES\")",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Restaurant365",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Ritchies Transport Holdings Ltd.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Roompot",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Ruichen Pet Veterinary Hospitals",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "SK E&S",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Sapphiros",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Sector Alarm",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Seiyu",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Semperis",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Sempra Infrastructure",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Serentica Renewables",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Shanghai Moody E-commerce Co., Ltd.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Shenzhen XunCe Technology Co., Ltd.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Shriram General Insurance",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Simon & Schuster",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "SkinSpirit",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Sleepme Inc.",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Sol Systems LLC",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Spark Infrastructure",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Suishou Technology Holding Inc.",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Suzhou Quanyi Health Pharmacy Chain",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "S\u00f6derberg & Partners",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Tarena",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Teaching Strategies Inc",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Telenor Fiber",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Telecommunications",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "The Crosby Group",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Therapy Brands, Inc.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Transphorm",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Travelopia",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Treeline Biosciences",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Trilogy MedWaste",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "USI Insurance Services LLC",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Upfield",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "V3 Group Limited",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Vantage Towers",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Vinhomes JSC",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Vini Cosmetics Pvt. Ltd.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Viridor",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Voyager Innovations",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Walnut Programming",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "We Park Limited",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Wella",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Westbrick Energy",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Xingsheng Youxuan",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Yayoi Co., Ltd.",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "ZJLD Group Inc.",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
+  },
+  {
+    "company_name": "Zenobe",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
+  },
+  {
+    "company_name": "Zeus Health",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "Zwift Inc.",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  },
+  {
+    "company_name": "o9 Solutions",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
+  }
+]
