@@ -1,0 +1,338 @@
+[
+  {
+    "company_name": "Arrow International",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aventiv",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Awaze",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Biscuit International",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BlueCrest",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cabinetworks",
+    "date_of_investment_stan": null,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Calderys",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Centerfield",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cision",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Clipper Windpower",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Club Car",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Custom Truck One Source",
+    "date_of_investment_stan": null,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Data2Logistics",
+    "date_of_investment_stan": null,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "DCA Services",
+    "date_of_investment_stan": 1997,
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "De Wave Group",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Deluxe",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Electro Rent",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Fantini Group",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Game Taco / WorldWinner",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HC Companies",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hop Lun",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Hunterstown Power Generation Station",
+    "date_of_investment_stan": null,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Husky Technologies",
+    "date_of_investment_stan": null,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Iberconsa",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Incora",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ingram Micro",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "JELD-WEN Australasia",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Jostens",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "L&R Distributors",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LifeScan",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Livingston",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Leaders Romans Group",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Real Estate",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mad Engine",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "McGraw Hill",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NDC",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Oregon Tool",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Paramount Global Surfaces",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pelican Products",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pistons Sports & Entertainment",
+    "date_of_investment_stan": 2011,
+    "industry_stan": "Media",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ryerson",
+    "date_of_investment_stan": 2007,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Solenis",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SVP Worldwide",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tarter Farm and Ranch Equipment",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "TruckPro",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Unical Aviation",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "United Site Services",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Urbaser",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Winc",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific",
+    "status_current_stan": "Current"
+  }
+]

@@ -11,7 +11,10 @@
     "website": "www.plussimple.fr",
     "company_description": "Digital insurance brokerage platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "1-800 Contacts, Inc.",
@@ -25,7 +28,10 @@
     "website": "www.1800contacts.com",
     "company_description": "Leading online destination for contact lenses.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "123Dentist",
@@ -39,7 +45,10 @@
     "website": "www.123dentist.com",
     "company_description": "Dental services organization",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "58 Daojia Inc.",
@@ -53,7 +62,10 @@
     "website": "www.58.com",
     "company_description": "58 Home subsidiary of 58.com, one of China\u2019s largest online marketplace offering multi-category local services",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "A-Gas",
@@ -67,7 +79,10 @@
     "website": "www.agas.com",
     "company_description": "A leading international provider of distribution and recovery services for specialty gases",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "ADNOC Oil Pipelines",
@@ -81,7 +96,10 @@
     "website": "www.adnoc.ae",
     "company_description": "Operational stabilized crude pipelines that transport 98% of Abu Dhabi\u2019s crude oil production.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Natural Resources",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Accell Group N.V.",
@@ -95,7 +113,10 @@
     "website": "www.accell-group.com",
     "company_description": "Accell is one of the largest producers of bikes in the premium lifestyle / commuting, mountain and road bike segments and European leader in e-bikes, selling both finished bikes and parts and accessories. Accell Group contributes to SDG 11 (Sustainable Cities and Communities), SDG 13 (Climate Action) and SDG 9 (Industry, Innovation and Infrastructure)",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Accuris",
@@ -109,7 +130,10 @@
     "website": "https://accuristech.com/",
     "company_description": "Aggregator of standards content and provider of related search and workflow tools",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Adopt A Cow",
@@ -123,7 +147,10 @@
     "website": null,
     "company_description": "A fast-growing direct-to-consumer premium dairy brand in China",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Advanced Navigation",
@@ -137,7 +164,10 @@
     "website": "https://www.advancednavigation.com/",
     "company_description": "Developer of AI-based robotics and navigation technology",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Advanta Seeds",
@@ -151,7 +181,10 @@
     "website": "www.advantaseeds.com",
     "company_description": "Global seed company that aims to deliver innovative farming solutions and technology to farmers around the world. Advanta Seeds contributes to SDG 2 (Zero Hunger).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Albioma",
@@ -165,7 +198,10 @@
     "website": "www.albioma.com",
     "company_description": "Independent renewable energy producer operating biomass power plants representing >1GW of installed capacity in the French Overseas territories and Brazil, as well as solar power plants in France and geothermal assets.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Alchemer",
@@ -179,7 +215,10 @@
     "website": "www.alchemer.com",
     "company_description": "A leading software provider in the experience management software market",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Alludo",
@@ -193,7 +232,10 @@
     "website": "www.alludo.com",
     "company_description": "SMB and prosumer-focused software company with a portfolio of graphics, productivity, sales enablement, and desktop-as-a-service software solutions that enable the knowledge worker",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Altitude Aircraft Leasing",
@@ -207,7 +249,10 @@
     "website": "www.altavair.com",
     "company_description": "A fleet of aircraft leased out to operating airlines and serviced by Altavair AirFinance",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Anchorage Digital",
@@ -221,7 +266,10 @@
     "website": "www.anchorage.com",
     "company_description": "Digital asset custodian and infrastructure provider for institutional investors",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Apex Analytix",
@@ -235,7 +283,10 @@
     "website": "www.apexanalytix.com",
     "company_description": "A leading player in the supply chain software, data and analytics market",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "AppLovin",
@@ -249,7 +300,10 @@
     "website": "www.applovin.com",
     "company_description": "Palo Alto-based Applovin is one the largest independent mobile customer acquisition platform, integrating the DSP and Ad Network model with DMP capabilities.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "April",
@@ -263,7 +317,10 @@
     "website": "https://www.april.com/",
     "company_description": "APRIL is France\u2019s largest wholesale insurance broker, focused on personal lines. The Company is a value-added intermediary sitting between a network of approximately retail brokers and insurance carriers, for which it manages and distributes insurance products across diversified end-markets: Health &amp; Protection (including International medical insurance), Niche Property &amp; Casualty and Home Loan insurance. It also recently expanded into adjacencies, acquiring a Wealth Management platform.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Argenta",
@@ -277,7 +334,10 @@
     "website": "www.argentaglobal.com",
     "company_description": "A leading global animal health-focused pharmaceutical services platform.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Arnott's",
@@ -291,7 +351,10 @@
     "website": "www.arnotts.com",
     "company_description": "Arnott's is a high-quality portfolio of snack and meal brands comprising the market leading Australian biscuit brand Arnott's and Campbell Soup brands in the Asia Pacific region",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Artlist",
@@ -305,7 +368,10 @@
     "website": "https://artlist.io/",
     "company_description": "A subscription-based royalty-free stock music and video-licensing platform used by video creators",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Asclepius",
@@ -319,7 +385,10 @@
     "website": null,
     "company_description": "A platform created by KKR that invests in and manages data-driven precision medicine assets, with an initial focus on oncology.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Aster Renewable Energy",
@@ -333,7 +402,10 @@
     "website": "www.asterrenewable.com",
     "company_description": "A platform to develop renewable energy projects in Taiwan and Vietnam, with a view to potentially expand to other markets in Asia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Atlantic Aviation",
@@ -347,7 +419,10 @@
     "website": "www.atlanticaviation.com",
     "company_description": "Fixed base operator of private aviation airport terminals and infrastructure assets across 69 locations in the U.S.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Australian Venue Co.",
@@ -361,7 +436,10 @@
     "website": "www.ausvenueco.com.au",
     "company_description": "Leading operator in the pub, bar & restaurant industry with portfolio of 50 venues",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Avendus Capital",
@@ -375,7 +453,10 @@
     "website": "www.avendus.com",
     "company_description": "A leading investment banking franchise in India.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Axel Springer SE",
@@ -389,7 +470,10 @@
     "website": "www.axelspringer.com/en",
     "company_description": "European digital publisher owning brands in Digital Classifieds and Digital Content",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Axius Water",
@@ -403,7 +487,10 @@
     "website": "www.axiuswater.com",
     "company_description": "Platform focused on diversified, end-to-end providers of nutrient removal solutions for municipal and industrial wastewater treatment facilities. By reducing pollution and improving water quality, this newly created platform will deliver measurable progress toward achieving the United Nations SDG 6 (Clean Water and Sanitation), ensuring the availability and sustainable management of clean water.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
   },
   {
     "company_name": "BMC",
@@ -417,7 +504,10 @@
     "website": "www.bmc.com",
     "company_description": "BMC provides software that organizes IT solutions, which includes cloud computing, cyber security and data analytics.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Barghest Building Performance",
@@ -431,7 +521,10 @@
     "website": "www.bbp.sg",
     "company_description": "Barghest Building Performance provides energy savings solutions to Heating, Ventilation and Air Conditioning systems in commercial and industrial buildings. BPP provides a commercial solution that reduces energy consumption and utilities expenses for its customers, whilst also reducing carbon emissions, contributing to SDG 7 (Affordable and Clean Energy) and SDG 9 (Innovation and Infrastructure).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Barracuda Networks",
@@ -445,7 +538,10 @@
     "website": "www.barracuda.com",
     "company_description": "Provider of cybersecurity and data protection software",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Bay Club",
@@ -459,7 +555,10 @@
     "website": "www.bayclubs.com",
     "company_description": "The Bay Club Company is an active lifestyle and hospitality company that operates across seven California campuses",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Beacon Pointe Advisors Holdings, LLC",
@@ -473,7 +572,10 @@
     "website": "www.beaconpointe.com",
     "company_description": "Leading registered investment advisor",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Beijing Capital Grand",
@@ -487,7 +589,10 @@
     "website": "www.bcgrand.com/html/index.php",
     "company_description": "Hong Kong listed developer and operator of retail outlets in China",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Bettcher Industries",
@@ -501,7 +606,10 @@
     "website": "www.bettcher.com",
     "company_description": "Manufacturer of handheld automated tools and systems and associated aftermarket parts for the protein and other food processing markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Biosynth",
@@ -515,7 +623,10 @@
     "website": "www.biosynth.com",
     "company_description": "A leading global supplier and manufacturer of critical raw materials for life sciences. Specialists in fine chemicals, peptides and key biologics for pharma and diagnostics.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Blue Sprig",
@@ -529,7 +640,10 @@
     "website": "www.bluesprigpediatrics.com",
     "company_description": "A health care services platform created by KKR that provides clinical services to children diagnosed with autism spectrum disorder",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Boasso Global",
@@ -543,7 +657,10 @@
     "website": "www.boassoglobal.com",
     "company_description": "International Organization for Standardization (\u201cISO\u201d) tank depot operator in the U.S. and Europe",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "BridgeBio Pharma",
@@ -557,7 +674,10 @@
     "website": "www.bridgebio.com",
     "company_description": "A branded pharmaceuticals company led by experienced drug discoverers, developers, and innovators working to create medicines that target well-characterized genetic diseases",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "BrightSpring Health Services",
@@ -571,7 +691,10 @@
     "website": "www.brightspringhealth.com",
     "company_description": "National provider of diversified home- and community-based health services to complex patient populations, including the elderly and individuals with intellectual and developmental disabilities, autism, neurological injuries, and other behavioral conditions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "BrightView",
@@ -585,7 +708,10 @@
     "website": "www.brightview.com",
     "company_description": "BrightView is a leading provider of commercial landscape maintenance and snow removal services in the U.S.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Brightline, Inc.",
@@ -599,7 +725,10 @@
     "website": "www.hellobrightline.com",
     "company_description": "A leading national provider of virtual pediatric mental health services",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Bushu Pharma",
@@ -613,7 +742,10 @@
     "website": "www.bushu-pharma.com",
     "company_description": "Bushu Pharma is a leading pure play Contract Development and Manufacturing Organization in Japan",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "ByteDance",
@@ -627,7 +759,10 @@
     "website": "www.bytedance.com",
     "company_description": "A leading Chinese Internet technology company operating several machine learning-enabled content platforms.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "CIRCOR",
@@ -641,7 +776,10 @@
     "website": "www.circor.com",
     "company_description": "Global manufacturer of highly engineered flow control products for critical applications across industrial, aerospace, and defense end markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "CMC Packaging Automation",
@@ -655,7 +793,10 @@
     "website": "https://www.cmcsolutions.com/",
     "company_description": "A market-leading manufacturer of innovative e-commerce 3D on-demand packaging solutions, using advanced end-of-line technology to improve environmental impact by reducing the consumption of packaging materials. CMC\u2019s innovation in sustainable packaging directly contributes toward SDG #9(Industry ,Innovation and Infrastructure) and SDG #12 (Responsible Consumption and Production).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Caruna Oy",
@@ -669,7 +810,10 @@
     "website": "https://caruna.fi/en",
     "company_description": "Caruna distributes electricity and maintains, repairs and builds a weatherproof electricity network for its over 700,000 customers in South, Southwest and West Finland, as well as in the city of Joensuu, the sub-region of Koillismaa and Satakunta. Caruna's electrical network is over 88,000 kilometres long.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Cegid",
@@ -683,7 +827,10 @@
     "website": "www.cegid.com",
     "company_description": "One of the largest European providers of enterprise software, offering functional (Human Capital Management, Finance and Tax) as well as vertical (Certified Public Accountant, Small and Medium Businesses, Retail) cloud-based solutions.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Central Tank Terminal",
@@ -697,7 +844,10 @@
     "website": "www.cttc.co.jp",
     "company_description": "The largest independent tank storage operator in Japan offering over 300,000 cbm of storage capacity across 7 terminals",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Charter Next Generation",
@@ -711,7 +861,10 @@
     "website": "www.cnginc.com",
     "company_description": "A leading, independent producer of specialty, high performance multi-layer, primary polyethylene films for Food, Consumer, Industrial, and Healthcare end markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Chase Corp",
@@ -725,7 +878,10 @@
     "website": "www.chasecorp.com",
     "company_description": "Manufacture of protective materials for high reliability applications globally.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Citation Group",
@@ -739,7 +895,10 @@
     "website": "https://thecitationgroup.com/",
     "company_description": "A leading partner to UK Small and Medium Sized Enterprises in the areas of Employment Law, HR, and Health &amp; Safety compliance. Citation offers a cost-efficient, effective solution that makes even smaller employers compliant with best practices in H&amp;S and HR, with measurable results in improving workplace safety. Citation addresses SDG 5 (Gender Equality), SDG 8 (Decent Work &amp; Economic Growth) and SDG 16 (Peace, Justice and Strong Institutions).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Clarify Health Solutions",
@@ -753,7 +912,10 @@
     "website": "www.clarifyhealth.com",
     "company_description": "Health care analytics company that develops software to provide insights to providers, payers, and life sciences companies",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Clinisupplies",
@@ -767,7 +929,10 @@
     "website": "www.clinisupplies.co.uk",
     "company_description": "A leading UK-based manufacturer and supplier of medical appliances specialising in continence products for managing acute and chronic conditions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Cloudera",
@@ -781,7 +946,10 @@
     "website": "www.cloudera.com",
     "company_description": "A leading provider of enterprise-grade, hybrid data management software",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Coastal GasLink",
@@ -795,7 +963,10 @@
     "website": "www.coastalgaslink.com",
     "company_description": "The Coastal GasLink Pipeline will connect natural gas supply sources in Alberta/BC to the liquefied natural gas export project being built on the West Coast of Canada",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Coherus BioSciences",
@@ -809,7 +980,10 @@
     "website": "www.coherus.com",
     "company_description": "Biopharmaceutical platform that develops biosimilar versions of branded biologic drugs. (NASDAQ: CHRS)",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Colonial First State",
@@ -823,7 +997,10 @@
     "website": "www.cfs.com.au",
     "company_description": "A leading superannuation, investments and pension platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Colonial Pipeline",
@@ -837,7 +1014,10 @@
     "website": "www.colpipe.com",
     "company_description": "Largest refined product pipeline in North America",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2010,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Contabo",
@@ -851,7 +1031,10 @@
     "website": "www.contabo.com",
     "company_description": "Offers Virtual Private Servers and Bare Metal servers at a best-in-class price-performance ratio to micro-SMEs, app developers, tech-savvy prosumers, and gamers",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Contentsquare",
@@ -865,7 +1048,10 @@
     "website": "www.contentsquare.com",
     "company_description": "Customer experience analytics software to optimize a user's online journey.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Contour Global",
@@ -879,7 +1065,10 @@
     "website": "www.contourglobal.com",
     "company_description": "Global independent energy producer with a diversified portfolio of 138 conventional and renewable energy generation assets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "CoolIT Systems",
@@ -893,7 +1082,10 @@
     "website": "https://www.coolitsystems.com/",
     "company_description": "CoolIT designs and manufactures direct liquid cooling technologies for datacenters, servers, and enthusiast computer systems. The company\u2019s proprietary technology works by delivering cooling fluid directly to high-powered components like CPUs and GPUs thereby increasing datacenter density, component performance, and reducing energy use.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Cordia Energy",
@@ -907,7 +1099,10 @@
     "website": "www.cordiaenergy.com",
     "company_description": "One of the largest district energy platforms in North America, supplying thermal heating and cooling through steam and chilled water.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Cordis",
@@ -921,7 +1116,10 @@
     "website": "www.cordis.com",
     "company_description": "A medical device company with a portfolio of cardiovascular and endovascular devices",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Covenant Physician Partners",
@@ -935,7 +1133,10 @@
     "website": "www.covenantphysicianpartners.com",
     "company_description": "Covenant Physician Partners is a leading operator of ambulatory surgery centers, physician practices and ancillary services with a particular focus on gastroenterology and ophthalmology end-markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Cue & Co",
@@ -949,7 +1150,10 @@
     "website": "cue.group",
     "company_description": "Cue & Co is a new company established by KKR and a co-investment partner to acquire four operating companies in the digital advertising industry of China.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "CyrusOne, LLC",
@@ -963,7 +1167,10 @@
     "website": "www.cyrusone.com",
     "company_description": "Global developer and operator of hyperscale and large enterprise-focused datacenters",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
   },
   {
     "company_name": "Darktrace",
@@ -977,7 +1184,10 @@
     "website": "www.darktrace.com",
     "company_description": "Cyber threat defense company",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Data X",
@@ -991,7 +1201,10 @@
     "website": "https://data-x.co.jp/",
     "company_description": "Data-X offers a solution called \u2018b-dash\u2019, an integrated data-driven marketing SaaS platform in Japan",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Devoteam",
@@ -1005,7 +1218,10 @@
     "website": "www.devoteam.com",
     "company_description": "Devoteam is a French IT and cloud services company focused on enabling digital transformation",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "DoorDash, Inc.",
@@ -1019,7 +1235,10 @@
     "website": "www.doordash.com",
     "company_description": "Online food ordering and delivery platform. Wolt Enterprises Oy was acquired by DoorDash, Inc.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "ECORBIT",
@@ -1033,7 +1252,10 @@
     "website": null,
     "company_description": "An integrated waste management business that operates medical and general incineration facilities and landfills in Korea<br><a title=\"Go to company website\" href=\"http://www.ecorbit.com/en/index\" target=\"_blank\">http://www.ecorbit.com/en/index</a>",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "EQuest Education Joint Stock Company",
@@ -1047,7 +1269,10 @@
     "website": "https://equest.vn/en/",
     "company_description": "EQuest is an education group in Vietnam with offerings across K-12, ed tech, and vocational segments. By providing accessible, affordable and high quality bilingual education to Vietnam\u2019s emerging middle-class population, EQuest directly contributes to SDG 4 (Quality Education), as English proficiency is becoming an important employability skill in Vietnam driven by continued globalization trends.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "ERM Worldwide Group Limited",
@@ -1061,7 +1286,10 @@
     "website": "https://www.erm.com/",
     "company_description": "Global pure-play environmental, health, and safety consultancy offering a broad range of services to blue chip corporate clients",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "EchoNous (fka Signostics)",
@@ -1075,7 +1303,10 @@
     "website": "www.echonous.com",
     "company_description": "Diagnostic company that develops point-of-care ultrasound imaging devices for various clinical end markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Education Perfect Limited",
@@ -1089,7 +1320,10 @@
     "website": "www.educationperfect.com",
     "company_description": "Education Perfect Limited develops a learning platform for schools and colleges. It provides learning materials, assessments, homework tasks, dash games, competitions, webinars, and others resources. Education Perfect furthers UN Sustainable Development Goal #4 on Quality Education",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Elsan Holding SAS",
@@ -1103,7 +1337,10 @@
     "website": "www.elsan.care/en",
     "company_description": "A leading private healthcare group in France",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Emerald Media",
@@ -1117,7 +1354,10 @@
     "website": "www.emeraldmedia.asia",
     "company_description": "Emerald Media is a Pan-Asian platform that provides growth capital to media, entertainment and digital media companies and looks to acquire control or significant minority positions in growing public and private media companies.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Endeavor Group Holdings, Inc.",
@@ -1131,7 +1371,10 @@
     "website": "www.endeavorco.com",
     "company_description": "Endeavor Group Holdings, Inc. operates as an entertainment, sports, and content company in the United States, the United Kingdom, and internationally. It operates in three segments: Owned Sports Properties, Events, Experiences & Rights, and Representation.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "Ensono Holdings, LLC",
@@ -1145,7 +1388,10 @@
     "website": "www.ensono.com",
     "company_description": "Ensono is a Hybrid IT Managed Services provider that manages and optimizes its clients' IT infrastructure from the mainframe to the private and public cloud",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Envision Healthcare",
@@ -1159,7 +1405,10 @@
     "website": "www.evhc.net",
     "company_description": "Provider of physician-led services and post-acute care, and ambulatory surgery services.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Epic Games",
@@ -1173,7 +1422,10 @@
     "website": "www.epicgames.com",
     "company_description": "A leading publisher of interactive games and developer of software platform used for game development and high-end graphics rendering.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Exact",
@@ -1187,7 +1439,10 @@
     "website": "www.exact.com",
     "company_description": "Market-leading provider of business application software (ERP, accounting, tax, payroll) for micro enterprises and SMEs in Benelux",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "FGS Global",
@@ -1201,7 +1456,10 @@
     "website": "https://fgsglobal.com/",
     "company_description": "NY-based public relations and communication company, majority-owned by WPP.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "FIBERCOP S.P.A.",
@@ -1215,7 +1473,10 @@
     "website": "www.fibercop.it/en",
     "company_description": "FiberCop provides fixed copper and fiber based passive wholesale broadband services in Italy",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Falcon Vision",
@@ -1229,7 +1490,10 @@
     "website": null,
     "company_description": "A branded pharmaceuticals / medical devices platform created by KKR that invests in and manages emerging assets in ophthalmology",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Feedzai",
@@ -1243,7 +1507,10 @@
     "website": "www.feedzai.com",
     "company_description": "Feedzai is a leading AI/ML based fraud detection platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "First Gen Corporation",
@@ -1257,7 +1524,10 @@
     "website": "www.firstgen.com.ph",
     "company_description": "One of the largest independent power producers in the Philippines that primarily utilizes clean and indigenous fuels such as natural gas, geothermal energy from steam, hydro-electric, wind, and solar power.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Five-Star Business Finance Limited",
@@ -1271,7 +1541,10 @@
     "website": "www.fivestargroup.in",
     "company_description": "Five Star is a leading Indian lender to small businesses, focusing on the micro-, small-, and medium-size enterprises (MSME) sector, and with a focus on tier-3 cities and below in Southern and Central India. By enhancing inclusion to formal finance that supports MSME growth, Five Star contributes to SDG 1 (No Poverty), and to SDG 9 (Industry, Innovation and Infrastructure).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Fleet Farm",
@@ -1285,7 +1558,10 @@
     "website": "www.fleetfarm.com",
     "company_description": "Midwestern, value-based retailer of lifestyle merchandise serving DIY, outdoor, and active families.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Flow Control Group",
@@ -1299,7 +1575,10 @@
     "website": "www.flowcontrolgroup.com",
     "company_description": "FCG serves as a value-added distributor and technical advisor to more than 10,000 customers and more than 2,000 suppliers in North America for mission critical flow control and industrial automation products and related services.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Frontier Biosolutions",
@@ -1313,7 +1592,10 @@
     "website": null,
     "company_description": "Platform that invests in and manages a portfolio of global pharmaceutical services businesses",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": null,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Gambol Pet Group",
@@ -1327,7 +1609,10 @@
     "website": "www.gambolpet.com",
     "company_description": "A leading pet food manufacturer in China",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Gamma Biosciences",
@@ -1341,7 +1626,10 @@
     "website": "www.gammabiosciences.com",
     "company_description": "A life sciences tools platform created by KKR to build a portfolio of next-generation bioprocessing technologies",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Genesis Energy, L.P.",
@@ -1355,7 +1643,10 @@
     "website": "www.genesisenergy.com",
     "company_description": "Genesis is a diversified midstream oil & gas infrastructure Master Limited Partnership (\u201cMLP\u201d).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "GenesisCare",
@@ -1369,7 +1660,10 @@
     "website": "www.genesiscare.com/au",
     "company_description": "Australia's leading private provider of radiation oncology, cardiology and sleep medical services",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Geode Health",
@@ -1383,7 +1677,10 @@
     "website": "www.geodehealth.com",
     "company_description": "An outpatient mental health services platform for adults and children in the United States",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Geostabilization International",
@@ -1397,7 +1694,10 @@
     "website": "https://www.geostabilization.com/",
     "company_description": "A leading provider of geotechnical maintenance services for critical infrastructure.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "GetYourGuide",
@@ -1411,7 +1711,10 @@
     "website": "www.getyourguide.com",
     "company_description": "Online marketplace for discovering and booking travel tours and activities.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "GfK SE",
@@ -1425,7 +1728,10 @@
     "website": "www.gfk.com",
     "company_description": "Global market research company that provides custom and standardized market research about media and retail consumption",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Global Medical Response",
@@ -1439,7 +1745,10 @@
     "website": "www.globalmedicalresponse.com",
     "company_description": "Global Medical Response is a leading provider of medical transportation services formed by bringing together Air Medical Group Holdings (AMGH) and American Medical Response (AMR). The company delivers emergency medical and relocation services to patients in their time of need through a fleet of almost 500 air ambulances and 7,000 ground ambulances in the United States, the District of Columbia, and around the world.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Global Technical Realty",
@@ -1453,7 +1762,10 @@
     "website": "www.globaltechnicalrealty.com",
     "company_description": "A build-to-suit and roll-up acquisition data center developer, owner and operator platform in Europe",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Goodpack",
@@ -1467,7 +1779,10 @@
     "website": "www.goodpack.com",
     "company_description": "Goodpack is the largest provider of multi-modal and re-usable intermediate bulk containers (\u201cIBC\u201d) globally with a fleet of 3.2 million IBCs and over 5,000 delivery and collection points.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Graduation Alliance",
@@ -1481,7 +1796,10 @@
     "website": "www.graduationalliance.com",
     "company_description": "Graduation Alliance works with students of all ages through partnerships with schools, districts, community colleges, workforce development agencies, employers and others dedicated to providing alternative pathways to high school graduation and career training. By supporting former high school dropouts to obtain a high school diploma and improving employment outcomes post-graduation, Graduation Alliance contributes to SDG 4 (Quality Education) and to SDG 8 (Decent Work and Economic Growth).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Greenvolt",
@@ -1495,7 +1813,10 @@
     "website": "www.greenvolt.com",
     "company_description": "Renewable independent power producer, combining electricity generation from biomass in Portugal and the UK with a pan-European renewables development business, in both utility scale and decentralized generation.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Groundworks",
@@ -1509,7 +1830,10 @@
     "website": "https://www.groundworks.com/",
     "company_description": "Residential foundation repair and water management services platform offering critical, non-discretionary, and technical homeowner solutions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Growsari",
@@ -1523,7 +1847,10 @@
     "website": "www.growsari.com",
     "company_description": "B2B eCommerce and SME fintech platform in the Philippines",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Grupo Alvic",
@@ -1537,7 +1864,10 @@
     "website": "www.grupoalvic.com/en",
     "company_description": "A vertically integrated manufacturer and B2B distributor of high-quality modern kitchen furniture and components",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Headlands Research",
@@ -1551,7 +1881,10 @@
     "website": "www.headlandsresearch.com",
     "company_description": "Pharmaceutical clinical trial site management company",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Heartland Dental",
@@ -1565,7 +1898,10 @@
     "website": "www.heartland.com",
     "company_description": "Heartland is a dental practice management company with over 1,700 supported office locations across 38 states and the District of Columbia. ",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Hero Future Energies",
@@ -1579,7 +1915,10 @@
     "website": "www.herofutureenergies.com",
     "company_description": "A leading independent renewable energy power producer with a scaled and diversified operating portfolio of 1.6GW of wind and solar projects",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Highway Concessions One Private Limited",
@@ -1593,7 +1932,10 @@
     "website": "www.highwayconcessions.com",
     "company_description": "Highway Concessions One is a roads platform with seven operating road projects in India",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Huohua Logic",
@@ -1607,7 +1949,10 @@
     "website": "www.huohua.cn",
     "company_description": "A leading player in China\u2019s K-12 online small-class math tutoring sector, and mainly provides 1v4 or 1v6 small class live streaming courses",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Hyperion industry:materials & Technologies",
@@ -1621,7 +1966,10 @@
     "website": "www.hyperionmt.com",
     "company_description": "Hyperion is a solutions provider of effective applications for hard and super-hard materials.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Hyperoptic",
@@ -1635,7 +1983,10 @@
     "website": "www.hyperoptic.com",
     "company_description": "UK-based fibre-to-the-home operator",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Hyundai Marine Solution., Ltd.",
@@ -1649,7 +2000,10 @@
     "website": "www.hd-marinesolution.com/eng/Main.do",
     "company_description": "Hyundai Marine Solution provides comprehensive marine services comprised of two main business areas: Marine Aftersales and Retrofit Solutions. Hyundai Marine Solution also engages in digital transformation (IT solutions for HHI-built vessels), bunkering (fueling for vessels), and aftersales for power plants.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "IVI-RMA",
@@ -1663,7 +2017,10 @@
     "website": "www.ivirma.com",
     "company_description": "Global fertility clinics platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Impel Pharmaceuticals",
@@ -1677,7 +2034,10 @@
     "website": "www.impelpharma.com",
     "company_description": "Late-stage biopharmaceutical company that optimizes drug delivery for central nervous system diseases using its proprietary nasal drug delivery technology",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "IndiGrid",
@@ -1691,7 +2051,10 @@
     "website": "www.indigrid.co.in",
     "company_description": "IndiGrid is an InvIT structure listed on the Indian stock exchanges with a portfolio of 6 electricity transmission assets and sponsored by Sterlite Power Transmission (\u201cSPT\u201d), a power transmission and optic fiber network developer with operations across India and Brazil",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Indus Towers Limited",
@@ -1705,7 +2068,10 @@
     "website": "www.industowers.com",
     "company_description": "Telecom tower operator",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Industrial Physics",
@@ -1719,7 +2085,10 @@
     "website": "https://industrialphysics.com/",
     "company_description": "Provider of test and measurement equipment for various applications, with a focus on paper &amp; packaging, food and beverage, and diversified end markets.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Inkling Holdings",
@@ -1733,7 +2102,10 @@
     "website": null,
     "company_description": "Audio content and digital media distribution technology",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "Integrated Specialty Coverages",
@@ -1747,7 +2119,10 @@
     "website": "www.iscmga.com",
     "company_description": "Tech-enabled insurance underwriter and distributor",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Internet Brands",
@@ -1761,7 +2136,10 @@
     "website": "www.internetbrands.com",
     "company_description": "Internet Brands brings together a diversified portfolio of software, data services, hosting and marketing services, and websites in the auto, health, legal, and home/travel categories.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "JB Chemicals & Pharmaceuticals Ltd",
@@ -1775,7 +2153,10 @@
     "website": null,
     "company_description": "A leading branded formulations pharma company in India with a strong domestic brand portfolio and exports to several international markets.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Jiangsu Yuguan",
@@ -1789,7 +2170,10 @@
     "website": null,
     "company_description": "Yuguan is one of the leading industrialized Agaricus mushroom producers in China.<br><a title=\"Go to company website\" href=\"http://www.yuguanchina.com/\" target=\"_blank\">http://www.yuguanchina.com/</a>",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Jio Platforms Limited",
@@ -1803,7 +2187,10 @@
     "website": "www.jio.com",
     "company_description": "An Indian digital services player offering services across Wireless, Home and Enterprise Broadband as well as a range of digital applications",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "John Laing",
@@ -1817,7 +2204,10 @@
     "website": "www.laing.com",
     "company_description": "A leading platform that develops and operates core infrastructure assets (primarily private-public partnerships and renewables) across the UK, Europe, North America, Colombia and Australia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Joulon",
@@ -1831,7 +2221,10 @@
     "website": "www.joulon.com",
     "company_description": "Joulon is an integrated platform providing asset management services to the oil and gas industry globally.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Natural Resources",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Kareway Health",
@@ -1845,7 +2238,10 @@
     "website": "www.kareway.cn",
     "company_description": "A leader in China's hospital sector.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "KiotViet",
@@ -1859,7 +2255,10 @@
     "website": "www.kiotviet.vn",
     "company_description": "Point-of-sale and full suite SME software provider in Vietnam",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "KnowBe4",
@@ -1873,7 +2272,10 @@
     "website": "www.knowbe4.com",
     "company_description": "A market-leading software platform for cybersecurity awareness training that directly contributes to SDG 9 (Industry, Innovation and Infrastructure) and SDG 16 (Peace, Justice and Strong Institutions).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Knowlton Development Corp",
@@ -1887,7 +2289,10 @@
     "website": "www.kdc-one.com",
     "company_description": "Global provider of custom formulation, package design and manufacturing solutions for beauty, personal care and home care brands",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Koki Holdings Co., Ltd",
@@ -1901,7 +2306,10 @@
     "website": "www.koki-holdings.com",
     "company_description": "Power tool and life science equipment manufacturer",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Kokusai Electric Corporation",
@@ -1915,7 +2323,10 @@
     "website": "www.hitachi-kokusai.co.jp/global",
     "company_description": "Kokusai Electric Corporation provides information communication systems in Japan, the United States, Taiwan, Korea, other Asian countries, Europe, and internationally. The company operates through Video and Wireless Network Solutions, and Eco- and Thin Film Processing Solutions segments.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "K\u00f6rber Supply Chain Software",
@@ -1929,7 +2340,10 @@
     "website": "www.koerber-supplychain.com",
     "company_description": "A leading global best-of-breed vendor of warehouse solutions, including warehouse management software, voice control, and robotics solutions for both SMB and Enterprise customers",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "LCY Chemical Group",
@@ -1943,7 +2357,10 @@
     "website": "https://www.lcygroup.com/lcygroup/en",
     "company_description": "A leading petrochemical company",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "LEAP India Private Limited",
@@ -1957,7 +2374,10 @@
     "website": "https://leapindia.net/index.html",
     "company_description": "Leading pallet pooling player in India offering tertiary packaging assets such as wooden pallets, crates and foldable large containers that are used in manufacturing, storage and movement of goods on a lease model.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "LOGISTEED",
@@ -1971,7 +2391,10 @@
     "website": "www.logisteed.com",
     "company_description": "A leading 3PL (contract logistics) company headquartered in Japan.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "LS Automotive",
@@ -1985,7 +2408,10 @@
     "website": "www.lsautomotive.com/en/main.do",
     "company_description": "LS Automotive is the leading supplier of switches, lamps, and relays for automobiles in Korea.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Laser Clinics Australia",
@@ -1999,7 +2425,10 @@
     "website": "www.laserclinics.com.au",
     "company_description": "A leading provider of non-invasive cosmetic treatments including cosmetic injectables, laser hair removal and skin treatments",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Latitude Financial Services",
@@ -2013,7 +2442,10 @@
     "website": "www.latitudefinancial.com.au",
     "company_description": "A leading provider of sales finance, credit cards, personal loans and consumer credit insurance in Australia and New Zealand.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Leapwork A/S",
@@ -2027,7 +2459,10 @@
     "website": "www.leapwork.com",
     "company_description": "No-code software testing platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Lenskart",
@@ -2041,7 +2476,10 @@
     "website": "www.lenskart.com",
     "company_description": "Pan Asian omni-channel eyewear platform with 1500+ stores and a presence across India, Singapore, Japan, Thailand, Indonesia, Taiwan and Philippines",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Leonine Studios",
@@ -2055,7 +2493,10 @@
     "website": "www.leoninestudios.com/en/",
     "company_description": "A leading independent German content house focused on production and licensing of premium audiovisual content; Part of the Mediawan & Leonine Studios Group",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Level Access",
@@ -2069,7 +2510,10 @@
     "website": "www.levelaccess.com",
     "company_description": "Web accessibility-as-a-service platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Lightcast",
@@ -2083,7 +2527,10 @@
     "website": "www.lightcast.io",
     "company_description": "Provider of labor market analytics software that delivers real-time data and planning tools to educators, employers and public sector constituents. By providing the data to drive lifelong learning and market-aligned training, Lightcast is delivering measurable progress in achieving two of the United Nations SDGs \u2013 SDG 4 (Quality Education), and SDG 8 (Decent Work and Economic Growth).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Lighthouse Learning Private Limited",
@@ -2097,7 +2544,10 @@
     "website": "www.lighthouse-learning.com",
     "company_description": "Lighthouse Learning is one of the largest private education service providers in India serving 130,000+ students across 1,100+ pre schools and 40 K-12 schools. They target mass premium and prestige segments across 5 brands \u2013 EuroKids, EuroSchools, Kangaroo Kids, Billabong High and Centre Point.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Livspace",
@@ -2111,7 +2561,10 @@
     "website": "https://www.livspace.com/in",
     "company_description": "One of Asia\u2019s largest omni-channel D2C home interior and renovation platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "MUSINSA",
@@ -2125,7 +2578,10 @@
     "website": "https://global.musinsa.com/",
     "company_description": "MUSINSA is an online fashion marketplace and ecosystem&nbsp;in South Korea.&nbsp;",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "MYOB",
@@ -2139,7 +2595,10 @@
     "website": "https://www.myob.com/au/about/group",
     "company_description": "A provider of business management software in Australia and New Zealand",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Magic Leap",
@@ -2153,7 +2612,10 @@
     "website": "www.magicleap.com",
     "company_description": "Developer of augmented reality devices and ecosystem",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Marelli",
@@ -2167,7 +2629,10 @@
     "website": "www.marelli.com",
     "company_description": "A leading supplier of automotive components including cockpit systems, thermal systems, exhaust systems and advanced electronic products.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Master Distancia, S.A.",
@@ -2181,7 +2646,10 @@
     "website": "www.masterd.es",
     "company_description": "A leading vocational education provider in Spain and Portugal, providing over 280 courses to more than 50,000 learners annually. As a provider of vocational education and professional training MasterD helps narrow the skills gap in Spain, promotes equal and affordable access to education by offering flexible financing options to its students, and as a result significantly increases probability of employment. MasterD\u2019s business directly contributes toward SDG 4 (Quality Education) and SDG 8 (Decent Work and Economic Growth).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Mediawan",
@@ -2195,7 +2663,10 @@
     "website": "www.mediawan.com",
     "company_description": "A leading independent producer of premium audiovisual content with major presence in France, Spain, Italy and the UK; Part of the Mediawan & Leonine Studios Group",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Metro Pacific Hospital Holdings, Inc.",
@@ -2209,7 +2680,10 @@
     "website": "www.mphhi.com.ph",
     "company_description": "Largest private hospital chain in the Philippines",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "MetroNet Fiber Inc",
@@ -2223,7 +2697,10 @@
     "website": "https://www.metronet.com/",
     "company_description": "Customer-focused company providing fiber optic communication services, including high-speed Fiber Internet, full-featured Fiber Phone, and Fiber IPTV with a wide variety of programing.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
   },
   {
     "company_name": "Monterra industry:energy",
@@ -2237,7 +2714,10 @@
     "website": "www.monterraenergy.com",
     "company_description": "A joint venture to pursue investments in midstream energy assets in Mexico",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "My Pizza Technologies, Inc.",
@@ -2251,7 +2731,10 @@
     "website": "www.slicelife.com",
     "company_description": "Platform that digitizes small and medium-sized pizza shops",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "M\u00e1sM\u00f3vil",
@@ -2265,7 +2748,10 @@
     "website": "www.grupomasmovil.com/en",
     "company_description": "M\u00e1sM\u00f3vil is the fourth largest fixed and mobile telecommunication operator in Spain",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "NVC Lighting",
@@ -2279,7 +2765,10 @@
     "website": "https://www.nvc-lighting.com.cn/",
     "company_description": "Second largest lighting company in China that sells branded lighting products and offers lighting solutions to consumers and business clients",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Natural Pet Food Group",
@@ -2293,7 +2782,10 @@
     "website": "www.naturalpetfoodgroup.com",
     "company_description": "A premium pet food brand operator based in New Zealand",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Neighborly",
@@ -2307,7 +2799,10 @@
     "website": "www.neighborlybrands.com",
     "company_description": "Franchisor of do-it-for-me (DIFM) services with a focus on repairing, maintaining, and enhancing consumers\u2019 homes and properties",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Neon Renewables",
@@ -2321,7 +2816,10 @@
     "website": "https://www.nexteraenergy.com/",
     "company_description": "Neon Renewables is comprised of 6 wind and 6 solar projects located throughout the U.S., generating renewable power sufficient to meet the annual energy consumption of ~515,000 households.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Ness Digital",
@@ -2335,7 +2833,10 @@
     "website": "www.ness.com",
     "company_description": "Ness is a Digital Product Engineering (\u201cDPE\u201d) services provider specializing in building digital software products and platforms.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "NetSPI",
@@ -2349,7 +2850,10 @@
     "website": "www.netspi.com",
     "company_description": "Penetration-testing and attack surface management cybersecurity platform.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "NetStars",
@@ -2363,7 +2867,10 @@
     "website": "www.netstars.co.jp",
     "company_description": "Netstars is a payment services platform providing QR based payments gateway for merchants",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Nitrogen Renewables",
@@ -2377,7 +2884,10 @@
     "website": "www.nexteraenergypartners.com",
     "company_description": "Joint venture with NextEra Energy Partners (NEP) that will own 7 wind and 3 solar projects located throughout the U.S., generating renewable power sufficient to power over 300,000 households",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Nordic Bioscience",
@@ -2391,7 +2901,10 @@
     "website": "www.nordicbioscience.com",
     "company_description": "Research-driven production and development of bio markers for pharma and diagnostics partners",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Northumbrian Water",
@@ -2405,7 +2918,10 @@
     "website": "https://www.nwg.co.uk/",
     "company_description": "UK-based regulated water and sewerage company serving ~4.5m households in the North and East regions of the country",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Novaria Group",
@@ -2419,7 +2935,10 @@
     "website": "www.novariagroup.com",
     "company_description": "Manufacturer of specialty aerospace hardware",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "ON*NET Fibra",
@@ -2433,7 +2952,10 @@
     "website": "www.onnetfibra.com",
     "company_description": "Wholesale fiber optic access networks in Chile and Colombia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "LatAm"
   },
   {
     "company_name": "Ocean Yield",
@@ -2447,7 +2969,10 @@
     "website": "www.oceanyield.no",
     "company_description": "Ship leasing company focused on modern vessels with long-term charters to creditworthy counterparties",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "OneStream Software",
@@ -2461,7 +2986,10 @@
     "website": "www.onestreamsoftware.com",
     "company_description": "A next-generation, financial consolidation, reporting and planning software platform.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Open Dutch Fiber",
@@ -2475,7 +3003,10 @@
     "website": "www.opendutchfiber.nl",
     "company_description": "Independent fiber platform providing wholesale fiber services on an open-access basis in the Netherlands",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Optiv",
@@ -2489,7 +3020,10 @@
     "website": "www.optiv.com",
     "company_description": "Optiv is a market-leading provider of end-to-end cyber security solutions.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Ornikar",
@@ -2503,7 +3037,10 @@
     "website": "www.ornikar.com",
     "company_description": "Online driving education platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "OutSystems",
@@ -2517,7 +3054,10 @@
     "website": "www.outsystems.com",
     "company_description": "A leading low-code software application development platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "PHC",
@@ -2531,7 +3071,10 @@
     "website": "https://www.phchd.com/global",
     "company_description": "PHC is a leading provider of diabetes monitoring systems, specialized laboratory equipment, and clinical healthcare IT systems in Japan and worldwide.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2014,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "PT Nippon Indosari Corpindo Tbk",
@@ -2545,7 +3088,10 @@
     "website": "www.sariroti.com/",
     "company_description": "Leading bread producer in Indonesia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Paddle.com Market Limited",
@@ -2559,7 +3105,10 @@
     "website": "www.paddle.com",
     "company_description": "Payment infrastructure for SaaS businesses",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Pembina Gas Infrastructure",
@@ -2573,7 +3122,10 @@
     "website": "www.pembina.com/operations/partnerships/pembina-gas-infrastructure/",
     "company_description": "Pembina Gas Infrastructure Inc. (PGI) is a premier gas processing entity in Western Canada.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "PetVet",
@@ -2587,7 +3139,10 @@
     "website": "www.petvetcarecenters.com",
     "company_description": "PetVet is a leading acquirer and operator of general practice and specialty veterinary hospitals for companion animals.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Pinnacle Towers Pte Ltd",
@@ -2601,7 +3156,10 @@
     "website": "www.frontiertowersphilippines.com",
     "company_description": "Pinnacle Towers / Frontier Tower Associates Philippines is a leading telecom infrastructure company in the Philippines.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "PlayOn! Sports",
@@ -2615,7 +3173,10 @@
     "website": "www.nfhsnetwork.com",
     "company_description": "A high school sports media and technology platform helping enable schools sports and activities through technology based solutions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "Policygenius",
@@ -2629,7 +3190,10 @@
     "website": "https://www.policygenius.com/",
     "company_description": "Online insurance marketplace",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "North America"
   },
   {
     "company_name": "Port Arthur LNG LLC",
@@ -2643,7 +3207,10 @@
     "website": "www.portarthurlng.com",
     "company_description": "A greenfield liquified natural gas export facility strategically located on the U.S. Gulf Coast",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Potter Electric",
@@ -2657,7 +3224,10 @@
     "website": "www.pottersignal.com",
     "company_description": "Potter Electric Signal Company is a St. Louis, Missouri based manufacturer of sprinkler monitoring devices, fire alarm systems, &amp; corrosion solution",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Precipart",
@@ -2671,7 +3241,10 @@
     "website": "www.precipart.com",
     "company_description": "Precipart is a leading contract development and manufacturing organization of highly engineered precision components and assemblies, primarily for the medical device industry as well as the aerospace and industrial markets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Privy ID",
@@ -2685,7 +3258,10 @@
     "website": "www.privy.id",
     "company_description": "Provider of digital signature and digital identity solutions in Indonesia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Probe Group Pty Ltd",
@@ -2699,7 +3275,10 @@
     "website": "www.probegroup.com.au",
     "company_description": "Local provider of outsourced customer experience and business process outsourcing solutions in Australia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Property Guru",
@@ -2713,7 +3292,10 @@
     "website": "www.propertyguru.com.sg",
     "company_description": "A leading online real estate classifieds portal in Southeast Asia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Business Services",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Q-Park N.V.",
@@ -2727,7 +3309,10 @@
     "website": "www.q-park.com",
     "company_description": "Q-Park is an international parking services provider with owned and leased investment property as well as property operated under management contracts.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Qonto",
@@ -2741,7 +3326,10 @@
     "website": "www.qonto.com",
     "company_description": "Digital banking platform for SMEs",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Qoo10 Pte. Ltd.",
@@ -2755,7 +3343,10 @@
     "website": "www.qoo10.com",
     "company_description": "Qoo10 is a leading e-commerce platform operating 8 localized online marketplaces in 6 countries in Asia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "RVShare",
@@ -2769,7 +3360,10 @@
     "website": "www.rvshare.com",
     "company_description": "Online peer-to-peer marketplace for RV and motorhome rentals in the US",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "RainFocus",
@@ -2783,7 +3377,10 @@
     "website": "www.rainfocus.com",
     "company_description": "Event management platform used as an end-to-end solution to manage the entire process of setting up, running and analyzing events for marketing and event teams",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Re Sustainability Limited",
@@ -2797,7 +3394,10 @@
     "website": "https://resustainability.com/",
     "company_description": "A leading provider of environment management services in India.&nbsp; Ramky provides cost-effective and customized solutions for a variety of complex environmental needs, including waste management and treatment, contributing to SDG 11 (Sustainable Cities and Communities) and 12 (Responsible Consumption and Production).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Redeia",
@@ -2811,7 +3411,10 @@
     "website": "www.redeia.com/en",
     "company_description": "Neutral infrastructure telecom provider focused on leasing dark fiber optic backbone network",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Refresco",
@@ -2825,7 +3428,10 @@
     "website": "www.refresco.com",
     "company_description": "Independent beverage contract manufacturer",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "ReliaQuest LLC",
@@ -2839,7 +3445,10 @@
     "website": "www.reliaquest.com",
     "company_description": "Cyber security managed service and intelligence platform for global enterprises",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Reliance Retail Ventures Limited",
@@ -2853,7 +3462,10 @@
     "website": "www.relianceretail.com",
     "company_description": "Reliance Retail is India\u2019s largest retailer with $20bn Revenue from ~12,000 stores in 7,000 cities and ~640 mn footfalls annually. It also has India\u2019s largest retail supply chain infrastructure with 10.5m sq.ft. of warehouse space. Company has 46 global brands and 8000+ Indian brands in its portfolio, with multiple $100mn+ private brands. It is among the fastest growing e-commerce and new-commerce companies with JioMart and Ajio.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Resolian",
@@ -2867,7 +3479,10 @@
     "website": "https://www.resolian.com/",
     "company_description": "A leading global bioanalysis platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Resource Environmental Solutions (\"RES\")",
@@ -2881,7 +3496,10 @@
     "website": "https://res.us",
     "company_description": "RES is a leading provider of ecological solutions in the United States. By providing ecological solutions on environmental mitigation, stormwater management, and water quality &amp; flood migration, RES contributes to SDG 6 (Clean Water and Sanitation) and SDG 15 (Life on Land).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Restaurant365",
@@ -2895,7 +3513,10 @@
     "website": "https://www.restaurant365.com/",
     "company_description": "Provider of accounting, operations management, and workforce management software to the restaurant industry",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "Ritchies Transport Holdings Ltd.",
@@ -2909,7 +3530,10 @@
     "website": "www.ritchies.co.nz",
     "company_description": "A transportation operator in New Zealand",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Roompot",
@@ -2923,7 +3547,10 @@
     "website": "www.roompot.nl",
     "company_description": "Roompot is a provider of holiday parks and active in the management and operation of parks and campsites.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Ruichen Pet Veterinary Hospitals",
@@ -2937,7 +3564,10 @@
     "website": "www.ruichen.com/index.html",
     "company_description": "A pet hospital chain in China with 118 pet vet clinics and hospitals under management",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "SK E&S",
@@ -2951,7 +3581,10 @@
     "website": "www.skens.com",
     "company_description": "An integrated energy services provider with businesses across LNG upstream, LNG terminals, city gas distribution, power generation, district heating, renewables and offshore hydro JV\u2019s",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Natural Resources",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Sapphiros",
@@ -2965,7 +3598,10 @@
     "website": "www.sapphiros.com",
     "company_description": "Sapphiros is a newly formed platform created in partnership with Namal Nawana \u2013 an experienced medical device executive and the former CEO of both Smith & Nephew and Alere \u2013 to acquire and operate a portfolio of next-generation diagnostic technologies with strong growth potential",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Sector Alarm",
@@ -2979,7 +3615,10 @@
     "website": "www.sectoralarm.com",
     "company_description": "Provides professionally monitored alarm service to residential customers across Europe",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Seiyu",
@@ -2993,7 +3632,10 @@
     "website": "www.seiyu.co.jp",
     "company_description": "Established in 1963, Seiyu is a nationwide supermarket chain in Japan with more than 300 retail units. Through its supermarket and hypermarket formats and Rakuten Seiyu Netsuper delivery service, Seiyu offers customers a broad assortment including fresh food, general merchandise, and apparel products across Japan from Hokkaido to Kyusyu. Offering EDLP to our customers, Seiyu contributes to making their everyday life more convenient as a leading, innovative, local value retailer powered by Walmart, its parent company.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Semperis",
@@ -3007,7 +3649,10 @@
     "website": "www.semperis.com",
     "company_description": "Enterprise identity cyberscurity platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Sempra Infrastructure",
@@ -3021,7 +3666,10 @@
     "website": "www.sempra.com",
     "company_description": "North American energy infrastructure platform",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "North America"
   },
   {
     "company_name": "Serentica Renewables",
@@ -3035,7 +3683,10 @@
     "website": "www.serenticaglobal.com",
     "company_description": "Decarbonization and sustainable energy platform in India set up in partnership with the Sterlite Group to develop, own and operate clean energy projects.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Shanghai Moody E-commerce Co., Ltd.",
@@ -3049,7 +3700,10 @@
     "website": "www.moodylenses.com",
     "company_description": "A leading online colored contact lens brand in China",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Shenzhen XunCe Technology Co., Ltd.",
@@ -3063,7 +3717,10 @@
     "website": null,
     "company_description": "Data management platform and module applications tailored for China\u2019s asset managers<br><a title=\"Go to company website\" href=\"http://www.xuncetech.com/\" target=\"_blank\">http://www.xuncetech.com/</a>",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Shriram General Insurance",
@@ -3077,7 +3734,10 @@
     "website": "www.shriramgi.com",
     "company_description": "A leading motor focused general insurance company in India",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Financials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Simon & Schuster",
@@ -3091,7 +3751,10 @@
     "website": "www.simonandschuster.com",
     "company_description": "Simon &amp; Schuster is a leading international publisher dedicated to sharing a broad range of works that educate, entertain, and inspire readers of all ages.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "SkinSpirit",
@@ -3105,7 +3768,10 @@
     "website": "www.skinspirit.com",
     "company_description": "A leading premium-branded, non-invasive aesthetic dermatology platform in the U.S.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Sleepme Inc.",
@@ -3119,7 +3785,10 @@
     "website": "www.sleep.me",
     "company_description": "Direct to consumer wellness company optimizing sleep through innovative hardware and software technologies",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2016,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Sol Systems LLC",
@@ -3133,7 +3802,10 @@
     "website": "www.solsystems.com",
     "company_description": "Commercial and industrial focused solar energy firm with an integrated customer offering across distributed and utility-scale solar and storage, environmental commodity management, and asset management",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Spark Infrastructure",
@@ -3147,7 +3819,10 @@
     "website": "www.sparkinfrastructure.com",
     "company_description": "Spark Infrastructure holds investments in a portfolio of high quality, regulated electricity networks across Australia. Spark\u2019s investments serve over 5 million homes and businesses and are also heavily involved in supporting the decarbonisation of Australia\u2019s electricity system",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Infrastructure",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Suishou Technology Holding Inc.",
@@ -3161,7 +3836,10 @@
     "website": "www.feidee.com/money",
     "company_description": "Leading online wealth management platform and # 1 provider of personal expenses management apps",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Suzhou Quanyi Health Pharmacy Chain",
@@ -3175,7 +3853,10 @@
     "website": null,
     "company_description": "Suzhou Quanyi Health Pharmacy Chain is a pharmacy retailer in China, operating a network of over 2,300 stores in 4 provinces.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "S\u00f6derberg & Partners",
@@ -3189,7 +3870,10 @@
     "website": "www.soderbergpartners.se/en",
     "company_description": "Non-bank provider of pension advice, independent wealth management and non-life insurance brokerage to both corporates and individuals in Sweden",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Financials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Tarena",
@@ -3203,7 +3887,10 @@
     "website": null,
     "company_description": "Professional education service provider in mainland China, specializing in IT and accounting related courses.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Teaching Strategies Inc",
@@ -3217,7 +3904,10 @@
     "website": "www.teachingstrategies.com",
     "company_description": "Provider of curriculum, assessment and family engagement tools to the Early Childhood Education market",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Business Services",
+    "region_stan": "North America"
   },
   {
     "company_name": "Telenor Fiber",
@@ -3231,7 +3921,10 @@
     "website": "www.telenor.com/about/our-companies/nordics/telenor-norway/",
     "company_description": "Telenor Fiber is a newly established and carved out Fiber-to-the-Home subsidiary of Telenor. The Company benefits from a large brownfield asset base consisting of approximately 130,000 kilometer of cables, and approximately 1.1 million homes passed (hybrid fiber-coaxial and FTTH combined), which represents approximately 60% penetration in Norway, and therefore represents a mature, core FTTH platform of scale.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Technology",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "The Crosby Group",
@@ -3245,7 +3938,10 @@
     "website": "www.thecrosbygroup.com",
     "company_description": "The Crosby Group is a leading, global provider of lifting and rigging equipment including shackles, blocks, sheaves, hooks, and other engineered solutions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2013,
+    "industry_stan": "Industrials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Therapy Brands, Inc.",
@@ -3259,7 +3955,10 @@
     "website": "www.therapybrands.com",
     "company_description": "Therapy Brands provides end-to-end purpose-built software solutions to streamline the full clinical, administrative, and reimbursement workflows of healthcare professionals in multiple end markets, including Psychotherapy, Applied Behavior Analysis, Substance Abuse Recovery, and Physical Rehab.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Transphorm",
@@ -3273,7 +3972,10 @@
     "website": "www.transphormusa.com",
     "company_description": "Global semiconductor company that develops gallium nitride (GaN) FETs for high-voltage power conversion applications.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2015,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "Travelopia",
@@ -3287,7 +3989,10 @@
     "website": "www.travelopia.com",
     "company_description": "Travelopia is a leading specialist travel group focused on providing customers with unforgettable travel-related experiences.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Treeline Biosciences",
@@ -3301,7 +4006,10 @@
     "website": "www.treeline.bio",
     "company_description": "Biopharma company focused on developing novel oncology drugs",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Trilogy MedWaste",
@@ -3315,7 +4023,10 @@
     "website": "www.trilogymedwaste.com",
     "company_description": "Provider of medical waste management services",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "USI Insurance Services LLC",
@@ -3329,7 +4040,10 @@
     "website": "www.usi.com",
     "company_description": "USI is one of the largest private insurance brokers",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2017,
+    "industry_stan": "Financials",
+    "region_stan": "North America"
   },
   {
     "company_name": "Upfield",
@@ -3343,7 +4057,10 @@
     "website": "www.upfield.com",
     "company_description": "Upfield is the global market leader in branded plant-based spreading, cooking and baking products",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "V3 Group Limited",
@@ -3357,7 +4074,10 @@
     "website": "www.v3group.com",
     "company_description": "A lifestyle and wellness company in Southeast Asia",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Vantage Towers",
@@ -3371,7 +4091,10 @@
     "website": "www.vantagetowers.com",
     "company_description": "Telecom tower company",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Vinhomes JSC",
@@ -3385,7 +4108,10 @@
     "website": "https://vinhomes.vn/en",
     "company_description": "Largest residential real estate developer in Vietnam",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Real Estate",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Vini Cosmetics Pvt. Ltd.",
@@ -3399,7 +4125,10 @@
     "website": "www.viniinternational.com",
     "company_description": "A leading personal care company founded in India that sells branded deodorants, perfumes, cosmetics and toiletries",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Viridor",
@@ -3413,7 +4142,10 @@
     "website": "www.viridor.co.uk",
     "company_description": "Viridor Limited is a leading UK waste processing and recycling company, operating 10 Energy-from-Waste (\u201cEfW\u201d) plants as well as Recycling facilities, a Collections business and Landfills. Viridor's core business directly contributes to SDG 7 (Affordable and Clean Energy), SDG 11 (Sustainable Cities and Communities), and SDG 12 (Responsible Consumption and Production).",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Voyager Innovations",
@@ -3427,7 +4159,10 @@
     "website": "www.voyagerinnovation.com",
     "company_description": "A leading mobile payments ecosystem in the Philippines.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2018,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Walnut Programming",
@@ -3441,7 +4176,10 @@
     "website": "www.hetao101.com",
     "company_description": "Walnut Programming is a leading online education platform offering computer programming tutoring for children",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "We Park Limited",
@@ -3455,7 +4193,10 @@
     "website": "www.huiboparking.com/en",
     "company_description": "We Park is an integrated car parks investment and management platform established by LimeTree, investing and operating car parks in tier 1 / tier 1.5 cities in China. The brand name for We Park\u2019s operations in China is \u201cHuibo\u201d.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Industrials",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Wella",
@@ -3469,7 +4210,10 @@
     "website": "www.wella.com",
     "company_description": "Global player in the professional beauty and retail hair segments that manufactures and sells hair coloring, haircare, nail coloring as well as hair appliances products to salons and retailers globally",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Consumer",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Westbrick Energy",
@@ -3483,7 +4227,10 @@
     "website": "www.westbrick.ca",
     "company_description": "Westbrick is an oil and gas company with operations in the greater Pembina area of Alberta with over 70,000 net acres of oil and gas rights.",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America"
   },
   {
     "company_name": "Xingsheng Youxuan",
@@ -3497,7 +4244,10 @@
     "website": "www.xsyxsc.com",
     "company_description": "A leading \u201ccommunity based group ecommerce\u201d company backed by Tencent with presence in tier 2 and below cities of China",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Yayoi Co., Ltd.",
@@ -3511,7 +4261,10 @@
     "website": "www.yayoi-kk.co.jp",
     "company_description": "Financial and accounting software provider for SMEs and sole proprietors in Japan",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2022,
+    "industry_stan": "Technology",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "ZJLD Group Inc.",
@@ -3525,7 +4278,10 @@
     "website": null,
     "company_description": "A leading premium white liquor company in China with three brands",
     "relatedLinks": "<a title=\"Go to company website\" href=\"http://www.gzzjc.cn\" target=\"_blank\">www.gzzjc.cn</a><br><a title=\"Go to company website\" href=\"http://www.lidujiu.com\" target=\"_blank\">www.lidujiu.com</a><br><a title=\"Go to company website\" href=\"http://www.xiangjiaojiuye.com\" target=\"_blank\">www.xiangjiaojiuye.com</a>",
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2021,
+    "industry_stan": "Consumer",
+    "region_stan": "Asia Pacific"
   },
   {
     "company_name": "Zenobe",
@@ -3539,7 +4295,10 @@
     "website": "www.zenobe.com",
     "company_description": "Design, finance, build and operate battery solutions",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2023,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA"
   },
   {
     "company_name": "Zeus Health",
@@ -3553,7 +4312,10 @@
     "website": null,
     "company_description": "Platform to invest in and operate a portfolio of medical device assets",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Healthcare",
+    "region_stan": "North America"
   },
   {
     "company_name": "Zwift Inc.",
@@ -3567,7 +4329,10 @@
     "website": "www.zwift.com",
     "company_description": "A virtual cycling platform for training and racing at home",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   },
   {
     "company_name": "o9 Solutions",
@@ -3581,6 +4346,9 @@
     "website": "www.o9solutions.com",
     "company_description": "Supply chain and integrated business planning software",
     "relatedLinks": null,
-    "firm": "KKR"
+    "firm": "KKR",
+    "date_of_investment_stan": 2020,
+    "industry_stan": "Technology",
+    "region_stan": "North America"
   }
 ]

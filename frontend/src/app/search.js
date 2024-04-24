@@ -13,7 +13,7 @@ export default function Search ({ onSearchChange }) {
     return (
         // form for user input, which turns into searchQuery
         <form onSubmit={handleSubmit}>
-            <label>Semanticically search companies: 
+            <label>Semantic search: 
                 <input 
                     type="text"
                     value={searchQuery}

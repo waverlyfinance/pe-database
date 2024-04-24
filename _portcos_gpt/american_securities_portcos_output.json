@@ -1,0 +1,592 @@
+[
+  {
+    "company_name": "Acuren",
+    "date_of_investment_stan": 2019,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Advanced Drainage Systems",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Air Methods",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Amentum",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2020,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "American Axle &amp; Manufacturing",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Anthony International",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1998,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Aramsco",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 2023,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Arizona Chemical",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "BELFOR",
+    "industry_stan": "Business Services",
+    "region_stan": "null",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "null"
+  },
+  {
+    "company_name": "Blue Bird",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cambridge International",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Caribbean Restaurants",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Chromaflo Technologies",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Pacific Broadcasting Company",
+    "industry_stan": "Technology",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Conair",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Covia",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CPM",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "null"
+  },
+  {
+    "company_name": "CS Energy",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "null"
+  },
+  {
+    "company_name": "CTB International",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 1995,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Delphi Midstream Partners",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dr. Leonard's Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1998,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "El Pollo Loco",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 1999,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Emerald Performance Materials",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Fairmount Santrol",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2010,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FiberMark",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FleetPride",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Foundation Building Materials",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Frontier Spinning Mills",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "FullBloom",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "General Chemical",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Grede",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "GT Technologies",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Healthy Directions",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2004,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Henry Company",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Hexion",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "HHI",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2012,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Ketema",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1994,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Lakeside Energy",
+    "industry_stan": "Natural Resources",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Learning Care Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Liberty Tire Recycling",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2008,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MECS",
+    "date_of_investment_stan": 2008,
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Meridian",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Metaldyne",
+    "date_of_investment_stan": 2012,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Metaldyne Performance Group",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Milk Specialties Global",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Miltex Instrument Company",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Mortgage Contracting Services",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MVE",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 1996,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MW Industries",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2017,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NEP Broadcasting",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2007,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "North American Partners in Anesthesia",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "NWN Carousel",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2024,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "OnTrac",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Oreck",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Oregon Tool",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "PDM Bridge",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Potbelly Sandwich Works",
+    "industry": "Consumer",
+    "region": "Null",
+    "date_of_investment": "February 2006",
+    "status_current": "Null",
+    "hq": "Null",
+    "exit_status": "IPO in October 2013"
+  },
+  {
+    "company_name": "Presidio",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Press Ganey",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Primary Energy Ventures",
+    "industry_stan": "Natural Resources",
+    "region_stan": "null",
+    "date_of_investment_stan": 2003,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Prince",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2018,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "r-pac",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "RealManage",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Robertson Fuel Systems",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Royal Adhesives and Sealants",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SeaStar Solutions",
+    "industry_stan": "Industrials",
+    "region_stan": "null",
+    "date_of_investment_stan": 2014,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SimonMed",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SOLV Energy",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "SpecialtyCare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Tekni-Plex",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2013,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "The Aspen Group",
+    "industry_stan": "Healthcare",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2015,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "TNP Enterprises",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Trace3",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2021,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Ulterra Drilling Technologies",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2016,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Unifrax",
+    "date_of_investment_stan": 2003,
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Unifrax",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Unison Site Management",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2009,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United Distribution Group",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2006,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United FP",
+    "industry_stan": "Consumer",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2019,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ViaPath Technologies",
+    "industry_stan": "Business Services",
+    "region_stan": "null",
+    "date_of_investment_stan": 2011,
+    "status_current_stan": "null"
+  },
+  {
+    "company_name": "Vibrantz Technologies",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2022,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "VUTEk",
+    "industry_stan": "Industrials",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2000,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Weasler Engineering",
+    "industry_stan": "Industrials",
+    "region_stan": "EMEA",
+    "date_of_investment_stan": 2005,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Westward",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": 2002,
+    "status_current_stan": "Realized"
+  }
+]

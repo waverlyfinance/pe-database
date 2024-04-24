@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
 import time
 
-
 headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"} 
+
 
 # pre-process html. OPTION 1: Extract ONLY the classes, links, and text
 def process_html_classes(url, scrape_id):
@@ -159,28 +159,27 @@ def kkr_portcos():
             print(f"failed to fetch data from {url}")
 
     #pprint(combined_results)
-    with open("kkr_portcos.json", "w") as outfile:
-        json.dump(combined_results, outfile, indent=2)
 
+    updated_data = []
 
-    # TODO: Is the below extraction step necessary? Maybe we just use the total data, and extract at a later step? 
-    # output_dict = {}
-    # keys_to_extract = ["hq", "region", "assetClass", "industry", "yoi", "url", "description"] # these are per the kkr_portcos.json file
+    for company in combined_results:
 
-    # for company in combined_results:
-    #     name = company["name"]
-    #     update_dict = {key: company.get(key) for key in keys_to_extract}
+        updated_company = {
+            "company_name": company["name"],
+            "company_description": company["description"],
+            "date_of_investment": company["yoi"] if company["yoi"] is not None else None,
+            "country": company["country"] if company["country"] is not None else None,
+            "region": company["region"] if company["region"] is not None else None,
+            "fund": company["assetClass"] if company["assetClass"] is not None else None,
+            "hq": company["hq"] if company["hq"] is not None else None,
+            "industry": company["industry"] if company["industry"] is not None else None,
+            "website": company["url"] if company["url"] is not None else None,
+        }
         
-    #     if name:
-    #         output_dict[name] = update_dict
+        updated_data.append(updated_company)
 
-    # pprint(output_dict)
-    
-    # with open("kkr_portcos_extracted.json", "w") as outfile:
-    #     json.dump(output_dict, outfile, indent=2)
-
-    # return output_dict
-
+    with open("_portcos_raw/kkr_portcos.json", "w") as outfile:
+        json.dump(updated_data, outfile, indent=2)
 
 # FOR PERMIRA
 def permira_portcos():
@@ -996,5 +995,4 @@ def stonepoint_portcos():
     with open("_portcos_raw/stonepoint_portcos.json", "w") as file:
         json.dump(portcos, file, indent=2)
 
-stonepoint_portcos()
 
