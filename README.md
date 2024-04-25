@@ -1,6 +1,8 @@
-****Portco Database Readme****  
+Vercel deployment: https://pe-ohxl91h2u-michael-yuans-projects.vercel.app/  
+<br>
 
-Context: A frequent "sourcing" exercise in Private Equity is monitoring your competitors' portfolios.   
+**Context:**  
+A frequent "sourcing" exercise in Private Equity is monitoring your competitors' portfolios.   
 There's often a handful of firms that are most directly competing with you on deals. Particularly if you're focused on a certain "theme", such as "DevSecOps" or "Supply Chain Software"  
 By monitoring other portcos, you'll know (1) what your competitors are focused on, and (2) which assets may be coming up for sale soon.  
 E.g. A typical PE investment is 3-5 years. So if Competitor A owns a DevSecOps company that is 4 years old, I know they are selling soon. I'd want to position myself for that sale ahead of time, so I'm in a better competitive position  
