@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { SelectFilter } from "../components/selectFilter";
+import { SelectFilter } from "./selectFilter";
 
 // Component which takes in data (an array containing my JSON data), and onFilterChange
 const Filters = ( {data, onFilterChange }) => {
@@ -29,7 +29,7 @@ const Filters = ( {data, onFilterChange }) => {
     }, [selectedFirm, selectedIndustry, selectedRegion, selectedStatus]);
 
     return (
-        <div className="flex gap-2 items-center">
+        <div className="flex space-x-2">
             {/* Dropdown menu. Upon user selection, updates "selectedFirm" to that value */}
             <SelectFilter
                 uniqueValues={getUniqueValues("firm")}

@@ -15,7 +15,7 @@ export default function Search ({ onSearchChange }) {
     return (
         // form for user input, which turns into searchQuery
         <form onSubmit={handleSubmit}>
-            <label>Semantic search: 
+            <label>[Legacy] Semantic search: 
                 <input 
                     type="text"
                     value={searchQuery}

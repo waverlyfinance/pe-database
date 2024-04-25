@@ -1,10 +1,10 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Pagination from "./pagination";
 import Filters from "./filters";
 import Search from "./search";
-import { SearchBar } from "@/components/searchBar";
+import { SearchBar } from "@/app/searchBar";
+import { DataTable, Portco, columns } from "./data-table";
 
 // TODO: Fix date of investment
 // TODO: Fix encoding issues in raw HTML description
@@ -13,8 +13,6 @@ export default function Home() {
   // data states
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1); // for pagination
-  const [itemsPerPage] = useState(50);
   const [searchQuery, setSearchQuery] = useState(""); 
 
   // states to set up filters
@@ -75,70 +73,33 @@ export default function Home() {
     setFilteredData(result);
   };
 
-  // Paginate. Only show 50 items per page
-  const indexLast = currentPage * itemsPerPage; // 1*50 = 50
-  const indexFirst = indexLast - itemsPerPage; // 50-50 = 0
-  const visibleData = filteredData.slice(indexFirst, indexLast);
   
-  const paginate = pageNumber => setCurrentPage(pageNumber); // change page function
-
-  
-  // html stuff
+  // JSX content
   return (
     <>
     <meta charSet="utf-8"/>
     
-    {/* Filters content */}
-    <div>
-      <Filters data={data} onFilterChange={handleFilterChange} />
+    {/* Header */}
+    <div className="flex flex-col gap-2 p-4 py-2">
+      {/* Filters content */}
+      <div>
+        <Filters data={data} onFilterChange={handleFilterChange} />
+      </div>
+
+      {/* Semantic search using ShadCN */}
+      <div className="max-w-lg py-2">
+        <SearchBar searchQuery={searchQuery} onSearchChange={setSearchQuery}/> 
+      </div>
+
+      {/* Semantic search (legacy one while debugging) */}
+      <div className="py-2">
+        <Search onSearchChange={setSearchQuery}/> 
+      </div>
     </div>
 
-    <div>
-      <SearchBar searchQuery={searchQuery} onSearchChange={setSearchQuery}/> 
-    </div>
-
-        {/* Semantic search */}
-    <div>
-      <Search onSearchChange={setSearchQuery}/> 
-    </div>
-
-    {/* Table content */}
-    <div className="overflow-x-auto">
-        <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-          <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-            <tr>
-              <th scope="col" className="px-6 py-3">Firm</th>
-              <th scope="col" className="px-6 py-3">Company</th>
-              <th scope="col" className="px-6 py-3">Industry</th>
-              <th scope="col" className="px-6 py-3">Region</th>
-              <th scope="col" className="px-6 py-3">Fund</th>
-              <th scope="col" className="px-6 py-3">Date of Investment</th>
-              <th scope="col" className="px-6 py-3">Description</th>
-              <th scope="col" className="px-6 py-3">Status</th>
-              <th scope="col" className="px-6 py-3">Website</th>
-            </tr>
-          </thead>
-          <tbody>
-            {visibleData.map((company, index) => (
-              <tr key ={index} className="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                <td className="px-6 py-4">{company.firm}</td>
-                <td className="px-6 py-4">{company.company_name}</td>
-                <td className="px-6 py-4">{company.industry_stan}</td>
-                <td className="px-6 py-4">{company.region_stan}</td>
-                <td className="px-6 py-4">{company.fund}</td>
-                <td className="px-6 py-4">{company.date_of_investment_stan}</td>
-                <td className="px-6 py-4">{company.company_description}</td>
-                <td className="px-6 py-4">{company.status_current_stan}</td>
-                <td className="px-6 py-4"><a href={company.website}>link</a></td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-        <Pagination
-          itemsPerPage={itemsPerPage}
-          totalItems={filteredData.length}
-          paginate={paginate}
-        />
+    {/* Table content using ShadCN */}
+    <div className="container mx-auto my-10 p-4">
+      <DataTable columns={columns} data={filteredData} />
     </div>
     </>
   );
