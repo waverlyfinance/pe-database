@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { SelectFilter } from "../components/selectFilter";
 
 // Component which takes in data (an array containing my JSON data), and onFilterChange
 const Filters = ( {data, onFilterChange }) => {
@@ -28,42 +29,43 @@ const Filters = ( {data, onFilterChange }) => {
     }, [selectedFirm, selectedIndustry, selectedRegion, selectedStatus]);
 
     return (
-        <div>
-            {/* Dropdown menu. Upon user selection, updates "selectedIndustry" to that value */}
+        <div className="flex gap-2 items-center">
+            {/* Dropdown menu. Upon user selection, updates "selectedFirm" to that value */}
+            <SelectFilter
+                uniqueValues={getUniqueValues("firm")}
+                placeholder="All firms"
+                selectedValue={selectedFirm}
+                onValueChange={setSelectedFirm} // updates state once onValueChange is called
+            />
+
+            <SelectFilter
+                uniqueValues={getUniqueValues("industry_stan")}
+                placeholder="All industries"
+                selectedValue={selectedIndustry}
+                onValueChange={setSelectedIndustry} // updates state once onValueChange is called
+            />
+            
+            <SelectFilter
+                uniqueValues={getUniqueValues("region_stan")}
+                placeholder="All regions"
+                selectedValue={selectedRegion}
+                onValueChange={setSelectedRegion} // updates state once onValueChange is called
+            />
+                        
+            <SelectFilter
+                uniqueValues={getUniqueValues("status_current_stan")}
+                placeholder="All investments"
+                selectedValue={selectedStatus}
+                onValueChange={setSelectedStatus} // updates state once onValueChange is called
+            />
+
+            {/* Dropdown menu. Upon user selection, updates "selectedIndustry" to that value
             <select value={selectedFirm} onChange={e => setSelectedFirm(e.target.value)}> 
                 <option value="">All Firms</option>
                 {getUniqueValues("firm").map(firm => ( 
                     <option key={firm} value={firm}>{firm}</option> 
             ))}
-            </select>
-
-            <select value={selectedIndustry} onChange={e => setSelectedIndustry(e.target.value)}> 
-                <option value="">All industries</option>
-                {getUniqueValues("industry_stan").map(industry_stan => ( // Returns new array containing every unique value in "industry". New array contains the following JSX code
-                    <option key={industry_stan} value={industry_stan}>{industry_stan}</option> // e.g. option value="Healthcare", option value="Tech"
-            ))}
-            </select>
-
-            <select value={selectedRegion} onChange={e => setSelectedRegion(e.target.value)}> 
-                <option value="">All regions</option>
-                {getUniqueValues("region_stan").map(region_stan => ( 
-                    <option key={region_stan} value={region_stan}>{region_stan}</option> 
-            ))}
-            </select>
-            
-            {/* <select value={selectedFund} onChange={e => setSelectedFund(e.target.value)}> 
-                <option value="">All funds</option>
-                {getUniqueValues("fund").map(fund => ( 
-                    <option key={fund} value={fund}>{fund}</option>
-            ))}
             </select> */}
-
-            <select value={selectedStatus} onChange={e => setSelectedStatus(e.target.value)}> 
-                <option value="">All investments</option>
-                {getUniqueValues("status_current_stan").map(status_current_stan => ( 
-                    <option key={status_current_stan} value={status_current_stan}>{status_current_stan}</option> 
-            ))}
-            </select>
         </div>
     )
 };

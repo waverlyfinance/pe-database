@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Pagination from "./pagination";
 import Filters from "./filters";
 import Search from "./search";
+import { SearchBar } from "@/components/searchBar";
 
 // TODO: Fix date of investment
 // TODO: Fix encoding issues in raw HTML description
@@ -91,8 +92,12 @@ export default function Home() {
     <div>
       <Filters data={data} onFilterChange={handleFilterChange} />
     </div>
-    
-    {/* Semantic search */}
+
+    <div>
+      <SearchBar searchQuery={searchQuery} onSearchChange={setSearchQuery}/> 
+    </div>
+
+        {/* Semantic search */}
     <div>
       <Search onSearchChange={setSearchQuery}/> 
     </div>
