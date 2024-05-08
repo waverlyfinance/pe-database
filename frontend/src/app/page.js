@@ -90,12 +90,13 @@ export default function Home() {
       <div className="max-w-lg py-2">
         <SearchBar searchQuery={searchQuery} onSearchChange={setSearchQuery}/> 
       </div>
+    </div> 
 
       {/* Semantic search (legacy one while debugging) */}
-      <div className="py-2">
+      {/* <div className="py-2">
         <Search onSearchChange={setSearchQuery}/> 
-      </div>
-    </div>
+  </div> */}
+
 
     {/* Table content using ShadCN */}
     <div className="container mx-auto my-10 p-4">
