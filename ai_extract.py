@@ -24,6 +24,8 @@ def chunk_html(html):
 
     return splits
 
+
+
 # LLM identifies structure to be extracted. Inputs are processed HTML
 def identify_schema(processed_html):
     completion = client.chat.completions.create(
@@ -122,48 +124,116 @@ def extract_html(processed_html, schema):
     return json_output
 
 
-# EXPERIMENT: Try getting the Python code to scrape deterministically
-def scrape_code(processed_html):
-    
-    completion = client.chat.completions.create(
-        model= "gpt-4-turbo-preview",
-        messages=[
-            {
-                "role": "system",
-                "content": """Think step by step. 
-                You will be given a HTML file of an investment firm's list of portfolio companies. You have 2 options:
-                Option 1. Read the HTML to identify what structured data could be extracted. 
-                Structured data requires multiple repetitions of the same field, for multiple companies    
-                Here are just some examples. There can be many more fields beyond these: 
-                {
-                    company_name: str,
-                    company_description: str,
-                    industry: str,
-                    date_of_investment: int or str,
-                    status_current: str,
-                    region: str,
-                    fund: str,
-                    website: str
-                    },
 
-                Option 2. Important: If there is NOT sufficient data in the provided HTML, instead grab the URL links for each portfolio company
-                
-                Output: Provide the Python code using BeautifulSoup. Your output MUST be structured as code
-                """
-            },
-            {
-                "role": "user", 
-                "content": processed_html
-            },
-        ],
-        temperature=0,
+
+# LLM identifies URL links only. Outputs them as a list 
+class url(BaseModel):
+    url: str | None = Field(None, description="E.g. https://www.inovia.vc/active-companies/certn")
+
+class urls(BaseModel):
+    urls: list[url]
+
+urls_schema = urls.schema()
+
+def extract_urls(processed_html):
+    completion = client.chat.completions.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {
+            "role": "system",
+            "content": """You will be provided raw HTML containing classes + href links. 
+            Please identify all the URL links which lead to pages of individual companies. For example: 
+            https://www.inovia.vc/active-companies/certn
+            https://www.inovia.vc/active-companies/nacelle
+            The output must be expressed as JSON.
+            """
+        },
+        {
+            "role": "user", 
+            "content": processed_html
+        },],
+    tools = [
+        {   
+            "type": "function",
+            "function": {
+                "name": "extract_urls",
+                "description": """extract URL links to individual companies' pages, following the structure of 'urls_schema'""",
+                "parameters": urls_schema
+                },
+        },],
+    temperature=0
     )
 
-    output = completion.choices[0].message.content
+    output = completion.choices[0].message.tool_calls[0].function.arguments
 
-    # print(output)
+    try:
+        json_output = json.loads(output)
 
     
+    except json.JSONDecodeError as error:
+        print(f"failed to decode JSON. {error}")    
+    print(json_output)
+
+    return json_output
 
 
 
+# LLM takes URL of individual portco. And extracts key fields
+class Company(BaseModel):
+    company_name: str | None = Field(None, description="E.g. Exactech, winc, Anaplan, etc.")
+    company_description: str | None = Field(None, description="Just copy and paste the description verbatim from the source. Don't change anything. Pick the longer description if multiple options are available")
+    industry: str | None = Field(None, description="E.g. Consumer, Technology, Industrials, Healthcare, Real Estate, etc.")
+    date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
+    status_current: str | None = Field(None, description="Whether the company is current / active, or realized / former")
+    region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
+    fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, etc. Can be none if not applicable")
+    hq: str | None = Field(None, description="E.g. New York, Barcelona, Boston, Grand Rapids, etc.")
+    website: str | None = Field(None, description="url or path to the portfolio company's website")
+
+# class Companies(BaseModel):
+#     Companies: list[Company]
+
+company_schema = Company.schema()
+
+def extract_data(processed_html):
+    completion = client.chat.completions.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {
+            "role": "system",
+            "content": """Think step by step. 
+            You will be provided raw HTML of an investment firm's portfolio company.
+            Read the HTML to identify what structured data can be extracted. 
+            Use the tools available to you to identify the fields to extract.
+            Only state an answer if the data is provided explicitly by the company. 'null' is an acceptable answer. 
+            For example, if there are global offices in Canada, the US, and Australia - but the HTML does not provide a field that says "region: Global", return 'null' for region
+            You MUST output JSON. Do not output something that starts with "'''json"
+            """
+        },
+        {
+            "role": "user", 
+            "content": processed_html
+        },],
+    tools = [
+        {   
+            "type": "function",
+            "function": {
+                "name": "extract_data",
+                "description": """extract data following the structure of 'companies_schema'""",
+                "parameters": company_schema
+                },
+        },],
+    temperature=0
+    )
+
+    output = completion.choices[0].message.tool_calls[0].function.arguments
+
+    try:
+        json_output = json.loads(output)
+
+    
+    except json.JSONDecodeError as error:
+        print(f"failed to decode JSON. {error}")    
+    print(json_output)
+
+    return json_output

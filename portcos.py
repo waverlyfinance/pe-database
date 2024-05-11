@@ -45,7 +45,7 @@ def process_html_classes(url, scrape_id):
     # print(processed_html)
     return processed_html
 
-# pre-processing of HTML. OPTION 2: Only extracts the text
+# OPTION 2: Only extracts the text
 def process_html_text(url, scrape_id):
     response = requests.get(url, headers=headers).text
     soup = BeautifulSoup(response, "html.parser")
@@ -62,7 +62,7 @@ def process_html_text(url, scrape_id):
     return clean_html
 
 
-# pre-processing of HTML. OPTION 3: Only extracts the url links
+# OPTION 3: Only extracts the url links
 def process_html_links(url, scrape_id):
     response = requests.get(url, headers=headers).text
     soup = BeautifulSoup(response, "html.parser")
@@ -80,6 +80,35 @@ def process_html_links(url, scrape_id):
     print(links)
     return links
 
+# Option 4: Extracts classes, links, but no text
+def process_html_classes_links(url, scrape_id):
+    try:
+        response = requests.get(url, headers=headers).text
+    except requests.exceptions.RequestException as error:
+        print(f"error fetching data: {error}")
+    
+    soup = BeautifulSoup(response, "html.parser")
+    
+    # narrow down the HTML using the given identifier. Like body. Or a div class
+    if soup.find(scrape_id):
+        soup = soup.find(scrape_id)
+    else:
+        soup = soup
+
+    clean_html = []
+    for tag in soup.find_all(True):
+        classes = tag.get("class")
+        if classes:
+            clean_html.append(classes)
+    
+        if tag.name == "a":
+            link = tag.get("href")
+            clean_html.append(link)
+    
+    # transform into string, so it can be passed to a LLM
+    processed_html = ", ".join(str(item) for item in clean_html)
+
+    return processed_html
 
 
 
@@ -103,8 +132,6 @@ class Portcos(BaseModel):
     companies: list[Portco]
 
 companies_schema = Portcos.schema()
-
-
 
 
 
@@ -996,3 +1023,66 @@ def stonepoint_portcos():
         json.dump(portcos, file, indent=2)
 
 
+
+def inovia():
+    url = "https://www.inovia.vc/active-companies/"
+    
+    # Step 1: Extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open("_vc_urls/inovia.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    with open("_vc_urls/inovia.json", "r") as file:
+        raw_urls = json.load(file)
+
+    # Step 2: process the output to extract just the urls
+    urls = [entry['url'] for entry in raw_urls['urls']]
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        processed_html = process_html_classes(url, "body")
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open("_vc_processed/inovia.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+
+def goldenventures():
+    url = "https://www.golden.ventures/portfolio"
+    filename = "goldenventures"
+
+    # Step 1: Extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    urls = [entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+goldenventures()
