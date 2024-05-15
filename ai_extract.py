@@ -137,15 +137,30 @@ urls_schema = urls.schema()
 
 def extract_urls(processed_html):
     completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4o",
     messages=[
         {
             "role": "system",
             "content": """You will be provided raw HTML containing classes + href links. 
             Please identify all the URL links which lead to pages of individual companies. For example: 
             https://www.inovia.vc/active-companies/certn
-            https://www.inovia.vc/active-companies/nacelle
-            The output must be expressed as JSON.
+            /portfolio/audible-reality
+            /portfolio/botpress
+            /3dns
+            /dot-box
+
+            https://georgian.io/companies/vention/
+            https://cbgf.com/portfolio/busbud/
+            https://informationvp.com/project/adaptive-insights/
+
+
+            Exclude irrelevant links that are not portfolio companies, such as:  
+            https://careers.klass.com/jobs
+            https://www.linkedin.com/company/klass-capital-corporation/
+            /en/contact-us
+            https://policies.google.com/privacy
+
+            The output must be expressed as JSON. Do not output something that starts with "'''json"
             """
         },
         {
@@ -172,7 +187,6 @@ def extract_urls(processed_html):
     
     except json.JSONDecodeError as error:
         print(f"failed to decode JSON. {error}")    
-    print(json_output)
 
     return json_output
 
@@ -182,22 +196,19 @@ def extract_urls(processed_html):
 class Company(BaseModel):
     company_name: str | None = Field(None, description="E.g. Exactech, winc, Anaplan, etc.")
     company_description: str | None = Field(None, description="Just copy and paste the description verbatim from the source. Don't change anything. Pick the longer description if multiple options are available")
-    industry: str | None = Field(None, description="E.g. Consumer, Technology, Industrials, Healthcare, Real Estate, etc.")
-    date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
-    status_current: str | None = Field(None, description="Whether the company is current / active, or realized / former")
-    region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
-    fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, etc. Can be none if not applicable")
+    # industry: str | None = Field(None, description="E.g. Consumer, Technology, Industrials, Healthcare, Real Estate, etc.")
+    # date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
+    # status_current: str | None = Field(None, description="Whether the company is current / active, or realized / former")
+    # region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
+    # fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, etc. Can be none if not applicable")
     hq: str | None = Field(None, description="E.g. New York, Barcelona, Boston, Grand Rapids, etc.")
     website: str | None = Field(None, description="url or path to the portfolio company's website")
-
-# class Companies(BaseModel):
-#     Companies: list[Company]
 
 company_schema = Company.schema()
 
 def extract_data(processed_html):
     completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4o",
     messages=[
         {
             "role": "system",
@@ -219,7 +230,7 @@ def extract_data(processed_html):
             "type": "function",
             "function": {
                 "name": "extract_data",
-                "description": """extract data following the structure of 'companies_schema'""",
+                "description": """extract data following the structure of 'company_schema'""",
                 "parameters": company_schema
                 },
         },],

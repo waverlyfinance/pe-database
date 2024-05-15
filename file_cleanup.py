@@ -24,19 +24,21 @@ def add_field(firm):
 
 # Update just 1 key-value pair
 def update_1key(firm):
-    filename = firm + "_portcos"
+    filename = firm
 
-    with open(f"_portcos_processed/{filename}.json", "r") as file:
+    with open(f"_vc_processed/{filename}.json", "r") as file:
         data = json.load(file)
     
-
     for company in data: 
-        company["company_description"] = company["company_description"].replace("<p>", "").replace("</p>", "").strip() # strip p tags
+        company["industry"] = None # delete incorrect LLM extraction
+        company["date_of_investment"] = None
+        company["status_current"] = None
+        company["hq"] = None
         
-    with open(f"_portcos_processed/{filename}.json", "w") as outfile:
+    with open(f"_vc_processed/{filename}.json", "w") as outfile:
         json.dump(data, outfile, indent=2)
 
-# update_1key("tpg")
+# update_1key("round13")
 
 # Update keys in order to standardize for SQL database
 def update_keys(firm):
@@ -111,6 +113,6 @@ def remove_json(filename):
 
 
 def main(firm):
-    add_field(firm)
+    update_1key(firm)
 
-main("KKR")
+main("intercap")

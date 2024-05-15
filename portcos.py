@@ -1027,7 +1027,7 @@ def stonepoint_portcos():
 def inovia():
     url = "https://www.inovia.vc/active-companies/"
     
-    # Step 1: Extract URLs for each portco
+    # Step 1: Use LLM to extract URLs for each portco
     # processed_html = process_html_classes_links(url, "body")
 
     # json_output = extract_urls(processed_html)
@@ -1058,7 +1058,7 @@ def goldenventures():
     url = "https://www.golden.ventures/portfolio"
     filename = "goldenventures"
 
-    # Step 1: Extract URLs for each portco
+    # Step 1: Use LLM to extract URLs for each portco
     # processed_html = process_html_classes_links(url, "body")
 
     # json_output = extract_urls(processed_html)
@@ -1085,4 +1085,193 @@ def goldenventures():
 
     with open(f"_vc_processed/{filename}.json", "w") as file:
         json.dump(json_output, file, indent=2)
-goldenventures()
+
+def panache():
+    url = "https://www.panache.vc/portfolio"
+    filename = "panache"
+
+    # Step 1: Use LLM to extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+    # print(processed_html)
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    urls = ["https://www.panache.vc" + entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        # print(url)
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+def klass():
+    url = "https://www.klass.com/portfolio"
+    filename = "klass"
+
+    # Step 1: Use LLM to extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+    # print(processed_html)
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    urls = ["https://www.klass.com" + entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        # print(url)
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+# Looks like BDC uses Javascript rendering? Can only get the first couple of portcos
+def bdc():
+    url = "https://www.bdc.ca/en/bdc-capital/venture-capital/portfolio"
+    filename = "bdc"
+
+    # Step 1: Use LLM to extract URLs for each portco
+    processed_html = process_html_classes_links(url, "body")
+    print(processed_html)
+
+    json_output = extract_urls(processed_html)
+    print(json_output)
+    print(type(json_output))
+
+    with open(f"_vc_urls/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+def georgian():
+    url = "https://georgian.io/companies/"
+    filename = "georgian"
+
+    # Step 1: Use LLM to extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+    # print(processed_html)
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    urls = [entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        # print(url)
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+def arctern():
+    url = "https://www.arcternventures.com/portfolio/"
+    filename = "arctern"
+
+    # Step 1: Use LLM to extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+    # print(processed_html)
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    urls = [entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        # print(url)
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+    
+
+def main():
+    url = "https://georgian.io/companies/"
+    filename = "georgian"
+        
+    # # Step 1: Use LLM to extract URLs for each portco
+    # processed_html = process_html_classes_links(url, "body")
+    # print(processed_html)
+
+    # json_output = extract_urls(processed_html)
+    # print(json_output)
+    # print(type(json_output))
+
+    # with open(f"_vc_urls/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+    
+    # Step 2: process the output to extract just the urls
+    with open(f"_vc_urls/{filename}.json", "r") as file:
+        raw_urls = json.load(file)
+
+    # urls = ["https://www.intercap.com" + entry['url'] for entry in raw_urls['urls']]
+    urls = [entry['url'] for entry in raw_urls['urls']]
+    print(urls)
+
+    # Step 3: Iterate through each URL to extract key fields for each portco
+    json_output = []
+    for url in urls:
+        # print(url)
+        processed_html = process_html_classes(url, "body")
+        # print(processed_html)
+        extracted_data = extract_data(processed_html)
+        json_output.append(extracted_data)
+
+    with open(f"_vc_processed/{filename}.json", "w") as file:
+        json.dump(json_output, file, indent=2)
+
+main()

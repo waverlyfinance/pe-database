@@ -1,0 +1,331 @@
+{
+  "urls": [
+    {
+      "url": "/portfolio/acto"
+    },
+    {
+      "url": "/portfolio/alt-tex"
+    },
+    {
+      "url": "/portfolio/altrio"
+    },
+    {
+      "url": "/portfolio/angelhost"
+    },
+    {
+      "url": "/portfolio/aon3d"
+    },
+    {
+      "url": "/portfolio/arcadia"
+    },
+    {
+      "url": "/portfolio/audette"
+    },
+    {
+      "url": "/portfolio/audible-reality"
+    },
+    {
+      "url": "/portfolio/beatdapp"
+    },
+    {
+      "url": "/portfolio/big-whale-labs"
+    },
+    {
+      "url": "/portfolio/blume"
+    },
+    {
+      "url": "/portfolio/botpress"
+    },
+    {
+      "url": "/portfolio/cto-ai"
+    },
+    {
+      "url": "/portfolio/carbide"
+    },
+    {
+      "url": "/portfolio/certn"
+    },
+    {
+      "url": "/portfolio/clutch"
+    },
+    {
+      "url": "/portfolio/colab"
+    },
+    {
+      "url": "/portfolio/communo"
+    },
+    {
+      "url": "/portfolio/dooly"
+    },
+    {
+      "url": "/portfolio/dreamfold-ai"
+    },
+    {
+      "url": "/portfolio/dwelling"
+    },
+    {
+      "url": "/portfolio/edda"
+    },
+    {
+      "url": "/portfolio/eli-health"
+    },
+    {
+      "url": "/portfolio/enpowered"
+    },
+    {
+      "url": "/portfolio/fi-span"
+    },
+    {
+      "url": "/portfolio/fightcamp"
+    },
+    {
+      "url": "/portfolio/fleetops"
+    },
+    {
+      "url": "/portfolio/forestry"
+    },
+    {
+      "url": "/portfolio/forma-ai"
+    },
+    {
+      "url": "/portfolio/fraction"
+    },
+    {
+      "url": "/portfolio/gainful"
+    },
+    {
+      "url": "/portfolio/green-eye-technologies"
+    },
+    {
+      "url": "/portfolio/harbr"
+    },
+    {
+      "url": "/portfolio/hellohire"
+    },
+    {
+      "url": "/portfolio/honestdoor"
+    },
+    {
+      "url": "/portfolio/humanfirst"
+    },
+    {
+      "url": "/portfolio/hypercomply"
+    },
+    {
+      "url": "/portfolio/impro-ai"
+    },
+    {
+      "url": "/portfolio/korapay"
+    },
+    {
+      "url": "/portfolio/lancey"
+    },
+    {
+      "url": "/portfolio/legalmate"
+    },
+    {
+      "url": "/portfolio/lexop"
+    },
+    {
+      "url": "/portfolio/livescale"
+    },
+    {
+      "url": "/portfolio/marketmuse"
+    },
+    {
+      "url": "/portfolio/masterpiece-studio"
+    },
+    {
+      "url": "/portfolio/matchbook"
+    },
+    {
+      "url": "/portfolio/mayday"
+    },
+    {
+      "url": "/portfolio/medstack"
+    },
+    {
+      "url": "/portfolio/metacommerce"
+    },
+    {
+      "url": "/portfolio/mobsquad"
+    },
+    {
+      "url": "/portfolio/moves"
+    },
+    {
+      "url": "/portfolio/mymentor"
+    },
+    {
+      "url": "/portfolio/narrator"
+    },
+    {
+      "url": "/portfolio/nello"
+    },
+    {
+      "url": "/portfolio/nolk"
+    },
+    {
+      "url": "/portfolio/osom"
+    },
+    {
+      "url": "/portfolio/odaia"
+    },
+    {
+      "url": "/portfolio/onevest"
+    },
+    {
+      "url": "/portfolio/orchard"
+    },
+    {
+      "url": "/portfolio/painworth"
+    },
+    {
+      "url": "/portfolio/passage"
+    },
+    {
+      "url": "/portfolio/pathway-medical"
+    },
+    {
+      "url": "/portfolio/perksy"
+    },
+    {
+      "url": "/portfolio/placeholder"
+    },
+    {
+      "url": "/portfolio/platformatic"
+    },
+    {
+      "url": "/portfolio/poppy"
+    },
+    {
+      "url": "/portfolio/practice"
+    },
+    {
+      "url": "/portfolio/purposemed"
+    },
+    {
+      "url": "/portfolio/qohash"
+    },
+    {
+      "url": "/portfolio/relay"
+    },
+    {
+      "url": "/portfolio/renaissance"
+    },
+    {
+      "url": "/portfolio/replayziq"
+    },
+    {
+      "url": "/portfolio/reworkd-ai"
+    },
+    {
+      "url": "/portfolio/roundtrip-ai"
+    },
+    {
+      "url": "/portfolio/salonhq"
+    },
+    {
+      "url": "/portfolio/sanctuary-ai"
+    },
+    {
+      "url": "/portfolio/semantic-health"
+    },
+    {
+      "url": "/portfolio/setori"
+    },
+    {
+      "url": "/portfolio/share"
+    },
+    {
+      "url": "/portfolio/smart-access"
+    },
+    {
+      "url": "/portfolio/snack"
+    },
+    {
+      "url": "/portfolio/socivolta"
+    },
+    {
+      "url": "/portfolio/solesavy"
+    },
+    {
+      "url": "/portfolio/spatula"
+    },
+    {
+      "url": "/portfolio/spocket"
+    },
+    {
+      "url": "/portfolio/surebright"
+    },
+    {
+      "url": "/portfolio/tailscale"
+    },
+    {
+      "url": "/portfolio/teamlinkt"
+    },
+    {
+      "url": "/portfolio/thecommons"
+    },
+    {
+      "url": "/portfolio/vetted"
+    },
+    {
+      "url": "/portfolio/voila"
+    },
+    {
+      "url": "/portfolio/volley"
+    },
+    {
+      "url": "/portfolio/vyrill"
+    },
+    {
+      "url": "/portfolio/waverly"
+    },
+    {
+      "url": "/portfolio/wisk"
+    },
+    {
+      "url": "/portfolio/wize"
+    },
+    {
+      "url": "/portfolio/wizebank"
+    },
+    {
+      "url": "/portfolio/zeffy"
+    },
+    {
+      "url": "/portfolio/wecasa"
+    },
+    {
+      "url": "/portfolio/flinks"
+    },
+    {
+      "url": "/portfolio/guiker"
+    },
+    {
+      "url": "/portfolio/lane"
+    },
+    {
+      "url": "/portfolio/oncall-health"
+    },
+    {
+      "url": "/portfolio/proof"
+    },
+    {
+      "url": "/portfolio/shift"
+    },
+    {
+      "url": "/portfolio/dfuse-now-streaming-fast"
+    },
+    {
+      "url": "/portfolio/valence-discovery"
+    },
+    {
+      "url": "/portfolio/wolf-and-grizzly"
+    },
+    {
+      "url": "/portfolio/yuhu"
+    }
+  ]
+}

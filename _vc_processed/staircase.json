@@ -1,0 +1,27 @@
+[
+    {
+      "company_name": "Galatea",
+      "company_description": "Galatea enables natural resource companies to track and optimize their water and waste disposal, resulting in lower costs and reduced environmental impact. Galatea enables clients to digitize their workflows and then, in real-time, Galatea’s proprietary algorithms recommend the most cost-effective, environmentally appropriate waste disposal process for each load.",
+      "website": "https://galateatech.com/"
+    },
+    {
+    "company_name": "Sibli",
+    "company_description": "Sibli uses generative AI in combination with natural language processing and other deep-learning algorithms to transform the investment research process and enable institutional asset managers to make better investment decisions. The Sibli platform processes vast amounts of structured and unstructured data, finds relevant insights, and delivers actionable research to fundamental and quantitative asset managers. ",
+    "website": "https://sibli.ai/"
+    },
+    {
+    "company_name": "Rhenti",
+    "company_description": "Rhenti is a unified marketing automation and leasing platform that improves the efficiency and effectiveness of the ‘lead-to-lease’ process for residential rental property owners, operators, and property managers. Rhenti’s powerful software boosts renter awareness for rental listings, reduces time to lease, and gives renters a best-in-class user experience.",
+    "website": "https://rhenti.com/"
+    },
+    {
+    "company_name": "Biossil",
+    "company_description": "Biossil is an applied AI drug discovery platform, focused on developing targeted therapies for biologically defined patient sub-populations.  Biossil’s advanced multimodal AI platform combines and synthesizes over a trillion data points to uncover the molecular basis of disease variability and to identify therapies that are precisely targeted to the right patients.",
+    "website": "https://biossil.com/"
+    },
+    {
+    "company_name": "Fillip",
+    "company_description": "Fillip is a modern shift in the way businesses deal with fuel and vehicle expenses. It puts control in the hands of the business — making the process simple, reliable, and more economical. Fillip’s digital platform modernizes the expense and payment process for growing businesses. Fillip is universally accepted across Canada making fueling business easier, more convenient, and more transparent.",
+    "website": "https://fillipfleet.com"
+    }
+]

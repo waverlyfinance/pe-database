@@ -1,0 +1,656 @@
+[
+  {
+    "company_name": "ACTO",
+    "company_description": "ACTO is a one-stop-shop sales, marketing, and training platform designed to help life science companies increase sales and brand awareness while reducing compliance risks.",
+    "hq": "Ontario",
+    "website": "https://actoapp.com/"
+  },
+  {
+    "company_name": "ALT TEX",
+    "company_description": "ALT TEX designs and manufactures sustainable and ethical textiles engineered from food waste.",
+    "hq": "Ontario",
+    "website": "https://thealttex.com/"
+  },
+  {
+    "company_name": "Altrio",
+    "company_description": "Altrio is a software platform that optimizes workflows and deal tracking for commercial real estate (CRE) investors. It provides access/aggregation of investment and market data that helps them understand trends and make informed decisions.",
+    "hq": "Ontario",
+    "website": "https://altrio.com/"
+  },
+  {
+    "company_name": "Angelhost",
+    "company_description": "Angelhost is a concierge service that helps property managers and owners oversee their short-term rentals.",
+    "hq": "Quebec",
+    "website": "https://www.myangelhost.com/"
+  },
+  {
+    "company_name": "Aon3D",
+    "company_description": "Aon3D creates industrial-grade 3D printers at a fraction of the cost.",
+    "hq": "Quebec",
+    "website": "https://www.aon3d.com/"
+  },
+  {
+    "company_name": "Arcadia",
+    "company_description": "Arcadia is a VR sports platform that allows anyone to run and compete with their friends in a large-scale multiplayer digital arena.",
+    "hq": "Quebec",
+    "website": "https://www.arcadia.tv/"
+  },
+  {
+    "company_name": "Audette",
+    "company_description": "Audette automates low-carbon transition project planning and financing for large commercial real estate portfolios.",
+    "hq": "British Columbia",
+    "website": "https://www.audette.io/"
+  },
+  {
+    "company_name": "Audible Reality",
+    "company_description": "Audible Reality, the experts in immersive audio, have developed a growing ecosystem of software products for artists and their fans using patented AI-driven 3D audio technology and NFTs to deliver fully immersive and personalized sound experiences, no matter where or how you listen.",
+    "hq": "Quebec",
+    "website": "http://www.audiblereality.com/"
+  },
+  {
+    "company_name": "Beatdapp",
+    "company_description": "Beatdapp is a B2B Distributed Application (DApp) that helps creative rights holders like music labels track their works and collect royalties.",
+    "hq": "British Columbia",
+    "website": "https://beatdapp.com/"
+  },
+  {
+    "company_name": "Big Whale Labs",
+    "company_description": "Big Whale Labs is a web3 startup building at the intersection of zk, social, and crypto.",
+    "hq": "British Columbia",
+    "website": "https://bigwhalelabs.com/"
+  },
+  {
+    "company_name": "Blume",
+    "company_description": "Blume is a direct-to-consumer collection of sustainable self-care products \u00e2\u0080\u0094 like feminine hygiene and skin care products \u00e2\u0080\u0094 specifically for tween/Gen-Z girls.",
+    "hq": "British Columbia",
+    "website": "https://www.meetblume.com/"
+  },
+  {
+    "company_name": "Botpress",
+    "company_description": "Botpress is an open-source conversational Al platform for building enterprise-grade bots.",
+    "hq": "Quebec",
+    "website": "https://botpress.io/"
+  },
+  {
+    "company_name": "CTO.ai",
+    "company_description": "CTO.ai is a business intelligence platform that helps software companies make data-driven product decisions and scale intelligently.",
+    "hq": "British Columbia",
+    "website": "http://cto.ai/"
+  },
+  {
+    "company_name": "Carbide",
+    "company_description": "Carbide provides organizations with the tools they need to quickly and efficiently launch a cyber security strategy.",
+    "hq": "Nova Scotia",
+    "website": "https://carbidesecure.com/"
+  },
+  {
+    "company_name": "Certn",
+    "company_description": "Certn performs fast, compliant, and affordable background checks for people like businesses, landlords, and property managers.",
+    "hq": "British Columbia",
+    "website": "https://certn.co/"
+  },
+  {
+    "company_name": "Clutch",
+    "company_description": "Clutch makes hassle-free used car buying & financing possible from the comfort of home.",
+    "hq": "Ontario",
+    "website": "https://www.clutch.ca/"
+  },
+  {
+    "company_name": "CoLab",
+    "company_description": "CoLab is a cloud-based issue tracking and management tool for mechanical design teams.",
+    "hq": "Newfoundland and Labrador",
+    "website": "https://www.colabsoftware.com/"
+  },
+  {
+    "company_name": "Communo",
+    "company_description": "Communo helps advertising agencies acquire high-quality talent on an as-needed basis, and helps creatives find meaningful projects.",
+    "hq": "Alberta",
+    "website": "https://communo.com/"
+  },
+  {
+    "company_name": "Dooly",
+    "company_description": "Dooly automates the CRM process \u00e2\u0080\u0094 interpreting notes and conversations, extracting actions, and updating the CRM database \u00e2\u0080\u0094 enabling sales teams to sell more.",
+    "hq": "British Columbia",
+    "website": "https://www.dooly.ai/"
+  },
+  {
+    "company_name": "Dreamfold AI",
+    "company_description": "DreamFold is developing generative machine learning algorithms to navigate the vast space of proteins to discover medicines. We work at the intersection of machine learning, molecular simulation, and synthetic biology. Our goal is to save millions of patients left without a cure.",
+    "hq": "Quebec",
+    "website": "http://www.dreamfold.ai/"
+  },
+  {
+    "company_name": "Dwelling",
+    "company_description": "Dwelling is a faster, simpler way to save for your first house. The platform combines savings and advice to make buying a home painless and possible.",
+    "hq": "Ontario",
+    "website": "https://dwelling.co/"
+  },
+  {
+    "company_name": "Kushim",
+    "company_description": "Kushim is dealflow, portfolio, and LP management software for venture capital and private equity.",
+    "hq": "international",
+    "website": "https://www.kushim.vc/"
+  },
+  {
+    "company_name": "Eli Health",
+    "company_description": "Eli Health is the creator of an all-natural contraception and a fertility device.",
+    "hq": "Quebec",
+    "website": "https://eli.health/"
+  },
+  {
+    "company_name": "EnPowered",
+    "company_description": "EnPowered is an energy management company that helps companies in heavy industries control their energy usage using Al/ML.",
+    "hq": "Ontario",
+    "website": "https://enterprise.en-powered.com/"
+  },
+  {
+    "company_name": "FI.SPAN",
+    "company_description": "FI.SPAN's API management platform enables banks to quickly deploy new business banking products.",
+    "hq": "British Columbia",
+    "website": "https://www.fispan.com/"
+  },
+  {
+    "company_name": "FightCamp",
+    "company_description": "FightCamp brings boxing and HIIT workouts to your living room, with wrist-mounted motion trackers that track every punch thrown and every rep completed.",
+    "hq": "USA",
+    "website": "https://joinfightcamp.com/"
+  },
+  {
+    "company_name": "FleetOps",
+    "company_description": "FleetOps is an on-demand freight marketplace that instantly matches freight from brokers and shippers, with carriers that have available capacity.",
+    "hq": "Ontario",
+    "website": "https://www.fleetops.ai/"
+  },
+  {
+    "company_name": "Forestry",
+    "company_description": "Forestry.io is a content management system (CMS) for websites, built with a modern technology stack.",
+    "hq": "Prince Edward Island",
+    "website": "https://forestry.io/"
+  },
+  {
+    "company_name": "Forma.ai",
+    "company_description": "Forma.AI provides incentive compensation management (ICM) for large companies that struggle with calculating, organizing, and maintaining a system to pay out their sales people.",
+    "hq": "Ontario",
+    "website": "https://www.forma.ai/"
+  },
+  {
+    "company_name": "Fraction",
+    "company_description": "Fraction helps homeowners take their home equity and put it into other investments.",
+    "hq": "British Columbia",
+    "website": "https://www.fractionrealestate.co/"
+  },
+  {
+    "company_name": "Gainful",
+    "company_description": "Gainful is a protein powder tailored specifically to your body type and fitness goals.",
+    "hq": "USA",
+    "website": "https://www.gainful.com/"
+  },
+  {
+    "company_name": "Green Eye Technologies",
+    "company_description": "Greeneye leverages AI for agricultural pest control, reducing chemical usage while increasing productivity and profitability for farmers.",
+    "hq": "Quebec",
+    "website": "https://greeneye.ag/"
+  },
+  {
+    "company_name": "Harbr",
+    "company_description": "Harbr manages scheduling data for construction companies, and analyzes the data for insights that keep projects on-time and on-budget.",
+    "hq": "Nova Scotia",
+    "website": "https://www.harbr.com/"
+  },
+  {
+    "company_name": "Hellohire",
+    "company_description": "Hellohire is a speed interview platform that helps recruiters screen and hire candidates quickly, ideal for high volume and campus recruiting, continuous hiring and job fairs.",
+    "hq": "Ontario",
+    "website": "https://www.tryhellohire.com/"
+  },
+  {
+    "company_name": "Honestdoor",
+    "company_description": "HonestDoor is an intelligence platform for the Canadian real estate market that provides an instant estimate of property value.",
+    "hq": "Alberta",
+    "website": "https://www.honestdoor.com/"
+  },
+  {
+    "company_name": "HumanFirst",
+    "company_description": "HumanFirst augments live chat agents by suggesting the best responses \u00e2\u0080\u0094 helping them engage more quickly, with more visitors, without typing.",
+    "hq": "Quebec",
+    "website": "https://www.humanfirst.ai/"
+  },
+  {
+    "company_name": "HyperComply",
+    "company_description": "HyperComply is a platform that enables vendors to complete inbound security questionnaires faster and more accurately.",
+    "hq": "Ontario",
+    "website": "https://www.hypercomply.com/"
+  },
+  {
+    "company_name": "Impro.AI",
+    "company_description": "Impro enables executives, leaders and all employees to manage with clarity through an integrated and data-driven coaching, mentoring and consulting solution. Managers and employees adopt new work habits using Impro's 5 minute per day, micro-coaching app while executives optimize performance leveraging the organization-wide insights.",
+    "hq": "British Columbia",
+    "website": "https://impro.ai/"
+  },
+  {
+    "company_name": "Korapay",
+    "company_description": "Korapay is building a suite of plug-and-play payment tools to help local and global businesses accept and send payments in Africa.",
+    "hq": "Ontario",
+    "website": "https://korapay.com/"
+  },
+  {
+    "company_name": "Lancey",
+    "company_description": "Lancey create pixel perfect interactive product experience to help prospects discover the aha moments upfront, without any friction.",
+    "hq": "Ontario",
+    "website": "https://www.getlancey.com/"
+  },
+  {
+    "company_name": "Legalmate",
+    "company_description": "LegalMate provides legal services and payment facilitation to SMBs.",
+    "hq": "Ontario",
+    "website": "https://www.legalmate.co/"
+  },
+  {
+    "company_name": "Lexop",
+    "company_description": "Lexop helps telecommunication, financial, and utility companies remove friction from their recovery efforts, by offering the smoothest self-service payment experience for past-due customers.",
+    "hq": "Quebec",
+    "website": "https://www.lexop.com/"
+  },
+  {
+    "company_name": "LiveScale",
+    "company_description": "LiveScale allows content creators to reach fragmented audiences, by optimizing video quality for any outlet (broadcast, web, and social media).",
+    "hq": "Quebec",
+    "website": "https://www.livescale.tv/"
+  },
+  {
+    "company_name": "MarketMuse",
+    "company_description": "MarketMuse is an Al-powered research assistant that accelerates content creation and optimization for organic search.",
+    "hq": "USA",
+    "website": "https://www.marketmuse.com/"
+  },
+  {
+    "company_name": "Masterpiece Studio",
+    "company_description": "Masterpiece Studio is a collaborative sculpting and painting tool that enables users to easily create 3D content in virtual reality.",
+    "hq": "Ontario",
+    "website": "https://www.masterpiecevr.com/"
+  },
+  {
+    "company_name": "Matchbook",
+    "company_description": "Matchbook aggregates and enhances current data systems using 3rd party data for corporate information.",
+    "hq": "USA",
+    "website": "https://matchbookai.com/"
+  },
+  {
+    "company_name": "Mayday",
+    "company_description": "Mayday's wellness & productivity platform helps you make time for what matters most, both professionally and personally.",
+    "hq": "Ontario",
+    "website": "https://mayday.am/"
+  },
+  {
+    "company_name": "MedStack",
+    "company_description": "MedStack accelerates healthcare apps to market with built-in privacy and security protocols, in a developer-flexible cloud hosting environment, with pre-written HIPAA privacy policy documentation.",
+    "hq": "Ontario",
+    "website": "https://medstack.co/"
+  },
+  {
+    "company_name": "Metacommerce",
+    "company_description": "Metacommerce is a platform that provides tools for web3 creators to make, manage, and launch NFT experiences like deploying smart contracts and launching storefronts.",
+    "hq": "Ontario",
+    "website": "https://www.metacommerce.app/"
+  },
+  {
+    "company_name": "MobSquad",
+    "company_description": "MobSquad solves the significant and growing technology talent shortage faced by US-based startups and scale-ups, by enabling its clients to quickly have a turnkey \"virtual\" Canadian subsidiary.",
+    "hq": "Alberta",
+    "website": "https://mobsquad.io/"
+  },
+  {
+    "company_name": "Moves",
+    "company_description": "Moves is a B2C fintech platform that enables gig economy workers to integrate and manage earnings across multiple apps, and equips users with insights on performance, community stats, and content that optimizes their experience across apps.",
+    "hq": "Ontario",
+    "website": "https://movesfinancial.com/"
+  },
+  {
+    "company_name": "MyMentor",
+    "company_description": "MyMentor connects international students applying to US colleges and graduate programs with top US students for one-on-one support through their application process.",
+    "hq": "Ontario",
+    "website": "https://mymentor.global/"
+  },
+  {
+    "company_name": "Narrator",
+    "company_description": "Narrator's platform standardizes your company's data into a format that makes it easy to find answers to standard data questions.",
+    "hq": "USA",
+    "website": "https://www.narrator.ai/"
+  },
+  {
+    "company_name": "Nello",
+    "company_description": "Nello helps creators turn monetization into meaningful opportunities to co-create with their biggest fans and strengthen their relationship with their communities.",
+    "hq": "Ontario",
+    "website": "https://nello.co"
+  },
+  {
+    "company_name": "Nolk",
+    "company_description": "Nolk is creating and scaling a portfolio of direct-to-consumer brands using GeniusWire\u2122 \u2014 their proprietary data and analytics platform.",
+    "hq": "Quebec",
+    "website": "https://nolk.com/"
+  },
+  {
+    "company_name": "OSOM",
+    "company_description": "OSOM is creating a hardware and software ecosystem with enhanced security and privacy features.",
+    "hq": "USA",
+    "website": "https://osomprivacy.com/"
+  },
+  {
+    "company_name": "Odaia",
+    "company_description": "ODAIA's business intelligence platform analyzes all customer touchpoints to help companies understand, predict, and change their customers' journeys.",
+    "hq": "Ontario",
+    "website": "https://www.odaia.ai/"
+  },
+  {
+    "company_name": "Onevest",
+    "company_description": "OneVest enables enterprises to deliver better wealth management services to their customers via an end-to-end platform.",
+    "hq": "Alberta",
+    "website": "https://www.onevest.com/"
+  },
+  {
+    "company_name": "Orchard",
+    "company_description": "Orchard makes it affordable to own a premium smartphone without signing long-term service contracts.",
+    "hq": "Ontario",
+    "website": "https://www.getorchard.com/"
+  },
+  {
+    "company_name": "Painworth",
+    "company_description": "Painworth helps claimants and insurers calculate, manage, and directly settle personal injury claims without the need for expensive middlemen like lawyers.",
+    "hq": "Alberta",
+    "website": "https://painworth.com/"
+  },
+  {
+    "company_name": "Passage",
+    "company_description": "Passage is a platform that matches international talents with Canada's workforce needs while providing access to life-changing educational and career opportunities. By offering financial solutions (such as student loans, grants and scholarships), Passage is able to best facilitate a newcomer\u2019s transition to life in Canada.",
+    "hq": "Ontario",
+    "website": "https://www.passage.com/"
+  },
+  {
+    "company_name": "Pathway Medical",
+    "company_description": "Pathway Medical creates evidence-based decision support tools for health professionals. worldwide",
+    "hq": "Quebec",
+    "website": "https://pathway.md/"
+  },
+  {
+    "company_name": "Perksy",
+    "company_description": "Perksy\u00e2\u0080\u0099s platform provides consumer insights through contextual, real-time, mobile research.",
+    "hq": "USA",
+    "website": "https://www.getperksy.com/"
+  },
+  {
+    "company_name": "Placeholder",
+    "company_description": "Placeholder is an online marketplace where fast-growing companies can find flexible and long-term warehouse space.",
+    "hq": "Alberta",
+    "website": "https://placeholder.co/"
+  },
+  {
+    "company_name": "Platformatic",
+    "company_description": "Platformatic's back-end development platform makes it easier for enterprises to modernize their infrastructure by giving them the tools to build and deploy microservices-based architectures with the simplicity of a monolith.",
+    "hq": "British Columbia",
+    "website": "https://platformatic.dev/"
+  },
+  {
+    "company_name": "Poppy",
+    "company_description": "Poppy is building an all-in-one smart device for testing of harmful pathogens.",
+    "hq": "Ontario",
+    "website": "https://www.poppy.com/"
+  },
+  {
+    "company_name": "Practice",
+    "company_description": "Practice is a marketplace for habit-building and learning through mentorship.",
+    "hq": "Quebec",
+    "website": "https://practice.do/"
+  },
+  {
+    "company_name": "PurposeMed",
+    "company_description": "PurposeMed is improving access to complex care for underserved communities by connecting them with specialized clinicians, using technology and smart design.",
+    "hq": "Alberta",
+    "website": "http://Purposemed.com"
+  },
+  {
+    "company_name": "Qohash",
+    "company_description": "Qohash's first product, Qostodian, provides organizations with the ability to maintain a tamper-proof audit trail of their most sensitive files.",
+    "hq": "Quebec",
+    "website": "https://www.qohash.com/"
+  },
+  {
+    "company_name": "Relay",
+    "company_description": "Relay is a no-fee digital business banking solution.",
+    "hq": "Ontario",
+    "website": "https://relayfi.com/"
+  },
+  {
+    "company_name": "Renaissance",
+    "company_description": "Renaissance is building an online community for music superfans.",
+    "hq": "British Columbia",
+    "website": "https://get.renaissance.app/"
+  },
+  {
+    "company_name": "ReplayzIQ",
+    "company_description": "ReplayzIQ's sales enablement platform uses data science to analyze call scoring data and predict the skills and behaviours that influence average deal size and sales cycle the most.",
+    "hq": "British Columbia",
+    "website": "https://www.replayziq.com/"
+  },
+  {
+    "company_name": "Reworkd AI",
+    "company_description": "Reworkd makes it so easy to build, configure and deploy AI assistants in the browser so that anyone can build one.",
+    "hq": "British Columbia",
+    "website": "https://reworkd.ai"
+  },
+  {
+    "company_name": "Roundtrip.AI",
+    "company_description": "Roundtrip is building software to help every business deliver in the last-mile.",
+    "hq": "Ontario",
+    "website": "https://roundtrip.ai/"
+  },
+  {
+    "company_name": "SalonHQ",
+    "company_description": "SalonHQ improves efficiencies and sales by bringing the entire salon value chain (brands, distributors, salons, and consumers) together on a single platform.",
+    "hq": "USA",
+    "website": "http://salonhq.co/"
+  },
+  {
+    "company_name": "Sanctuary.ai",
+    "company_description": "Sanctuary is an artificial general intelligence (AGI) company that's building humanoid robots with superhuman empathy.",
+    "hq": "British Columbia",
+    "website": "https://www.sanctuary.ai/"
+  },
+  {
+    "company_name": "Semantic Health",
+    "company_description": "Semantic Health provides Al-powered medical coding and auditing for primary care facilities.",
+    "hq": "Ontario",
+    "website": "http://www.semantichealth.ai/"
+  },
+  {
+    "company_name": "Setori",
+    "company_description": "Setori provides Simple Engineering Metrics for startups to help dev and product teams operate at an elite level. With Setori, you can diagnose your bottlenecks, improve your practices and deliver consistently on time and on budget.",
+    "hq": "USA",
+    "website": "https://www.setori.ai/"
+  },
+  {
+    "company_name": "Share",
+    "company_description": "SHARE is a completely digital way to build a portfolio of fully managed, cash flowing US rental real estate.",
+    "hq": "Ontario",
+    "website": "https://www.sharesfr.com/"
+  },
+  {
+    "company_name": "Smart Access",
+    "company_description": "Smart Access helps organizations with \"deskless workers\" leverage today's technology to level-up their workforce with timely information \u00e2\u0080\u0094 in-store and at the warehouse.",
+    "hq": "Alberta",
+    "website": "https://smartaccess.io/"
+  },
+  {
+    "company_name": "Snack",
+    "company_description": "Snack is a video-first dating app for Generation Z.",
+    "hq": "British Columbia",
+    "website": "https://www.thesnackapp.com/"
+  },
+  {
+    "company_name": "SociVolta",
+    "company_description": "SociVolta uses predictive, AI-guided arbitrage algorithms in wholesale electricity markets to anticipate inefficiencies and profit from arbitrage spreads.",
+    "hq": "Quebec",
+    "website": "http://socivolta.com/"
+  },
+  {
+    "company_name": "SoleSavy",
+    "company_description": "SoleSavy is an exclusive community for sneakerheads.",
+    "hq": "British Columbia",
+    "website": "https://solesavy.com/"
+  },
+  {
+    "company_name": "Spatula",
+    "company_description": "Spatula is a frozen food brand at the intersection of quality and convenience. As opposed to traditional frozen meals that are convenient but could never reach restaurant quality when it comes to taste, Spatula is working with chefs at top restaurants to curate meals that are up to their standard.",
+    "hq": "Ontario",
+    "website": "https://www.spatulafoods.com/"
+  },
+  {
+    "company_name": "Spocket",
+    "company_description": "Spocket is a wholesale marketplace that connects online retail entrepreneurs with dropship-capable suppliers.",
+    "hq": "British Columbia",
+    "website": "https://spocket.co/"
+  },
+  {
+    "company_name": "SureBright",
+    "company_description": "SureBright enables US and Canadian eCommerce stores and B2C tech companies to embed warranties for the products they sell.",
+    "hq": "Ontario",
+    "website": "https://www.surebright.com/"
+  },
+  {
+    "company_name": "Tailscale",
+    "company_description": "Tailscale is security software that enables zero-trust networking for legacy systems.",
+    "hq": "Quebec",
+    "website": "https://tailscale.com/"
+  },
+  {
+    "company_name": "Teamlinkt",
+    "company_description": "Teamlinkt provides a free Sports Management Platform and Team App to thousands of teams, leagues, associations, clubs, and schools.",
+    "hq": "Saskatchewan",
+    "website": "https://teamlinkt.com/"
+  },
+  {
+    "company_name": "The Commons",
+    "company_description": "The Commons offers online education for business careers in tech.",
+    "hq": "Quebec",
+    "website": "https://www.joinskillful.com/"
+  },
+  {
+    "company_name": "Lustre",
+    "company_description": "Lustre is a Chrome plug-in that scrapes the Internet for product specs and reviews \u00e2\u0080\u0094 using Al to perform product research so you don't have to.",
+    "hq": "USA",
+    "website": "https://lustre.ai/"
+  },
+  {
+    "company_name": "Voila",
+    "company_description": "Voila is autonomous workforce management for shift work.",
+    "hq": "Quebec",
+    "website": "https://voila.app/en/"
+  },
+  {
+    "company_name": "Volley",
+    "company_description": "Volley helps B2B companies talk to their prospects by scaling personalized and hyper-relevant outreach.",
+    "hq": "Ontario",
+    "website": "https://www.volley.com/"
+  },
+  {
+    "company_name": "Vyrill",
+    "company_description": "Vyrill is an AI-driven tool for marketers that facilitates in-video search, analytics, and licensing of user-generated video content.",
+    "hq": "USA",
+    "website": "https://vyrill.com/"
+  },
+  {
+    "company_name": "Waverly",
+    "company_description": "Waverly is an empathetic Al-driven personal content curator.",
+    "hq": "Quebec",
+    "website": "https://mywaverly.com/"
+  },
+  {
+    "company_name": "Wisk",
+    "company_description": "Wisk is a beverage intelligence platform that helps restaurants, bars, and hotels manage their inventory.",
+    "hq": "Quebec",
+    "website": "https://wisk.ai/"
+  },
+  {
+    "company_name": "Wize",
+    "company_description": "Wize is an all-in-one education platform offering instant online access to course-tailored high school and university exam-prep, tutorials, expert tutors, and many other study tools",
+    "hq": "British Columbia",
+    "website": "https://wizeprep.com/"
+  },
+  {
+    "company_name": "Wizebank",
+    "company_description": "Wizebank lets online course creators offer Learn Now, Pay Later financing to prospective students, improving enrollment.",
+    "hq": "British Columbia",
+    "website": "https://www.wizebank.co/"
+  },
+  {
+    "company_name": "Zeffy",
+    "company_description": "Zeffy is an online financial platform designed to empower nonprofits to raise funding through technology. The company's platform runs donation campaigns, ticketing, membership forms and volunteer recruitment for community work, enabling individuals to find volunteer opportunities according to their availability, location and interests.",
+    "hq": "Quebec",
+    "website": "https://www.zeffy.com/"
+  },
+  {
+    "company_name": "WeCasa",
+    "company_description": "WeCasa lets Canadians own full managed luxury vacation homes for a fraction of the price by bringing together vetted co-owners and taking care of the endless headaches of second home ownership.",
+    "hq": "British Columbia",
+    "website": "https://www.we.casa/"
+  },
+  {
+    "company_name": "Flinks",
+    "company_description": "Flinks is a financial data gateway between fintech apps and Canadian bank accounts.",
+    "hq": "Quebec",
+    "website": "https://flinks.io/"
+  },
+  {
+    "company_name": "Guiker",
+    "company_description": "Guiker is an end-to-end platform that international students can use to search for a home, connect with landlords, send and sign documents, and make payments \u2014 all online.",
+    "hq": "Quebec",
+    "website": "https://guiker.com/en/"
+  },
+  {
+    "company_name": "Lane",
+    "company_description": "Lane is the first mobile tenant engagement solution for commercial real estate",
+    "hq": "Ontario",
+    "website": "https://www.joinlane.com/"
+  },
+  {
+    "company_name": "OnCall Health",
+    "company_description": "OnCall Health enables healthcare providers with the ability to provide telemedicine services to their patients.",
+    "hq": "Ontario",
+    "website": "https://oncallhealth.ca/"
+  },
+  {
+    "company_name": "Proof",
+    "company_description": "Proof empowers governments to go paperless by streamlining approvals and improving data-driven decisions.",
+    "hq": "Yukon",
+    "website": "https://proofgov.com/"
+  },
+  {
+    "company_name": "Shift",
+    "company_description": "Shift is a desktop app for streamlining your accounts, apps, and workflows.",
+    "hq": "British Columbia",
+    "website": "https://tryshift.com/"
+  },
+  {
+    "company_name": "Streaming Fast",
+    "company_description": "Streaming Fast (previously Dfuse) is building blockchain APls that give the next generation of developers a platform to build decentralized applications on top of.",
+    "hq": "Quebec",
+    "website": "https://streamingfast.io/"
+  },
+  {
+    "company_name": "Valence Discovery",
+    "company_description": "Valence Discovery is developing novel methods for data-efficient computational drug design, making it possible to work with small and noisy datasets.",
+    "hq": "Quebec",
+    "website": "http://invivoai.com/"
+  },
+  {
+    "company_name": "Wolf & Grizzly",
+    "company_description": "Wolf & Grizzly designs tools that enable adventure from the backyard to the backcountry.",
+    "hq": "Ontario",
+    "website": "https://www.wolfandgrizzly.com/"
+  },
+  {
+    "company_name": "Yuhu",
+    "company_description": "Yuhu is an end-to-end operations platform for multi-residential property managers.",
+    "hq": "Ontario",
+    "website": "https://yuhu.io/"
+  }
+]

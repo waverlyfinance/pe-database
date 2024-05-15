@@ -1,0 +1,305 @@
+[
+  {
+    "company_name": "Aspect Biosystems",
+    "company_description": "Aspect Biosystems is building a new class of regenerative medicine with a full-stack tissue therapeutic platform. Its transformative platform technology combines proprietary bioprinting technology, therapeutic cells, biomaterials, and computational design to build allogeneic tissue therapeutics. Current tissues under development in Aspect\u2019s bioengineering pipeline include personalized liver tissue as well as a pancreatic tissue for type 1 diabetes. Aspect\u2019s proprietary bioprinting platform is behind over 20 collaboration projects with leading pharma, biotech, and research centers around the world. In Spring 2023, Aspect announced a US$2.6 billion partnership with biopharma giant Novo Nordisk to develop bioprinted tissue therapeutics for diabetes and obesity. This was the largest deal in bioprinting history.",
+    "industry": "Biotechnology, Healthcare",
+    "date_of_investment": "2020",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/aspect-biosystems/"
+  },
+  {
+    "company_name": "BirchAI",
+    "company_description": "In many sub-sectors of healthcare, front-line phone-based customer support teams are staffed by clinically or otherwise highly trained employees. The BirchAI team brings extraordinary technological depth and industry experience to support the summarization and categorization of customer calls, delivering cost savings and efficiencies. AI technology of this nature unlocks insights that will fuel strategic product and business decisions for its customers. BirchAI\u2019s world-class AI team is led by its co-founder and CTO Yinhan Liu. Prior to BirchAI Yinhan was a star researcher at Facebook AI Research (FAIR), where she was lead author on some of Facebook\u2019s most important work in NLP, including the well-known RoBERTa and BART papers. Yinhan is responsible for building BirchAI\u2019s NLP technology from the ground up, allowing for accurate language documentation and summarization at a greater scale.",
+    "industry": "Healthcare",
+    "date_of_investment": "2022",
+    "status_current": "Acquired 2024",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/birch-ai/"
+  },
+  {
+    "company_name": "CentML",
+    "company_description": "Access to compute represents the biggest constraint on AI development globally \n\u2013 and it will become only more acute as AI adoption increases and inference workloads balloon. CentML allows enterprises to optimize their training and inference workloads, dramatically reducing time and costs, while cloud providers maximize available chip inventory, the most precious resource in today\u2019s technology stack.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/centml/"
+  },
+  {
+    "company_name": "Chemix",
+    "company_description": "Chemix’s mission is to accelerate the development of sustainable battery chemistry. By using AI to develop breakthrough EV battery technologies, Chemix aims to eliminate the reliance on rare earth minerals without compromising vehicle performance.",
+    "industry": "Energy",
+    "date_of_investment": "2021",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/chemix/"
+  },
+  {
+    "company_name": "ClimateAi",
+    "company_description": "ClimateAi is a pioneer in applying artificial intelligence to climate risk modelling, offering best-in-class extreme weather and climate prediction combined with industry specific operational insights. ClimateAi is a game changer for companies looking to better predict production, supply and demand challenges. With its AI-based solutions, businesses can make operational decisions that adapt to near-term weather changes and long-term climate shifts.",
+    "industry": "Climate",
+    "date_of_investment": "2021",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/climateai/"
+  },
+  {
+    "company_name": "Cohere",
+    "company_description": "Cohere empowers every developer and enterprise to build amazing products and capture true business value with language AI. Cohere\u2019s cutting-edge large language models are built on Transformer architecture and trained on supercomputers, providing natural language processing (NLP) solutions that don\u2019t need expensive ML development. With a world-class team of experts, Cohere is dedicated to helping companies revolutionize their operations and maximize potential in real-world business applications.",
+    "industry": "Artificial Intelligence",
+    "date_of_investment": "2020",
+    "status_current": "Active",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/cohere/"
+  },
+  {
+    "company_name": "Covariant",
+    "company_description": "From food distribution to healthcare to e-commerce, the global supply chain is facing unprecedented pressure to deliver orders quickly, reliably and efficiently, while keeping workers safe. Automation is the key to meeting those challenges. While repetitive and predictable tasks like the movement of goods have successfully been automated, complex and unpredictable tasks that require hands, such as picking, placing and unloading, have not. Traditional automation can\u2019t handle the constant change and infinite variability of these tasks. Automating them requires advanced AI that can understand, learn and adapt. Founded in 2017, Covariant is building the Covariant Brain, universal AI that enables robots to see, reason and act autonomously in the real world. Covariant robots learn general abilities such as robust 3D perception, physical affordances of objects, few-shot learning and real-time motion planning which gives them the intelligence to learn how to manipulate new objects they\u2019ve never seen before in environments where they\u2019ve never operated. With a world leading team of AI researchers and robotocists, Covariant has built a universal artificial intelligence platform that will reshape the future of robotics. We expect Covariant to create a global standard for the deployment and adoption of robotics across many facets of the economy.",
+    "industry": "Robotics",
+    "date_of_investment": "2020",
+    "status_current": "Active",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/covariant/"
+  },
+  {
+    "company_name": "Crossing Minds",
+    "company_description": "Online convenience and personal privacy is at an inflection point. As our digital lives become increasingly personalized, the technologies delivering those tailored experiences continue to encroach on our sense of privacy. \nPowered by the latest advances in deep learning and a team of AI experts, Crossing Minds provides recommendations that do not require personally identifiable information..",
+    "industry": "Commerce",
+    "date_of_investment": "2021",
+    "hq": null,
+    "website": null
+  },
+  {
+    "company_name": "DatologyAI",
+    "company_description": "AI models are a reflection of the data on which they are trained \n\u2013 models are what they eat. The specifics of the data on which a model is trained generally has a far greater impact on that model\u2019s performance than the specifics of the model\u2019s architecture. Training models on the right data can drive dramatic improvements in model performance and \n\u2013 just as importantly \n\u2013 in model efficiency. Data curation for self-supervised learning remains a challenging, cutting-edge research problem, one that only the world\u2019s top AI research labs are able to do effectively. Until now. DatologyAI was founded to democratize this critical part of the AI infrastructure stack, making model training more accessible to all through better data.",
+    "industry": "AI",
+    "date_of_investment": "2023",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/datologyai/"
+  },
+  {
+    "company_name": "Delphina",
+    "company_description": "Backed by a proven team of data scientists and engineers, Delphina is a copilot for data science that speeds predictive AI model building and deployment. By democratizing the ability to do sophisticated data science, Delphina will drive immense productivity gains and value creation for any organization, large or small, that deals in data \u2013 which, in 2023, means pretty much every organization on earth.",
+    "industry": "Data",
+    "date_of_investment": "2023",
+    "status_current": "Active",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/delphina/"
+  },
+  {
+    "company_name": "Enriched AG",
+    "company_description": "Enriched Ag has developed an AI-powered visual platform that automates inspection and monitoring across agriculture. Their land insights cover invasive species detection, forage productivity, infrastructure, carbon sequestration, and biodiversity to enhance ecosystem services. For livestock, the platform assesses body condition, health, and wellbeing for improved grazing management. Lastly, their crop platform detects damage, counts and estimates overall yields to enhance production efficiency. The system includes custom cameras, specialized predictive software, dashboards and an Ag-specific visual ML model.",
+    "industry": "Agriculture",
+    "date_of_investment": "2024",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/enriched-ag/"
+  },
+  {
+    "company_name": "Firsthand",
+    "company_description": "Firsthand allows publishers to create and distribute their own AI agents and chatbots directly with consumers everywhere online. Content creators can protect, control, and deploy their data across these 1:1 personalized conversations powered anywhere a consumer is seeking information. At the core of Firsthand is Lakebed, the company\u2019s AI rights and data management platform. With Lakebed, publishers and brands can protect their knowledge assets and retain complete control over where, when, and by whom their content is surfaced through AI.",
+    "industry": "Software",
+    "date_of_investment": "2023",
+    "website": "https://radical.vc/portfolio/firsthand/"
+  },
+  {
+    "company_name": "Genesis Therapeutics",
+    "company_description": "Genesis Therapeutics pairs proven drug developers with the industry\u2019s most advanced small molecule discovery platform. A world class team of drug developers, AI researchers and software engineers, Genesis Therapeutics is using AI to create transformative therapies for patients.",
+    "industry": "Biotechnology",
+    "date_of_investment": "2020",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/genesis-therapeutics/"
+  },
+  {
+    "company_name": "Graft",
+    "company_description": "Build, deploy, and monitor AI-powered solutions - no coding or ML expertise required.",
+    "industry": "Software",
+    "date_of_investment": "2023",
+    "website": "https://radical.vc/portfolio/graft/"
+  },
+  {
+    "company_name": "Hebbia",
+    "company_description": "Hebbia\u2019s AI platform is capable of reading and comprehending the untouched universe of unstructured, private data. Its \u2018neural search\u2019 enables a user to ask questions using natural language, with Hebbia searching all available data to provide answers immediately and accurately. Hebbia outperforms the current state of the art in machine learning information retrieval by an average of 57%. Hebbia\u2019s software can index any document type \u2014 scanned PDFs, spreadsheets, transcripts \u2014 transforming into an expert search engine for almost any form of language-based data. From broad market research to targeted information extraction, Hebbia automates diligence workflows, acting as an AI Analyst and instantly surfacing deal points even humans miss. Hebbia is attacking the vast opportunity of unstructured data, where traditional search has failed and where the greatest economic value has yet to be realized.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "website": "https://radical.vc/portfolio/hebbia/"
+  },
+  {
+    "company_name": "Lisa Health",
+    "company_description": "Lisa Health\u2019s Midday app is an end-to-end menopause management platform leveraging advanced algorithms and sensor technology to evaluate menopause progression and to deliver personalized insights, tips and evidence-based strategies and education based on each woman\u2019s stage and symptoms. Midday includes access to a Mayo Clinic-powered technology platform that delivers education to women about menopausal hormone therapy and helps them determine whether it may be right for them based on Mayo Clinic\u2019s algorithm. Women may also have the option to schedule a virtual visit with a Mayo Clinic menopause specialist through the Midday app.",
+    "industry": "Healthcare",
+    "date_of_investment": "2022",
+    "website": "https://radical.vc/portfolio/lisa-health/"
+  },
+  {
+    "company_name": "Laredo Labs",
+    "company_description": "Laredo Labs is a \u201cfull stack\u201d ML company on a mission to radically improve developer productivity: they build their own datasets, models, platform, and user experience. Laredo Labs has built a suite of novel foundation models over what we believe to be the most comprehensive software engineering dataset in existence today.",
+    "industry": "Software",
+    "date_of_investment": "2023",
+    "website": "https://radical.vc/portfolio/laredo-labs/"
+  },
+  {
+    "company_name": "Orbital Materials",
+    "company_description": "Traditional methods of discovering new materials have long relied on time-consuming trial and error processes in the lab, often resulting in years of experimentation before success is achieved. Orbital Materials is revolutionizing this approach by leveraging the power of generative AI to accelerate the material discovery process. At the heart of Orbital Materials\u2019 pioneering approach lies \u201cLINUS\u201d, an AI foundation model tailored for materials science. LINUS serves as the backbone of the company\u2019s research laboratory in New Jersey, where it drives the development of a robust pipeline of materials and chemical technologies crucial for facilitating the energy transition. By harnessing LINUS, the company captures the complexity of materials science, facilitating rapid advancements akin to the transformative impact that DeepMind\u2019s AlphaFold has had on protein research.",
+    "industry": "Materials",
+    "date_of_investment": "2023",
+    "status_current": "Active",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/orbital-materials/"
+  },
+  {
+    "company_name": "Muon Space",
+    "company_description": "The only way organizations can make meaningful decisions around how to respond to climate change and monitor the efficacy of those decisions is to have access to timely, high quality data. For almost every business, gaining access to new, sophisticated data from space remains incredibly difficult. Embarking on missions to collect data from space requires deep satellite and remote sensing expertise to design, build, launch and operate. Turning those new data sets into useful insights requires yet more expertise. Through its turnkey Scientific Earth Observation services, Muon is helping organizations that do not have space competency develop and utilize space-based observations.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/muon-space/"
+  },
+  {
+    "company_name": "Pixxel",
+    "company_description": "Pixxel is on a mission to build a health monitor for the planet. Pixxel\u2019s hyperspectral imaging platform is capable of diagnosing climate impacts at a global scale, providing granular insights to any business that benefits from understanding how the earth is changing. By leveraging their proprietary sensor design, Pixxel is pushing the state of the art on imagery resolution. These images feed powerful, AI-powered predictive models that will be relevant to many industries. Pixxel\u2019s platform unlocks a range of novel environment and sustainability use cases, offering advanced tools for agriculture, oil and gas, mining, and environmental agencies to analyze geospatial composites of the earth\u2019s surface in real-time through a simple API.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/pixxel/"
+  },
+  {
+    "company_name": "Pocket Health",
+    "company_description": "Traditional image management systems leave patients on the outside looking in while their doctors and hospitals share data between themselves. This too often fails patients at times when they are most in need. PocketHealth gives patients ownership of their imaging data and equips their hospitals with an industry-leading image management solution. The PocketHealth team is removing hard costs and friction for hospitals and health care providers while fundamentally empowering patients with a simple-to-use platform to participate in their care. Beyond streamlining the medical imaging industry, PocketHealth is showing itself to be a trusted steward of patient health data. Its focus on patient-centered care, privacy and security is a blueprint for the future of the electronic medical records industry.",
+    "industry": "Healthcare",
+    "date_of_investment": "2020",
+    "website": "https://radical.vc/portfolio/pocket-health/"
+  },
+  {
+    "company_name": "Promise Robotics",
+    "company_description": "Promise Robotics is transforming how buildings get made, with the aim of creating a more sustainable and affordable built environment. Promise Robotics brings together artificial intelligence, advanced manufacturing, and construction under one roof to create a platform for digital manufacturing. By helping builders, real estate developers, and other industry professionals leverage the efficiencies of industrialized automation, Promise Robotics aims to usher in a new era of sustainable construction.",
+    "industry": "Construction, Robotics, Supply Chain",
+    "date_of_investment": "2020",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/promise-robotics/"
+  },
+  {
+    "company_name": "Reka",
+    "company_description": "Reka, An AI research and product company that develops models to benefit humanity, organizations, and enterprises.",
+    "industry": "AI Research and Product Development",
+    "date_of_investment": "2023",
+    "website": "https://radical.vc/portfolio/reka/"
+  },
+  {
+    "company_name": "retrain.ai",
+    "company_description": "AI has the potential to dramatically improve how businesses manage their most essential resource, their talent. By leveraging powerful AI models, retrain.ai is reducing both the time-to-hire and increasing employee performance and retention. retrain.ai is helping businesses navigate an economy and workforce in the midst of a generational transition.",
+    "industry": "HR",
+    "date_of_investment": "2022",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/retrain-ai/"
+  },
+  {
+    "company_name": "RoadBotics",
+    "company_description": "RoadBotics\u2019 computer vision platform enables a smartphone, placed on a vehicle dashboard, to collect images of road surfaces, predict road damage and to prioritize repairs in a colour-coded map. RoadBotics is already delivering efficiencies to city managers and road owners, offering comprehensive infrastructure assessments at scale. Additionally, RoadBotics provides communities a mechanism to visualize, plan and communicate priorities to their constituents, bringing an unprecedented level of transparency to key infrastructure decisions. RoadBotics is a perfect example of Artificial Intelligence fixing an enormous global problem. It reduces costs and improves lives.",
+    "industry": "Infrastructure",
+    "date_of_investment": "2019",
+    "status_current": "Acquired 2022",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/roadbotics/"
+  },
+  {
+    "company_name": "Sensibill",
+    "company_description": "A receipt management solution that\u2019s supercharging mobile banking. Sensibill\u2019s machine learning technology reads physical and digital receipts, then organizes the data to generate useful insights and auditing tools. Global financial institutions are turning to Sensibill\u2019s data-driven, customer-facing AI solution to help small business customers manage their purchase receipts, reconcile their bank statements and file their taxes. But what makes Sensibill\u2019s technology so exciting is its capacity to collect SKU-level data and to match it to time, location and pricing. Such granular level insights have the potential to unlock entirely new business lines that may soon compete with the largest tech companies.",
+    "industry": "Financial Services",
+    "date_of_investment": "2019",
+    "status_current": "Acquired 2022",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/sensibill/"
+  },
+  {
+    "company_name": "Signal 1",
+    "company_description": "Hospitals today face unprecedented challenges, from surgical backlogs to staffing shortages. Signal 1\u2019s AI platform integrates AI-driven insights directly into existing workflows, delivering improved patient outcomes, enhanced hospital efficiency and reduced stress for front-line workers.",
+    "industry": "Healthcare",
+    "date_of_investment": "2022",
+    "website": "https://radical.vc/portfolio/signal-1/"
+  },
+  {
+    "company_name": "Synex",
+    "company_description": "Using magnetic resonance, the same underlying principle used in Magnetic Resonance Imaging (MRI), Synex is building wearable devices that would tell a person, in real time, how their body is performing by measuring glucose, lactate, and ketones \u2013 critical metabolites that affect everything from weight gain to athletic performance to the likelihood of developing diabetes.",
+    "industry": "Biotechnology, Healthcare",
+    "date_of_investment": "2020",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/synex/"
+  },
+  {
+    "company_name": "Twelve Labs",
+    "company_description": "Eighty percent of the world\u2019s data now resides in video form. Almost every part of our lives is deeply rooted in video\u2013 from organizational knowledge, meetings, and communications, to online learning, to our entertainment needs. Gen-Zers spend one-third of their waking hours watching or creating content. Twelve Labs\u2019 innovative API makes it possible for any company to unlock the power of video for the first time. The company\u2019s proprietary video understanding AI system can locate exact moments almost instantly across massive video archives \u2013 and makes video search as fast and easy as CTRL-F.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/twelve-labs/"
+  },
+  {
+    "company_name": "Ubenwa",
+    "company_description": "Ubenwa is a pioneering developer of diagnostic software for the rapid detection of medical anomalies in infant cry sounds. Ubenwa is working with hospital networks around the world to build a platform for sound-based diagnostic tools, combining groundbreaking AI research and clinical insights.",
+    "industry": "Healthcare",
+    "date_of_investment": "2022",
+    "website": "https://radical.vc/portfolio/ubenwa/"
+  },
+  {
+    "company_name": "Unlearn",
+    "company_description": "San Francisco-based Unlearn has devised a powerful way to apply AI to improve clinical trials. Using advanced biostatistics and machine learning, Unlearn creates \u201cdigital twins\u201d of clinical trial participants, reducing the number of actual humans that need to be recruited for control arms. This makes clinical trials cheaper and faster to execute, ultimately enabling life-changing therapeutics to reach patients sooner.",
+    "industry": "Healthcare",
+    "date_of_investment": "2022",
+    "website": "https://radical.vc/portfolio/unlearn/"
+  },
+  {
+    "company_name": "Untether AI",
+    "company_description": "There is an expanding yet unmet need for inference applications, where AI is required to make rapid, real-world determinations. Much of that demand is for \u201con device\u201d capabilities \u2013 high-volume AI computations that can\u2019t rely on sending data to the cloud. Untether AI is using a market-leading architecture to create a high performance, ultra-efficient and scalable chip to meet these market demands. Untether AI\u2019s chip has the potential to disrupt a range of industries, from data centers, autonomous vehicles, vision processing and other embedded applications.",
+    "industry": "Semiconductors",
+    "date_of_investment": "2019",
+    "status_current": null,
+    "hq": null,
+    "website": "https://radical.vc/portfolio/untether-ai/"
+  },
+  {
+    "company_name": "V7",
+    "company_description": "Machine learning-powered computer vision models are helping tackle a range of challenges facing society today, from spotting cancers to robotic farming. But when building an ML system, 80% of a team\u2019s time is spent managing training data. This is a slow process that helps refine and augment the \u201cknowledge\u201d that models have learned by having humans perform laborious, manual labeling tasks. V7 automates the labeling process, allowing companies to solve data labeling tasks ten times more quickly. The company\u2019s unique \u201cprogrammatic labeling\u201d workflows use AI models and minimal human steering to apply labels to data at scale. The next generation of software will not run on code, it will run on models fueled by training data. V7 helps clients turn human knowledge into AI models, improving the safety and accuracy of AI. If we want to build software that tackles unsolved frontiers in human health, or our climate, this is the only way.",
+    "industry": "Software",
+    "date_of_investment": "2022",
+    "status_current": "Current",
+    "hq": null,
+    "website": "https://radical.vc/portfolio/v7/"
+  },
+  {
+    "company_name": "Waabi",
+    "company_description": "Waabi, founded by AI pioneer and visionary Raquel Urtasun, is building the next generation of self-driving technology, unleashing the power of AI to \u201cdrive\u201d safely in the real world and bringing the promise of self-driving closer to commercialization. The company\u2019s breakthrough, AI-first approach, developed by a team of world leading technologists, leverages deep learning, probabilistic inference and complex optimization to create software that is end-to-end trainable, interpretable and capable of very complex reasoning. This, together with a revolutionary closed loop simulator that has an unprecedented level of fidelity, enables testing at scale of both common driving scenarios and safety-critical edge cases. This approach significantly reduces the need to drive testing miles in the real world and results in a safer, more affordable solution. Waabi is led by Raquel, a Professor in the Department of Computer Science at the University of Toronto and, alongside Radical\u2019s co-founders Jordan Jacobs and Tomi Poutanen, co-founded the Vector Institute for AI. The Waabi team is considered to be at the forefront of innovation in the self-driving industry, having published more papers in the field of AI-powered self-driving than all other self-driving companies and research teams combined. The team will initially focus on deploying Waabi\u2019s software in logistics, specifically long-haul trucking, an industry where self-driving technology stands to make the biggest and swiftest impact due to a chronic driver shortage and pervasive safety issues. We are proud to build on our longtime relationship with Raquel and to support Waabi\u2019s work to change the world for the better.",
+    "industry": "Technology",
+    "date_of_investment": "2021",
+    "status_current": "Active",
+    "hq": "Toronto",
+    "website": "https://radical.vc/portfolio/waabi/"
+  },
+  {
+    "company_name": "Xanadu",
+    "company_description": "Xanadu is building the world\u2019s first practical quantum computer. Instead of using electrons to carry information and perform calculations, the company uses photons \u2013 particles of light \u2013 to perform extremely fast and complex computations at room temperature. Most quantum computers in development require enormous chambers where specialized chips are cooled to just above the coldest possible temperature. Xanadu\u2019s chips aim to generate quantum effects on a thumbnail-sized chip at room temperature. The end result is a more commercially viable and scalable quantum computer.",
+    "industry": "Semiconductors",
+    "date_of_investment": "2019",
+    "status_current": null,
+    "hq": null,
+    "website": "https://www.xanadu.ai/"
+  },
+  {
+    "company_name": "You.com",
+    "company_description": "You.com is the first customizable open search platform to challenge Google. The technology that Bryan, Richard, and their team have built to power You.com brings much-needed innovation to the field of Search by giving users control of their online experience. Unlike mainstream search engines, on You.com users control powerful AI by personalizing and customizing sources they want to see, the order of the results, and how private they want to be. You.com has built apps into the platform that enable users to explicitly employ AI to perform an action within the search results. The company\u2019s use of AI to get things done for its users has the potential to completely shift what it means to be an Internet search engine today.",
+    "industry": "Technology",
+    "date_of_investment": "2022",
+    "status_current": "Active",
+    "hq": null,
+    "website": "https://you.com"
+  }
+]

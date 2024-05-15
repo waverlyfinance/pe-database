@@ -1,0 +1,60 @@
+[
+  {
+    "company_name": "Ayar Labs",
+    "company_description": "Breaking barriers in moving data with fundamentally new electronic-photonic integrated circuits",
+    "website": "https://ayarlabs.com/"
+  },
+  {
+    "company_name": "Hummingbird Nano",
+    "company_description": "Precision molding of microfluidic chips"
+  },
+  {
+    "company_name": "J2 Materials",
+    "company_description": "High quality lab-grown diamonds for gemstone and semiconductor markets"
+  },
+  {
+    "company_name": "Lumina Instruments",
+    "company_description": "Optical Inspection Systems for detecting thin film defects on Transparent Substrates"
+  },
+  {
+    "company_name": "Mosaic Microsystems",
+    "company_description": "Enabling thin substrate solutions for microelectronics and photonics packaging",
+    "website": "https://www.mosaicmicro.com/"
+  },
+  {
+    "company_name": "Perceptive",
+    "company_description": "Sensing for machine perception"
+  },
+  {
+    "company_name": "SkyCool Systems",
+    "company_description": "Harnessing the cooling potential of the sky"
+  },
+  {
+    "company_name": "Oyla",
+    "company_description": "Next gen 3d sensing"
+  },
+  {
+    "company_name": "ThruWave",
+    "company_description": "mmWave sensing and radar signal processing for imaging"
+  },
+  {
+    "company_name": "SWIR Vision Systems",
+    "company_description": "Quantum dot enabled SWIR vision cameras",
+    "website": "https://www.swirvisionsystems.com/"
+  },
+  {
+    "company_name": "Nexus Photonics",
+    "company_description": "Tunable lasers with unparalleled performance",
+    "website": "https://www.nexusphotonics.com/"
+  },
+  {
+    "company_name": "Cambridge Terahertz",
+    "company_description": "Providing safety and security through terahertz imaging",
+    "website": "https://www.thzcorp.com/"
+  },
+  {
+    "company_name": "EnoSemi",
+    "company_description": "Photonic-Electronic Design IP and Custom Silicon",
+    "website": "https://www.enosemi.com/"
+  }
+]
