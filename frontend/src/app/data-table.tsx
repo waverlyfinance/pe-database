@@ -1,6 +1,19 @@
 "use client"
 
+import React, { useEffect, useState } from 'react';
 import { z } from 'zod';
+
+import { MoreHorizontal } from "lucide-react"
+import { Checkbox } from "@/components/ui/checkbox"
+
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu"
 
 import {
     ColumnDef,
@@ -36,7 +49,6 @@ import {
     SelectValue,
   } from "@/components/ui/select"
 
-
 // Zod schema
 const PortcoSchema = z.object({
   firm: z.string(),
@@ -54,6 +66,32 @@ export type Portco = z.infer<typeof PortcoSchema>;
 
 // define table columns
 export const columns: ColumnDef<Portco>[] = [
+  
+  // First column is Row Selection. Checkboxes to be clicked
+  {
+    id: "select",
+    header: ({ table }) => (
+      <Checkbox
+        checked={
+          table.getIsAllPageRowsSelected() ||
+          (table.getIsSomePageRowsSelected() && "indeterminate")
+        }
+        onCheckedChange={(value) => table.toggleAllPageRowsSelected(!!value)}
+        aria-label="Select all"
+      />
+    ),
+    cell: ({ row }) => (
+      <Checkbox
+        checked={row.getIsSelected()}
+        onCheckedChange={(value) => row.toggleSelected(!!value)}
+        aria-label="Select row"
+      />
+    ),
+    enableSorting: false,
+    enableHiding: false,
+  },
+
+  // Other columns for the table
   {
     accessorKey: "firm",
     header: "Firm",
@@ -89,7 +127,7 @@ export const columns: ColumnDef<Portco>[] = [
         const url = info.getValue();
         return url ? <a href={String(url)} target="_blank" rel="noopener noreferrer">link</a> : null; // if there is a valid URL, return a link. Otherwise, null 
     },
-    }
+  },
 ]
 
 
@@ -100,6 +138,8 @@ interface DataTableProps<TData, TValue> {
   }
 
 export function DataTable<TData, TValue>({ columns, data, }: DataTableProps<TData, TValue>) {
+  const [selectedRows, setSelectedRows] = useState<any>([]); // State declaration. Used for selecting rows
+
   const table = useReactTable({
     data: data || [],
     columns,
@@ -115,9 +155,36 @@ export function DataTable<TData, TValue>({ columns, data, }: DataTableProps<TDat
   if (!data) {
       return <div>Loading...</div>;
   }
-  
+
+  // React hook to monitor changes in row selection
+  useEffect(() => {
+    const updateSelectedRows = table.getSelectedRowModel().rows.map(row => row.original); // table.getSelectedRowModel() is a React Table function
+    setSelectedRows(updateSelectedRows);
+  }, [table.getSelectedRowModel().rows]); 
+
+  // Function to perform actions with selected rows
+  const getSelectedRows = () => { 
+    const selectedData = selectedRows.map(row => ({
+      company_name: row.company_name, 
+      firm: row.firm
+    }));
+    console.log(selectedData); // To update in the future with additional actions
+  };
+
+  // JSX section
   return (
   <>
+  {/* Button to trigger actions using selected rows  */}
+  <div className="flex items-center justify-between">
+    {/* useState hook to only make this clickable if rows are selected */}
+      <Button 
+        onClick={getSelectedRows} 
+        disabled={selectedRows.length === 0}
+        title={selectedRows.length === 0 ? "Must select rows first": ""}
+      >
+          Perform custom Google search</Button>
+    </div>
+
   {/* Pagination control. Page size of 50 */}
   <div className="flex items-center justify-between px-2">
       <div className="flex-1 text-sm text-muted-foreground">
