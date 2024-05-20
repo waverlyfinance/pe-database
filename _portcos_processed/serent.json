@@ -1,0 +1,501 @@
+{
+  "companies": [
+    {
+      "company_name": "Actionstep",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/actionstep/"
+    },
+    {
+      "company_name": "Aftermath",
+      "company_description": "Services, Business, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/aftermath/"
+    },
+    {
+      "company_name": "Apex HCM",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/apex-hcm/"
+    },
+    {
+      "company_name": "ArbiterSports",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/arbiter-sports/"
+    },
+    {
+      "company_name": "Aria Care Partners",
+      "company_description": "Services, Healthcare, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/aria-care-partners/"
+    },
+    {
+      "company_name": "Aviont\u00e9",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/avionte/"
+    },
+    {
+      "company_name": "Axiom Medical",
+      "company_description": "Services, Healthcare, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/axiom-medical/"
+    },
+    {
+      "company_name": "BirchStreet Systems",
+      "company_description": "SAAS, Financial, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/birchstreet-systems/"
+    },
+    {
+      "company_name": "Book4Time",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/book4time/"
+    },
+    {
+      "company_name": "BS&A",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/bsa/"
+    },
+    {
+      "company_name": "BQE Software",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/bqe-software/"
+    },
+    {
+      "company_name": "Buildertrend",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/buildertrend/"
+    },
+    {
+      "company_name": "BW Events",
+      "company_description": "SAAS, Services, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/bw-events/"
+    },
+    {
+      "company_name": "C2 Educational Systems",
+      "company_description": "Services, Education, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/c2-educational-systems/"
+    },
+    {
+      "company_name": "CallRevu",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/callrevu/"
+    },
+    {
+      "company_name": "Cardon Outreach",
+      "company_description": "Services, Healthcare, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/cardon-outreach/"
+    },
+    {
+      "company_name": "CoConstruct",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/coconstruct/"
+    },
+    {
+      "company_name": "Commissions, Inc.",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/commissions-inc/"
+    },
+    {
+      "company_name": "Compeat",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/compeat/"
+    },
+    {
+      "company_name": "CoreLogic",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/corelogic/"
+    },
+    {
+      "company_name": "Davisware",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/davisware/"
+    },
+    {
+      "company_name": "Diamond Mind",
+      "company_description": "SAAS, Education, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/diamond-mind/"
+    },
+    {
+      "company_name": "DIGARC",
+      "company_description": "SAAS, Education, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/digarc/"
+    },
+    {
+      "company_name": "DirectShifts",
+      "company_description": "SAAS, Healthcare, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/directshifts/"
+    },
+    {
+      "company_name": "Docutech",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/docutech/"
+    },
+    {
+      "company_name": "Dyad",
+      "company_description": "SAAS, Financial, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/dyadtech/"
+    },
+    {
+      "company_name": "Education Advanced",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/education-advanced/"
+    },
+    {
+      "company_name": "Employer Direct Healthcare",
+      "company_description": "Services, Healthcare, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/employer-direct-healthcare/"
+    },
+    {
+      "company_name": "ePayPolicy",
+      "company_description": "SAAS, Financial, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/epaypolicy/"
+    },
+    {
+      "company_name": "Equinox Healthcare",
+      "company_description": "Services, Healthcare, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/equinox/"
+    },
+    {
+      "company_name": "EZDERM",
+      "company_description": "SAAS, Healthcare, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/ezderm/"
+    },
+    {
+      "company_name": "First Due",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/first-due/"
+    },
+    {
+      "company_name": "FranConnect",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/fran-connect/"
+    },
+    {
+      "company_name": "GDS Link",
+      "company_description": "SAAS, Financial, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/gds-link/"
+    },
+    {
+      "company_name": "Intygral",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/intygral/"
+    },
+    {
+      "company_name": "KEV Group",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/kev-group/"
+    },
+    {
+      "company_name": "Knowland",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/knowland/"
+    },
+    {
+      "company_name": "KORE Software",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/kore-software/"
+    },
+    {
+      "company_name": "LinkIt!",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/linkit/"
+    },
+    {
+      "company_name": "LMN",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/lmn/"
+    },
+    {
+      "company_name": "ManageAmerica",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/manageamerica/"
+    },
+    {
+      "company_name": "Medical Informatics Engineering",
+      "company_description": "SAAS, Healthcare, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/medical-informatics-engineering/"
+    },
+    {
+      "company_name": "Mercury Network",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/mercury-network/"
+    },
+    {
+      "company_name": "MeridianLink",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/meridian-link/"
+    },
+    {
+      "company_name": "Millennium Systems International",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/millennium-systems-international/"
+    },
+    {
+      "company_name": "MinuteKey",
+      "company_description": "Services, Business, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/minute-key/"
+    },
+    {
+      "company_name": "Modern Campus",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/modern-campus/"
+    },
+    {
+      "company_name": "Motility Software",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/motility-software/"
+    },
+    {
+      "company_name": "Next Gear Solutions",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/next-gear/"
+    },
+    {
+      "company_name": "Optimal Blue",
+      "company_description": "SAAS, Financial, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/optimal-blue/"
+    },
+    {
+      "company_name": "ParentSquare",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/parentsquare/"
+    },
+    {
+      "company_name": "Payliance",
+      "company_description": "SAAS, Financial, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/payliance/"
+    },
+    {
+      "company_name": "Pondera Solutions",
+      "company_description": "SAAS, Healthcare, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/pondera-solutions/"
+    },
+    {
+      "company_name": "People 2.0",
+      "company_description": "Services, Business, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/people-2-0/"
+    },
+    {
+      "company_name": "Procurement Partners",
+      "company_description": "SAAS, Healthcare, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/procurement-partners/"
+    },
+    {
+      "company_name": "Professional Health Care Network",
+      "company_description": "Services, Healthcare, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/professional-health-care-network/"
+    },
+    {
+      "company_name": "Progress Learning",
+      "company_description": "SAAS, Education, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/progress-learning/"
+    },
+    {
+      "company_name": "Quorum",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/quorum/"
+    },
+    {
+      "company_name": "Raintree Systems",
+      "company_description": "SAAS, Healthcare, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/raintree/"
+    },
+    {
+      "company_name": "Real Green Systems",
+      "company_description": "SAAS, Business, Exited",
+      "industry": "SAAS",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/real-green-systems/"
+    },
+    {
+      "company_name": "Restaurant365",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/restaurant365/"
+    },
+    {
+      "company_name": "Revinate",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/revinate/"
+    },
+    {
+      "company_name": "Safety Services",
+      "company_description": "Services, Business, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/safety-services/"
+    },
+    {
+      "company_name": "SHR",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/shr/"
+    },
+    {
+      "company_name": "Studio Designer",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/studio-designer/"
+    },
+    {
+      "company_name": "TalentWave",
+      "company_description": "Services, Business, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/talent-wave/"
+    },
+    {
+      "company_name": "Traumasoft",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/traumasoft/"
+    },
+    {
+      "company_name": "Tricolor Auto",
+      "company_description": "Services, Financial, Exited",
+      "industry": "Services",
+      "status_current": "Exited",
+      "website": "https://serentcapital.com/portfolio/bio/tricolor-auto/"
+    },
+    {
+      "company_name": "United Allergy Services",
+      "company_description": "Services, Healthcare, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/united-allergy-services/"
+    },
+    {
+      "company_name": "WorkWave",
+      "company_description": "SAAS, Business, Current",
+      "industry": "SAAS",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/workwave/"
+    },
+    {
+      "company_name": "Zollege",
+      "company_description": "Services, Education, Current",
+      "industry": "Services",
+      "status_current": "Current",
+      "website": "https://serentcapital.com/portfolio/bio/zollege/"
+    }
+  ]
+}

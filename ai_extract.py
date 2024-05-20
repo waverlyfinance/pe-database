@@ -148,10 +148,8 @@ def extract_urls(processed_html):
             /portfolio/botpress
             /3dns
             /dot-box
+            https://serentcapital.com/portfolio/bio/actionstep/
 
-            https://georgian.io/companies/vention/
-            https://cbgf.com/portfolio/busbud/
-            https://informationvp.com/project/adaptive-insights/
 
 
             Exclude irrelevant links that are not portfolio companies, such as:  
@@ -196,28 +194,33 @@ def extract_urls(processed_html):
 class Company(BaseModel):
     company_name: str | None = Field(None, description="E.g. Exactech, winc, Anaplan, etc.")
     company_description: str | None = Field(None, description="Just copy and paste the description verbatim from the source. Don't change anything. Pick the longer description if multiple options are available")
-    # industry: str | None = Field(None, description="E.g. Consumer, Technology, Industrials, Healthcare, Real Estate, etc.")
+    # industry: str | None = Field(None, description="E.g. Technology, Business Services, Healthcare, Consumer, Education, Financial, Real Estate, etc.")
     # date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
-    # status_current: str | None = Field(None, description="Whether the company is current / active, or realized / former")
+    # status_current: str | None = Field(None, description="Current or Active vs. Realized or Former or Exited")
     # region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
-    # fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, etc. Can be none if not applicable")
+    # fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, Fund XI, etc. Can be none if not applicable")
     hq: str | None = Field(None, description="E.g. New York, Barcelona, Boston, Grand Rapids, etc.")
     website: str | None = Field(None, description="url or path to the portfolio company's website")
 
 company_schema = Company.schema()
 
+class Companies(BaseModel):
+    companies: list[Company]
+
+companies_schema = Companies.schema()
+
 def extract_data(processed_html):
     completion = client.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-4-turbo",
     messages=[
         {
             "role": "system",
             "content": """Think step by step. 
-            You will be provided raw HTML of an investment firm's portfolio company.
-            Read the HTML to identify what structured data can be extracted. 
-            Use the tools available to you to identify the fields to extract.
-            Only state an answer if the data is provided explicitly by the company. 'null' is an acceptable answer. 
-            For example, if there are global offices in Canada, the US, and Australia - but the HTML does not provide a field that says "region: Global", return 'null' for region
+            You are a financial analyst, reviewing an investment firm's list of portfolio companies. 
+            You will be provided raw HTML.
+            Use the tools available to you to extract data from the raw HTML. Note that these fields provided in the tools are only certain examples. There can be more or fewer fields, depending on the raw HTML
+            Only state an answer if the data is provided explicitly provided. null is an acceptable answer. 
+            For example, if there are global offices in Canada, the US, and Australia - but the HTML does not provide a field that says "region: Global", return null
             You MUST output JSON. Do not output something that starts with "'''json"
             """
         },

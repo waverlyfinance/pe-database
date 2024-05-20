@@ -1,5 +1,8 @@
 {
     "urls": [
+        "https://serentcapital.com/portfolio/",
+        "https://www.bvlp.com/portfolio/",
+        "https://montagu.com/portfolio/",
         "https://cbgf.com/portfolio/",
         "https://radical.vc/portfolios/",
         "https://round13.com/portfolio/",
@@ -8,6 +11,9 @@
         "https://georgian.io/companies/"
     ],
     "filenames": [
+        "serent",
+        "bvlp",
+        "montagu",
         "cbgf",
         "radical",
         "round13",

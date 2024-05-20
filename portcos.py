@@ -1238,40 +1238,101 @@ def arctern():
     with open(f"_vc_processed/{filename}.json", "w") as file:
         json.dump(json_output, file, indent=2)
     
+def serent():
+    url = "https://serentcapital.com/portfolio/"
+    filename = "serent"
+    folder_urls = "_portcos_processed"
+    folder_output = "_portcos_processed"
+
+    # # Step 1: Grab the URls from an existing file
+    # with open(f"{folder_urls}/{filename}.json", "r") as file:
+    #     data = json.load(file)
+
+    # urls = [] 
+    # for company in data["companies"]:
+    #     urls.append(company["website"])
+    # print(urls)
+
+    # Step 2: Loop through each URL to ask an LLM to extract data
+    # json_output = []
+    # for url in urls:
+    #     # print(url)
+    #     processed_html = process_html_classes(url, "body")
+    #     # print(processed_html)
+    #     extracted_data = extract_data(processed_html)
+    #     json_output.append(extracted_data)
+
+    # with open(f"{folder_output}/{filename}2.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+
+    # Step 3: Combine 2 files
+    with open(f"{folder_urls}/{filename}.json", "r") as file:
+        data1 = json.load(file)
+
+    with open(f"{folder_urls}/{filename}2.json", "r") as file:
+        data2 = json.load(file)
+
+    for index, company in enumerate(data1["companies"]):
+        company["company_description"] = data2[index]["company_description"]
+        company["hq"] = data2[index].get("hq")
+        company["website"] = data2[index].get("website")
+
+    with open(f"{folder_output}/{filename}_combined.json", "w") as file:
+        json.dump(data1, file, indent=2)
+
+serent()
+
 
 def main():
-    url = "https://georgian.io/companies/"
-    filename = "georgian"
+    url = "https://serentcapital.com/portfolio/"
+    filename = "serent"
+    folder_urls = "_portcos_raw"
+    folder_output = "_portcos_processed"
         
     # # Step 1: Use LLM to extract URLs for each portco
-    # processed_html = process_html_classes_links(url, "body")
+    processed_html = process_html_classes_links(url, "body")
     # print(processed_html)
 
-    # json_output = extract_urls(processed_html)
-    # print(json_output)
-    # print(type(json_output))
+    json_output = extract_urls(processed_html)
+    print(json_output)
+    print(type(json_output))
 
-    # with open(f"_vc_urls/{filename}.json", "w") as file:
-    #     json.dump(json_output, file, indent=2)
-    
-    # Step 2: process the output to extract just the urls
-    with open(f"_vc_urls/{filename}.json", "r") as file:
-        raw_urls = json.load(file)
-
-    # urls = ["https://www.intercap.com" + entry['url'] for entry in raw_urls['urls']]
-    urls = [entry['url'] for entry in raw_urls['urls']]
-    print(urls)
-
-    # Step 3: Iterate through each URL to extract key fields for each portco
-    json_output = []
-    for url in urls:
-        # print(url)
-        processed_html = process_html_classes(url, "body")
-        # print(processed_html)
-        extracted_data = extract_data(processed_html)
-        json_output.append(extracted_data)
-
-    with open(f"_vc_processed/{filename}.json", "w") as file:
+    with open(f"{folder_urls}/{filename}.json", "w") as file:
         json.dump(json_output, file, indent=2)
+    
+    # # Step 2: process the output to extract just the urls
+    # with open(f"{folder_urls}/{filename}.json", "r") as file:
+    #     raw_urls = json.load(file)
 
-main()
+    # # urls = ["https://www.intercap.com" + entry['url'] for entry in raw_urls['urls']]
+    # urls = [entry['url'] for entry in raw_urls['urls']]
+
+    # # Step 3: Iterate through each URL to extract key fields for each portco
+    # json_output = []
+    # for url in urls:
+    #     # print(url)
+    #     processed_html = process_html_classes(url, "body")
+    #     # print(processed_html)
+    #     extracted_data = extract_data(processed_html)
+    #     json_output.append(extracted_data)
+
+    # with open(f"{folder_output}/{filename}.json", "w") as file:
+    #     json.dump(json_output, file, indent=2)
+
+
+def main_no_urls():
+    url = "https://serentcapital.com/portfolio/"
+    filename = "serent"
+    folder_output = "_portcos_processed"
+        
+    # pre-process the HTML 
+    processed_html = process_html_classes(url, "body")
+    print(processed_html)
+
+    # LLM extracts data fields from HTML
+    extracted_data = extract_data(processed_html)
+
+    with open(f"{folder_output}/{filename}.json", "w") as file:
+        json.dump(extracted_data, file, indent=2)
+
+

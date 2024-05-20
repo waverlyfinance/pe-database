@@ -1,0 +1,124 @@
+{
+  "companies": [
+    {
+      "company_name": "Balance Partners",
+      "website": "https://www.balanceuw.com/"
+    },
+    {
+      "company_name": "CallTower",
+      "website": "https://www.calltower.com/"
+    },
+    {
+      "company_name": "UFS",
+      "website": "https://ufstech.com/"
+    },
+    {
+      "company_name": "Meet Domaine",
+      "website": "https://meetdomaine.com/"
+    },
+    {
+      "company_name": "Hardenbergh Group",
+      "website": "https://www.hardenberghgroup.com/"
+    },
+    {
+      "company_name": "Imagenet",
+      "website": "https://www.imagenetglobal.com/"
+    },
+    {
+      "company_name": "Right Networks",
+      "website": "https://www.rightnetworks.com/"
+    },
+    {
+      "company_name": "Archlynk",
+      "website": "https://archlynk.com/"
+    },
+    {
+      "company_name": "Level Data",
+      "website": "https://www.leveldata.com/"
+    },
+    {
+      "company_name": "GWorks",
+      "website": "https://www.gworks.com/"
+    },
+    {
+      "company_name": "Source Advisors",
+      "website": "https://sourceadvisors.com/"
+    },
+    {
+      "company_name": "Marlabs",
+      "website": "https://www.marlabs.com/"
+    },
+    {
+      "company_name": "Intentsify",
+      "website": "https://intentsify.io/"
+    },
+    {
+      "company_name": "EMS Management Consultants",
+      "website": "https://emsbilling.com/"
+    },
+    {
+      "company_name": "Ubiquity",
+      "website": "https://ubiquity.com/"
+    },
+    {
+      "company_name": "Resource Innovations",
+      "website": "https://www.resource-innovations.com/"
+    },
+    {
+      "company_name": "SupportNinja",
+      "website": "https://www.supportninja.com/"
+    },
+    {
+      "company_name": "Vitori Health",
+      "website": "https://vitorihealth.com/"
+    },
+    {
+      "company_name": "Talent Inc.",
+      "website": "https://www.talentinc.com/"
+    },
+    {
+      "company_name": "Becklar",
+      "website": "https://www.becklar.com/"
+    },
+    {
+      "company_name": "StraighterLine",
+      "website": "https://www.straighterline.com/"
+    },
+    {
+      "company_name": "TopBloc",
+      "website": "http://topbloc.com/"
+    },
+    {
+      "company_name": "Solarity by Edco",
+      "website": "https://solaritybyedco.com/"
+    },
+    {
+      "company_name": "Frontline Managed Services",
+      "website": "https://frontlinems.com/"
+    },
+    {
+      "company_name": "Veracross",
+      "website": "https://www.veracross.com/"
+    },
+    {
+      "company_name": "Consero Global",
+      "website": "http://conseroglobal.com/"
+    },
+    {
+      "company_name": "Risk International",
+      "website": "https://riskinternational.com/"
+    },
+    {
+      "company_name": "Precision Nutrition",
+      "website": "https://www.precisionnutrition.com/"
+    },
+    {
+      "company_name": "Geologic",
+      "website": "http://www.geologic.com/"
+    },
+    {
+      "company_name": "PetroSkills",
+      "website": "http://www.petroskills.com"
+    }
+  ]
+}
