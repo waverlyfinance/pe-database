@@ -6,6 +6,8 @@ import { SearchBar } from "@/app/searchBar";
 import { DataTable, Portco, columns } from "./data-table";
 import CustomSearch from "./custom-search";
 
+import { useRouter } from "next/navigation";
+
 export default function Home() {
   // states related to the core database + semantic search
   const [data, setData] = useState([]);
@@ -19,8 +21,8 @@ export default function Home() {
   const [status_current_stan, setStatus] = useState(""); 
 
   // states for the custom Perplexity search
-  const [selectedRows, setSelectedRows] = useState([]);
-
+  const [selectedRows, setSelectedRows] = useState([]); // for rows the user selects
+  const router = useRouter(); // router for page navigation
 
   // Fetch the data from Postgres database. Default is no filters 
   useEffect(() => {
@@ -53,6 +55,8 @@ export default function Home() {
     }
   }, [data]);
     
+
+  // EVENT HANDLERS
   // Event handler to setFilteredData. Returns a new array in which ONLY the industries returned are the desired filter. E.g. "Healthcare" 
   const handleFilterChange = (filters) => {
     console.log("Filters received", filters);
@@ -79,6 +83,10 @@ export default function Home() {
     setSelectedRows(rows);
   }
   
+  // const handleNavigation = (path) => {
+  //   router.push(path);
+  // };
+
   // JSX content
   return (
     <>
