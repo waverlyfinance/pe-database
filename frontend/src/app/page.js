@@ -2,15 +2,12 @@
 
 import { useState, useEffect } from "react";
 import Filters from "./filters";
-import Search from "./search";
 import { SearchBar } from "@/app/searchBar";
 import { DataTable, Portco, columns } from "./data-table";
-
-// TODO: Fix date of investment
-// TODO: Fix encoding issues in raw HTML description
+import CustomSearch from "./custom-search";
 
 export default function Home() {
-  // data states
+  // states related to the core database + semantic search
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState(""); 
@@ -20,6 +17,10 @@ export default function Home() {
   const [industry_stan, setIndustry] = useState("");
   const [region_stan, setRegion] = useState("");
   const [status_current_stan, setStatus] = useState(""); 
+
+  // states for the custom Perplexity search
+  const [selectedRows, setSelectedRows] = useState([]);
+
 
   // Fetch the data from Postgres database. Default is no filters 
   useEffect(() => {
@@ -73,6 +74,10 @@ export default function Home() {
     setFilteredData(result);
   };
 
+  // Event handler for changes in selected rows. Pass the local data from the Data Table component to homepage, which then gets passed to the Custom Search component
+  const handleSelectedRows = (rows) => {
+    setSelectedRows(rows);
+  }
   
   // JSX content
   return (
@@ -90,17 +95,17 @@ export default function Home() {
       <div className="max-w-lg py-2">
         <SearchBar searchQuery={searchQuery} onSearchChange={setSearchQuery}/> 
       </div>
-    </div> 
 
-      {/* Semantic search (legacy one while debugging) */}
-      {/* <div className="py-2">
-        <Search onSearchChange={setSearchQuery}/> 
-  </div> */}
+      {/* Perplexity custom query */}
+      <div className="flex items-center space-x-4 py-2 max-w-4xl">
+        <CustomSearch selectedRows={selectedRows} />
+      </div>
+    </div> 
 
 
     {/* Table content using ShadCN */}
     <div className="container mx-auto my-10 p-4">
-      <DataTable columns={columns} data={filteredData} />
+      <DataTable columns={columns} data={filteredData} onSelectedRowsChange={handleSelectedRows} />
     </div>
     </>
   );

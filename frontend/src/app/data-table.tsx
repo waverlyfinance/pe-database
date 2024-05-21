@@ -3,17 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { z } from 'zod';
 
-import { MoreHorizontal } from "lucide-react"
 import { Checkbox } from "@/components/ui/checkbox"
-
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
 
 import {
     ColumnDef,
@@ -48,6 +38,8 @@ import {
     SelectTrigger,
     SelectValue,
   } from "@/components/ui/select"
+
+  import { Input } from "@/components/ui/input"
 
 // Zod schema
 const PortcoSchema = z.object({
@@ -130,15 +122,14 @@ export const columns: ColumnDef<Portco>[] = [
   },
 ]
 
-
-// 
 interface DataTableProps<TData, TValue> {
     columns: ColumnDef<TData, TValue>[]
     data: TData[]
+    onSelectedRowsChange: (selectedRows: TData[]) => void
   }
 
-export function DataTable<TData, TValue>({ columns, data, }: DataTableProps<TData, TValue>) {
-  const [selectedRows, setSelectedRows] = useState<any>([]); // State declaration. Used for selecting rows
+export function DataTable<TData, TValue>({ columns, data, onSelectedRowsChange }: DataTableProps<TData, TValue>) {
+  const [selectedRows, setSelectedRows] = useState<any>([]); // State for tracking which rows are selected by the user
 
   const table = useReactTable({
     data: data || [],
@@ -160,31 +151,21 @@ export function DataTable<TData, TValue>({ columns, data, }: DataTableProps<TDat
   useEffect(() => {
     const updateSelectedRows = table.getSelectedRowModel().rows.map(row => row.original); // table.getSelectedRowModel() is a React Table function
     setSelectedRows(updateSelectedRows);
+    onSelectedRowsChange(updateSelectedRows);
   }, [table.getSelectedRowModel().rows]); 
 
   // Function to perform actions with selected rows
-  const getSelectedRows = () => { 
-    const selectedData = selectedRows.map(row => ({
-      company_name: row.company_name, 
-      firm: row.firm
-    }));
-    console.log(selectedData); // To update in the future with additional actions
-  };
+  // const getSelectedRows = () => { 
+  //   const selectedData = selectedRows.map(row => ({
+  //     company_name: row.company_name, 
+  //     firm: row.firm
+  //   }));
+  //   console.log(selectedData); // To update in the future with additional actions
+  // };
 
   // JSX section
   return (
   <>
-  {/* Button to trigger actions using selected rows  */}
-  <div className="flex items-center justify-between">
-    {/* useState hook to only make this clickable if rows are selected */}
-      <Button 
-        onClick={getSelectedRows} 
-        disabled={selectedRows.length === 0}
-        title={selectedRows.length === 0 ? "Must select rows first": ""}
-      >
-          Perform custom Google search</Button>
-    </div>
-
   {/* Pagination control. Page size of 50 */}
   <div className="flex items-center justify-between px-2">
       <div className="flex-1 text-sm text-muted-foreground">
