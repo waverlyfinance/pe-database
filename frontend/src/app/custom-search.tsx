@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { Portco } from './data-table';
 import { useRouter } from 'next/navigation';
 import { usePerplexity } from '../contexts/perplexityContext';
+import Perplexity from '../../pages/api/perplexity';
 
 interface CustomSearchProps {
     selectedRows: Portco[]; // selectedRows is an array of type Portco
@@ -16,10 +17,14 @@ const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
 
     // for async management. Navigate to search page once PerplexityResponse is populated
     useEffect(() => {
-        if (PerplexityResponse.length > 0) {
+        if (router && PerplexityResponse.length > 0) {
             console.log("Navigating to search page with PerplexityResponse data: ", PerplexityResponse);
-            // router.push('/search'); // navigate to search page
-        }
+            const dataString = encodeURIComponent(JSON.stringify(PerplexityResponse));
+            const url = `/search?data=${dataString}`;
+            
+            console.log("URL query: ", url);
+            // router.push(url);
+    };
     }, [PerplexityResponse, router]); 
 
     // Handler which is updated once the user clicks the button.   
@@ -35,8 +40,8 @@ const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
             console.log("Constructed query: ", query)
             const perplexityOutput = await callApi(query);
             
-            // update empty array for each selected row
-            data.push({
+            // update data for each selected row
+            await data.push({
                 company_name: row.company_name,
                 firm: row.firm,
                 date_of_investment: row.date_of_investment_stan,
@@ -44,7 +49,10 @@ const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
             });
             console.log("Data pushed:", data)
         }
+        
+        // When ready to navigate to new page
         setPerplexityResponse(data); // set the context data
+
         console.log("Context set with data: ", data);
         console.log("Perplexity response after updated context: ", PerplexityResponse);
     };
