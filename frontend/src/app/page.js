@@ -5,8 +5,8 @@ import Filters from "./filters";
 import { SearchBar } from "@/app/searchBar";
 import { DataTable, Portco, columns } from "./data-table";
 import CustomSearch from "./custom-search";
-
 import { useRouter } from "next/navigation";
+import { PerplexityPopover } from './perplexityPopover';
 
 export default function Home() {
   // states related to the core database + semantic search
@@ -22,7 +22,9 @@ export default function Home() {
 
   // states for the custom Perplexity search
   const [selectedRows, setSelectedRows] = useState([]); // for rows the user selects
-  const router = useRouter(); // router for page navigation
+  // const router = useRouter(); // router for page navigation
+  const [showPopover, setShowPopover] = useState(false);
+  const [popoverData, setPopoverData] = useState([]);
 
   // Fetch the data from Postgres database. Default is no filters 
   useEffect(() => {
@@ -82,10 +84,16 @@ export default function Home() {
   const handleSelectedRows = (rows) => {
     setSelectedRows(rows);
   }
-  
-  // const handleNavigation = (path) => {
-  //   router.push(path);
-  // };
+
+  // Event handler for Perplexity data, to be sent to a new popover component. 1st is trigger. 2nd is data  
+  const handlePopoverTrigger = (visible) => {
+    setShowPopover(visible);
+  };
+
+  const handlePopoverData = (data) => {
+    setPopoverData(data);
+  };
+
 
   // JSX content
   return (
@@ -106,15 +114,29 @@ export default function Home() {
 
       {/* Perplexity custom query */}
       <div className="flex items-center space-x-4 py-2 max-w-4xl">
-        <CustomSearch selectedRows={selectedRows} />
+        <CustomSearch 
+          selectedRows={selectedRows} 
+          onPopoverTrigger={handlePopoverTrigger} 
+          onPopoverData={handlePopoverData}
+        />
       </div>
     </div> 
 
 
     {/* Table content using ShadCN */}
     <div className="container mx-auto my-10 p-4">
-      <DataTable columns={columns} data={filteredData} onSelectedRowsChange={handleSelectedRows} />
+      <DataTable 
+        columns={columns} 
+        data={filteredData} 
+        onSelectedRowsChange={handleSelectedRows} 
+      />
     </div>
+
+    <PerplexityPopover 
+      showPopover={showPopover} 
+      data={popoverData} 
+      onPopoverTrigger={handlePopoverTrigger} 
+    />
     </>
   );
 }

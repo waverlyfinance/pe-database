@@ -3,29 +3,24 @@ import { Input } from '@/components/ui/input';
 import React, { useEffect, useState } from 'react';
 import { Portco } from './data-table';
 import { useRouter } from 'next/navigation';
-import { usePerplexity } from '../contexts/perplexityContext';
-import Perplexity from '../../pages/api/perplexity';
+
 
 interface CustomSearchProps {
     selectedRows: Portco[]; // selectedRows is an array of type Portco
+    onPopoverTrigger:(show: boolean) => void;
+    onPopoverData: (data: PerplexityDataType[]) => void; // function to pass data (of type defined below) 
 }
 
-const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
+export interface PerplexityDataType {
+    company_name: string;
+    firm: string;
+    date_of_investment: number;
+    perplexityOutput: string;
+}
+
+const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows, onPopoverTrigger, onPopoverData }) => {
     const [customQuery, setCustomQuery] = useState(""); // state to hold the query for the Perplexity search
     const router = useRouter(); // for page navigation
-    const [PerplexityResponse, setPerplexityResponse] = useState("")
-
-    // for async management. Navigate to search page once PerplexityResponse is populated
-    useEffect(() => {
-        if (router && PerplexityResponse.length > 0) {
-            console.log("Navigating to search page with PerplexityResponse data: ", PerplexityResponse);
-            const dataString = encodeURIComponent(JSON.stringify(PerplexityResponse));
-            const url = `/search?data=${dataString}`;
-            
-            console.log("URL query: ", url);
-            // router.push(url);
-    };
-    }, [PerplexityResponse, router]); 
 
     // Handler which is updated once the user clicks the button.   
     const handleButtonClick = async () => {
@@ -36,7 +31,7 @@ const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
         let data: any = [];
 
         for (const row of selectedRows) {
-            const query = `${customQuery} The company is: ${row.company_name} and the Private Equity firm that owns it is ${row.firm}. The investment was made in ${row.date_of_investment_stan}`
+            const query = `The company we're interested in is ${row.company_name}, which is owned by the Private Equity firm ${row.firm}. The investment was made in ${row.date_of_investment_stan}. Based on this context, answer the following question: ${customQuery}`
             console.log("Constructed query: ", query)
             const perplexityOutput = await callApi(query);
             
@@ -51,10 +46,14 @@ const CustomSearch: React.FC<CustomSearchProps> = ({ selectedRows }) => {
         }
         
         // When ready to navigate to new page
-        setPerplexityResponse(data); // set the context data
-
         console.log("Context set with data: ", data);
-        console.log("Perplexity response after updated context: ", PerplexityResponse);
+        // console.log("Perplexity response after updated context: ", PerplexityResponse);
+    
+        // Pass data onto popover, which will then display subsequent data
+        onPopoverTrigger(true); // triggers the popover to show on the homepage
+        onPopoverData(data);  
+
+    
     };
 
     // Function to send Perplexity API request
