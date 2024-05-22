@@ -154,15 +154,6 @@ export function DataTable<TData, TValue>({ columns, data, onSelectedRowsChange }
     onSelectedRowsChange(updateSelectedRows);
   }, [table.getSelectedRowModel().rows]); 
 
-  // Function to perform actions with selected rows
-  // const getSelectedRows = () => { 
-  //   const selectedData = selectedRows.map(row => ({
-  //     company_name: row.company_name, 
-  //     firm: row.firm
-  //   }));
-  //   console.log(selectedData); // To update in the future with additional actions
-  // };
-
   // JSX section
   return (
   <>

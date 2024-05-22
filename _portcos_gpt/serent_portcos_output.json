@@ -1,0 +1,483 @@
+[
+  {
+    "company_name": "Actionstep",
+    "industry_stan": "Business Services",
+    "region_stan": "Asia Pacific",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aftermath",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Apex HCM",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ArbiterSports",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aria Care Partners",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Aviont\u00e9",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Axiom Medical",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BirchStreet Systems",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Book4Time",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BS&A",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BQE Software",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Buildertrend",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "BW Events",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "C2 Educational Systems",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "CallRevu",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Cardon Outreach",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CoConstruct",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Commissions, Inc.",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Compeat",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "CoreLogic",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Davisware",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Diamond Mind",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "DIGARC",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "DirectShifts",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Docutech",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Dyad",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Education Advanced",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Employer Direct Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ePayPolicy",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Equinox Healthcare",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "EZDERM",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "First Due",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "FranConnect",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "GDS Link",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Intygral",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "KEV Group",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Knowland",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "KORE Software",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LinkIt!",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "LMN",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "ManageAmerica",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Medical Informatics Engineering",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Mercury Network",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "MeridianLink",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Millennium Systems International",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "MinuteKey",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Modern Campus",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Motility Software",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Next Gear Solutions",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Optimal Blue",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "ParentSquare",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Payliance",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Pondera Solutions",
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "People 2.0",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Procurement Partners",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Professional Health Care Network",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": null,
+    "region_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Progress Learning",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Quorum",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Raintree Systems",
+    "industry_stan": "Healthcare",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Real Green Systems",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Restaurant365",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Revinate",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Safety Services",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "SHR",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Studio Designer",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "TalentWave",
+    "industry_stan": "Business Services",
+    "region_stan": null,
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "Traumasoft",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Tricolor Auto",
+    "industry_stan": "Financials",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Realized"
+  },
+  {
+    "company_name": "United Allergy Services",
+    "industry_stan": "Healthcare",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "WorkWave",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "status_current_stan": "Current"
+  },
+  {
+    "company_name": "Zollege",
+    "industry_stan": "Business Services",
+    "region_stan": "North America",
+    "date_of_investment_stan": null,
+    "status_current_stan": "Current"
+  }
+]

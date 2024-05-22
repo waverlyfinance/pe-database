@@ -10,7 +10,7 @@ import time
 headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"} 
 
 
-# pre-process html. OPTION 1: Extract ONLY the classes, links, and text
+# pre-process html. OPTION 1: Extract the classes, links, and text
 def process_html_classes(url, scrape_id):
     try:
         response = requests.get(url, headers=headers).text
@@ -1280,8 +1280,6 @@ def serent():
     with open(f"{folder_output}/{filename}_combined.json", "w") as file:
         json.dump(data1, file, indent=2)
 
-serent()
-
 
 def main():
     url = "https://serentcapital.com/portfolio/"
@@ -1321,13 +1319,13 @@ def main():
 
 
 def main_no_urls():
-    url = "https://serentcapital.com/portfolio/"
-    filename = "serent"
+    url = "https://www.bvlp.com/portfolio/"
+    filename = "bvlp"
     folder_output = "_portcos_processed"
         
     # pre-process the HTML 
     processed_html = process_html_classes(url, "body")
-    print(processed_html)
+    # print(processed_html)
 
     # LLM extracts data fields from HTML
     extracted_data = extract_data(processed_html)
@@ -1336,3 +1334,4 @@ def main_no_urls():
         json.dump(extracted_data, file, indent=2)
 
 
+main_no_urls()

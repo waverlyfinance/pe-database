@@ -11,20 +11,18 @@ from bs4 import BeautifulSoup
 def add_field(firm):
     filename = firm.lower() + "_portcos"
 
-    with open(f"_portcos_processed/{filename}.json", "r") as file:
+    with open(f"_portcos_output/{filename}.json", "r") as file:
         data = json.load(file)
     
     for company in data: 
         company["firm"] = firm
 
-    with open(f"_portcos_processed/{filename}.json", "w") as outfile:
+    with open(f"_portcos_output/{filename}.json", "w") as outfile:
         json.dump(data, outfile, indent=2)
-    
-# add_field("american_securities")
 
 # Update just 1 key-value pair
 def update_1key(firm):
-    filename = firm
+    filename = firm.lower() + "_portcos"
 
     with open(f"_vc_processed/{filename}.json", "r") as file:
         data = json.load(file)
@@ -42,7 +40,7 @@ def update_1key(firm):
 
 # Update keys in order to standardize for SQL database
 def update_keys(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
 
     with open(f"_portcos_raw/{filename}.json", "r") as file:
         data = json.load(file)
@@ -71,8 +69,8 @@ def update_keys(firm):
 # update_keys("tpg")
 
 # Applied to files that are: Lists of dicts. Each dict starts with an unnecessary "companies = {}" section
-def remove_companies(filename):
-    filename = filename + "_portcos"
+def remove_companies(firm):
+    filename = firm.lower() + "_portcos"
     
     with open(f"_portcos_raw/{filename}.json", "r") as file:
         content = json.load(file)
@@ -88,8 +86,8 @@ def remove_companies(filename):
 
 
 # Applied to JSON files structured as: Dicts. Each
-def remove_json(filename):
-    filename = filename + "_portcos"
+def remove_json(firm):
+    filename = firm.lower() + "_portcos"
     
     with open(f"_portcos_raw/{filename}.json", "r") as file:
         content = json.load(file)
@@ -113,6 +111,6 @@ def remove_json(filename):
 
 
 def main(firm):
-    update_1key(firm)
+    add_field(firm)
 
-main("intercap")
+main("BVLP")

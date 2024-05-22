@@ -140,7 +140,7 @@ def generate_embedding(text):
 # Add embeddings to db
 def embeddings_db(firm):
     
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
 
     # grab firm name first
     with open(f"_portcos_output/{filename}.json", "r", encoding="utf-8") as file:
@@ -167,7 +167,7 @@ def embeddings_db(firm):
 
 # For companies where the company_description field is empty. Use the other values to generate an embedding instead
 def embeddings_no_desc(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
     firm_name = "Platinum Equity"
 
     with open(f"_portcos_processed/{filename}.json", "r", encoding="utf-8") as file:
@@ -198,4 +198,4 @@ def main(firm):
     embeddings_db(firm) 
     # embeddings_no_desc(firm) 
     
-main("kkr") # name needs to match filename
+main("bvlp") # name needs to match filename

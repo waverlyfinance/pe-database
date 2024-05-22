@@ -6,16 +6,24 @@
     "date_of_investment": "2022",
     "status_current": "Current",
     "hq": "London",
-    "website": "https://www.lloydslistintelligence.com/"
+    "website": "https://www.lloydslistintelligence.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2022,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "EPFR",
     "company_description": "Leading provider of funds flow data, allowing financial professionals access to granular information to identify investable trends and support better investment decision-making",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2022",
     "status_current": "Current",
-    "hq": "null",
-    "website": "http://www.epfr.com"
+    "hq": null,
+    "website": "http://www.epfr.com",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2022,
+    "region_stan": "North America",
+    "firm": "Montagu"
   },
   {
     "company_name": "HTL Biotechnology",
@@ -24,7 +32,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "France",
-    "website": "https://htlbiotech.com/"
+    "website": "https://htlbiotech.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Eudonet Group",
@@ -33,7 +45,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "France",
-    "website": "https://group.eudonet.com/en/"
+    "website": "https://group.eudonet.com/en/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Waystone Group",
@@ -42,7 +58,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "Ireland",
-    "website": "https://www.waystone.com/"
+    "website": "https://www.waystone.com/",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Resolve Surgical Technologies",
@@ -51,7 +71,11 @@
     "date_of_investment": "2020",
     "status_current": "Current",
     "hq": "United States",
-    "website": "https://www.resolvesurg.com/"
+    "website": "https://www.resolvesurg.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "firm": "Montagu"
   },
   {
     "company_name": "Intech",
@@ -60,7 +84,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "France",
-    "website": "https://intech-medical.com/"
+    "website": "https://intech-medical.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "IMV Technologies",
@@ -69,7 +97,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "France",
-    "website": "https://www.imv-technologies.com/"
+    "website": "https://www.imv-technologies.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "ITRS Group",
@@ -78,7 +110,11 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://www.itrsgroup.com/"
+    "website": "https://www.itrsgroup.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "ParentPay Group",
@@ -87,16 +123,24 @@
     "date_of_investment": "2021",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://educationsoftwaresolutions.co.uk/"
+    "website": "https://educationsoftwaresolutions.co.uk/",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2021,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "ISI Emerging Markets Group",
     "company_description": "ISI Emerging Markets Group is the leading provider of macroeconomic, business and industry intelligence on global emerging markets. Its subscription-based information services provide customers with business-critical emerging markets research, leveraging real-time macroeconomic, business and industry intelligence across multiple use cases.",
-    "industry": "null",
+    "industry": "Critical Data",
     "date_of_investment": "2020",
     "status_current": "Current",
-    "hq": "null",
-    "website": "https://www.isimarkets.com/"
+    "hq": "UK",
+    "website": "https://www.isimarkets.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2020,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "RTI Surgical",
@@ -105,7 +149,11 @@
     "date_of_investment": "2020",
     "status_current": "Current",
     "hq": "Germany, USA",
-    "website": "https://www.rtix.com/index.php"
+    "website": "https://www.rtix.com/index.php",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2020,
+    "region_stan": "North America",
+    "firm": "Montagu"
   },
   {
     "company_name": "Galileo Global Education",
@@ -114,7 +162,11 @@
     "date_of_investment": "2020",
     "status_current": "Current",
     "hq": "Paris",
-    "website": "https://www.ggeedu.com/"
+    "website": "https://www.ggeedu.com/",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2020,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Janes",
@@ -123,7 +175,11 @@
     "date_of_investment": "December 2019",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://www.janes.com/"
+    "website": "https://www.janes.com/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Miraclon",
@@ -132,7 +188,11 @@
     "date_of_investment": "April 2019",
     "status_current": "Current",
     "hq": "Benelux",
-    "website": "https://www.miraclon.com/"
+    "website": "https://www.miraclon.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Nemera",
@@ -141,7 +201,11 @@
     "date_of_investment": "2019",
     "status_current": "Current",
     "hq": "France",
-    "website": "https://www.nemera.net/"
+    "website": "https://www.nemera.net/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2019,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Maincare",
@@ -150,7 +214,11 @@
     "date_of_investment": "2018",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://www.maincare.com/"
+    "website": "https://www.maincare.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2018,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Wireless Logic",
@@ -159,7 +227,11 @@
     "date_of_investment": "2018",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://www.wirelesslogic.com/"
+    "website": "https://www.wirelesslogic.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2018,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Servelec",
@@ -168,7 +240,11 @@
     "date_of_investment": "January 2018",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://www.servelec.co.uk/"
+    "website": "https://www.servelec.co.uk/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2018,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "DAVASO",
@@ -177,7 +253,11 @@
     "date_of_investment": "2017",
     "status_current": "Realised",
     "hq": "Germany",
-    "website": "https://www.davaso.de/"
+    "website": "https://www.davaso.de/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Visma",
@@ -186,16 +266,24 @@
     "date_of_investment": "2017",
     "status_current": "Realised",
     "hq": "Norway",
-    "website": "http://www.visma.com/"
+    "website": "http://www.visma.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "OASIS Group",
     "company_description": "Leading records and information management company in Europe. A European provider of records and information management in the UK, Ireland, Netherlands, Poland and Belgium. OASIS\u2019s services allow its customers to manage their records holistically and cost efficiently across the entire document lifecycle and help ensure regulatory compliance.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2017",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://www.oasisgroup.com/"
+    "website": "https://www.oasisgroup.com/",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Universal Investment",
@@ -204,25 +292,37 @@
     "date_of_investment": "2017",
     "status_current": "Current",
     "hq": "Germany",
-    "website": "https://www.universal-investment.com/en"
+    "website": "https://www.universal-investment.com/en",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2017,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Aqua Lung",
     "company_description": "The leading manufacturer of branded diving equipment for recreational and professional use. Aqualung has successfully diversified from its expertise in scuba diving into several other aquatic equipment markets, including swimming, free diving, and snorkeling.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2016",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://uk.aqualung.com/en"
+    "website": "https://uk.aqualung.com/en",
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Funeral Partners",
     "company_description": "Leading provider of funeral services across the UK, Helping people through difficult times, The third largest funeral service provider in the UK, helping families through difficult times., Outstanding reputation for quality service, Most active consolidator in a highly fragmented UK funerals market, The powerful \u2018partnership\u2019 model of the business: Funeral Partners backs local funeral directors who understand their own customers and respects funeral directors\u2019 heritage as independent businesses, Becoming the acquirer of choice, Montagu has worked with Funeral Partners to support the core portfolio of local brands and people, while positioning the business to be the acquirer of choice for independent funeral directors., Funeral Partners has invested in training, systems and processes in order to build a brand with a reputation for reliability, trust and quality.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2016",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://www.funeralpartners.co.uk/"
+    "website": "https://www.funeralpartners.co.uk/",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2016,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "DEAS Group",
@@ -231,7 +331,11 @@
     "date_of_investment": "2015",
     "status_current": "Current",
     "hq": "Nordics",
-    "website": "https://deas.dk/"
+    "website": "https://deas.dk/",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Artemis",
@@ -240,7 +344,11 @@
     "date_of_investment": "June 2015",
     "status_current": "Current",
     "hq": "Germany",
-    "website": "https://www.artemiskliniken.de/"
+    "website": "https://www.artemiskliniken.de/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2015,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Equatex",
@@ -249,7 +357,11 @@
     "date_of_investment": "2015",
     "status_current": "Realised",
     "hq": "Germany",
-    "website": "https://www.equatex.com/"
+    "website": "https://www.equatex.com/",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2015,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Sebia",
@@ -258,7 +370,11 @@
     "date_of_investment": "2014",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://www.sebia.com/"
+    "website": "https://www.sebia.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Open GI",
@@ -267,7 +383,11 @@
     "date_of_investment": "2014",
     "status_current": "Current",
     "hq": "UK",
-    "website": "https://opengi.co.uk/"
+    "website": "https://opengi.co.uk/",
+    "industry_stan": "Financials",
+    "date_of_investment_stan": 2014,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Arkopharma",
@@ -276,7 +396,11 @@
     "date_of_investment": "2014",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://fr.arkopharma.com/"
+    "website": "https://fr.arkopharma.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "DORC",
@@ -285,7 +409,11 @@
     "date_of_investment": "2014",
     "status_current": "Realised",
     "hq": "Benelux",
-    "website": "https://dorcglobal.com/"
+    "website": "https://dorcglobal.com/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2014,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "CliniSys",
@@ -294,7 +422,11 @@
     "date_of_investment": "2013",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://www.clinisysgroup.com/uk/en/"
+    "website": "https://www.clinisysgroup.com/uk/en/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2013,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "The University of Law",
@@ -303,7 +435,11 @@
     "date_of_investment": "2012",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://www.law.ac.uk/"
+    "website": "https://www.law.ac.uk/",
+    "industry_stan": "Business Services",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "CAP",
@@ -312,25 +448,37 @@
     "date_of_investment": "2012",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://www.cap-hpi.com/"
+    "website": "https://www.cap-hpi.com/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2012,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Emitel",
     "company_description": "The leading owner and operator of nationwide tower infrastructure in Poland. Emitel offers business-critical services to TV and radio broadcasters and transmission services for mobile operators.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2011",
     "status_current": "Realised",
     "hq": "Poland",
-    "website": "https://www.emitel.pl/"
+    "website": "https://www.emitel.pl/",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Hansen Protection",
     "company_description": "A leading provider of survival suits used in transport between land and offshore installations and personal protection suits for marine and hazardous environments. Hansen Protection (previously Helly Hansen Survival) was founded in 1995 as part of the Helly Hansen Group and we carved it out in 2011 allowing it to focus on its professional niche.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2011",
     "status_current": "Realised",
     "hq": "Nordics",
-    "website": "https://hansenprotection.no/"
+    "website": "https://hansenprotection.no/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2011,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Host Europe",
@@ -339,16 +487,24 @@
     "date_of_investment": "2010",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://www.hosteurope.com"
+    "website": "https://www.hosteurope.com",
+    "industry_stan": "Technology",
+    "date_of_investment_stan": 2010,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "ADB Airfield Solutions",
     "company_description": "The market leader in airfield lighting, which is critical infrastructure for the aviation industry. ADB designs, manufactures and services innovative lighting products and systems for airfield operations around the world. It was a non-core division of Siemens and we carved-out the business in 2009.",
-    "industry": "null",
+    "industry": null,
     "date_of_investment": "2009",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://adbsafegate.com"
+    "website": "https://adbsafegate.com",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2009,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Euromedic International",
@@ -357,7 +513,11 @@
     "date_of_investment": "2008",
     "status_current": "Realised",
     "hq": "Poland",
-    "website": "https://montagu.com/portfolio/euromedic-international/"
+    "website": "https://montagu.com/portfolio/euromedic-international/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2008,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "BSN Medical",
@@ -366,7 +526,11 @@
     "date_of_investment": "2006",
     "status_current": "Realised",
     "hq": "Germany",
-    "website": "http://bsnmedical.com"
+    "website": "http://bsnmedical.com",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2006,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Cory Environmental",
@@ -375,7 +539,11 @@
     "date_of_investment": "2005",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://www.corygroup.co.uk/"
+    "website": "https://www.corygroup.co.uk/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2005,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "VetXX",
@@ -384,7 +552,11 @@
     "date_of_investment": "2005",
     "status_current": "Realised",
     "hq": "Nordics",
-    "website": "https://montagu.com/portfolio/vetxx/"
+    "website": "https://montagu.com/portfolio/vetxx/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2005,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Stabilus",
@@ -393,7 +565,11 @@
     "date_of_investment": "2004",
     "status_current": "Realised",
     "hq": "Germany",
-    "website": "https://www.stabilus.com/"
+    "website": "https://www.stabilus.com/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2004,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Survitec",
@@ -402,7 +578,11 @@
     "date_of_investment": "August 2004",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://survitecgroup.com/"
+    "website": "https://survitecgroup.com/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2004,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Steam Packet Company",
@@ -411,7 +591,11 @@
     "date_of_investment": "2003",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://www.steam-packet.com/"
+    "website": "https://www.steam-packet.com/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2003,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Marlow Foods",
@@ -420,7 +604,11 @@
     "date_of_investment": "2003",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://www.quorn.co.uk/"
+    "website": "https://www.quorn.co.uk/",
+    "industry_stan": "Consumer",
+    "date_of_investment_stan": 2003,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Volution",
@@ -429,7 +617,11 @@
     "date_of_investment": "2002",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://montagu.com/portfolio/volution/"
+    "website": "https://montagu.com/portfolio/volution/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 2002,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Risdon Pharma",
@@ -438,7 +630,11 @@
     "date_of_investment": "2002",
     "status_current": "Realised",
     "hq": "France",
-    "website": "https://montagu.com/portfolio/risdon-pharma/"
+    "website": "https://montagu.com/portfolio/risdon-pharma/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2002,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Dignity",
@@ -447,7 +643,11 @@
     "date_of_investment": "2002",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://www.dignityfunerals.co.uk/"
+    "website": "https://www.dignityfunerals.co.uk/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 2002,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Ashbourne Pharmaceuticals",
@@ -456,7 +656,11 @@
     "date_of_investment": "1999",
     "status_current": "Realised",
     "hq": "United Kingdom",
-    "website": "https://montagu.com/portfolio/ashbourne-pharmaceuticals/"
+    "website": "https://montagu.com/portfolio/ashbourne-pharmaceuticals/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 1999,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "ClinPhone",
@@ -465,7 +669,11 @@
     "date_of_investment": "1996",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://montagu.com/portfolio/clinphone/"
+    "website": "https://montagu.com/portfolio/clinphone/",
+    "industry_stan": "Healthcare",
+    "date_of_investment_stan": 1996,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   },
   {
     "company_name": "Ultra Electronics",
@@ -474,6 +682,10 @@
     "date_of_investment": "1993",
     "status_current": "Realised",
     "hq": "UK",
-    "website": "https://www.ultra.group/"
+    "website": "https://www.ultra.group/",
+    "industry_stan": "Industrials",
+    "date_of_investment_stan": 1993,
+    "region_stan": "EMEA",
+    "firm": "Montagu"
   }
 ]

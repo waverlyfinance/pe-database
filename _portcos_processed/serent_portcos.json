@@ -1,0 +1,641 @@
+[
+  {
+    "company_name": "Actionstep",
+    "company_description": "Actionstep is a cloud-based legal practice management system that helps small and mid-sized law firms across all practice areas drive improved efficiency in case and administrative work. By bringing together client relationship management, matter management, billing & trust accounting, document automation & storage, time tracking, and reporting in one software solution, Actionstep helps transform law practices into more efficient businesses.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.actionstep.com/us/",
+    "hq": "Auckland, New Zealand",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Aftermath",
+    "company_description": "Aftermath is a leading provider of biohazard management, crime scene and trauma cleanup services, on a national scale. The Company also provides awareness training to law enforcement agencies, first responders, medical examiners, and other professionals to educate them on the hazards of bloodborne pathogens and other infectious diseases, as well as proper safety procedures.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.aftermath.com/",
+    "hq": "Aurora, IL",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Apex HCM",
+    "company_description": "Apex HCM is a market leader in cloud-based payroll and HR technology. Apex\u2019s comprehensive suite of products and services includes payroll, payroll tax, human resources, time and attendance, workers\u2019 compensation, payroll debit cards and other business management tools normally reserved for large enterprises. Apex\u2019s cutting-edge cloud-based technology allows its customers to compete effectively feature-for -feature with larger established firms, while dramatically improving their workforce productivity.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://apexhcm.com/",
+    "hq": "Roswell, GA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "ArbiterSports",
+    "company_description": "A leader in athletic event management, ArbiterSports helps athletic departments and sports leagues simplify the process of managing athletic events, assigning officials, paying event workers, and informing athletes, families and fans. The product suite, including ArbiterGame, ArbiterAthlete, ArbiterOne, ArbiterPay, ArbiterMobile, ArbiterWorks, ArbiterLive and Arbiter360, delivers control and visibility over the entire athletic event process. ArbiterSports products are built on a powerful web-based platform that allows secure access from anywhere and provides seamless integration with the ability to add features. Sports leagues, commissioners, athletic directors, assigners, officials, and event workers rely on ArbiterSports to do their jobs effectively.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "http://www.arbitersports.com/",
+    "hq": "Sandy, Utah",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Aria Care Partners",
+    "company_description": "Aria Care Partners is the leading provider of onsite ancillary medical services for skilled nursing facilities. With more than 20 years of partnership with 2,500+ skilled nursing facilities, Aria Care Partners remains on the leading edge of innovative care delivery, understanding the connection between dental, vision, and hearing services to resident health and well-being. With a unique combination of turnkey insurance solutions and innovative service delivery, Aria Care Partners is passionate about enriching every resident\u2019s quality of life and ensuring that every family knows their loved ones are well cared for and safe.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://ariacarepartners.com/",
+    "hq": "Blountstown, FL",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Aviont\u00e9",
+    "company_description": "Aviont\u00e9 Staffing Software is a leading provider of staffing and recruiting technology solutions for the human resources industry. The company\u2019s innovative suite of front- and back-office software products are designed to provide staffing companies and recruiters a way to improve business processes and profits through extensive functionality, complete integration and a unique user experience.",
+    "industry": "Business",
+    "status_current": "Business",
+    "website": "http://www.avionte.com/",
+    "hq": "Eagan, MN",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Axiom Medical",
+    "company_description": "Axiom Medical is a market leading full-service provider of occupational health services that support the employee journey from pre-hire to post-separation. Their occupational health programs help clients ensure a healthy workforce that is capable of performing all tasks expected of each role. Their 24/7 incident and injury case management services manage optimal outcomes for employee and employer when a workplace injury occurs, and their absence management service helps employees, who are out on extended absence due to personal health matters, return to the workplace more quickly than traditional approaches.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "http://www.axiomllc.com/",
+    "hq": "The Woodlands, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "BirchStreet Systems",
+    "company_description": "BirchStreet Systems automates the business and operational process called procure-to-pay. The company offers a multi-tenant cloud solution for eProcurement, Accounts Payable Automation (3-way match automation), Inventory Control, Recipe Management and Capital Projects for businesses around the world. The SaaS solution improves visibility and control over supply chain and back-office operations. The platform and technology connects thousands of businesses in over 100 countries with a network of more than 345,000 suppliers to gain greater efficiency, increase transparency, create accountability, strengthen financial controls, and reduce compliance gaps resulting in significant business process improvements (BPIs) and real supply cost savings.",
+    "industry": "Financial",
+    "status_current": "Current",
+    "website": "http://www.birchstreetsystems.com/",
+    "hq": "Newport Beach, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Book4Time",
+    "company_description": "Book4Time is a global leader in wellness and recreation management solutions for the hospitality market. Founded in 2004, Book4Time manages the end-to-end guest experience for international hotels, resorts, casinos, and golf clubs. The company\u2019s customers include world-renowned hospitality brands such as Marriott, Accor, Hilton, Four Seasons, Hyatt, Shangri-La, Caesars, Canyon Ranch, and Equinox. The system\u2019s architecture is cloud-based and fully scalable for complete management control of multi-location businesses from a central online service platform and is used in over 85 countries globally.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://book4time.com/",
+    "hq": "Markham, ON",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "BS&A",
+    "company_description": "BS&A is a leading ERP software provider for municipalities across the United States. The company\u2019s platform empowers local government to streamline business processes and operations across finance, utilities, HR, community development, property assessments, and property taxes. The company is committed to providing exceptional customer service and support, resulting in a near 100% retention rate. Over 2,000 local governments use BS&A\u2019s software to power their municipalities.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.bsasoftware.com/",
+    "hq": "Bath, Michigan",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "BQE Software",
+    "company_description": "BQE Software develops innovative business management solutions for professional services firms. Its flagship product, BQE Core\u00ae, is a native cloud-based solution that centralizes and streamlines the way firms enter and use data for time tracking, billing, project management, and accounting. BQE Core gives them the speed and insight necessary to rapidly make informed decisions, increase productivity, and grow profits. BQE is trusted by leading architects, engineers, accountants, attorneys, IT specialists, and business consultants.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.bqe.com/",
+    "hq": "Torrance, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Buildertrend",
+    "company_description": "Buildertrend is the #1 cloud-based construction management software used by homebuilders, remodelers and specialty contractors. The award-winning tool helps construction professionals complete more projects while reducing delays, eliminating communication errors and increasing customer satisfaction. Since 2006, more than one million users across more than 100 countries have chosen Buildertrend as their preferred platform for real-time collaboration throughout each stage of the construction process.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://buildertrend.com/",
+    "hq": "Omaha, NE",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "BW Events",
+    "company_description": "BW Events is a leading managed services and technology consulting solution for the events industry. The company\u2019s industry-tested offerings include building bespoke architecture and integrations, vendor management, end-to-end platform development and configuration, and event tech consulting and project design. Fortune 500 companies, such as Google, Adobe, and Intuit, work with BW Event\u2019s award-winning team and use BW Events\u2019 solutions for high-quality virtual, in-person, and hybrid events.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://bweventstech.com/",
+    "hq": "Gilbert, AZ",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "C2 Educational Systems",
+    "company_description": "C2 Educational Systems is a leading provider of test preparation and academic tutoring services to K-12 students. With help from C2\u2019s rigorous curriculum and innovative delivery model, 85% of C2\u2019s US students are admitted to a Top 50 university. C2 currently has over 100 locations and is growing rapidly.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "http://www.c2educate.com/",
+    "hq": "Atlanta, GA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "CallRevu",
+    "company_description": "CallRevu offers dealerships a range of quality call tracking, monitoring, measuring and lead development services.\u00a0 CallRevu\u2019s key focus is to help automobile dealers measure and improve the most common contact point with their customers: the phone. CallRevu\u2019s solutions are developed by a team of individuals, who offer a broad range of experiences and whose leadership comes from the automotive world, and have an unrivaled commitment to customer service and satisfaction.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://www.callrevu.com/",
+    "hq": "Timonium, MD",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Cardon Outreach",
+    "company_description": "Cardon Outreach is a provider of third party eligibility and other revenue cycle management services for hospitals. After Serent\u2019s initial investment into Cardon Healthcare, the business subsequently combined with Outreach Services, a complementary provider of healthcare revenue cycle services, to form Cardon Outreach.",
+    "industry": "Healthcare",
+    "status_current": "Exited",
+    "website": "https://www.meddata.com/",
+    "hq": "Houston, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "CoConstruct",
+    "company_description": "CoConstruct is a leading provider of cloud-based project management tools that helps custom builders and remodelers coordinate their projects, communicate better with clients & crews, and control the financials of their jobs. Users can manage their projects from their tablet or desktop, or in the field with a mobile app.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.co-construct.com/",
+    "hq": "Charlottesville, VA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Commissions, Inc.",
+    "company_description": "Commissions, Inc. (CINC) is the leading provider of turnkey business growth systems that help top agents dramatically increase residential real estate closings. CINC has applied experience, technology, and process execution to create solutions for well over 1,000 agents that delivers on the promise of enabling agents to expand their business. Their technology platform remains at the forefront of the industry and provides powerful competitive advantages in terms of lead management and lead conversion.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.commissionsinc.com/",
+    "hq": "Marietta, GA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Compeat",
+    "company_description": "Compeat offers the most comprehensive software available for restaurant operators to seamlessly manage their inventory, workforce, and accounting with one integrated product. Since 2000, Compeat has helped thousands of restaurants across the US and Europe reduce their costs, increase control, and improve efficiency.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.compeat.com/",
+    "hq": "Austin, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "CoreLogic",
+    "company_description": "CoreLogic, a leading provider of property insights and solutions, promotes a healthy housing market and thriving communities. Through its enhanced property data solutions, services and technologies, CoreLogic enables real estate professionals, financial institutions, insurance carriers, government agencies and other housing market participants to help millions of people find, buy and protect their homes.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.corelogic.com/",
+    "hq": "Irvine, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Davisware",
+    "company_description": "West Dundee, IL-based Davisware is a global software company that began in a family HVAC business in 1988. Thousands of companies use Davisware technology suites to manage, organize and grow their service contracting businesses from startup to enterprise-level businesses. They employ a team of empathetic and creative problem-solvers. They combine technical and industry expertise with the goal of providing customers with the most current technology coupled with educational opportunities to learn both the tools and the best practices. Together with education and technology, Davisware customers are able to most efficiently and profitably manage their businesses. Helping its customers become exponential through the use of technology and education is how Davisware fulfills its mission of partnership in the growth of their customer\u2019s businesses.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://www.davisware.com/",
+    "hq": "West Dundee, IL",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Diamond Mind",
+    "company_description": "Diamond Mind is the nation\u2019s leading provider of payment solutions and technology for independent K-12 schools serving over 850 schools in 46 states. The company creates cost effective campus-wide payment solutions for tuition, online donations, summer programs, admissions, enrollment, bookstore and purchase card programs.",
+    "industry": "Education",
+    "status_current": "Exited",
+    "website": "http://www.diamondmindinc.com/",
+    "hq": "Potomac, MD",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "DIGARC",
+    "company_description": "DIGARC is the leading provider of catalog and curriculum management software to higher education institutions. DIGARC software is trusted by hundreds of colleges and universities, thousands of higher-ed professionals, and millions of end-users. DIGARC\u2019s technology solutions are developed by an incredible team of individuals who offer a broad range of experiences and have an unrivaled commitment to customer service and satisfaction.",
+    "industry": "Education",
+    "status_current": "Exited",
+    "website": "http://www.digarc.com/",
+    "hq": "Lakeland, FL",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "DirectShifts",
+    "company_description": "DirectShifts is a healthcare staffing technology platform built for healthcare professionals by healthcare professionals. The company\u2019s mission is to connect healthcare professionals directly with employers by using advanced technologies and digitizing the recruitment and staffing processes. Using an AI-based platform, DirectShifts matches the right clinicians to the right open shifts and jobs from various employers like hospitals, health systems, Ambulatory clinics, and telehealth companies. DirectShifts has helped many clinicians (like Physicians, Advanced Practice Providers, Nurses, Therapists, and Medical Assistants) find the right opportunities, including contract positions, permanent roles, per-diem shifts, and travel positions.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://www.directshifts.com/",
+    "hq": "New York, New York",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Docutech",
+    "company_description": "Docutech is the premier technology provider of dynamic document generation, electronic signature, and compliance solutions to leading banks and mortgage lenders. Docutech\u2019s software interfaces with loan origination systems (LOS) to enable lenders to generate complete loan document sets to ensure regulatory compliance. Docutech manages and secures all information needed for a loan, guaranteeing accuracy, security, and compliance.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.docutech.com/",
+    "hq": "Idaho Falls, ID",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Dyad",
+    "company_description": "Dyad delivers software and services that simplify insurance processing and distribution. Dyad has redefined insurance technology by continuously improving its solutions, ensuring customers can focus on growing and evolving their business, delivering superior customer service, and developing valuable insight into their business. Retail agencies, wholesalers, agency networks, program administrators, MGAs, and carriers benefit from Dyad\u2019s solutions.",
+    "industry": "Financial",
+    "status_current": "Current",
+    "website": "https://dyadtech.com/",
+    "hq": "Boston, Massachusetts",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Education Advanced",
+    "company_description": "Education Advanced is a provider of operations management and workflow solutions for K-12 school districts that enable educators to be more efficient, allowing them to dedicate more of their time and resources to exceeding student needs. EAI\u2019s product offering includes Cardonex, TestHound, and BuildYourOwnCurriculum (BYOC). These award-winning and patented technology solutions advance the efficacy of master scheduling, staff planning, curriculum development and delivery, and assessment coordination for K-12 school districts across the country.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "https://educationadvanced.com/",
+    "hq": "Tyler, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Employer Direct Healthcare",
+    "company_description": "Employer Direct Healthcare is a market-leading healthcare services business providing high-quality and cost-efficient solutions for self-funded employers and their members. We are on a mission to transform access to excellent care for the moments that matter most. Our solutions transform healthcare for our members, facilitating access to top-quality care at fair prices nationwide. For more than a decade, our team has helped organizations better care for their people with access to the best providers in the nation because we believe that there should not be a trade between affordable care and excellent care. Employer Direct Healthcare\u2019s first offering, SurgeryPlus\u00ae, is the market-leading surgical benefit, providing full-service guided access and network services to millions of covered members across hundreds of employers. In 2023, we launched a first-of-its-kind, comprehensive end-to-end oncology solution, Cancer Care Direct \u2013 for the employer market.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://www.edhc.com/",
+    "hq": "Dallas, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "ePayPolicy",
+    "company_description": "ePayPolicy provides an easy to use, end-to-end solution with integrations into leading agency management systems allowing agencies, MGAs / wholesale brokers and premium finance companies to get up and running with electronic payments in days, dramatically reduce the number of paper checks they process, while simplifying their accounting reconciliation with automated data entry. Since its founding in 2014, ePayPolicy has become one of the market-leading E&S focused solutions serving over 2,300 customers, processing $2 billion in payments annually, and leading in customer satisfaction with customer ratings nearly 5x higher than the market average.",
+    "industry": "Financial",
+    "status_current": "Current",
+    "website": "http://www.epaypolicy.com/",
+    "hq": "Austin, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Equinox Healthcare",
+    "company_description": "Equinox Healthcare is a leading provider of home infusion therapy in the Baltimore / Washington DC market. Equinox has built its market leadership through its investments in clinical excellence in selected therapies.",
+    "industry": "Healthcare",
+    "status_current": "Exited",
+    "website": "https://serentcapital.com/portfolio/bio/epaypolicy/",
+    "hq": "Ellicott City, MD",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "EZDERM",
+    "company_description": "Founded in 2010 by practicing dermatologist Srdjan Prodanovic, EZDERM has emerged as a leading provider of Electronic Health Record (EHR) and related software solutions tailored for the dermatology market. Born out of dissatisfaction with existing solutions, EZDERM is committed to revolutionizing the landscape of dermatological care. By providing a comprehensive suite of tools, EZDERM\u2019s 360-degree software empowers dermatology practices with seamless integration of EHR, Practice Management System, Patient Portal, and Check-In App. EZDerm provides a one-stop solution for the diverse needs of dermatological healthcare providers.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://ezderm.com/",
+    "hq": "Naples, Florida",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "First Due",
+    "company_description": "New York-based First Due has reimagined public safety technology for agencies nationwide. The SaaS First Due Suite provides fire and EMS agencies an end-to-end solution to consolidate all core components of their operation in a single platform. Departments with First Due are transforming how they function, before, during and after an incident \u2013 ultimately leading to better decisions and a safer community.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.firstdue.com/",
+    "hq": "New York, NY",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "FranConnect",
+    "company_description": "FranConnect is the leading\u00a0franchise management software provider. For 20 years, the FranConnect platform has served as the sales, operations, and marketing backbone for over 1500 brands worldwide. Nine of the Franchise Times Top 10 Fastest-Growing franchise businesses rely on FranConnect to drive growth, improve profitability, and streamline operational performance. FranConnect customers span all sizes, growth phases, and industries and they grow 44% faster on average than the broader franchising market. FranConnect is headquartered in Herndon, Virginia, with global offices in Australia, India, Colombia and Canada.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://www.franconnect.com/",
+    "hq": "Reston, VA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "GDS Link",
+    "company_description": "GDS Link provides its clients in multiple financial verticals with the power and flexibility to rapidly implement their credit risk strategies in support of their lending and account management practices. GDS Link\u2019s data bureau gateway provides easy access to a multitude of third-party data sources in support of risk assessment, fraud prevention and mitigation, income and employment verification processes. GDS Link\u2019s workflow component fulfills a client\u2019s requirements for processing applications that require manual intervention. Founded in 2006, GDS Link is headquartered in Dallas, Texas with seven international offices including the United Kingdom and Spain.",
+    "industry": "Financial",
+    "status_current": "Current",
+    "website": "http://www.gdslink.com/",
+    "hq": "Dallas, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Intygral",
+    "company_description": "Intygral is a premier provider of digital marketing and lead management solutions for local insurance agencies. Since its founding in 2006, Intygral has redefined how independent insurance agencies find, sell, and keep new clients.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "https://serentcapital.com/portfolio/bio/gds-link/",
+    "hq": "Warwick, RI",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "KEV Group",
+    "company_description": "Founded in 1996, KEV Group is one of the only providers of a single, integrated solution that allows K-12 schools to manage every dollar by automating the entire school activity fund management process. KEV\u2019s SchoolCash solution allows school districts, schools, teachers, and parents to benefit from a seamless, easy-to-use solution that provides real-time visibility and control over all activity from start to finish. More than 17,000 schools across North America rely on SchoolCash to manage over $3 billion in activity funds annually.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "http://www.kevgroup.com/",
+    "hq": "Toronto, Ontario",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Knowland",
+    "company_description": "Knowland provides leading technology, data and analytics to the hospitality industry. Knowland\u2019s cloud-based sales and catering solution and its competitive intelligence tools help hotels to maximize revenue from meeting and conference space. Knowland\u2019s technology is powered by the industry\u2019s most extensive database of events, of organizations that hold these events, and of the key contacts who book them.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://www.knowland.com/",
+    "hq": "Washington, D.C.",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "KORE Software",
+    "company_description": "KORE Software, is a leading provider of business management software for the sports and entertainment industries. KORE\u2019s products and services help more than 100 professional sports teams and 450 properties, brands, and agencies worldwide harness valuable customer and partner data to fuel business intelligence and optimize performance. From fan engagement and data warehousing to sponsorship and premium offerings, KORE delivers an integrated suite of applications to drive insights, efficiency, and profitability within sports and entertainment.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://koresoftware.com/",
+    "hq": "New York, New York",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "LinkIt!",
+    "company_description": "LinkIt! is a market leader providing data warehousing, analytics, assessment, and MTSS solutions for K-12 schools. We help school districts streamline collecting, managing, and analyzing student performance data to improve academic achievement, save time, and increase overall productivity. Specifically, the company\u2019s data warehouse and assessment platform enable schools to store and analyze third-party and locally created data for all grade levels and subject areas. LinkIt! also provides custom analytical services to help schools better understand their data for more effective decision-making and action planning. Lastly, our MTSS solution helps schools optimize workflows to create individualized student learning plans. At LinkIt, we come to work every day knowing that our work directly impacts students, teachers, and their ability to succeed. While we differentiate our products by being comprehensive, easy to use, and innovative, our unique value proposition is our relentless focus on customer service and support.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "https://www.linkit.com/",
+    "hq": "New York, NY",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "LMN",
+    "company_description": "Founded in 2009, LMN is North America\u2019s leading provider of business management software for landscape professionals. Its proprietary cloud-based platform is used by over 85,000 professionals every day across Canada and the US. From budgeting and estimating through to scheduling, time tracking and invoicing, LMN helps build better landscape businesses.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://golmn.com/",
+    "hq": "Markham, Ontario",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "ManageAmerica",
+    "company_description": "ManageAmerica is a leading property management software for operators of manufactured housing communities, recreational vehicle parks, marinas, commercial and industrial properties, storage facilities, and multifamily assets. ManageAmerica\u2019s property management, resident screening, utility billing, and accounts receivable software suite works seamlessly together, increasing productivity and empowering operators to grow their business efficiently.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.manageamerica.com/",
+    "hq": "Santa Barbara, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Medical Informatics Engineering",
+    "company_description": "Medical Informatics Engineering (\u201cMIE\u201d) is a leading provider of health IT software and systems for occupational health. MIE serves as the innovation engine for business units that serve hospitals and health systems, physician practices, Fortune 500 employers, government agencies and consumers. MIE\u2019s web-based health information technology platform is helping physicians, nurses, administrators, and patients make a dent and a meaningful difference in healthcare delivery across the globe.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://mieweb.com/",
+    "hq": "Fort Wayne, Indiana",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Mercury Network",
+    "company_description": "Mercury Network is a leading provider of appraisal vendor management and workflow software to institutional lenders. The company\u2019s tools allow lenders and appraisal management companies to manage their vendor workflow process from a cloud-based platform in compliance with banking regulations and appraiser independence requirements.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.mercuryvmp.com/",
+    "hq": "Oklahoma City, OK",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "MeridianLink",
+    "company_description": "MeridianLink was formed by the merger of MeridianLink and CRIF Lending Solutions and provides mission-critical software solutions to financial institutions. Developer of the industry\u2019s first multi-channel account opening and loan origination suite, the company\u2019s LoansPQ, LendingQB, and ACTion platforms allow banks and credit unions to process and accept consumer and mortgage loans as well as account opening applications, and integrate seamlessly with all major core and data services providers. MeridianLink also offers Synergy, a highly customizable and configurable loan processing and decisioning workflow product, as well as MortgageCreditLink, the dominant provider of \u201ctri-merge\u201d integration functionality into credit bureaus and other third-party consumer and business databases.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.meridianlink.com/",
+    "hq": "Costa Mesa, California",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Millennium Systems International",
+    "company_description": "Millennium Systems International is the leading business management software provider for the beauty and wellness industry, built on over three decades of insight, innovation, and disruption. The award-winning Meevo 2 platform is a true cloud-based, all-in-one solution for growth that is HIPAA compliant and fully responsive, so users can gain complete access using any device.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.millenniumsi.com/",
+    "hq": "Parsippany, NJ",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "MinuteKey",
+    "company_description": "MinuteKey, developer of the world\u2019s first self-service key duplication machine, received a growth equity investment from Serent Capital. Since the time of investment, the company has rapidly expanded the breadth and depth of its retailer relationships.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.minutekey.com/",
+    "hq": "Boulder, CO",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Modern Campus",
+    "company_description": "Modern Campus, the innovator driving Omni CMS and Destiny One, empowers higher education institutions to thrive when radical change is required to successfully respond to lower student enrollments and revenue, rising costs, crushing student debt and even school closures. Powered by the industry\u2019s leading modern learner engagement platform, presidents and provosts can create pathways for lifelong learning, while marketing and IT leaders can deliver Amazon-like personalization and instant fulfillment. Award-winning products and average annual revenue growth of 19% for its 550+ higher education customers have earned Modern Campus a 98% retention rate and a reputation for customer obsession.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "https://moderncampus.com/",
+    "hq": "Camarillo, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Motility Software",
+    "company_description": "Motility Software is a premier provider of Powersports, Bus, Marine, Automotive, Class 8/Heavy Duty, and RV dealership software. Sys2K\u2019s Infinity software is a fully integrated, Windows-based DMS that features modules including CRM, F&I, Parts and Service, Payroll, Accounting, Rental, Advanced Reporting, as well as offering Premium Websites, Cloud Hosting, and Mobile Apps. Founded in 1984, Motility Software (fka Sys2k) prides itself in developing the highest-quality software solutions for the dealership environment.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.motilitysoftware.com/",
+    "hq": "Altamonte Springs, FL",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Next Gear Solutions",
+    "company_description": "Next Gear Solutions is a leading provider of job management and workflow software to the restoration industry. Next Gear\u2019s SaaS platform is used by thousands of restoration contractors to manage all aspects of their business.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.nextgearsolutions.com/",
+    "hq": "Oxford, MS",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Optimal Blue",
+    "company_description": "Optimal Blue is a leading provider of SaaS mortgage technology solutions. The company\u2019s products include a web-based product eligibility and pricing engine (PPE), as well as compliance and hedging tools for mortgage originators. Founded in 2002, the company\u2019s software suite provides lenders with the ability to automate the management and distribution of their products, pricing and secondary marketing activities.",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.optimalblue.com/",
+    "hq": "Plano, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "ParentSquare",
+    "company_description": "ParentSquare is relied upon by millions of educators and families in over 44 states for unified, effective school communications. ParentSquare provides parent engagement tools that work from the district office to the individual classroom, supported by powerful metrics and reporting. ParentSquare\u2019s technology platform features extensive integrations with student information and other critical administrative systems, translation to more than 100 languages, and app, email, text, voice, and web portal access for equitable communication.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "https://www.parentsquare.com/",
+    "hq": "Santa Barbara, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Payliance",
+    "company_description": "Payliance is a leader in payment processing, risk management, and recovery. With over 40,000 merchants, they have a deep understanding of the collection, lending, education, government, retail, medical and restaurant industries. \u00a0Payliance delivers effective, merchant-focused payment and recovery solutions that create measurable value and streamlines operations.",
+    "industry": "Financial",
+    "status_current": "Current",
+    "website": "http://www.payliance.com/",
+    "hq": "Columbus, OH",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Pondera Solutions",
+    "company_description": "Pondera Solutions was founded in 2011 with the singular focus of leveraging the power of cloud computing and advanced analytics to combat fraud, waste, and abuse in large government programs. Since that time, Pondera has helped clients, many of the largest state government programs in the country, to prevent and collect hundreds of millions of dollars in improper payments.Pondera offers a comprehensive cloud solution to help detect, investigate, and enforce fraud, waste, and abuse. The system combines program data with third party consumer and business data and then runs every business, beneficiary, and transaction through a series of procedural and prediction models.The system flags transactions that violate predetermined thresholds and sends an alert to an integrated dashboard \u201cbuilt by investigators, for investigators\u201d. \u00a0Program integrity staff can then analyze the lead, use the system to investigate the lead, and even create and manage a case for ongoing enforcement activities.",
+    "industry": "Healthcare",
+    "status_current": "Exited",
+    "website": "http://ponderasolutions.com/",
+    "hq": "Gold River, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "People 2.0",
+    "company_description": "People 2.0 is one of the largest, independent, global, workforce-deployment platform for market makers in talent including staffing agencies, search and recruitment firms, mass talent procurement organizations, and consulting/contracting/compliance companies.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.people20.com/",
+    "hq": "Exton, PA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Procurement Partners",
+    "company_description": "Since 2010, Procurement Partners has been leading the business commerce evolution with its procure-to-pay (P2P) solution. The complete procurement and transaction automation portal, built and supported by Procurement Partners, reduces off-contract spending, and drives efficiency to purchase processes while automatically auditing every invoice. The significant amount of flexibility of the Portal, the ability to capture 100% of invoices, and the capability to service customers and vendors of all sizes have made Procurement Partners one of the fastest-growing P2P solutions in multiple markets.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "http://www.procurementpartners.com/",
+    "hq": "Brookfield, Wl",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Professional Health Care Network",
+    "company_description": "Founded in 1987, the Professional Health Care Network (PHCN) is the leading provider of home health management solutions in Arizona. The Professional Health Care Network offers payors home healthcare containment services such as network, utilization, & claims management through capitation contracts. The Professional Health Care Network successfully works with major Arizona health plans (AHCCCS, Medicare Advantage, and commercial) resulting in full contractual compliance, lower medical expenses, improved health outcomes, and higher patient satisfaction. The Professional Health Care currently provides coverage to over 350,000 members through contracts with several health plans throughout Arizona.",
+    "industry": "Healthcare",
+    "status_current": "Exited",
+    "website": "http://www.prohcn.com/",
+    "hq": "Phoenix, AZ",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Progress Learning",
+    "company_description": "Progress Learning, formerly known as USATestprep, is a leading provider of curriculum resources and test prep for high schools, middle schools, and elementary schools. Since its founding in 1998, the company has been helping students with high-stakes tests, offering review products for subject area end-of-grade, end-of-course, graduation level, career readiness, and college entrance assessments. With programs tailored to both individual state and/or Common Core standards, nearly 2 million students use the platform each year.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "http://www.progresslearning.com",
+    "hq": "Tucker, GA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Quorum",
+    "company_description": "Quorum is a software company whose products are used by thousands of public affairs professionals for their work in Congress, all 50 state legislatures, thousands of major U.S. cities, the European Union, and over a dozen other countries. Founded in 2014, Quorum is headquartered in Washington, D.C. with an international office in Brussels. Quorum works with Fortune 500 companies, trade associations, advocacy groups, embassies, nonprofits, and government agencies including Coca-Cola, Walmart, General Motors, U.S. Travel Association, Human Rights Campaign, the United Nations Foundation, and the Air Force.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.quorum.us/",
+    "hq": "Washington, D.C.",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Raintree Systems",
+    "company_description": "Raintree Systems is a leading provider of electronic health record (EHR) and revenue cycle management (RCM) software solutions to the therapy market. Raintree\u2019s EHR and practice management solutions are used by more than 25,000 users across North America. Raintree\u2019s commitment to \u201cSoftware-as-a-Relationship\u201d uniquely distinguishes them from other providers in the market.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "https://www.raintreeinc.com/",
+    "hq": "Temecula, California",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Real Green Systems",
+    "company_description": "Real Green is a global software company that began as a lawn care company in 1984. It has successfully owned, operated and cultivated multiple service companies for more than 30 years. This unique and extensive experience has motivated it to specialize in developing software, tailor-made for service industry professionals. Thousands of companies worldwide use Service Assistant. Real Green continues to develop innovative technology and marketing solutions to help customers manage and grow their businesses in the most efficient, cost-effective ways possible. It employs a team of dedicated and knowledgeable professionals with the goal of providing customers with the most current technology and the widest range of available features. Helping to make clients as successful as possible, Real Green Systems provides a competitive edge with its innovative business operation software and advanced marketing tools.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.realgreen.com/",
+    "hq": "Walled Lake, MI",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Restaurant365",
+    "company_description": "Restaurant365 is the industry leading all-in-one, accounting, inventory, scheduling, payroll and HR solution developed specifically for restaurants. The R365 platform simplifies day-to-day management for restaurant operators, allowing them to control food costs and optimize labor costs. Integrations and open APIs enable Restaurant365 to connect with other systems including POS providers, vendors and banks. The result is accurate, timely reporting that provides a clear and complete view of their businesses. Restaurant365 allows operators to focus on what matters \u2014 their guests.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.restaurant365.com/",
+    "hq": "Irvine, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Revinate",
+    "company_description": "Revinate is the global leader in guest data management and intelligence, bringing hotels closer to their guests. Founded in 2009, Revinate counts tens of thousands of the world\u2019s leading hotels as customers and has won numerous awards for its software as a service (SaaS) solutions, including 2019 and 2020 Top Rated Email Marketing and CRM Product by Hotel Tech Report.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.revinate.com/",
+    "hq": "San Francisco, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Safety Services",
+    "company_description": "Safety Services is a leading provider of safety and compliance products and services to small and mid-sized businesses in the US and Canada. The company has helped over 200,000 businesses maintain a safe work environment and comply with federal and state safety regulations.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.safetyservicescompany.com/",
+    "hq": "Tempe, AZ",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "SHR",
+    "company_description": "SHR is a leading provider of meaningful technology that helps hotels execute their best revenue generation strategies. Headquartered in Houston, Texas, with offices in Europe and Asia-Pacific, SHR has a history of innovation starting with Windsurfer\u00ae CRS, SHR serves thousands of properties around the globe with an evolving suite of AI-driven solutions, ranging from high-level distribution to intricate guest management. In addition, the company offers Revenue Management for Hire to brands, chains, and management companies. SHR brings hoteliers nimble, real-world technology, intelligently supported by tested industry experts\u2014keeping hotels competitive.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "http://shr.global/",
+    "hq": "Houston, Texas",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Studio Designer",
+    "company_description": "Studio Designer is the leading digital project management, product sourcing, and accounting platform for the interior design industry. The fully integrated platform features an all-in-one project management system, client collaboration portal, product sourcing, tools, and designer-specific accounting software.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.studiodesigner.com/",
+    "hq": null,
+    "firm": "Serent"
+  },
+  {
+    "company_name": "TalentWave",
+    "company_description": "TalentWave is the leading provider of independent contractor compliance and contingent workforce management solutions. TalentWave helps companies to lower costs, gain greater visibility into contingent labor spending and productivity, while ensuring compliance with government regulations.",
+    "industry": "Business",
+    "status_current": "Exited",
+    "website": "http://www.talentwave.com/",
+    "hq": "Foster City, CA",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Traumasoft",
+    "company_description": "Traumasoft is a leading provider of innovative software solutions tailored to the needs of Emergency Medical Services (EMS) organizations. With a mission to enhance operational efficiency and improve patient outcomes, Traumasoft offers a comprehensive suite of tools designed to streamline dispatch, billing, and reporting processes. Backed by years of industry expertise and a dedicated team of professionals, Traumasoft is committed to empowering EMS agencies with cutting-edge technology to meet the evolving demands of emergency medical care.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://traumasoft.com/",
+    "hq": "Portage, Michigan",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Tricolor Auto",
+    "company_description": "Tricolor Auto is a Hispanic-focused auto dealer and auto finance company. The company provides high quality vehicles through an upscale buying experience, while providing financing and allowing customers to build credit histories. Serent partnered with the executive team to complete a management buy-out",
+    "industry": "Financial",
+    "status_current": "Exited",
+    "website": "http://www.tricolorauto.com/",
+    "hq": "Dallas, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "United Allergy Services",
+    "company_description": "United Allergy Services is the nation\u2019s leading provider of allergy testing and immunotherapy services to Primary Care Physicians. Immunotherapy (also known as \u201callergy shots\u201d) is the most effective treatment for seasonal allergies, which affect over 60 million people in the U.S.",
+    "industry": "Healthcare",
+    "status_current": "Current",
+    "website": "http://www.unitedallergyservices.com/",
+    "hq": "San Antonio, TX",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "WorkWave",
+    "company_description": "For nearly 40 years, WorkWave has been building best practices into its market-leading field service and last mile software solutions to allow best-in-class companies to grow their business, service their customers, and maximize their money. Its solutions empower service-oriented companies to reach their full potential through scalable, cloud-based software solutions that support every stage of a business life cycle, including marketing, sales, service delivery, customer interaction, and financial transactions. WorkWave is a trusted partner for thousands of customers across a wide variety of industries, including pest control, lawn care, cleaning, HVAC, plumbing and electrical, and last mile delivery. WorkWave\u2019s award-winning culture and solutions have been recognized in the SaaS Awards, the Cloud Awards, the American Business Awards, the NJBIZ Best Places to Work Awards, and the Stevie Awards for Great Employers.",
+    "industry": "Business",
+    "status_current": "Current",
+    "website": "https://www.workwave.com/",
+    "hq": "Holmdel, NJ",
+    "firm": "Serent"
+  },
+  {
+    "company_name": "Zollege",
+    "company_description": "Zollege provides career-focused, skills-based training to enable students to access higher-quality jobs and achieve freedom through education. The company\u2019s high-quality, hybrid e-learning and in-person training provides transformational education that leads to employment and continuing education opportunities in career fields, including Dental and Medical Assisting.",
+    "industry": "Education",
+    "status_current": "Current",
+    "website": "https://zollege.com/",
+    "hq": "Cedar Park, TX",
+    "firm": "Serent"
+  }
+]

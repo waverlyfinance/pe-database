@@ -11,14 +11,14 @@ api_key_oai = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key_oai)
 
 # Anthropic
-client = anthropic.Anthropic(
+anth_client = anthropic.Anthropic(
     api_key = os.getenv('ANTHROPIC_API_KEY'),
 )
 
 # pre-process the files first. Extract only relevant fields to save on tokens
 def pre_process(firm): 
     
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
     
     with open(f"_portcos_processed/{filename}.json", "r") as file:
         data = json.load(file)
@@ -33,7 +33,7 @@ def pre_process(firm):
             "region": company.get("region") if company.get("region") else None,
             # "fund": company.get("fund") if company.get("fund") else None,
             "date_of_investment": company.get("date_of_investment") if company.get("date_of_investment") else None,
-            # "status_current": company.get("status_current") if company.get("status_current") else None,
+            "status_current": company.get("status_current") if company.get("status_current") else None,
             "hq": company.get("hq") if company.get("hq") else None,
         }
 
@@ -48,16 +48,16 @@ class standardized_fields(BaseModel):
     industry_stan: str | None = Field(None, description="Must be only one of the following options: Technology, Healthcare, Industrials, Consumer, Financials, Real Estate, Infrastructure, Business Services, Natural Resources")
     date_of_investment_stan: int | None = Field(None, description="Must be an integer in yyyy format. E.g. 2013 or 2017")
     region_stan: str | None = Field(None, description="Must be ONLY one of the following options: North America, EMEA, LatAm, Asia Pacific, Africa")
-    # status_current_stan: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical)")
+    status_current_stan: str | None = Field(None, description="Must be either these 2 values: 'Current' (e.g. Active) or 'Realized' (e.g. Historical)")
 
 fields_schema = standardized_fields.schema()
 
 
 # inputs are the original data
-def transform_fields(data_string):
+def transform_fields(data):
 
     completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
+    model="gpt-4-turbo",
     messages=[
         {
             "role": "system",
@@ -81,7 +81,7 @@ def transform_fields(data_string):
         },
         {
             "role": "user", 
-            "content": data_string
+            "content": data
         },],
     tools = [
         {   
@@ -132,7 +132,7 @@ def transform_fields_claude(data):
             Here is the data:
             {data}"""
 
-    completion = client.beta.tools.messages.create(
+    completion = anth_client.beta.tools.messages.create(
     model="claude-3-haiku-20240307",
     #haiku-20240307
     #sonnet-20240229
@@ -160,7 +160,7 @@ def transform_fields_claude(data):
 
 
 def consolidate_fields(firm):
-    filename = firm + "_portcos"
+    filename = firm.lower() + "_portcos"
     
     # first file (original)
     with open(f"_portcos_processed/{filename}.json", "r") as file:
@@ -221,23 +221,21 @@ def update_db(firm):
 
 
 def main(firm):
-    filename = firm + "_portcos"
-    
-    data = pre_process(firm)
-    
-    # data_string = json.dumps(data)
+    filename = firm.lower() + "_portcos"
 
+    data = pre_process(firm)
     output = []
+
     for company in data:
-        # company_string = json.dumps(company)
-        transformed_company = transform_fields_claude(company)
+        company_string = json.dumps(company)
+        transformed_company = transform_fields(company_string)
         output.append(transformed_company)
-        time.sleep(1)
+        # time.sleep(1)
         
     with open(f"_portcos_gpt/{filename}_output.json", "w") as outfile:
         json.dump(output, outfile, indent=2)
     
     consolidate_fields(firm)
 
-main("kkr") # must match file name
+main("serent") # must match file name
 # update_db("kkr") #must match file name

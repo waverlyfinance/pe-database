@@ -198,7 +198,7 @@ class Company(BaseModel):
     # date_of_investment: str | None = Field(None, description="E.g. January 2022, or 2022, or 1/19/2022 are all acceptable")
     # status_current: str | None = Field(None, description="Current or Active vs. Realized or Former or Exited")
     # region: str | None = Field(None, description="E.g. North America, Asia, Europe, etc.")
-    # fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, Fund XI, etc. Can be none if not applicable")
+    fund: str | None = Field(None, description="Which sub-fund this company belongs to. E.g. Growth, Buyout, Rise, Real Estate, Fund XI, etc. Can be null")
     hq: str | None = Field(None, description="E.g. New York, Barcelona, Boston, Grand Rapids, etc.")
     website: str | None = Field(None, description="url or path to the portfolio company's website")
 
@@ -215,10 +215,11 @@ def extract_data(processed_html):
     messages=[
         {
             "role": "system",
-            "content": """Think step by step. 
+            "content": """
+            Think step by step. 
             You are a financial analyst, reviewing an investment firm's list of portfolio companies. 
             You will be provided raw HTML.
-            Use the tools available to you to extract data from the raw HTML. Note that these fields provided in the tools are only certain examples. There can be more or fewer fields, depending on the raw HTML
+            Use the tools available to you to extract certain data about each portfolio company from the raw HTML. Note that these fields provided in the tools are only certain examples. There can be more or fewer fields, depending on the raw HTML
             Only state an answer if the data is provided explicitly provided. null is an acceptable answer. 
             For example, if there are global offices in Canada, the US, and Australia - but the HTML does not provide a field that says "region: Global", return null
             You MUST output JSON. Do not output something that starts with "'''json"
@@ -233,8 +234,8 @@ def extract_data(processed_html):
             "type": "function",
             "function": {
                 "name": "extract_data",
-                "description": """extract data following the structure of 'company_schema'""",
-                "parameters": company_schema
+                "description": """extract data following the structure of provided next""",
+                "parameters": companies_schema
                 },
         },],
     temperature=0
